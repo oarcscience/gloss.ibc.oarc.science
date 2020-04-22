@@ -1,1 +1,1 @@
-Maintained by [M.Seveleu-Dubrovnik](https://github.com/sevelev-ens)
+Maintained by [M.Seveleu-Dubrovnik](https://seveleu.com)
