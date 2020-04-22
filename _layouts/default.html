@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+{% if page.lang=="en" %}
+<html lang="en">
+{% endif %}
+{% if page.lang=="бел" %}
+<html lang="by">
+{% endif %}
+{% if page.lang=="рус" %}
+<html lang="ru">
+{% endif %}
+  {% include head.html %}
+  <body>
+    {% include header.html %}
+    <article class="group">
+      
+      <!---<p style="
+      margin: 0px;
+      text-align: center;
+      ">
+        {{ site.links[page.lang].a }}</p>
+      <p style="
+      margin: 0px;
+      text-align: center;
+      background-color: #ffd42a;
+      color: black;
+      padding: 5px;
+      text-shadow: 2px -3px 9px #960000;">
+        <span class="newthought">{{ site.links[page.lang].b }}</span></p>
+      <p style="
+      margin: 0px;
+      text-align: center;
+      background-color: #ff7f2a;
+      color: white;
+      padding: 5px;
+      text-shadow: 2px -3px 9px #960000;">
+        <span class="newthought">{{ site.links[page.lang].c }}</span></p>
+      <p style="
+      margin: 0px;
+      text-align: center;
+      background-color: #7296cc;
+      color: yellow;
+      padding: 5px;
+      text-shadow: 2px -3px 9px #960000;">
+        <span class="newthought">{{ site.links[page.lang].d }}</span></p>--->
+        
+        
+        
+  
+      
+      
+      {{ content }}
+    </article>
+    {% include print-footer.html %}
+    {% include footer.html %}
+  </body>
+</html>
+
+  
+  
+  
+

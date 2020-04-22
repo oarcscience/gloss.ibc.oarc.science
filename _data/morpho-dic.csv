@@ -1,0 +1,170 @@
+     verb                           verb       PART                                                                         
+     afel                           af‘el      STEM                                                                         
+     etpa                           etpa“al    STEM                                                                         
+     etpe                           etpe‘el    STEM                                                                         
+     haf                            haf‘el     STEM                                                                         
+     hif                            hif‘il     STEM                                                                         
+     hit                            hitpa“el   STEM                                                                         
+     hof                            hof‘al     STEM                                                                         
+     hotp                           hotpa“al   STEM                                                                         
+     hsht                           hishtaf‘al STEM                                                                         
+     htpa                           hitpa“al   STEM                                                                         
+     htpe                           hitpe‘el   STEM                                                                         
+     htpo                           hitpo“el   STEM                                                                         
+     nif                            nif‘al     STEM                                                                         
+     nit                            nitpa“el   STEM                                                                         
+     pael                           pa“el      STEM                                                                         
+     peal                           pe‘al      STEM                                                                         
+     peil                           pe‘il      STEM                                                                         
+     piel                           pi“el      STEM                                                                         
+     poal                           po“al      STEM                                                                         
+     poel                           po“el      STEM                                                                         
+     pual                           pu“al      STEM                                                                         
+     qal                            qal        STEM                                                                         
+     shaf                           shaf‘el    STEM                                                                         
+     pasq                           passiveqal STEM                                                                         
+     tif                            tif‘al     STEM                                                                         
+     impf                           imperfect  FORM                                                                         
+     perf                           perfect    FORM                                                                         
+     impv                           imperative FORM                                                                         
+     infa                           infinitive FORM                                                                         
+     infc                           infinitive FORM                                                                         
+     ptca                           participle FORM                                                                         
+     ptcp                           participle FORM                                                                         
+     wayq                           wayyiqtol  FORM                                                                         
+     f                              feminine   GENDER                                                                       
+     m                              masculine  GENDER                                                                       
+     du                             dual       NUMBER                                                                       
+     pl                             plural     NUMBER                                                                       
+     sg                             singular   NUMBER                                                                       
+     adjv                           adjective  PART                                                                         
+     advb                           adverb     PART                                                                         
+     art                            article    PART                                                                         
+     conj                           conjunctionPART                                                                         
+     inrg                           interrogatiPART                                                                         
+     intj                           interjectioPART                                                                         
+     nega                           negative paPART                                                                         
+     prde                           demonstratiPART                                                                         
+     prep                           prepositionPART                                                                         
+     prin                           interrogatiPART                                                                         
+     prps                           personal prPART                                                                         
+     subs                           noun       PART                                                                         
+     p1                             first persoPERSON                                                                       
+     p2                             second persPERSON                                                                       
+     p3                             third persoPERSON                                                                       
+     a                              absolute   STATE                                                                        
+     c                              construct  STATE                                                                        
+     e                              emphatic   STATE                                                                        
+     nmpr                           proper nounPART                                                                         
+     prs                            pronominal PRS                                                                          
+     u                              unknown                                                                                 
+                                                                                                                            
+PART STEM                           FORM       PERSON     GENDER     NUMBER     STATE      PRS        PRSPERSON  PRSGENDER  PRSNUMBER  
+verb af‘el                          imperative first persofeminine   plural     absolute   pronominal first persofeminine   plural     
+     etpa“al                        imperfect  second persmasculine  singular   construct             second persmasculine  singular   
+     etpe‘el                        infinitive third persounknown    unknown                          third persounknown    
+     haf‘el                         infinitive unknown                                                                      
+     hif‘il                         participle                                                                              
+     hishtaf‘al                     participle                                                                              
+     hitpa“al                       perfect                                                                                 
+     hitpa“el                       wayyiqtol                                                                               
+     hitpe‘el                                                                                                               
+     hitpo“el                                                                                                               
+     hof‘al                                                                                                                 
+     hotpa“al                                                                                                               
+     nif‘al                                                                                                                 
+     nitpa“el                                                                                                               
+     pa“el                                                                                                                  
+     passiveqal                                                                                                             
+     pe‘al                                                                                                                  
+     pe‘il                                                                                                                  
+     pi“el                                                                                                                  
+     po“al                                                                                                                  
+     po“el                                                                                                                  
+     pu“al                                                                                                                  
+     qal                                                                                                                    
+     shaf‘el                                                                                                                
+     tif‘al                                                                                                                 
+                                                                                                                            
+                                                                                                                            
+PART STEM                           FORM       GENDER     NUMBER     STATE      PRS        PRSPERSON  PRSGENDER  PRSNUMBER  
+noun hif‘il                         infinitive feminine   dual       absolute   pronominal first persofeminine   plural     
+     hishtaf‘al                     infinitive masculine  plural     construct             second persmasculine  singular   
+     hitpa“al                       participle unknown    singular   emphatic              third persounknown               
+     hitpa“el                       participle            unknown                                                           
+     hitpe‘el                                                                                                               
+     hof‘al                                                                                                                 
+     nif‘al                                                                                                                 
+     pa“el                                                                                                                  
+     pe‘al                                                                                                                  
+     pi“el                                                                                                                  
+     po“el                                                                                                                  
+     pu“al                                                                                                                  
+     qal                                                                                                                    
+     tif‘al                                                                                                                 
+                                                                                                                            
+                                                                                                                            
+PART STEM                           FORM       GENDER     NUMBER     STATE                                                  
+adjechaf‘el                         participle feminine   plural     absolute                                               
+     hif‘il                         participle masculine  singular   construct                                              
+     hitpa“el                                                        emphatic                                               
+     hof‘al                                                                                                                 
+     nif‘al                                                                                                                 
+     pa“el                                                                                                                  
+     passiveqal                                                                                                             
+     pe‘al                                                                                                                  
+     pi“el                                                                                                                  
+     pu“al                                                                                                                  
+     qal                                                                                                                    
+                                                                                                                            
+PART STEM                           FORM       GENDER     NUMBER     STATE      PRS        PRSPERSON  PRSGENDER  PRSNUMBER  
+adverhif‘il                         infinitive feminine   dual       absolute   pronominal first persofeminine   plural     
+     hitpa“el                       infinitive masculine  plural     construct             second persmasculine  singular   
+     hof‘al                         participle unknown    singular                         third persounknown               
+     nif‘al                         participle            unknown                                                           
+     pi“el                                                                                                                  
+     pu“al                                                                                                                  
+     qal                                                                                                                    
+                                                                                                                            
+                                                                                                                            
+PART GENDER                         NUMBER     STATE      PRS        PRSPERSON  PRSGENDER  PRSNUMBER                        
+prepofeminine                       plural     absolute   pronominal first persofeminine   plural                           
+     masculine                      singular   construct             second persmasculine  singular                         
+     unknown                                                         third persounknown                                     
+                                                                                                                            
+                                                                                                                            
+PART PERSON                         GENDER     NUMBER                                                                       
+persofirst person                   feminine   plural                                                                       
+     second person                  masculine  singular                                                                     
+     third person                   unknown                                                                                 
+                                                                                                                            
+PART GENDER                         NUMBER     STATE                                                                        
+propefeminine                       plural     absolute                                                                     
+     masculine                      singular                                                                                
+     unknown                                                                                                                
+                                                                                                                            
+PART GENDER                         NUMBER     STATE      PRS        PRSPERSON  PRSGENDER  PRSNUMBER                        
+intermasculine                      singular   absolute   pronominal first persofeminine   plural                           
+                                                                     second persmasculine  singular                         
+                                                                     third persounknown                                     
+                                                                                                                            
+PART PERSON                         GENDER     NUMBER                                                                       
+demonthird person                   feminine   singular                                                                     
+                                    masculine  plural                                                                       
+                                    unknown                                                                                 
+                                                                                                                            
+PART PRS                            PRSPERSON  PRSGENDER  PRSNUMBER                                                         
+interpronominal suffix              second persmasculine  plural                                                            
+                                    third perso           singular                                                          
+                                                                                                                            
+PART GENDER                         NUMBER     STATE                                                                        
+conjufeminine                       singular   construct                                                                    
+     masculine                      plural                                                                                  
+                                                                                                                            
+PART                                                                                                                        
+artic                                                                                                                       
+                                                                                                                            
+PART GENDER                         NUMBER     STATE      PRS        PRSPERSON  PRSGENDER  PRSNUMBER                        
+negatmasculine                      singular   absolute   pronominal first persofeminine   plural                           
+     unknown                                   construct             second persmasculine  singular                         
+                                                                     third persounknown                                     
