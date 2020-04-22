@@ -6,14 +6,13 @@ The Bible (WLC) contains 426581 words building up a lexicon of 8674+6 distinct i
 
 ## Some lexicon stats
 
-|-|-|-|
+|---|---|--|
 |31%|2677 words of the lexicon| only encounter once in WLC|
 |52%|4500 words of the lexicon| encounter <=3 times|
 |72%|6278 words of the lexicon| encounter <=10 times|
 |86%|7469 words of the lexicon| encounter <=30 times|
 
-|-|-|-|
-------
+|-|-|--|
 |5%|429 most popular words of the lexicon| encounter >=100 times|
 
 
