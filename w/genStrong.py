@@ -40,7 +40,7 @@ for i  in range(df.shape[0]):
 </header>
 
 <p style="text-align:center"><a class="shadow" style="float:left;" href="/w/"""+str(int(df.iloc[max(i-1,0),0][1:]))+".html"+""" ">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/v/""" +str(int(df.iloc[min(i+1,df.shape[0]-1),0][1:]))+".html" +""" ">Forth &raquo;</a></p>
+<a class="shadow" style="float:right;" href="/w/""" +str(int(df.iloc[min(i+1,df.shape[0]-1),0][1:]))+".html" +""" ">Forth &raquo;</a></p>
 
 
 
@@ -54,7 +54,7 @@ for i  in range(df.shape[0]):
 </article>
 
 <p style="text-align:center"><a class="shadow" style="float:left;" href="/w/"""+str(int(df.iloc[max(i-1,0),0][1:]))+".html"+""" ">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/v/""" +str(int(df.iloc[min(i+1,df.shape[0]-1),0][1:]))+".html" +""" ">Forth &raquo;</a></p>
+<a class="shadow" style="float:right;" href="/w/""" +str(int(df.iloc[min(i+1,df.shape[0]-1),0][1:]))+".html" +""" ">Forth &raquo;</a></p>
 
 
 <span class="print-footer"> - Seveleu-Dubrovnik's copy of the BH sources. <a href="https://seveleu.com/pages/bh-resource">About</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Listen audio.</a></span>
