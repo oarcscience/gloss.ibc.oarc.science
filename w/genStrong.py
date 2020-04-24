@@ -1,9 +1,6 @@
 import pandas as pd
 print('Loading verses...\r',end="")    
-df=pd.read_csv("../_data/TBESH_formatted.csv",sep="\t")
-
-
-dfw=pd.read_csv("../_data/byword.csv",sep="\t").fillna(" ")
+df=pd.read_csv("../_data/TBESH_formatted.csv",sep="\t").fillna("")
 
 
 
@@ -55,6 +52,10 @@ for i  in range(df.shape[0]):
 
 <p style="text-align:center"><a class="shadow" style="float:left;" href="/w/"""+str(int(df.iloc[max(i-1,0),0][1:]))+".html"+""" ">&laquo; Back</a>
 <a class="shadow" style="float:right;" href="/w/""" +str(int(df.iloc[min(i+1,df.shape[0]-1),0][1:]))+".html" +""" ">Forth &raquo;</a></p>
+
+<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in</span>""" + "".join(
+["""<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="/v/"""+i+""".html">""" +i+"</a></span>" for i in df.iloc[i,17].split(",") ])+ """
+</p></div>
 
 
 <span class="print-footer"> - Seveleu-Dubrovnik's copy of the BH sources. <a href="https://seveleu.com/pages/bh-resource">About</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Listen audio.</a></span>
