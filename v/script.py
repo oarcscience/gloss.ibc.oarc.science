@@ -34,6 +34,8 @@ def repl(inputw):
 import pandas as pd
 print('Loading verses...\r',end="")    
 df=pd.read_csv("../_data/bible.csv",sep="\t")
+ixv=pd.read_csv("../_data/indexv.csv",sep="\t",header=None)
+
 
 print('Loading words...\r',end="")    
 dfw=pd.read_csv("../_data/byword.csv",sep="\t").fillna(" ")
@@ -130,55 +132,11 @@ with open("../index.html","w+") as fout:
 
 
 
-verseprev=[0]
-versenext=[df.shape[0]-1]
-chaptprev=[0]
-chaptnext=[df.shape[0]-1]
-boookprev=[0]
-boooknext=[df.shape[0]-1]
-
-
-
-lastbook=0
-lastchapter=0
-lastverse=0
-for i  in range(1,df.shape[0]):
-    if i%100==0:
-        print('Indexing verses: {:.0%}'.format(i/2/df.shape[0]),"\r",end="")    
-    chaptprev+=[lastchapter]
-    boookprev+=[lastbook]
-    verseprev+=[lastverse]
-    if df.iloc[i,2]!=df.iloc[i-1,2]:
-        lastbook=i
-    if df.iloc[i,3]!=df.iloc[i-1,3]:
-        lastchapter=i
-    if df.iloc[i,4]!=df.iloc[i-1,4]:
-        lastverse=i
-
-nextbook=df.shape[0]-1
-nextchapter=df.shape[0]-1
-nextverse=df.shape[0]-1
-for i  in range(df.shape[0]-2,-1,-1):
-    if i%100==0:
-        print('Indexing verses: {:.0%}'.format(1-i/2/df.shape[0]),"\r",end="")    
-    if df.iloc[i,2]!=df.iloc[i+1,2]:
-        nextbook=i+1
-    if df.iloc[i,3]!=df.iloc[i+1,3]:
-        nextchapter=i+1
-    if df.iloc[i,4]!=df.iloc[i+1,4]:
-        nextverse=i+1
-    chaptnext=[nextchapter]+chaptnext
-    boooknext=[nextbook]+boooknext
-    versenext=[nextverse]+versenext
 
 
 for i  in range(df.shape[0]):
     if i%100==0:
         print('Generating verses: {:.0%}'.format(i/df.shape[0]),"\r",end="")    
-    pertverse1=dfw[dfw["WLCverse"]==i+1]
-    pertverse2=pertverse1["trans1"].apply(stransform)
-    pertverse3=pertverse2 +pertverse1["separ"].apply(septransform)
-    pronverse=repl("".join(list(pertverse3)))
 
 
     with open(books[df.iloc[i,2]-1].replace(" ","")+"."+str(df.iloc[i,3])+"."+str(df.iloc[i,4])+".html","w+") as fout:
@@ -215,7 +173,7 @@ for i  in range(df.shape[0]):
 <p style="margin: 0px;background-color: #ff7f2a;padding: 5px;width:38%;"></p>
 <p style="margin: 0px;background-color: #7296cc;padding: 5px;width:27%;"></p>
 
-<div style="display: flex;"><p style="font-size:100%"><span style="float: left;"><a class="shadow" href="/v/"""+books[df.iloc[boookprev[i],2]-1].replace(" ","")+"."+str(df.iloc[boookprev[i],3])+"."+str(df.iloc[boookprev[i],4])+".html"+""" ">&laquo;</a>  """+books[df.iloc[i,2]-1]+""" <a class="shadow" href="/v/""" +books[df.iloc[boooknext[i],2]-1].replace(" ","")+"."+str(df.iloc[boooknext[i],3])+"."+str(df.iloc[boooknext[i],4])+".html" +""" ">&raquo;</a></span>  <span style="float: right;"><a class="shadow" href="/v/"""+books[df.iloc[chaptprev[i],2]-1].replace(" ","")+"."+str(df.iloc[chaptprev[i],3])+"."+str(df.iloc[chaptprev[i],4])+".html"+""" ">&laquo;</a>  """+str(df.iloc[i,3])+""" <a class="shadow" href="/v/""" +books[df.iloc[chaptnext[i],2]-1].replace(" ","")+"."+str(df.iloc[chaptnext[i],3])+"."+str(df.iloc[chaptnext[i],4])+".html" +""" ">&raquo;</a> : <a class="shadow" href="/v/"""+books[df.iloc[verseprev[i],2]-1].replace(" ","")+"."+str(df.iloc[verseprev[i],3])+"."+str(df.iloc[verseprev[i],4])+".html"+""" ">&laquo;</a>  """+str(df.iloc[i,4])+""" <a class="shadow" href="/v/""" +books[df.iloc[versenext[i],2]-1].replace(" ","")+"."+str(df.iloc[versenext[i],3])+"."+str(df.iloc[versenext[i],4])+".html" +""" ">&raquo;</a>  </span></p></div>
+<div style="display: flex;"><p style="font-size:100%"><span style="float: left;"><a class="shadow" href="/v/"""+str(ixv.iloc[i,1])+".html"+""" ">&laquo;</a>  """+books[df.iloc[i,2]-1]+""" <a class="shadow" href="/v/""" +str(ixv.iloc[i,4])+".html" +""" ">&raquo;</a></span>  <span style="float: right;"><a class="shadow" href="/v/"""+str(ixv.iloc[i,2])+".html"+""" ">&laquo;</a>  """+str(df.iloc[i,3])+""" <a class="shadow" href="/v/""" +str(ixv.iloc[i,5])+".html" +""" ">&raquo;</a> : <a class="shadow" href="/v/"""+str(ixv.iloc[i,0])+".html"+""" ">&laquo;</a>  """+str(df.iloc[i,4])+""" <a class="shadow" href="/v/""" +str(ixv.iloc[i,3])+".html" +""" ">&raquo;</a>  </span></p></div>
 
 <p id="bh" dir="rtl">"""+df.iloc[i,0]+"""</p>
 
@@ -223,12 +181,9 @@ for i  in range(df.shape[0]):
   
 <p id="tr">/"""+words[df.iloc[i,1]]+"""/</p>
 
-<p id="tr">/"""+pronverse+"""/</p>
 
-
-
-<p style="text-align:center"><a class="shadow" style="float:left;" href="/v/"""+books[df.iloc[verseprev[i],2]-1].replace(" ","")+"."+str(df.iloc[verseprev[i],3])+"."+str(df.iloc[verseprev[i],4])+".html"+""" ">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/v/""" +books[df.iloc[versenext[i],2]-1].replace(" ","")+"."+str(df.iloc[versenext[i],3])+"."+str(df.iloc[versenext[i],4])+".html" +""" ">Forth &raquo;</a></p>
+<p style="text-align:center"><a class="shadow" style="float:left;" href="/v/"""+str(ixv.iloc[i,0])+".html"+""" ">&laquo; Back</a>
+<a class="shadow" style="float:right;" href="/v/""" +str(ixv.iloc[i,3])+".html" +""" ">Forth &raquo;</a></p>
 
 <h3 style="text-align:center;">Gloss translation</h3>"""+0*("""
 
@@ -244,8 +199,8 @@ for i  in range(df.shape[0]):
 """+ "".join(["""<span id="word"><ol class=word><li lang=he><a href="/w/{}" target="_blank">{}</a></li><li title="{}" lang=en_MORPH>{}<span style="font-variant:small-caps;font-size:114%;">{}</span></li><li lang=en_MORPH><sup style="color: lightgray;">{}</sup>{}</li></ol></span>""".format(row[1]["extendedStrongNumber"][1:],beautify(row[1]["trans1"]),hover(row[1]["morphology"]),row[1]["gloss"],morph(row[1]["morphology"]),(lambda x: int(float(x)) if x!=" " else "")(row[1]["BSBsort"]),row[1]["BSB"]) for row in  dfw[dfw["WLCverse"]==i+1].iterrows() ])+"""
 </ol></div>"""+"""
 
-<p style="text-align:center"><a class="shadow" style="float:left;" href="/v/"""+books[df.iloc[verseprev[i],2]-1].replace(" ","")+"."+str(df.iloc[verseprev[i],3])+"."+str(df.iloc[verseprev[i],4])+".html"+""" ">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/v/""" +books[df.iloc[versenext[i],2]-1].replace(" ","")+"."+str(df.iloc[versenext[i],3])+"."+str(df.iloc[versenext[i],4])+".html" +""" ">Forth &raquo;</a></p>
+<p style="text-align:center"><a class="shadow" style="float:left;" href="/v/"""+str(ixv.iloc[i,0])+".html"+""" ">&laquo; Back</a>
+<a class="shadow" style="float:right;" href="/v/""" +str(ixv.iloc[i,3])+".html" +""" ">Forth &raquo;</a></p>
 </div>
  
 </article>
