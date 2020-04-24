@@ -175,6 +175,12 @@ for i  in range(df.shape[0]-2,-1,-1):
 for i  in range(df.shape[0]):
     if i%100==0:
         print('Generating verses: {:.0%}'.format(i/df.shape[0]),"\r",end="")    
+    pertverse1=dfw[dfw["WLCverse"]==i+1]
+    pertverse2=pertverse1["trans1"].apply(stransform)
+    pertverse3=pertverse2 +pertverse1["separ"].apply(septransform)
+    pronverse=repl("".join(list(pertverse3)))
+
+
     with open(books[df.iloc[i,2]-1].replace(" ","")+"."+str(df.iloc[i,3])+"."+str(df.iloc[i,4])+".html","w+") as fout:
         fout.write("""<!DOCTYPE html>
 <head>
@@ -216,6 +222,10 @@ for i  in range(df.shape[0]):
 <p><span class="marginnote"><a href="https://biblehub.com/bsb/" target="_blank"><i>BSB</i></a> """+ books[df.iloc[i,2]-1]+" "+str(df.iloc[i,5])+":"+str(df.iloc[i,6])+""". <span style="color:white;">Debug: verse number """+str(df.iloc[i,1]) +"""</span></span>""" +df.iloc[i,7].replace("LORD", '<span style="font-variant:small-caps;font-size:114%;">lord</span>')+"""</p>
   
 <p id="tr">/"""+words[df.iloc[i,1]]+"""/</p>
+
+<p id="tr">/"""+pronverse+"""/</p>
+
+
 
 <p style="text-align:center"><a class="shadow" style="float:left;" href="/v/"""+books[df.iloc[verseprev[i],2]-1].replace(" ","")+"."+str(df.iloc[verseprev[i],3])+"."+str(df.iloc[verseprev[i],4])+".html"+""" ">&laquo; Back</a>
 <a class="shadow" style="float:right;" href="/v/""" +books[df.iloc[versenext[i],2]-1].replace(" ","")+"."+str(df.iloc[versenext[i],3])+"."+str(df.iloc[versenext[i],4])+".html" +""" ">Forth &raquo;</a></p>
