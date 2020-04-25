@@ -143,7 +143,6 @@ with open("../index.html","w+") as fout:
 for i  in range(df.shape[0]):
     if i%100==0:
         print('Generating verses: {:.0%}'.format(i/df.shape[0]),"\r",end="")    
-    print('Generating verses: {}'.format(i),end="")    
    
     with open(books[df.iloc[i,2]-1].replace(" ","")+"."+str(df.iloc[i,3])+"."+str(df.iloc[i,4])+".html","w+") as fout:
         fout.write("""<!DOCTYPE html>

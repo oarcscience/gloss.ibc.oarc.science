@@ -1,3 +1,6 @@
+## generates the file _data/indexv.csv to produce the navigation links
+
+
 import pandas as pd
 df=pd.read_csv("../_data/bible.csv",sep="\t")
 
