@@ -41,23 +41,29 @@ print('Loading words...\r',end="")
 dfw=pd.read_csv("../_data/byword.csv",sep="\t").fillna(" ")
 dfwt=dfw["trans1"].apply(stransform)
 
-listvoidsep=[]
-for i  in range(dfw.shape[0]):
-    if i%100==0:
-        print('Arranging concatenative particles: {:.0%}'.format(i/dfw.shape[0]),"\r",end="")    
-    if len(dfwt.iloc[i])>0 and dfwt.iloc[i][0]=="-":
-        listvoidsep=[i-1]+listvoidsep
+#listvoidsep=[]
+#for i  in range(dfw.shape[0]):
+#    if i%100==0:
+#        print('Arranging concatenative particles: {:.0%}'.format(i/dfw.shape[0]),"\r",end="")    
+#    if len(dfwt.iloc[i])>0 and dfwt.iloc[i][0]=="-":
+#        listvoidsep=[i-1]+listvoidsep
 
-print('Arranging concatenative particles (2): {:.0%}'.format(i/dfw.shape[0]),"\r",end="")    
-dfw.iloc[listvoidsep,8]=""
+#print('Arranging concatenative particles (2): {:.0%}'.format(i/dfw.shape[0]),"\r",end="")    
+#dfw.iloc[listvoidsep,8]=""
 
-
+#dfw.to_csv("~/Desktop/sdrtn.csv",sep="\t")
 
 
 dfw["wordcat"]=dfwt +dfw["separ"].apply(septransform)
 words=dfw.fillna("").groupby("WLCverse")["wordcat"].apply(list).apply("".join).apply(repl)
 
-
+glosstr0=pd.DataFrame()
+collist=["extendedStrongNumber","trans1","morphology","gloss","BSBsort","BSB"]
+for col in collist:
+    glosstr0[col]=dfw.fillna("").groupby("WLCverse")[col].apply(list)
+glosstr0["zip"]=glosstr0.apply(lambda x: zip(*[x[col] for col in collist]),axis=1).apply(list)
+template1="""<span id="word"><ol class=word><li lang=he><a href="/w/{}" target="_blank">{}</a></li><li title="{}" lang=en_MORPH>{}<span style="font-variant:small-caps;font-size:114%;">{}</span></li><li lang=en_MORPH><sup style="color: lightgray;">{}</sup>{}</li></ol></span>"""
+glosstr0["generated"]=glosstr0["zip"].apply(lambda y: "".join([template1.format(strn[1:],beautify(trs1),hover(mor),gl,morph(mor),(lambda x: int(float(x)) if x!=" " else "")(bsbs),bsb) for strn,trs1,mor,gl,bsbs,bsb in  y ]))
 
 books=["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "Isaiah", "Jeremiah", "Ezekiel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi", "Psalms", "Proverbs", "Job", "Song of Songs", "Ruth", "Lamentations", "Ecclesiastes", "Esther", "Daniel", "Ezra", "Nehemiah", "1 Chronicles", "2 Chronicles"]
 
@@ -137,8 +143,8 @@ with open("../index.html","w+") as fout:
 for i  in range(df.shape[0]):
     if i%100==0:
         print('Generating verses: {:.0%}'.format(i/df.shape[0]),"\r",end="")    
-
-
+    print('Generating verses: {}'.format(i),end="")    
+   
     with open(books[df.iloc[i,2]-1].replace(" ","")+"."+str(df.iloc[i,3])+"."+str(df.iloc[i,4])+".html","w+") as fout:
         fout.write("""<!DOCTYPE html>
 <head>
@@ -146,20 +152,17 @@ for i  in range(df.shape[0]):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" href="/assets/img/favicon.png"/>
 
-<title>"""+books[df.iloc[i,2]-1]+" "+str(df.iloc[i,3])+":"+str(df.iloc[i,4])+"""— Westminster Leningrad Codex for Linguists</title>
-<meta name="description" content=""""+df.iloc[i,7]+"""">
+<title>{} {}:{}— Westminster Leningrad Codex for Linguists</title>
+<meta name="description" content="{}">
 
 <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
 <link href='//fonts.googleapis.com/css?family=Lato:400,400italic&amp;subset=cyrillic,latin-ext' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=EB+Garamond:400,400italic&amp;subset=cyrillic,latin-ext' rel='stylesheet' type='text/css'>
 
-
 <link rel="stylesheet" type="text/css" href="/css/tufte.css">
 <link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
 
-<!---  <link rel="canonical" href="https://bh.seveleu.com/16"> ---->
-
-  <link rel="alternate" type="application/rss+xml" title="Belarusian Arabic script" href="https://bh.seveleu.com/feed.xml" /><style>#s{font-size:132%;color:cadetblue;font-style: italic;}</style>
+  <link rel="alternate" type="application/rss+xml" title="Belarusian Arabic script" href="https://bh.seveleu.com/feed.xml" /><style>#s{{font-size:132%;color:cadetblue;font-style: italic;}}</style>
 </head>
 
 <body>
@@ -173,34 +176,25 @@ for i  in range(df.shape[0]):
 <p style="margin: 0px;background-color: #ff7f2a;padding: 5px;width:38%;"></p>
 <p style="margin: 0px;background-color: #7296cc;padding: 5px;width:27%;"></p>
 
-<div style="display: flex;"><p style="font-size:100%"><span style="float: left;"><a class="shadow" href="/v/"""+str(ixv.iloc[i,1])+".html"+""" ">&laquo;</a>  """+books[df.iloc[i,2]-1]+""" <a class="shadow" href="/v/""" +str(ixv.iloc[i,4])+".html" +""" ">&raquo;</a></span>  <span style="float: right;"><a class="shadow" href="/v/"""+str(ixv.iloc[i,2])+".html"+""" ">&laquo;</a>  """+str(df.iloc[i,3])+""" <a class="shadow" href="/v/""" +str(ixv.iloc[i,5])+".html" +""" ">&raquo;</a> : <a class="shadow" href="/v/"""+str(ixv.iloc[i,0])+".html"+""" ">&laquo;</a>  """+str(df.iloc[i,4])+""" <a class="shadow" href="/v/""" +str(ixv.iloc[i,3])+".html" +""" ">&raquo;</a>  </span></p></div>
+<div style="display: flex;"><p style="font-size:100%"><span style="float: left;"><a class="shadow" href="/v/{}.html">&laquo;</a>  {} <a class="shadow" href="/v/{}.html">&raquo;</a></span>  <span style="float: right;"><a class="shadow" href="/v/{}.html">&laquo;</a>  {} <a class="shadow" href="/v/{}.html">&raquo;</a> : <a class="shadow" href="/v/{}.html">&laquo;</a>  {} <a class="shadow" href="/v/{}.html">&raquo;</a>  </span></p></div>
 
-<p id="bh" dir="rtl">"""+df.iloc[i,0]+"""</p>
+<p id="bh" dir="rtl">{}</p>
 
-<p><span class="marginnote"><a href="https://biblehub.com/bsb/" target="_blank"><i>BSB</i></a> """+ books[df.iloc[i,2]-1]+" "+str(df.iloc[i,5])+":"+str(df.iloc[i,6])+""". <span style="color:white;">Debug: verse number """+str(df.iloc[i,1]) +"""</span></span>""" +df.iloc[i,7].replace("LORD", '<span style="font-variant:small-caps;font-size:114%;">lord</span>')+"""</p>
+<p><span class="marginnote"><a href="https://biblehub.com/bsb/" target="_blank"><i>BSB</i></a> {} {}:{}. <span style="color:white;">Debug: verse number {}</span></span>{}</p>
   
-<p id="tr">/"""+words[df.iloc[i,1]]+"""/</p>
+<p id="tr">/{}/</p>
 
 
-<p style="text-align:center"><a class="shadow" style="float:left;" href="/v/"""+str(ixv.iloc[i,0])+".html"+""" ">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/v/""" +str(ixv.iloc[i,3])+".html" +""" ">Forth &raquo;</a></p>
+<p style="text-align:center"><a class="shadow" style="float:left;" href="/v/{}.html">&laquo; Back</a>
+<a class="shadow" style="float:right;" href="/v/{}.html">Forth &raquo;</a></p>
 
-<h3 style="text-align:center;">Gloss translation</h3>"""+0*("""
-
-<table>
-  <tr>
-    <th>trans1</th><th>gloss+morphology</th><th>BSB</th>
-  </tr>
-"""+ "".join(["""<tr><td>{}</td><td><a href="/w/{}" target="_blank">{}</a>—<span style="font-variant:small-caps;font-size:114%;">{}</span></td><td><sup style="color: lightgray;">{}</sup>{}</td></tr>""".format(beautify(row[1]["trans1"]),row[1]["extendedStrongNumber"][1:],row[1]["gloss"],row[1]["morphology"],(lambda x: int(float(x)) if x!=" " else "")(row[1]["BSBsort"]),row[1]["BSB"]) for row in  dfw[dfw["WLCverse"]==i+1].iterrows() ])+"""
-</table>""")+"""
+<h3 style="text-align:center;">Gloss translation</h3>
 
 <div class=wrapper>
-    <ol class=sentence>
-"""+ "".join(["""<span id="word"><ol class=word><li lang=he><a href="/w/{}" target="_blank">{}</a></li><li title="{}" lang=en_MORPH>{}<span style="font-variant:small-caps;font-size:114%;">{}</span></li><li lang=en_MORPH><sup style="color: lightgray;">{}</sup>{}</li></ol></span>""".format(row[1]["extendedStrongNumber"][1:],beautify(row[1]["trans1"]),hover(row[1]["morphology"]),row[1]["gloss"],morph(row[1]["morphology"]),(lambda x: int(float(x)) if x!=" " else "")(row[1]["BSBsort"]),row[1]["BSB"]) for row in  dfw[dfw["WLCverse"]==i+1].iterrows() ])+"""
-</ol></div>"""+"""
+    <ol class=sentence>{}</ol></div>
 
-<p style="text-align:center"><a class="shadow" style="float:left;" href="/v/"""+str(ixv.iloc[i,0])+".html"+""" ">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/v/""" +str(ixv.iloc[i,3])+".html" +""" ">Forth &raquo;</a></p>
+<p style="text-align:center"><a class="shadow" style="float:left;" href="/v/{}.html">&laquo; Back</a>
+<a class="shadow" style="float:right;" href="/v/{}.html">Forth &raquo;</a></p>
 </div>
  
 </article>
@@ -209,7 +203,9 @@ for i  in range(df.shape[0]):
 
 <footer><hr class="slender"><div class="credits"><span><svg xmlns="https://www.w3.org/2000/svg"   width="15px" height="15px" viewBox="0 0 980 980"><circle cx="490" cy="490" r="440" fill="none" stroke="#000" stroke-width="100"/><path d="M219,428H350a150,150 0 1 1 0,125H219a275,275 0 1 0 0-125z"/></svg> 2020 Seveleu-Dubrovnik's copy of the BH sources. <a href="https://seveleu.com/pages/bh-resource" target="_blank">About</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Listen audio</a> | <a title="GitHub" href="https://github.com/wlcling/wlcling.github.io" target="_blank"><svg height="17" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg></a> </div></footer>
 
-</body></html>""" )
+</body></html>""".format(books[df.iloc[i,2]-1], df.iloc[i,3], df.iloc[i,4], df.iloc[i,7], ixv.iloc[i,1], books[df.iloc[i,2]-1], ixv.iloc[i,4], ixv.iloc[i,2], df.iloc[i,3], ixv.iloc[i,5], ixv.iloc[i,0], df.iloc[i,4], ixv.iloc[i,3], df.iloc[i,0], books[df.iloc[i,2]-1], df.iloc[i,5], df.iloc[i,6], df.iloc[i,1], df.iloc[i,7].replace("LORD", """<span style="font-variant:small-caps;font-size:114%;">lord</span>"""), words[df.iloc[i,1]], ixv.iloc[i,0], ixv.iloc[i,3], glosstr0.iloc[i,7], ixv.iloc[i,0], ixv.iloc[i,3] ) )
+
+#1,2,3,4,5,6,7,8,9,0,1,2,3,4,5,6,7,8,9,0,1,2,3,4,5 ))
 
     with open(str(df.iloc[i,1])+".html","w+") as fout2:
         fout2.write("""<html><head><meta http-equiv="refresh" content="0; URL=/v/"""+books[df.iloc[i,2]-1].replace(" ","")+"."+str(df.iloc[i,3])+"."+str(df.iloc[i,4])+""".html"></head></html>""")
