@@ -36,7 +36,7 @@ for i  in range(df.shape[0]):
 <h3>Biblical Hebrew for linguists</h3><h4>Westminster Leningrad Codex</h4></a></nav>
 </header>
 
-<p style="text-align:center"><a class="shadow" style="float:left;" href="/w/"""+str(int(df.iloc[max(i-1,0),0][1:]))+".html"+""" ">&laquo; Back</a>
+<p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/"""+str(int(df.iloc[max(i-1,0),0][1:]))+".html"+""" ">&laquo; Back</a>
 <a class="shadow" style="float:right;" href="/w/""" +str(int(df.iloc[min(i+1,df.shape[0]-1),0][1:]))+".html" +""" ">Forth &raquo;</a></p>
 
 
@@ -50,7 +50,7 @@ for i  in range(df.shape[0]):
 
 </article>
 
-<p style="text-align:center"><a class="shadow" style="float:left;" href="/w/"""+str(int(df.iloc[max(i-1,0),0][1:]))+".html"+""" ">&laquo; Back</a>
+<p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/"""+str(int(df.iloc[max(i-1,0),0][1:]))+".html"+""" ">&laquo; Back</a>
 <a class="shadow" style="float:right;" href="/w/""" +str(int(df.iloc[min(i+1,df.shape[0]-1),0][1:]))+".html" +""" ">Forth &raquo;</a></p>
 
 <div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in</span>""" + "".join(
