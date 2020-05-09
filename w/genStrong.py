@@ -47,9 +47,9 @@ for i  in range(df.shape[0]):
 <p style="margin: 0px;background-color: #7296cc;padding: 5px;width:27%;"></p>
 
 """+df.iloc[i,1]+"""
-<p>Word: <em>{}</em> (language: <em>{}</em>), frequency: {}, first occurence (encoded): {}</p>
-<p>In another language: <em>{}</em> ({})</p>
-<p>Roots: <em>{}</em> ({}) <em>{}</em> ({}) <em>{}</em> ({}) 
+<p>Word: <strong>{}</strong> (language: <strong>{}</strong>), frequency: {}, first occurence (encoded): {}</p>
+<p>In another language: <strong>{}</strong> ({})</p>
+<p>Roots: <strong>{}</strong> ({}) <strong>{}</strong> ({}) <strong>{}</strong> ({}) 
 <p>Morphology: {}</p>
 <p>Etymology: {}</p>
 <p>Roots: {}</p>
