@@ -51,17 +51,17 @@ for i  in range(df.shape[0]):
 <p style="margin: 0px;background-color: #ff7f2a;padding: 5px;width:38%;"></p>
 <p style="margin: 0px;background-color: #7296cc;padding: 5px;width:27%;"></p>
 
-"""+"""<h1>{}, {} ‘{}’</h1>""".format(df.iloc[i,2],lang_full(df.iloc[i,3]),df.iloc[i,20])+"""
-<p>(language: <strong></strong>), frequency: {}, first occurence (encoded): {}</p>
+"""+"""<h1>{}, ‘{}’ <span style="color: rgba(0, 0, 0, 0.75);font-size: 65%; font-family: EB Garamond;font-weight: normal;">({})</h1>""".format(df.iloc[i,2],df.iloc[i,20],lang_full(df.iloc[i,3]))+"""
+<p>Etymology: {}</p>""".format(df.iloc[i,15])+"""
+<p>Roots: <a href="/w/{}" class="shadow">{}</a> <a href="/w/{}" class="shadow">{}</a> <a href="/w/{}" class="shadow">{}</a>""".format(int(df.iloc[i,8]),df.iloc[i,9],int(df.iloc[i,10]),df.iloc[i,11],int(df.iloc[i,12]),df.iloc[i,13])+"""   
+<p>frequency: {}, first occurence (encoded): {}</p>""".format(int(df.iloc[i,4]),int(df.iloc[i,5]))+"""
 <p>In another language: <strong>{}</strong> ({})</p>
-<p>Roots: <strong>{}</strong> ({}) <strong>{}</strong> ({}) <strong>{}</strong> ({}) 
 <p>Morphology: {}</p>
-<p>Etymology: {}</p>
 <p>Roots: {}</p>
 <p>Variants: {}</p>
 <p>Morphology: {}</p>
 <p>Meaning: {}</p>
-""".format(*[df.iloc[i,num] for num in [4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,21]])+"""
+""".format(*[df.iloc[i,num] for num in [6,7,14,16,18,19,21]])+"""
 
 </article>
 
