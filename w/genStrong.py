@@ -69,7 +69,7 @@ for i  in range(df.shape[0]):
 <a class="shadow" style="float:right;" href="/w/""" +str(int(df.iloc[min(i+1,df.shape[0]-1),0][1:]))+".html" +""" ">Forth &raquo;</a></p>
 
 <div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in</span>""" + "".join(
-[print(i),"""<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="/v/"""+i+""".html">""" +i+"</a></span>" for i in df.iloc[i,17].split(",") ])+ """
+[{print(i),"""<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="/v/"""+i+""".html">""" +i+"</a></span>"} for i in df.iloc[i,17].split(",") ])+ """
 </p></div>
 
 
