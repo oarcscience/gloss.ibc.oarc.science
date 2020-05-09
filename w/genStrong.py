@@ -51,7 +51,7 @@ for i  in range(df.shape[0]):
 <p style="margin: 0px;background-color: #ff7f2a;padding: 5px;width:38%;"></p>
 <p style="margin: 0px;background-color: #7296cc;padding: 5px;width:27%;"></p>
 
-"""+"""<h1>{}, {} ‘{}’</h1>""".format(df.iloc[i,2],lang_full(df.iloc[i,20]),df.iloc[i,3])+"""
+"""+"""<h1>{}, {} ‘{}’</h1>""".format(df.iloc[i,2],lang_full(df.iloc[i,3]),df.iloc[i,20])+"""
 <p>(language: <strong></strong>), frequency: {}, first occurence (encoded): {}</p>
 <p>In another language: <strong>{}</strong> ({})</p>
 <p>Roots: <strong>{}</strong> ({}) <strong>{}</strong> ({}) <strong>{}</strong> ({}) 
