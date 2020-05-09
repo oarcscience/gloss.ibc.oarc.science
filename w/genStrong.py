@@ -53,7 +53,7 @@ for i  in range(df.shape[0]):
 
 """+"""<h1>{}, ‘{}’ <span style="color: rgba(0, 0, 0, 0.75);font-size: 65%; font-family: EB Garamond;font-weight: normal;">({})</span></h1>""".format(df.iloc[i,2],df.iloc[i,20],lang_full(df.iloc[i,3]))+"""
 <p>Etymology: {}</p>""".format(df.iloc[i,15])+"""
-<p>Roots: <a href="/w/{}" class="shadow">{}</a> <a href="/w/{}" class="shadow">{}</a> <a href="/w/{}" class="shadow">{}</a>""".format(int(df.iloc[i,8]),df.iloc[i,9],int(df.iloc[i,10]),df.iloc[i,11],int(df.iloc[i,12]),df.iloc[i,13])+"""   
+<p>Roots: <a href="/w/{}" class="shadow">{}</a> <a href="/w/{}" class="shadow">{}</a> <a href="/w/{}" class="shadow">{}</a></p>""".format(int(df.iloc[i,8]),df.iloc[i,9],int(df.iloc[i,10]),df.iloc[i,11],int(df.iloc[i,12]),df.iloc[i,13])+"""   
 <p>frequency: {}, first occurence (encoded): {}</p>""".format(int(df.iloc[i,4]),int(df.iloc[i,5]))+"""
 <p>In another language: <strong>{}</strong> ({})</p>
 <p>Morphology: {}</p>
@@ -68,8 +68,8 @@ for i  in range(df.shape[0]):
 <p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/"""+str(int(df.iloc[max(i-1,0),0][1:]))+".html"+""" ">&laquo; Back</a>
 <a class="shadow" style="float:right;" href="/w/""" +str(int(df.iloc[min(i+1,df.shape[0]-1),0][1:]))+".html" +""" ">Forth &raquo;</a></p>
 
-<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in</span>""" + "".join(
-["""<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="/v/"""+i+""".html">""" +i+"</a></span>" for i in df.iloc[i,17].split(",") ])+ """
+<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in</span>""" + "".join(["""
+<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="/v/"""+i+""".html">""" +i+"</a></span>" for i in df.iloc[i,17].split(",") ])+ """
 </p></div>
 
 
