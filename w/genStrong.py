@@ -47,22 +47,17 @@ for i  in range(df.shape[0]):
 <p style="margin: 0px;background-color: #7296cc;padding: 5px;width:27%;"></p>
 
 """+df.iloc[i,1]+"""
-<p>Word: {}</p>
-<p>Language: {}</p>
-<p>Frequency: {}</p>
-<p>First occurence (encoded): {}</p>
-<p>{}</p>
-<p>{}</p>
-<p>Root: {}</p>
-<p>Root: {}</p>
-<p>Root 2: {}</p>
-<p>Root 2: {}</p>
-<p>Root 3: {}</p>
-<p>Root 3: {}</p>
+<p>Word: <em>{}</em> (language: <em>{}</em>), frequency: {}, first occurence (encoded): {}</p>
+<p>In another language: <em>{}</em> ({})</p>
+<p>Roots: <em>{}</em> ({}) <em>{}</em> ({}) <em>{}</em> ({}) 
 <p>Morphology: {}</p>
 <p>Etymology: {}</p>
 <p>Roots: {}</p>
-""".format(*[df.iloc[i,num] for num in range(2,17)])+"""
+<p>Variants: {}</p>
+<p>Morphology: {}</p>
+<p>Short: {}</p>
+<p>Meaning: {}</p>
+""".format(*[df.iloc[i,num] for num in [2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,20,21]])+"""
 
 </article>
 
