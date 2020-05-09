@@ -1,3 +1,8 @@
+def lang_full(x):
+    if x=="H": return "Hebrew"
+    if x=="A": return "Aramaic"
+
+
 import pandas as pd
 print('Loading verses...\r',end="")    
 df=pd.read_csv("../_data/TBESH_formatted.csv",sep="\t").fillna("")
@@ -46,8 +51,8 @@ for i  in range(df.shape[0]):
 <p style="margin: 0px;background-color: #ff7f2a;padding: 5px;width:38%;"></p>
 <p style="margin: 0px;background-color: #7296cc;padding: 5px;width:27%;"></p>
 
-"""+"""<h1>{}</h1>
-<p>Word: <strong>{}</strong> (language: <strong>{}</strong>), frequency: {}, first occurence (encoded): {}</p>
+"""+"""<h1>{}, {} ‘{}’</h1>""".format(df.iloc[i,2],lang_full(df.iloc[i,20]),df.iloc[i,3])+"""
+<p>(language: <strong></strong>), frequency: {}, first occurence (encoded): {}</p>
 <p>In another language: <strong>{}</strong> ({})</p>
 <p>Roots: <strong>{}</strong> ({}) <strong>{}</strong> ({}) <strong>{}</strong> ({}) 
 <p>Morphology: {}</p>
@@ -56,7 +61,7 @@ for i  in range(df.shape[0]):
 <p>Variants: {}</p>
 <p>Morphology: {}</p>
 <p>Meaning: {}</p>
-""".format(*[df.iloc[i,num] for num in [20,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,21]])+"""
+""".format(*[df.iloc[i,num] for num in [4,5,6,7,8,9,10,11,12,13,14,15,16,18,19,21]])+"""
 
 </article>
 
