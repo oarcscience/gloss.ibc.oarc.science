@@ -2,6 +2,9 @@ def lang_full(x):
     if x=="H": return "Hebrew"
     if x=="A": return "Aramaic"
 
+def stn(x):
+    if x=="":return ""
+    else: return str(int(float(x)))
 
 import pandas as pd
 print('Loading verses...\r',end="")    
@@ -13,7 +16,7 @@ for i  in range(df.shape[0]):
     if i%100==0:
         print('Generating verses: {:.0%}'.format(i/df.shape[0]),"\r",end="")    
     with open(str(int(df.iloc[i,0][1:]))+".html","w+") as fout:
-        gerd="""<!DOCTYPE html>
+        fout.write("""<!DOCTYPE html>
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -53,8 +56,8 @@ for i  in range(df.shape[0]):
 
 """+"""<h1>{}, ‘{}’ <span style="color: rgba(0, 0, 0, 0.75);font-size: 65%; font-family: EB Garamond;font-weight: normal;">({})</span></h1>""".format(df.iloc[i,2], df.iloc[i,20], lang_full(df.iloc[i,3]))+"""
 <p>Etymology: {}</p>""".format(df.iloc[i,15])+"""
-<p>Roots: <a class="shadow" href="/w/{}">{}</a> <a class="shadow" href="/w/{}">{}</a> <a class="shadow" href="/w/{}">{}</a></p>""".format(int(float(df.iloc[i,8])), df.iloc[i,9], int(float(df.iloc[i,10])), df.iloc[i,11], int(float(df.iloc[i,12])), df.iloc[i,13])+"""   
-<p>frequency: {}, first occurence (encoded): {}</p>""".format(int(float(df.iloc[i,4])), int(float(df.iloc[i,5])))+"""
+<p>Roots: <a class="shadow" href="/w/{}">{}</a> <a class="shadow" href="/w/{}">{}</a> <a class="shadow" href="/w/{}">{}</a></p>""".format(stn(df.iloc[i,8]), df.iloc[i,9], stn(df.iloc[i,10]), df.iloc[i,11], stn(df.iloc[i,12]), df.iloc[i,13])+"""   
+<p>frequency: {}, first occurence (encoded): {}</p>""".format(stn(df.iloc[i,4]), stn(df.iloc[i,5]))+"""
 <p>In another language: <strong>{}</strong> ({})</p>
 <p>Morphology: {}</p>
 <p>Roots: {}</p>
@@ -68,8 +71,7 @@ for i  in range(df.shape[0]):
 <p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/"""+str(int(df.iloc[max(i-1,0),0][1:]))+".html"+""" ">&laquo; Back</a>
 <a class="shadow" style="float:right;" href="/w/""" +str(int(df.iloc[min(i+1,df.shape[0]-1),0][1:]))+".html" +""" ">Forth &raquo;</a></p>
 
-<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in</span>"""+ "".join(
-["""<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="/v/"""+h+""".html">""" +h+"</a></span>" for h in df.iloc[i,17].split(",") ])+ """
+<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in</span>"""+"".join(["""<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="/v/"""+h+""".html">""" +h+"</a></span>" for h in df.iloc[i,17].split(",") ])+ """
 </p></div>
 
 
@@ -77,8 +79,7 @@ for i  in range(df.shape[0]):
 
 <footer><hr class="slender"><div class="credits"><span><svg xmlns="https://www.w3.org/2000/svg"   width="15px" height="15px" viewBox="0 0 980 980"><circle cx="490" cy="490" r="440" fill="none" stroke="#000" stroke-width="100"/><path d="M219,428H350a150,150 0 1 1 0,125H219a275,275 0 1 0 0-125z"/></svg> 2020 Seveleu-Dubrovnik's copy of the BH sources. <a href="https://seveleu.com/pages/bh-resource" target="_blank">About</a> | <a href="https://www.mechon-mamre.org/p/pt/ptmp3prq.htm" target="_blank">Listen audio</a> | <a title="GitHub" href="https://github.com/wlcling/wlcling.github.io" target="_blank"><svg height="17" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg></a> </div></footer>
 
-</body></html>"""  
-    fout.write(gerd)
+</body></html>"""  )
 
 
 
