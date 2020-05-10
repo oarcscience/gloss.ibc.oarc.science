@@ -120,7 +120,7 @@ with open("../lexicon.html","w+") as fout:
 
 
 <div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Writings</span>""" + "".join(
-["""<span id="toc"><span style="color:darkgray;">"""+df.iloc[i,0][1:]+"""</span><a class="shadow" href="/w/"""+df.iloc[i,0][1:]+""".html">""" +df.iloc[i,2]+"</a></span>" for i in range(df.shape[0]) ])+ """
+["""<span id="toc"><span style="color:darkgray;">"""+str(int(df.iloc[i,0][1:]))+"""</span><a class="shadow" href="/w/"""+str(int(df.iloc[i,0][1:]))+""".html">""" +df.iloc[i,2]+"</a></span>" for i in range(df.shape[0]) ])+ """
 </p></div>
  
 </article>
