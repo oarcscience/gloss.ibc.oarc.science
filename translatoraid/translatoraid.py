@@ -90,6 +90,14 @@ stringbegin="""<!DOCTYPE html>
 </head>
 
 <body>
+<header>
+<nav class="group"><a href="/translatoraid/index.html">
+<h3>Biblical Hebrew for linguists</h3><h4>Westminster Leningrad Codex</h4></a></nav>
+<h2>Preparatory materials for the Belarusian tranlation</h2>
+<h2>Падрыхоўчыя матэрыялы для беларускага перакладу</h2>
+<h3>Interlinear translations</h3>
+<h3>Глосныя пераклады</h3>
+</header>
 <article class="group">
 """
 print(15)
