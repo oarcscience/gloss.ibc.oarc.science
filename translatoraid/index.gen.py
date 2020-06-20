@@ -1,4 +1,4 @@
-## This script generates the file index.html
+## This script generates the file translatoraid/index.html
 
 
 books=["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "Isaiah", "Jeremiah", "Ezekiel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi", "Psalms", "Proverbs", "Job", "Song of Songs", "Ruth", "Lamentations", "Ecclesiastes", "Esther", "Daniel", "Ezra", "Nehemiah", "1 Chronicles", "2 Chronicles"]
@@ -29,15 +29,15 @@ with open("index.html","w+") as fout:
 
 <body>
 <header>
-<nav class="group"><a href="">
+<nav class="group"><a href="/">
 <h3>Biblical Hebrew for linguists</h3><h4>Westminster Leningrad Codex</h4></a></nav>
-</header>
-
-<article class="group">
 <h2>Preparatory materials for the Belarusian tranlation</h2>
 <h2>Падрыхоўчыя матэрыялы для беларускага перакладу</h2>
 <h3>Interlinear translations</h3>
 <h3>Глосныя пераклады</h3>
+</header>
+
+<article class="group">
 
 <p style="margin: 0px;background-color: #ffd42a;padding: 5px;width:33%;"></p>
 
