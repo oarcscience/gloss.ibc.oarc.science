@@ -12,7 +12,7 @@ print(separator["one"].isna().sum(), ", ",separator.shape[0])
 print(4)
 #l1=pd.read_csv("sources/lexicon.csv")
 l1=pd.read_excel("sources/EHglosses.xls",usecols=["lexemeID","gloss","extendedStrongNumber"])
-l1.columns=["key","value","H"]
+l1.columns=["key","H","value"]
 l1["H"]=l1["H"].apply(lambda x: x[1:]) # deletes the first letter "H"
 print(5)
 lexicon=dict(zip(l1["key"],l1["value"]))
