@@ -43,7 +43,7 @@ glosstemplate="""<span id="word">
 <li lang="en_MORPH">{}</li>
 """+"""<li><span style="font-variant:small-caps;font-size:100%;">{}</span></li>"""*0+"""
 """+"""<li><span style="font-style:italic;font-size:100%;">{}</span></li>"""+"""
-<li><span style="font-size:80%;color=gray;"><a href="/v/{}">{}</a></span></li>
+<li><span style="font-size:80%;color=gray;"><a href="/w/{}">{}</a></span></li>
 </ol>
 </span>"""
 
