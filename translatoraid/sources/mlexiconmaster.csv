@@ -1,0 +1,1318 @@
+key	morphologyDetail
+M0001	conjunction
+M0002	preposition
+M0003	article
+M0004	noun, masculine, singular, absolute
+M0005	proper noun, masculine, singular, absolute
+M0006	noun, masculine, singular, construct
+M0007	noun, masculine, plural, absolute
+M0008	proper noun, unknown, singular, absolute
+M0009	noun, feminine, singular, absolute
+M0010	noun, masculine, plural, construct
+M0011	verb, qal, wayyiqtol, third person, masculine, singular
+M0012	noun, unknown, singular, absolute
+M0013	negative particle
+M0014	verb, qal, perfect, third person, masculine, singular
+M0015	adverb
+M0016	noun, feminine, singular, construct
+M0017	preposition, pronominal suffix, third person, masculine, singular
+M0018	noun, feminine, plural, absolute
+M0019	noun, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+M0020	verb, qal, imperfect, third person, masculine, singular
+M0021	noun, unknown, singular, construct
+M0022	verb, qal, perfect, third person, unknown, plural
+M0023	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute
+M0024	adjective, masculine, singular, absolute
+M0025	verb, qal, wayyiqtol, third person, masculine, plural
+M0026	preposition, pronominal suffix, third person, masculine, plural
+M0027	noun, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M0028	noun, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+M0029	verb, qal, participle, unknown, masculine, singular, absolute
+M0030	verb, qal, imperfect, third person, masculine, plural
+M0031	noun, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+M0032	verb, qal, perfect, first person, unknown, singular
+M0033	interjection
+M0034	preposition, pronominal suffix, second person, masculine, singular
+M0035	verb, qal, imperative, second person, masculine, singular
+M0036	noun, feminine, singular, absolute, pronominal suffix, third person, masculine, singular
+M0037	verb, qal, perfect, second person, masculine, singular
+M0038	preposition, pronominal suffix, first person, unknown, singular
+M0039	interrogative particle
+M0040	noun, feminine, plural, construct
+M0041	verb, qal, imperfect, second person, masculine, singular
+M0042	noun, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+M0043	personal pronoun, first person, unknown, singular
+M0044	demonstrative pronoun, masculine, singular
+M0045	preposition, pronominal suffix, second person, masculine, plural
+M0046	verb, qal, imperfect, first person, unknown, singular
+M0047	adverb, masculine, singular, absolute
+M0048	noun, masculine, plural, absolute, pronominal suffix, third person, masculine, plural
+M0049	personal pronoun, third person, masculine, singular
+M0050	verb, qal, imperative, second person, masculine, plural
+M0051	preposition, pronominal suffix, third person, feminine, singular
+M0052	verb, hif‘il, perfect, third person, masculine, singular
+M0053	verb, qal, infinitive (construct), unknown, unknown, unknown, construct
+M0054	interrogative pronoun, unknown, unknown
+M0055	verb, qal, wayyiqtol, third person, feminine, singular
+M0056	verb, qal, perfect, third person, feminine, singular
+M0057	noun, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+M0058	verb, pi“el, perfect, third person, masculine, singular
+M0059	noun, feminine, singular, absolute, pronominal suffix, first person, unknown, singular
+M0060	adjective, feminine, singular, absolute
+M0061	verb, qal, participle, unknown, masculine, plural, absolute
+M0062	proper noun, feminine, singular, absolute
+M0063	demonstrative pronoun, unknown, plural
+M0064	verb, hif‘il, wayyiqtol, third person, masculine, singular
+M0065	personal pronoun, second person, masculine, singular
+M0066	verb, qal, imperfect, second person, masculine, plural
+M0067	verb, qal, imperfect, third person, feminine, singular
+M0068	preposition, masculine, singular, construct
+M0069	noun, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+M0070	adjective, masculine, plural, absolute
+M0071	noun, feminine, singular, absolute, pronominal suffix, second person, masculine, singular
+M0072	noun, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+M0073	demonstrative pronoun, feminine, singular
+M0074	verb, qal, perfect, second person, masculine, plural
+M0075	negative particle, masculine, singular, construct
+M0076	verb, hif‘il, imperfect, third person, masculine, singular
+M0077	noun, feminine, dual, absolute
+M0078	verb, nif‘al, perfect, third person, masculine, singular
+M0079	noun, unknown, singular, absolute, pronominal suffix, third person, masculine, singular
+M0080	preposition, pronominal suffix, first person, unknown, plural
+M0081	noun, qal, participle, unknown, masculine, singular, absolute
+M0082	verb, pi“el, wayyiqtol, third person, masculine, singular
+M0083	noun, feminine, dual, construct
+M0084	verb, nif‘al, imperfect, third person, masculine, singular
+M0085	personal pronoun, third person, masculine, plural
+M0086	noun, masculine, singular, emphatic
+M0087	noun, qal, participle, unknown, masculine, plural, construct
+M0088	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute
+M0089	noun, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+M0090	noun, feminine, singular, absolute, pronominal suffix, third person, masculine, plural
+M0091	verb, hif‘il, perfect, first person, unknown, singular
+M0092	verb, qal, wayyiqtol, first person, unknown, singular
+M0093	noun, qal, participle, unknown, masculine, plural, absolute
+M0094	noun, masculine, plural, absolute, pronominal suffix, first person, unknown, plural
+M0095	verb, hif‘il, wayyiqtol, third person, masculine, plural
+M0096	noun, feminine, plural, absolute, pronominal suffix, third person, masculine, plural
+M0097	verb, qal, imperfect, first person, unknown, plural
+M0098	verb, nif‘al, perfect, third person, unknown, plural
+M0099	verb, pi“el, imperfect, third person, masculine, singular
+M0100	verb, hif‘il, participle, unknown, masculine, singular, absolute
+M0101	verb, hif‘il, perfect, third person, unknown, plural
+M0102	personal pronoun, third person, feminine, singular
+M0103	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute
+M0104	noun, feminine, plural, absolute, pronominal suffix, third person, masculine, singular
+M0105	adverb, qal, infinitive (absolute), unknown, unknown, unknown, absolute
+M0106	preposition, pronominal suffix, second person, feminine, singular
+M0107	verb, hif‘il, imperfect, first person, unknown, singular
+M0108	verb, pi“el, perfect, first person, unknown, singular
+M0109	noun, unknown, dual, absolute
+M0110	noun, unknown, singular, absolute, pronominal suffix, second person, masculine, singular
+M0111	preposition, masculine, plural, construct
+M0112	demonstrative pronoun, third person, masculine, singular
+M0113	verb, hif‘il, imperative, second person, masculine, singular
+M0114	personal pronoun, second person, masculine, plural
+M0115	noun, unknown, singular, absolute, pronominal suffix, first person, unknown, singular
+M0116	verb, hif‘il, imperfect, second person, masculine, singular
+M0117	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+M0118	noun, feminine, singular, absolute, pronominal suffix, third person, feminine, singular
+M0119	verb, pi“el, imperfect, first person, unknown, singular
+M0120	noun, feminine, dual, absolute, pronominal suffix, third person, masculine, singular
+M0121	verb, pi“el, perfect, third person, unknown, plural
+M0122	noun, unknown, dual, construct
+M0123	noun, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+M0124	noun, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+M0125	preposition, unknown, singular, construct
+M0126	verb, qal, perfect, first person, unknown, plural
+M0127	verb, hif‘il, imperfect, third person, masculine, plural
+M0128	verb, qal, participle (passive), unknown, masculine, singular, absolute
+M0129	verb, nif‘al, participle, unknown, masculine, singular, absolute
+M0130	verb, hif‘il, imperative, second person, masculine, plural
+M0131	verb, nif‘al, wayyiqtol, third person, masculine, singular
+M0132	verb, qal, imperative, second person, feminine, singular
+M0133	verb, pi“el, participle, unknown, masculine, singular, absolute
+M0134	verb, hif‘il, perfect, second person, masculine, singular
+M0135	adverb, unknown, singular, absolute
+M0136	verb, pi“el, imperfect, third person, masculine, plural
+M0137	adjective, feminine, plural, absolute
+M0138	noun, unknown, singular, absolute, pronominal suffix, third person, masculine, plural
+M0139	verb, qal, participle, unknown, feminine, singular, absolute
+M0140	verb, nif‘al, imperfect, third person, masculine, plural
+M0141	preposition, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+M0142	noun, qal, participle, unknown, masculine, singular, construct
+M0143	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, construct
+M0144	verb, pi“el, perfect, second person, masculine, singular
+M0145	verb, pi“el, imperative, second person, masculine, singular
+M0146	verb, nif‘al, perfect, third person, feminine, singular
+M0147	adjective, masculine, singular, construct
+M0148	noun, masculine, plural, emphatic
+M0149	noun, feminine, dual, absolute, pronominal suffix, second person, masculine, singular
+M0150	interjection, pronominal suffix, first person, unknown, singular
+M0151	noun, feminine, plural, absolute, pronominal suffix, third person, feminine, singular
+M0152	noun, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+M0153	verb, pi“el, imperfect, second person, masculine, singular
+M0154	noun, feminine, plural, absolute, pronominal suffix, second person, masculine, singular
+M0155	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, plural
+M0156	verb, qal, imperfect, third person, feminine, plural
+M0157	verb, pi“el, imperative, second person, masculine, plural
+M0158	verb, qal, perfect, second person, feminine, singular
+M0159	noun, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+M0160	verb, qal, infinitive (absolute), unknown, unknown, unknown, absolute
+M0161	verb, pi“el, wayyiqtol, third person, masculine, plural
+M0162	verb, hif‘il, imperfect, second person, masculine, plural
+M0163	verb, nif‘al, participle, unknown, masculine, plural, absolute
+M0164	noun, feminine, plural, absolute, pronominal suffix, second person, masculine, plural
+M0165	verb, nif‘al, imperfect, third person, feminine, singular
+M0166	verb, nif‘al, wayyiqtol, third person, masculine, plural
+M0167	verb, pi“el, infinitive (construct), unknown, unknown, unknown, construct
+M0168	proper noun, masculine, plural, absolute
+M0169	noun, feminine, singular, absolute, pronominal suffix, second person, feminine, singular
+M0170	adverb, hif‘il, infinitive (absolute), unknown, unknown, unknown, absolute
+M0171	personal pronoun, first person, unknown, plural
+M0172	noun, feminine, singular, emphatic
+M0173	verb, nif‘al, perfect, first person, unknown, singular
+M0174	noun, masculine, dual, absolute
+M0175	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+M0176	demonstrative pronoun, third person, feminine, singular
+M0177	verb, qal, participle (passive), unknown, masculine, plural, absolute
+M0178	verb, hif‘il, participle, unknown, masculine, plural, absolute
+M0179	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+M0180	verb, qal, imperfect, second person, feminine, singular
+M0181	verb, pi“el, participle, unknown, masculine, plural, absolute
+M0182	noun, feminine, dual, absolute, pronominal suffix, third person, masculine, plural
+M0183	adjective, qal, participle, unknown, masculine, singular, absolute
+M0184	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute
+M0185	verb, hof‘al, imperfect, third person, masculine, singular
+M0186	verb, pe‘al, perfect, third person, masculine, singular
+M0187	noun, unknown, dual, absolute, pronominal suffix, third person, masculine, plural
+M0188	verb, qal, participle, unknown, masculine, plural, construct
+M0189	verb, qal, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0190	verb, qal, participle (passive), unknown, feminine, singular, absolute
+M0191	verb, pe‘al, participle, unknown, masculine, singular, absolute
+M0192	verb, hif‘il, perfect, second person, masculine, plural
+M0193	verb, hitpa“el, imperfect, third person, masculine, singular
+M0194	noun, pi“el, participle, unknown, masculine, singular, absolute
+M0195	verb, pu“al, perfect, third person, masculine, singular
+M0196	noun, feminine, plural, absolute, pronominal suffix, second person, feminine, singular
+M0197	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0198	verb, qal, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0199	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+M0200	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+M0201	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0202	adjective, masculine, plural, construct
+M0203	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+M0204	verb, qal, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0205	noun, pi“el, participle, unknown, masculine, plural, absolute
+M0206	noun, unknown, singular, absolute, pronominal suffix, second person, masculine, plural
+M0207	verb, hif‘il, infinitive (absolute), unknown, unknown, unknown, absolute
+M0208	preposition, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M0209	verb, qal, perfect, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+M0210	verb, hitpa“el, wayyiqtol, third person, masculine, singular
+M0211	verb, qal, participle, unknown, feminine, plural, absolute
+M0212	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0213	verb, qal, wayyiqtol, third person, feminine, plural
+M0214	verb, qal, wayyiqtol, second person, masculine, singular
+M0215	verb, qal, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0216	adjective, qal, participle (passive), unknown, masculine, singular, absolute
+M0217	adjective, nif‘al, participle, unknown, masculine, singular, absolute
+M0218	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+M0219	noun, feminine, singular, absolute, pronominal suffix, second person, masculine, plural
+M0220	verb, nif‘al, imperative, second person, masculine, singular
+M0221	preposition, pronominal suffix, third person, feminine, plural
+M0222	adverb, feminine, singular, absolute
+M0223	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+M0224	noun, hif‘il, participle, unknown, masculine, singular, absolute
+M0225	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, plural
+M0226	verb, hitpa“el, imperfect, third person, masculine, plural
+M0227	interrogative particle, unknown, unknown
+M0228	verb, hitpa“el, infinitive (construct), unknown, unknown, unknown, absolute
+M0229	verb, qal, perfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0230	verb, hif‘il, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0231	verb, hif‘il, imperfect, third person, feminine, singular
+M0232	noun, masculine, plural, absolute, pronominal suffix, third person, feminine, plural
+M0233	noun, feminine, singular, absolute, pronominal suffix, first person, unknown, plural
+M0234	verb, nif‘al, imperfect, second person, masculine, singular
+M0235	verb, hof‘al, perfect, third person, masculine, singular
+M0236	adverb, pi“el, infinitive (absolute), unknown, unknown, unknown, absolute
+M0237	noun, feminine, plural, absolute, pronominal suffix, first person, unknown, plural
+M0238	verb, hif‘il, wayyiqtol, first person, unknown, singular
+M0239	preposition, masculine, plural, absolute, pronominal suffix, third person, masculine, plural
+M0240	noun, qal, participle (passive), unknown, masculine, singular, absolute
+M0241	verb, hitpa“el, participle, unknown, masculine, singular, absolute
+M0242	noun, qal, participle, unknown, feminine, singular, absolute
+M0243	verb, pi“el, imperfect, second person, masculine, plural
+M0244	verb, nif‘al, imperfect, first person, unknown, singular
+M0245	verb, pe‘al, imperfect, third person, masculine, singular
+M0246	verb, pi“el, perfect, third person, feminine, singular
+M0247	verb, hif‘il, perfect, third person, feminine, singular
+M0248	verb, hitpa“el, perfect, third person, unknown, plural
+M0249	verb, pe‘al, participle, unknown, masculine, plural, absolute
+M0250	verb, hif‘il, wayyiqtol, third person, feminine, singular
+M0251	verb, qal, wayyiqtol, first person, unknown, plural
+M0252	verb, pi“el, perfect, second person, masculine, plural
+M0253	demonstrative pronoun, third person, masculine, plural
+M0254	noun, feminine, dual, absolute, pronominal suffix, second person, masculine, plural
+M0255	personal pronoun, second person, feminine, singular
+M0256	verb, pu“al, perfect, third person, unknown, plural
+M0257	verb, qal, wayyiqtol, second person, masculine, plural
+M0258	verb, hitpa“el, wayyiqtol, third person, masculine, plural
+M0259	verb, qal, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+M0260	verb, qal, imperfect, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+M0261	verb, qal, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0262	verb, pi“el, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0263	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, plural
+M0264	verb, pi“el, imperfect, third person, feminine, singular
+M0265	verb, qal, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0266	verb, qal, perfect, third person, unknown, plural, pronominal suffix, first person, unknown, singular
+M0267	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0268	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, plural
+M0269	verb, qal, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+M0270	noun, unknown, dual, absolute, pronominal suffix, third person, masculine, singular
+M0271	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+M0272	verb, qal, participle, unknown, masculine, singular, construct
+M0273	verb, hif‘il, imperfect, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+M0274	verb, hif‘il, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0275	verb, nif‘al, wayyiqtol, third person, feminine, singular
+M0276	verb, qal, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0277	verb, nif‘al, perfect, second person, masculine, singular
+M0278	noun, nif‘al, participle, unknown, masculine, singular, absolute
+M0279	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+M0280	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0281	verb, qal, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0282	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0283	verb, pi“el, wayyiqtol, third person, feminine, singular
+M0284	verb, pu“al, imperfect, third person, masculine, singular
+M0285	verb, qal, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+M0286	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0287	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+M0288	personal pronoun, third person, feminine, plural
+M0289	negative particle, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+M0290	adjective, qal, participle, unknown, feminine, singular, absolute
+M0291	verb, hitpa“el, imperfect, second person, masculine, singular
+M0292	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0293	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, plural
+M0294	verb, qal, wayyiqtol, second person, feminine, singular
+M0295	verb, hif‘il, perfect, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+M0296	verb, pi“el, infinitive (absolute), unknown, unknown, unknown, absolute
+M0297	noun, qal, participle (passive), unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, plural
+M0298	noun, unknown, singular, absolute, pronominal suffix, third person, feminine, singular
+M0299	verb, nif‘al, imperfect, second person, masculine, plural
+M0300	verb, pi“el, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0301	adjective, qal, participle (passive), unknown, feminine, singular, absolute
+M0302	preposition, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+M0303	verb, hif‘il, imperfect, first person, unknown, plural
+M0304	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+M0305	verb, hif‘il, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+M0306	noun, hif‘il, participle, unknown, masculine, plural, absolute
+M0307	verb, nif‘al, participle, unknown, feminine, singular, absolute
+M0308	verb, hif‘il, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+M0309	noun, qal, participle (passive), unknown, masculine, plural, absolute
+M0310	verb, hishtaf‘al, wayyiqtol, third person, masculine, singular
+M0311	verb, qal, perfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0312	verb, pi“el, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0313	verb, pi“el, imperfect, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+M0314	noun, unknown, singular, absolute, pronominal suffix, first person, unknown, plural
+M0315	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0316	verb, hif‘il, imperative, second person, feminine, singular
+M0317	conjunction, unknown, singular, construct
+M0318	verb, qal, perfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+M0319	adjective, qal, participle (passive), unknown, masculine, plural, absolute
+M0320	verb, hif‘il, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, masculine, plural
+M0321	verb, pe‘al, perfect, third person, masculine, plural
+M0322	noun, qal, participle (passive), unknown, masculine, plural, construct
+M0323	verb, hitpa“el, imperative, second person, masculine, plural
+M0324	verb, qal, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, plural
+M0325	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+M0326	verb, qal, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0327	verb, qal, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+M0328	verb, nif‘al, perfect, second person, masculine, plural
+M0329	adjective, feminine, singular, construct
+M0330	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, construct
+M0331	preposition, masculine, plural, absolute
+M0332	interjection, pronominal suffix, third person, masculine, plural
+M0333	verb, qal, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0334	verb, nif‘al, imperfect, third person, feminine, plural
+M0335	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0336	noun, masculine, singular, absolute, pronominal suffix, third person, feminine, plural
+M0337	verb, hif‘il, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+M0338	noun, unknown, singular, absolute, pronominal suffix, second person, feminine, singular
+M0339	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0340	verb, nif‘al, imperative, second person, masculine, plural
+M0341	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+M0342	verb, pi“el, perfect, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+M0343	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0344	verb, hif‘il, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+M0345	noun, nif‘al, participle, unknown, masculine, plural, absolute
+M0346	verb, pi“el, imperfect, first person, unknown, plural
+M0347	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+M0348	noun, nif‘al, participle, unknown, feminine, plural, absolute
+M0349	verb, pu“al, perfect, third person, feminine, singular
+M0350	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+M0351	verb, pu“al, participle (passive), unknown, masculine, singular, absolute
+M0352	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+M0353	noun, masculine, dual, absolute, pronominal suffix, third person, masculine, singular
+M0354	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+M0355	verb, hitpa“el, participle, unknown, masculine, plural, absolute
+M0356	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+M0357	negative particle, masculine, singular, absolute
+M0358	noun, feminine, dual, absolute, pronominal suffix, third person, feminine, singular
+M0359	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+M0360	verb, pi“el, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+M0361	verb, hitpa“el, perfect, third person, masculine, singular
+M0362	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M0363	noun, feminine, dual, absolute, pronominal suffix, first person, unknown, plural
+M0364	verb, hitpa“el, imperfect, first person, unknown, singular
+M0365	noun, pi“el, participle, unknown, masculine, plural, construct
+M0366	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+M0367	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+M0368	verb, hitpa“el, imperative, second person, masculine, singular
+M0369	verb, hishtaf‘al, wayyiqtol, third person, masculine, plural
+M0370	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+M0371	verb, hif‘il, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+M0372	preposition, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+M0373	noun, feminine, dual, absolute, pronominal suffix, second person, feminine, singular
+M0374	verb, qal, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, masculine, plural
+M0375	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0376	adjective, hof‘al, participle (passive), unknown, masculine, singular, absolute
+M0377	verb, pi“el, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0378	verb, nif‘al, perfect, first person, unknown, plural
+M0379	adjective, pu“al, participle (passive), unknown, masculine, singular, absolute
+M0380	verb, pi“el, perfect, third person, unknown, plural, pronominal suffix, first person, unknown, singular
+M0381	verb, pe‘al, perfect, first person, unknown, singular
+M0382	noun, nif‘al, participle, unknown, feminine, singular, absolute
+M0383	adjective, nif‘al, participle, unknown, masculine, plural, absolute
+M0384	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, plural
+M0385	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0386	verb, hof‘al, wayyiqtol, third person, masculine, singular
+M0387	verb, pi“el, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+M0388	verb, qal, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+M0389	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0390	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0391	preposition, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+M0392	verb, hof‘al, participle (passive), unknown, masculine, singular, absolute
+M0393	noun, qal, participle, unknown, feminine, plural, absolute
+M0394	verb, pi“el, wayyiqtol, first person, unknown, singular
+M0395	adverb, masculine, singular
+M0396	verb, haf‘el, perfect, third person, masculine, singular
+M0397	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+M0398	adjective, hif‘il, participle, unknown, masculine, singular, absolute
+M0399	verb, qal, perfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+M0400	adjective, qal, participle, unknown, feminine, singular, construct
+M0401	verb, hif‘il, perfect, first person, unknown, plural
+M0402	verb, qal, participle (passive), unknown, feminine, plural, absolute
+M0403	verb, pe‘il, perfect, third person, masculine, singular
+M0404	verb, haf‘el, infinitive (construct), unknown, unknown, unknown, absolute
+M0405	verb, pi“el, imperative, second person, feminine, singular
+M0406	verb, pi“el, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0407	verb, pe‘al, imperfect, third person, masculine, plural
+M0408	verb, qal, perfect, third person, unknown, plural, pronominal suffix, second person, masculine, singular
+M0409	verb, pu“al, participle (passive), unknown, masculine, plural, absolute
+M0410	verb, hitpa“el, perfect, first person, unknown, singular
+M0411	verb, qal, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0412	verb, pi“el, perfect, first person, unknown, plural
+M0413	verb, qal, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, singular
+M0414	adjective, nif‘al, participle, unknown, feminine, singular, absolute
+M0415	verb, pe‘al, perfect, third person, feminine, singular
+M0416	noun, masculine, dual, construct
+M0417	verb, qal, imperfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+M0418	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0419	preposition, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+M0420	verb, qal, perfect, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+M0421	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0422	verb, hitpa“el, imperfect, second person, masculine, plural
+M0423	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+M0424	verb, hof‘al, perfect, third person, feminine, singular
+M0425	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, feminine, singular
+M0426	verb, hif‘il, participle, unknown, masculine, singular, construct
+M0427	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+M0428	adjective, qal, participle, unknown, masculine, plural, absolute
+M0429	verb, hof‘al, participle (passive), unknown, masculine, plural, absolute
+M0430	noun, qal, participle (passive), unknown, feminine, singular, absolute
+M0431	verb, hif‘il, wayyiqtol, second person, masculine, singular
+M0432	verb, pe‘al, infinitive (construct), unknown, unknown, unknown, absolute
+M0433	verb, qal, wayyiqtol, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0434	noun, hif‘il, participle, unknown, masculine, plural, construct
+M0435	verb, hitpa“el, imperfect, third person, feminine, singular
+M0436	adverb, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+M0437	noun, unknown, dual, absolute, pronominal suffix, second person, masculine, singular
+M0438	verb, haf‘el, perfect, third person, masculine, plural
+M0439	verb, nif‘al, imperfect, first person, unknown, plural
+M0440	verb, pi“el, participle, unknown, feminine, singular, absolute
+M0441	verb, hitpa“el, wayyiqtol, first person, unknown, singular
+M0442	verb, hif‘il, imperfect, second person, feminine, singular
+M0443	verb, hif‘il, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0444	noun, feminine, plural, emphatic
+M0445	adverb, nif‘al, infinitive (absolute), unknown, unknown, unknown, absolute
+M0446	verb, qal, imperative, second person, feminine, plural
+M0447	verb, qal, imperative, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0448	verb, pi“el, imperative, second person, masculine, plural, pronominal suffix, third person, masculine, singular
+M0449	verb, hof‘al, imperfect, third person, masculine, plural
+M0450	verb, nif‘al, participle, unknown, feminine, plural, absolute
+M0451	verb, qal, perfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+M0452	verb, pi“el, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0453	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, first person, unknown, plural
+M0454	preposition, unknown, singular, absolute
+M0455	noun, hif‘il, participle, unknown, masculine, singular, construct
+M0456	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+M0457	noun, hitpa“el, participle, unknown, masculine, singular, absolute
+M0458	noun, nif‘al, participle, unknown, feminine, plural, absolute, pronominal suffix, third person, masculine, singular
+M0459	adjective, pu“al, participle (passive), unknown, masculine, plural, absolute
+M0460	preposition, masculine, plural, absolute, pronominal suffix, first person, unknown, plural
+M0461	negative particle, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+M0462	verb, hif‘il, perfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0463	verb, pi“el, wayyiqtol, second person, masculine, singular
+M0464	verb, pu“al, perfect, first person, unknown, singular
+M0465	verb, hitpe‘el, imperfect, third person, masculine, singular
+M0466	noun, unknown, dual, absolute, pronominal suffix, second person, masculine, plural
+M0467	verb, hif‘il, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, singular
+M0468	verb, pi“el, imperfect, third person, feminine, plural
+M0469	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, second person, masculine, singular
+M0470	verb, hif‘il, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0471	verb, hishtaf‘al, infinitive (construct), unknown, unknown, unknown, absolute
+M0472	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0473	verb, hif‘il, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0474	preposition, unknown, singular, absolute, pronominal suffix, third person, masculine, singular
+M0475	adjective, qal, participle (passive), unknown, masculine, plural, construct
+M0476	verb, pe‘al, perfect, second person, masculine, singular
+M0477	verb, qal, perfect, third person, unknown, plural, pronominal suffix, third person, feminine, singular
+M0478	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0479	verb, hof‘al, perfect, third person, unknown, plural
+M0480	preposition, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+M0481	noun, pu“al, participle (passive), unknown, masculine, singular, absolute
+M0482	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0483	verb, hishtaf‘al, imperfect, third person, masculine, plural
+M0484	noun, feminine, singular, absolute, pronominal suffix, third person, feminine, plural
+M0485	verb, qal, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0486	verb, hif‘il, imperative, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0487	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+M0488	verb, pi“el, participle, unknown, feminine, plural, absolute
+M0489	verb, qal, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+M0490	verb, pi“el, participle, unknown, masculine, plural, construct
+M0491	noun, qal, participle (passive), unknown, masculine, singular, construct
+M0492	verb, pe‘al, imperfect, third person, feminine, singular
+M0493	verb, qal, imperative, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0494	verb, qal, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+M0495	noun, unknown, singular, emphatic
+M0496	verb, pu“al, participle (passive), unknown, feminine, singular, absolute
+M0497	preposition, unknown, singular, absolute, pronominal suffix, first person, unknown, singular
+M0498	verb, pe‘al, imperfect, second person, masculine, singular
+M0499	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, plural
+M0500	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0501	noun, qal, participle, unknown, feminine, singular, construct
+M0502	verb, pu“al, imperfect, third person, masculine, plural
+M0503	verb, nif‘al, wayyiqtol, first person, unknown, singular
+M0504	preposition, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+M0505	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+M0506	verb, hif‘il, participle, unknown, feminine, singular, absolute
+M0507	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+M0508	verb, nif‘al, perfect, second person, feminine, singular
+M0509	verb, hif‘il, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0510	verb, qal, perfect, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0511	adjective, nif‘al, participle, unknown, feminine, plural, absolute
+M0512	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+M0513	adjective, qal, participle, unknown, feminine, plural, absolute
+M0514	verb, hif‘il, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, plural
+M0515	verb, pu“al, imperfect, third person, feminine, singular
+M0516	verb, pi“el, perfect, second person, feminine, singular
+M0517	verb, hif‘il, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+M0518	verb, hitpa“el, perfect, second person, masculine, singular
+M0519	verb, pi“el, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+M0520	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+M0521	interjection, pronominal suffix, second person, masculine, singular
+M0522	adjective, feminine, plural, construct
+M0523	verb, hitpa“el, participle, unknown, feminine, singular, absolute
+M0524	verb, pe‘al, participle (passive), unknown, masculine, singular, absolute
+M0525	verb, hif‘il, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0526	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0527	verb, qal, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+M0528	verb, pe‘al, imperative, second person, masculine, singular
+M0529	verb, pi“el, imperfect, second person, feminine, singular
+M0530	adjective, qal, participle (passive), unknown, feminine, plural, absolute
+M0531	verb, pi“el, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, singular
+M0532	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+M0533	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+M0534	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, second person, masculine, singular
+M0535	negative particle, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M0536	verb, hof‘al, imperfect, third person, feminine, singular
+M0537	negative particle, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+M0538	verb, qal, perfect, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0539	verb, qal, imperfect, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+M0540	verb, hif‘il, perfect, second person, feminine, singular
+M0541	verb, hif‘il, wayyiqtol, second person, masculine, plural
+M0542	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, second person, masculine, singular
+M0543	verb, qal, imperative, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0544	noun, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+M0545	verb, pi“el, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, masculine, plural
+M0546	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0547	verb, hif‘il, perfect, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0548	noun, pi“el, participle, unknown, masculine, singular, construct
+M0549	verb, hitpa“el, imperfect, second person, feminine, singular
+M0550	verb, hif‘il, wayyiqtol, first person, unknown, plural
+M0551	verb, hif‘il, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+M0552	verb, pa“el, participle, unknown, masculine, singular, absolute
+M0553	preposition, feminine, singular, construct
+M0554	verb, pi“el, perfect, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+M0555	noun, hif‘il, infinitive (absolute), unknown, unknown, unknown, absolute
+M0556	verb, pi“el, perfect, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0557	noun, pi“el, participle, unknown, feminine, plural, absolute
+M0558	noun, unknown, dual, absolute, pronominal suffix, first person, unknown, plural
+M0559	verb, pi“el, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0560	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0561	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, third person, masculine, plural
+M0562	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0563	noun, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+M0564	verb, hitpa“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, plural
+M0565	verb, hitpa“el, imperative, second person, feminine, singular
+M0566	verb, qal, imperfect, second person, feminine, plural
+M0567	verb, pe‘al, imperative, second person, masculine, plural
+M0568	noun, unknown, dual, absolute, pronominal suffix, third person, feminine, singular
+M0569	noun, masculine, dual, absolute, pronominal suffix, second person, masculine, singular
+M0570	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+M0571	verb, pe‘al, participle, unknown, feminine, singular, absolute
+M0572	verb, qal, perfect, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0573	verb, qal, perfect, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+M0574	adjective, pu“al, participle (passive), unknown, feminine, singular, absolute
+M0575	verb, hif‘il, imperative, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0576	verb, qal, wayyiqtol, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+M0577	verb, qal, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+M0578	verb, qal, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0579	verb, pe‘al, imperfect, second person, masculine, plural
+M0580	verb, qal, imperfect, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+M0581	verb, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, plural
+M0582	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, second person, masculine, singular
+M0583	noun, nif‘al, participle, unknown, feminine, plural, absolute, pronominal suffix, second person, masculine, singular
+M0584	verb, hif‘il, participle, unknown, feminine, plural, absolute
+M0585	verb, nif‘al, infinitive (absolute), unknown, unknown, unknown, absolute
+M0586	verb, hif‘il, wayyiqtol, second person, feminine, singular
+M0587	demonstrative pronoun, unknown, singular
+M0588	verb, hitpa“el, infinitive (construct), unknown, unknown, unknown, construct
+M0589	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0590	noun, qal, infinitive (construct), unknown, unknown, unknown, construct
+M0591	verb, hif‘il, participle, unknown, masculine, plural, construct
+M0592	verb, pa“el, infinitive (construct), unknown, unknown, unknown, absolute
+M0593	verb, qal, imperfect, second person, masculine, plural, pronominal suffix, third person, masculine, singular
+M0594	verb, hitpa“el, perfect, second person, masculine, plural
+M0595	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+M0596	verb, qal, imperfect, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0597	adjective, masculine, singular, emphatic
+M0598	verb, qal, perfect, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+M0599	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+M0600	noun, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M0601	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, plural
+M0602	verb, pe‘al, perfect, first person, unknown, plural
+M0603	noun, nif‘al, participle, unknown, masculine, plural, construct
+M0604	adjective, qal, participle (passive), unknown, masculine, singular, construct
+M0605	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M0606	adverb, feminine, plural, absolute, pronominal suffix, third person, masculine, singular
+M0607	verb, qal, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0608	noun, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+M0609	verb, qal, participle, unknown, feminine, singular, construct
+M0610	verb, hitpa“el, wayyiqtol, third person, feminine, singular
+M0611	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+M0612	noun, qal, participle (passive), unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+M0613	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+M0614	verb, hif‘il, perfect, third person, unknown, plural, pronominal suffix, second person, masculine, singular
+M0615	noun, pu“al, participle (passive), unknown, masculine, plural, absolute
+M0616	verb, pa“el, perfect, third person, masculine, plural
+M0617	verb, hif‘il, imperfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+M0618	verb, pu“al, participle (passive), unknown, feminine, plural, absolute
+M0619	verb, nif‘al, imperfect, second person, feminine, singular
+M0620	verb, qal, perfect, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+M0621	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+M0622	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, plural
+M0623	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, second person, masculine, singular
+M0624	verb, pi“el, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+M0625	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0626	adjective, pe‘al, participle, unknown, feminine, singular, emphatic
+M0627	verb, haf‘el, participle, unknown, masculine, singular, absolute
+M0628	verb, hof‘al, participle (passive), unknown, feminine, singular, absolute
+M0629	verb, haf‘el, imperfect, third person, masculine, singular
+M0630	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+M0631	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, plural
+M0632	verb, pa“el, perfect, third person, masculine, singular
+M0633	verb, pi“el, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+M0634	interjection, pronominal suffix, first person, unknown, plural
+M0635	verb, haf‘el, participle, unknown, masculine, plural, absolute
+M0636	verb, qal, imperative, second person, masculine, plural, pronominal suffix, third person, masculine, singular
+M0637	verb, pe‘il, perfect, third person, feminine, singular
+M0638	verb, pi“el, perfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0639	preposition, masculine, plural, absolute, pronominal suffix, third person, feminine, plural
+M0640	verb, qal, wayyiqtol, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+M0641	verb, hif‘il, perfect, third person, unknown, plural, pronominal suffix, first person, unknown, singular
+M0642	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+M0643	verb, hitpa“el, imperfect, first person, unknown, plural
+M0644	noun, masculine, dual, absolute, pronominal suffix, second person, feminine, singular
+M0645	verb, hishtaf‘al, participle, unknown, masculine, plural, absolute
+M0646	verb, hishtaf‘al, imperfect, second person, masculine, plural
+M0647	verb, hitpa“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+M0648	verb, hif‘il, imperative, second person, feminine, singular, pronominal suffix, first person, unknown, singular
+M0649	verb, hif‘il, perfect, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+M0650	verb, hitpa“al, participle, unknown, masculine, plural, absolute
+M0651	verb, pi“el, wayyiqtol, second person, feminine, singular
+M0652	verb, hishtaf‘al, wayyiqtol, third person, feminine, singular
+M0653	verb, hitpe‘el, participle, unknown, masculine, singular, absolute
+M0654	verb, hif‘il, imperative, second person, masculine, plural, pronominal suffix, third person, feminine, singular
+M0655	adverb, feminine, dual, absolute
+M0656	verb, qal, imperative, second person, masculine, plural, pronominal suffix, third person, feminine, singular
+M0657	verb, hif‘il, imperative, second person, masculine, plural, pronominal suffix, third person, masculine, singular
+M0658	verb, pi“el, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+M0659	verb, hif‘il, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0660	preposition, unknown, singular, absolute, pronominal suffix, third person, masculine, plural
+M0661	verb, pi“el, perfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+M0662	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0663	verb, hof‘al, perfect, first person, unknown, singular
+M0664	interjection, pronominal suffix, second person, feminine, singular
+M0665	noun, masculine, dual, absolute, pronominal suffix, third person, feminine, singular
+M0666	noun, pi“el, participle, unknown, feminine, singular, absolute
+M0667	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+M0668	verb, qal, perfect, third person, unknown, plural, pronominal suffix, first person, unknown, plural
+M0669	noun, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+M0670	verb, qal, perfect, second person, feminine, plural
+M0671	verb, pi“el, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0672	verb, nif‘al, imperative, second person, feminine, singular
+M0673	negative particle, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+M0674	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+M0675	preposition, unknown, singular, absolute, pronominal suffix, second person, masculine, singular
+M0676	noun, hof‘al, participle (passive), unknown, masculine, singular, absolute
+M0677	verb, hishtaf‘al, perfect, third person, unknown, plural
+M0678	verb, hitpa“al, imperfect, third person, masculine, singular
+M0679	verb, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+M0680	negative particle, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+M0681	verb, qal, imperfect, second person, masculine, plural, pronominal suffix, third person, masculine, plural
+M0682	verb, qal, perfect, first person, unknown, plural, pronominal suffix, second person, masculine, singular
+M0683	adverb, hof‘al, infinitive (absolute), unknown, unknown, unknown, absolute
+M0684	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+M0685	noun, masculine, dual, absolute, pronominal suffix, third person, masculine, plural
+M0686	verb, pi“el, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+M0687	verb, hishtaf‘al, imperative, second person, masculine, plural
+M0688	verb, pe‘al, infinitive (construct), unknown, unknown, unknown, construct
+M0689	adjective, hif‘il, participle, unknown, feminine, singular, absolute
+M0690	verb, hof‘al, infinitive (construct), unknown, unknown, unknown, absolute
+M0691	noun, nif‘al, participle, unknown, masculine, singular, construct
+M0692	adjective, pi“el, participle, unknown, masculine, singular, absolute
+M0693	verb, hishtaf‘al, imperfect, second person, masculine, singular
+M0694	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0695	verb, hif‘il, imperfect, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0696	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, third person, masculine, plural
+M0697	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+M0698	verb, pe‘il, perfect, third person, masculine, plural
+M0699	verb, hif‘il, imperfect, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+M0700	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+M0701	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+M0702	verb, pi“el, wayyiqtol, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0703	verb, pi“el, perfect, third person, unknown, plural, pronominal suffix, third person, feminine, singular
+M0704	adjective, pe‘al, participle, unknown, masculine, singular, absolute
+M0705	verb, qal, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+M0706	noun, feminine, dual, emphatic
+M0707	noun, hif‘il, participle, unknown, feminine, singular, absolute
+M0708	verb, pi“el, imperfect, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+M0709	verb, hif‘il, wayyiqtol, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+M0710	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+M0711	verb, hif‘il, perfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+M0712	verb, hif‘il, imperfect, third person, feminine, plural
+M0713	noun, masculine, singular, absolute, pronominal suffix, second person, feminine, plural
+M0714	verb, qal, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0715	verb, hitpe‘el, perfect, third person, feminine, singular
+M0716	verb, hof‘al, participle (passive), unknown, feminine, plural, absolute
+M0717	verb, haf‘el, imperfect, third person, masculine, plural
+M0718	verb, hif‘il, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+M0719	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+M0720	verb, pi“el, wayyiqtol, third person, feminine, plural
+M0721	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+M0722	verb, hitpa“al, participle, unknown, masculine, singular, absolute
+M0723	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+M0724	noun, feminine, plural, absolute, pronominal suffix, third person, feminine, plural
+M0725	adjective, qal, participle, unknown, masculine, singular, construct
+M0726	adjective, pi“el, participle, unknown, masculine, plural, absolute
+M0727	verb, pi“el, imperfect, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0728	noun, hitpa“el, participle, unknown, masculine, plural, absolute
+M0729	verb, pi“el, imperative, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0730	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, second person, masculine, singular
+M0731	preposition, feminine, singular, absolute, pronominal suffix, second person, masculine, singular
+M0732	adjective, feminine, singular, emphatic
+M0733	adjective, nif‘al, participle, unknown, masculine, singular, construct
+M0734	verb, haf‘el, imperfect, second person, masculine, singular
+M0735	noun, feminine, dual, absolute, pronominal suffix, third person, feminine, plural
+M0736	verb, hif‘il, imperative, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0737	verb, pa“el, imperfect, third person, masculine, plural
+M0738	verb, nif‘al, wayyiqtol, second person, masculine, singular
+M0739	verb, pa“el, imperfect, third person, masculine, singular
+M0740	verb, qal, wayyiqtol, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+M0741	verb, haf‘el, imperfect, third person, feminine, singular
+M0742	adjective, hif‘il, participle, unknown, masculine, singular, construct
+M0743	adjective, qal, participle, unknown, masculine, plural, construct
+M0744	verb, hof‘al, perfect, second person, masculine, singular
+M0745	verb, hitpa“el, perfect, first person, unknown, plural
+M0746	verb, qal, imperfect, first person, unknown, plural, pronominal suffix, second person, masculine, singular
+M0747	verb, qal, wayyiqtol, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0748	adjective, hitpa“el, participle, unknown, masculine, singular, absolute
+M0749	noun, feminine, singular, absolute, pronominal suffix, second person, feminine, plural
+M0750	verb, pi“el, imperfect, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+M0751	noun, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+M0752	conjunction, masculine, singular, construct
+M0753	adverb, feminine, singular, construct
+M0754	preposition, unknown, singular, absolute, pronominal suffix, third person, feminine, singular
+M0755	adverb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute
+M0756	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+M0757	noun, qal, participle (passive), unknown, feminine, singular, construct
+M0758	verb, hif‘il, perfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+M0759	verb, pi“el, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, plural
+M0760	interrogative particle, pronominal suffix, third person, masculine, singular
+M0761	verb, hitpe‘el, imperfect, third person, feminine, singular
+M0762	verb, pi“el, wayyiqtol, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+M0763	verb, pi“el, wayyiqtol, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0764	verb, qal, imperfect, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+M0765	verb, pi“el, perfect, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+M0766	verb, pi“el, perfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+M0767	personal pronoun, second person, feminine, plural
+M0768	verb, pu“al, wayyiqtol, third person, masculine, plural
+M0769	verb, hishtaf‘al, perfect, second person, masculine, plural
+M0770	verb, qal, perfect, third person, feminine, singular, pronominal suffix, first person, unknown, plural
+M0771	adverb, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+M0772	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+M0773	verb, hitpa“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+M0774	verb, qal, wayyiqtol, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+M0775	verb, pi“el, wayyiqtol, first person, unknown, singular, pronominal suffix, second person, masculine, singular
+M0776	noun, masculine, plural, absolute, pronominal suffix, first person, unknown, singular
+M0777	verb, hishtaf‘al, imperfect, third person, masculine, singular
+M0778	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+M0779	verb, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+M0780	verb, pa“el, imperfect, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+M0781	verb, pi“el, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0782	verb, hishtaf‘al, perfect, second person, masculine, singular
+M0783	verb, qal, perfect, first person, unknown, plural, pronominal suffix, third person, feminine, singular
+M0784	noun, qal, participle, unknown, feminine, plural, construct
+M0785	noun, pu“al, participle (passive), unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+M0786	verb, pi“el, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+M0787	verb, qal, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+M0788	verb, qal, participle (passive), unknown, masculine, singular, construct
+M0789	verb, hitpe‘el, perfect, third person, masculine, singular
+M0790	verb, hotpa“al, perfect, third person, unknown, plural
+M0791	verb, pi“el, perfect, third person, unknown, plural, pronominal suffix, second person, masculine, singular
+M0792	verb, pe‘al, participle, unknown, feminine, plural, absolute
+M0793	verb, pu“al, perfect, first person, unknown, plural
+M0794	verb, qal, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+M0795	verb, haf‘el, participle, unknown, feminine, singular, absolute
+M0796	adjective, pu“al, participle (passive), unknown, feminine, singular, construct
+M0797	verb, qal, perfect, third person, masculine, singular, pronominal suffix, second person, feminine, singular
+M0798	noun, unknown, dual, absolute, pronominal suffix, second person, feminine, singular
+M0799	adjective, qal, participle (passive), unknown, feminine, plural, construct
+M0800	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, plural
+M0801	verb, hitpa“el, perfect, third person, feminine, singular
+M0802	verb, qal, perfect, third person, feminine, singular, pronominal suffix, second person, masculine, singular
+M0803	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, second person, feminine, singular
+M0804	verb, pi“el, perfect, third person, unknown, plural, pronominal suffix, second person, feminine, singular
+M0805	noun, pe‘al, participle, unknown, masculine, plural, construct
+M0806	verb, hif‘il, wayyiqtol, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0807	noun, hof‘al, participle (passive), unknown, masculine, plural, absolute
+M0808	verb, hof‘al, wayyiqtol, third person, feminine, singular
+M0809	adjective, pu“al, participle (passive), unknown, feminine, plural, absolute
+M0810	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+M0811	verb, pu“al, perfect, second person, masculine, singular
+M0812	verb, pu“al, imperfect, second person, masculine, plural
+M0813	verb, pi“el, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0814	adjective, pu“al, participle (passive), unknown, masculine, plural, construct
+M0815	preposition, masculine, singular, absolute
+M0816	verb, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+M0817	preposition, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+M0818	adjective, qal, participle (passive), unknown, feminine, singular, construct
+M0819	verb, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+M0820	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+M0821	verb, qal, perfect, third person, unknown, plural, pronominal suffix, second person, feminine, singular
+M0822	adjective, hif‘il, participle, unknown, masculine, plural, absolute
+M0823	verb, hif‘il, imperfect, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+M0824	verb, hif‘il, participle, unknown, feminine, singular, construct
+M0825	verb, pi“el, perfect, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+M0826	preposition, unknown, singular, absolute, pronominal suffix, first person, unknown, plural
+M0827	verb, pi“el, wayyiqtol, second person, masculine, plural
+M0828	verb, haf‘el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+M0829	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+M0830	adverb, qal, infinitive (construct), unknown, unknown, unknown, absolute
+M0831	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+M0832	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, plural
+M0833	adjective, nif‘al, participle, unknown, masculine, plural, construct
+M0834	verb, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, second person, feminine, singular
+M0835	verb, pi“el, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0836	noun, pu“al, participle (passive), unknown, feminine, singular, absolute
+M0837	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+M0838	noun, pe‘al, participle, unknown, masculine, plural, absolute
+M0839	interjection, pronominal suffix, third person, masculine, singular
+M0840	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+M0841	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+M0842	verb, hof‘al, imperfect, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0843	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+M0844	verb, pa“el, participle (passive), unknown, masculine, singular, absolute
+M0845	preposition, unknown, singular, absolute, pronominal suffix, second person, masculine, plural
+M0846	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M0847	verb, pa“el, participle (passive), unknown, masculine, plural, absolute
+M0848	verb, pi“el, perfect, second person, feminine, singular, pronominal suffix, first person, unknown, singular
+M0849	verb, pi“el, imperative, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0850	verb, pa“el, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+M0851	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, third person, masculine, singular
+M0852	verb, pi“el, perfect, first person, unknown, plural, pronominal suffix, second person, masculine, singular
+M0853	adjective, haf‘el, participle, unknown, masculine, singular, absolute
+M0854	verb, hishtaf‘al, imperfect, first person, unknown, plural
+M0855	noun, masculine, dual, absolute, pronominal suffix, first person, unknown, plural
+M0856	verb, pa“el, participle, unknown, masculine, plural, absolute
+M0857	verb, hishtaf‘al, perfect, first person, unknown, singular
+M0858	noun, pe‘al, participle (passive), unknown, feminine, singular, absolute
+M0859	verb, pa“el, perfect, first person, unknown, singular
+M0860	verb, pi“el, imperfect, second person, feminine, plural
+M0861	verb, hif‘il, imperfect, first person, unknown, plural, pronominal suffix, third person, feminine, singular
+M0862	adjective, hif‘il, participle, unknown, feminine, singular, construct
+M0863	verb, hof‘al, imperfect, second person, masculine, plural
+M0864	noun, unknown, dual, absolute, pronominal suffix, third person, feminine, plural
+M0865	verb, pe‘al, imperfect, first person, unknown, singular
+M0866	verb, qal, imperfect, first person, unknown, plural, pronominal suffix, third person, feminine, singular
+M0867	noun, qal, participle (passive), unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+M0868	verb, hif‘il, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+M0869	verb, pa“el, perfect, second person, masculine, singular
+M0870	verb, qal, participle (passive), unknown, masculine, plural, construct
+M0871	verb, qal, imperfect, third person, masculine, singular, pronominal suffix, second person, feminine, singular
+M0872	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+M0873	verb, hitpa“al, imperfect, third person, feminine, singular
+M0874	noun, nif‘al, participle, unknown, feminine, plural, construct
+M0875	verb, hitpa“el, perfect, second person, feminine, singular
+M0876	verb, pe‘al, imperfect, third person, feminine, plural
+M0877	verb, qal, wayyiqtol, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0878	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, third person, masculine, plural
+M0879	verb, nif‘al, wayyiqtol, second person, masculine, plural
+M0880	noun, pi“el, participle, unknown, feminine, singular, construct
+M0881	verb, qal, wayyiqtol, second person, feminine, singular, pronominal suffix, third person, masculine, plural
+M0882	verb, passiveqal, participle (passive), unknown, masculine, singular, absolute
+M0883	verb, pi“el, imperfect, first person, unknown, singular, pronominal suffix, second person, masculine, plural
+M0884	verb, pi“el, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0885	verb, etpa“al, perfect, third person, masculine, singular
+M0886	verb, pi“el, wayyiqtol, first person, unknown, plural
+M0887	verb, haf‘el, perfect, second person, masculine, singular
+M0888	verb, haf‘el, imperfect, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+M0889	verb, hif‘il, imperfect, second person, masculine, plural, pronominal suffix, third person, masculine, singular
+M0890	noun, qal, participle (passive), unknown, feminine, plural, absolute
+M0891	noun, feminine, dual, absolute, pronominal suffix, first person, unknown, singular
+M0892	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, second person, feminine, singular
+M0893	noun, pe‘al, participle, unknown, masculine, plural, emphatic
+M0894	verb, hif‘il, perfect, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+M0895	verb, pu“al, perfect, second person, masculine, plural
+M0896	verb, pe‘al, imperfect, first person, unknown, plural
+M0897	verb, hif‘il, wayyiqtol, third person, feminine, plural
+M0898	adjective, pe‘al, participle (passive), unknown, feminine, singular, absolute
+M0899	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+M0900	adverb, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M0901	noun, hif‘il, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+M0902	verb, hitpa“el, imperfect, third person, feminine, plural
+M0903	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, first person, unknown, singular
+M0904	verb, hishtaf‘al, imperfect, first person, unknown, singular
+M0905	verb, pi“el, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+M0906	verb, pu“al, perfect, second person, feminine, singular
+M0907	noun, unknown, singular, absolute, pronominal suffix, second person, feminine, plural
+M0908	verb, hif‘il, perfect, third person, unknown, plural, pronominal suffix, second person, feminine, singular
+M0909	verb, hif‘il, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+M0910	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+M0911	verb, shaf‘el, perfect, third person, masculine, singular
+M0912	verb, qal, imperative, second person, masculine, plural, pronominal suffix, third person, masculine, plural
+M0913	verb, hif‘il, imperfect, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+M0914	verb, pi“el, perfect, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0915	adjective, feminine, plural, emphatic
+M0916	verb, pe‘al, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+M0917	preposition, feminine, singular, absolute, pronominal suffix, first person, unknown, singular
+M0918	verb, nif‘al, wayyiqtol, third person, feminine, plural
+M0919	noun, pu“al, participle (passive), unknown, feminine, plural, construct
+M0920	verb, pi“el, wayyiqtol, second person, feminine, plural
+M0921	verb, hof‘al, imperfect, second person, masculine, singular
+M0922	verb, shaf‘el, infinitive (construct), unknown, unknown, unknown, absolute
+M0923	verb, pi“el, wayyiqtol, third person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0924	noun, qal, participle (passive), unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+M0925	verb, pe‘al, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0926	verb, qal, wayyiqtol, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0927	verb, hif‘il, imperfect, first person, unknown, plural, pronominal suffix, second person, masculine, singular
+M0928	verb, hitpe‘el, imperfect, second person, masculine, plural
+M0929	verb, pi“el, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+M0930	verb, hitpe‘el, participle, unknown, feminine, singular, absolute
+M0931	verb, hif‘il, imperative, second person, feminine, plural
+M0932	verb, haf‘el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+M0933	verb, qal, wayyiqtol, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+M0934	verb, qal, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+M0935	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, plural
+M0936	verb, haf‘el, perfect, first person, unknown, plural
+M0937	verb, qal, wayyiqtol, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+M0938	verb, pa“el, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+M0939	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, second person, feminine, singular
+M0940	verb, pe‘al, perfect, third person, feminine, plural
+M0941	noun, hitpe‘el, infinitive (construct), unknown, unknown, unknown, absolute
+M0942	verb, hif‘il, wayyiqtol, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+M0943	verb, pi“el, imperfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+M0944	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, second person, feminine, singular
+M0945	verb, hitpe‘el, infinitive (construct), unknown, unknown, unknown, absolute
+M0946	verb, pi“el, imperfect, second person, masculine, plural, pronominal suffix, third person, masculine, plural
+M0947	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, plural
+M0948	verb, nitpa“el, perfect, third person, masculine, singular
+M0949	verb, hif‘il, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+M0950	verb, etpa“al, imperfect, third person, masculine, plural
+M0951	verb, hotpa“al, perfect, third person, feminine, singular
+M0952	verb, hishtaf‘al, wayyiqtol, third person, feminine, plural
+M0953	verb, pi“el, imperfect, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+M0954	verb, hif‘il, wayyiqtol, first person, unknown, singular, pronominal suffix, second person, feminine, singular
+M0955	noun, qal, participle, unknown, feminine, plural, absolute, pronominal suffix, second person, feminine, singular
+M0956	verb, shaf‘el, perfect, third person, masculine, plural
+M0957	noun, hof‘al, participle (passive), unknown, feminine, singular, absolute
+M0958	verb, hif‘il, perfect, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+M0959	negative particle, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+M0960	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute
+M0961	verb, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+M0962	verb, pe‘al, perfect, second person, masculine, plural
+M0963	adverb, feminine, plural, absolute, pronominal suffix, second person, masculine, plural
+M0964	noun, nif‘al, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+M0965	adverb, nif‘al, participle, unknown, feminine, plural, absolute
+M0966	verb, hif‘il, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+M0967	verb, hotpa“al, infinitive (construct), unknown, unknown, unknown, absolute
+M0968	verb, qal, perfect, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+M0969	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+M0970	verb, hif‘il, perfect, third person, unknown, plural, pronominal suffix, third person, feminine, singular
+M0971	noun, hif‘il, infinitive (construct), unknown, unknown, unknown, construct
+M0972	verb, hif‘il, imperfect, second person, masculine, plural, pronominal suffix, third person, feminine, singular
+M0973	noun, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute
+M0974	verb, haf‘el, perfect, first person, unknown, singular
+M0975	verb, hitpa“el, participle, unknown, feminine, plural, absolute
+M0976	adjective, passiveqal, participle (passive), unknown, masculine, singular, absolute
+M0977	verb, qal, imperfect, second person, masculine, plural, pronominal suffix, third person, feminine, singular
+M0978	verb, hif‘il, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, plural
+M0979	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, second person, feminine, singular
+M0980	verb, hif‘il, perfect, second person, masculine, plural, pronominal suffix, first person, unknown, plural
+M0981	noun, pu“al, participle (passive), unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M0982	noun, feminine, plural, absolute, pronominal suffix, first person, unknown, singular
+M0983	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, feminine, singular
+M0984	verb, pi“el, wayyiqtol, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+M0985	verb, hitpa“el, wayyiqtol, first person, unknown, plural
+M0986	preposition, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+M0987	verb, etpe‘el, perfect, third person, feminine, singular
+M0988	verb, hitpe‘el, imperfect, third person, masculine, plural
+M0989	verb, pi“el, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0990	verb, pi“el, participle, unknown, feminine, singular, construct
+M0991	verb, hif‘il, perfect, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+M0992	interjection, pronominal suffix, second person, masculine, plural
+M0993	verb, haf‘el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+M0994	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, first person, unknown, plural
+M0995	verb, pi“el, wayyiqtol, third person, feminine, singular, pronominal suffix, first person, unknown, singular
+M0996	verb, haf‘el, imperfect, second person, masculine, plural
+M0997	verb, haf‘el, perfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+M0998	verb, pi“el, perfect, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+M0999	verb, hof‘al, perfect, third person, masculine, plural
+M1000	noun, hif‘il, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+M1001	verb, qal, perfect, second person, feminine, singular, pronominal suffix, first person, unknown, singular
+M1002	verb, haf‘el, participle (passive), unknown, masculine, singular, absolute
+M1003	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M1004	adjective, pi“el, participle, unknown, feminine, singular, absolute
+M1005	verb, pi“el, wayyiqtol, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+M1006	noun, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+M1007	noun, pe‘al, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+M1008	adjective, hitpa“el, participle, unknown, masculine, plural, absolute
+M1009	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, plural
+M1010	verb, pe‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+M1011	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, plural
+M1012	verb, qal, imperfect, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+M1013	verb, pe‘al, imperative, second person, feminine, singular
+M1014	interrogative particle, pronominal suffix, third person, masculine, plural
+M1015	verb, qal, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, feminine, singular
+M1016	preposition, pronominal suffix, second person, feminine, plural
+M1017	verb, hishtaf‘al, participle, unknown, masculine, singular, absolute
+M1018	noun, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, first person, unknown, plural
+M1019	adjective, pe‘al, participle (passive), unknown, masculine, singular, absolute
+M1020	conjunction, masculine, plural, construct
+M1021	verb, pe‘al, participle (passive), unknown, masculine, plural, absolute
+M1022	verb, haf‘el, imperfect, first person, unknown, plural
+M1023	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, plural
+M1024	adjective, hof‘al, participle (passive), unknown, feminine, plural, construct
+M1025	verb, pa“el, imperative, second person, masculine, plural
+M1026	adverb, qal, infinitive (construct), unknown, unknown, unknown, construct
+M1027	verb, haf‘el, perfect, third person, feminine, singular
+M1028	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+M1029	demonstrative pronoun, third person, feminine, plural
+M1030	verb, pi“el, wayyiqtol, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+M1031	verb, hif‘il, imperfect, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+M1032	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M1033	noun, masculine, dual, absolute, pronominal suffix, second person, masculine, plural
+M1034	adverb, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+M1035	verb, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+M1036	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+M1037	verb, qal, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, masculine, singular
+M1038	verb, pe‘al, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+M1039	verb, haf‘el, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+M1040	adverb, feminine, plural, absolute
+M1041	adverb, masculine, plural, absolute
+M1042	verb, pi“el, imperfect, third person, masculine, plural, pronominal suffix, second person, feminine, singular
+M1043	verb, hitpa“al, perfect, third person, masculine, singular
+M1044	verb, qal, perfect, second person, feminine, singular, pronominal suffix, third person, masculine, plural
+M1045	verb, pi“el, wayyiqtol, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+M1046	verb, hif‘il, perfect, second person, feminine, plural
+M1047	verb, hitpo“el, perfect, third person, unknown, plural
+M1048	verb, hif‘il, imperative, second person, masculine, plural, pronominal suffix, third person, masculine, plural
+M1049	verb, qal, perfect, second person, feminine, singular, pronominal suffix, third person, masculine, singular
+M1050	noun, hif‘il, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+M1051	preposition, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+M1052	verb, hishtaf‘al, infinitive (construct), unknown, unknown, unknown, construct
+M1053	verb, po“al, imperfect, third person, masculine, plural
+M1054	verb, hitpa“el, participle, unknown, feminine, singular, construct
+M1055	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+M1056	conjunction, masculine, singular
+M1057	verb, hitpa“al, perfect, second person, masculine, singular
+M1058	verb, shaf‘el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, masculine, singular
+M1059	verb, hishtaf‘al, perfect, third person, masculine, singular
+M1060	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+M1061	verb, hitpa“el, wayyiqtol, third person, feminine, plural
+M1062	verb, pu“al, imperfect, third person, feminine, plural
+M1063	adverb, pu“al, infinitive (absolute), unknown, unknown, unknown, absolute
+M1064	noun, pu“al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+M1065	verb, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, third person, masculine, singular
+M1066	verb, hif‘il, imperfect, third person, feminine, plural, pronominal suffix, second person, feminine, singular
+M1067	verb, qal, perfect, first person, unknown, singular, pronominal suffix, first person, unknown, singular
+M1068	verb, pa“el, imperfect, second person, masculine, singular
+M1069	verb, hitpa“al, infinitive (construct), unknown, unknown, unknown, construct
+M1070	verb, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+M1071	verb, pa“el, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+M1072	noun, nif‘al, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+M1073	verb, hif‘il, imperfect, second person, masculine, plural, pronominal suffix, third person, masculine, plural
+M1074	verb, hof‘al, imperative, second person, masculine, singular
+M1075	adverb, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+M1076	verb, tif‘al, imperfect, second person, masculine, singular
+M1077	noun, nif‘al, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+M1078	noun, hof‘al, participle (passive), unknown, masculine, plural, construct
+M1079	verb, pa“el, imperfect, first person, unknown, plural
+M1080	verb, hif‘il, wayyiqtol, second person, masculine, plural, pronominal suffix, third person, masculine, plural
+M1081	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, feminine, singular
+M1082	verb, pa“el, imperative, second person, masculine, singular
+M1083	verb, pi“el, imperfect, third person, masculine, singular, pronominal suffix, second person, feminine, singular
+M1084	noun, hishtaf‘al, participle, unknown, masculine, singular, absolute
+M1085	verb, hof‘al, imperfect, first person, unknown, singular
+M1086	verb, hitpa“el, wayyiqtol, second person, masculine, singular
+M1087	verb, pe‘al, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+M1088	verb, qal, wayyiqtol, third person, masculine, plural, pronominal suffix, second person, masculine, singular
+M1089	adverb, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+M1090	adjective, pi“el, participle, unknown, feminine, plural, construct
+M1091	verb, hof‘al, imperfect, third person, feminine, plural
+M1092	verb, hitpa“el, imperative, second person, feminine, plural
+M1093	noun, pe‘al, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+M1094	adverb, masculine, plural, absolute, pronominal suffix, first person, unknown, plural
+M1095	verb, hitpa“al, participle, unknown, feminine, singular, absolute
+M1096	verb, shaf‘el, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, plural
+M1097	verb, pe‘al, participle (passive), unknown, feminine, plural, absolute
+M1098	noun, qal, infinitive (absolute), unknown, unknown, unknown, absolute
+M1099	verb, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, first person, unknown, plural
+M1100	noun, tif‘al, participle, unknown, masculine, singular, absolute
+M1101	verb, haf‘el, participle, unknown, feminine, plural, absolute
+M1102	noun, nif‘al, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+M1103	noun, hitpa“el, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+M1104	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, second person, feminine, singular
+M1105	adjective, passiveqal, participle (passive), unknown, feminine, singular, absolute
+M1106	verb, haf‘el, imperfect, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+M1107	verb, shaf‘el, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, singular
+M1108	verb, etpe‘el, perfect, third person, feminine, plural
+M1109	verb, hishtaf‘al, wayyiqtol, first person, unknown, singular
+M1110	adverb, hitpa“el, infinitive (absolute), unknown, unknown, unknown, absolute
+M1111	noun, po“el, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M1112	verb, hif‘il, imperative, second person, feminine, singular, pronominal suffix, third person, masculine, singular
+M1113	adjective, hof‘al, participle (passive), unknown, masculine, singular, construct
+M1114	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+M1115	negative particle, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+M1116	verb, shaf‘el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, plural
+M1117	verb, pa“el, imperfect, second person, masculine, plural
+M1118	verb, qal, imperfect, third person, feminine, singular, pronominal suffix, second person, masculine, plural
+M1119	verb, po“al, perfect, first person, unknown, singular
+M1120	verb, hitpa“el, imperfect, first person, unknown, singular, pronominal suffix, third person, masculine, plural
+M1121	noun, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+M1122	verb, po“al, perfect, third person, unknown, plural
+M1123	verb, etpa“al, imperfect, third person, masculine, singular
+M1124	verb, pi“el, perfect, first person, unknown, plural, pronominal suffix, second person, masculine, plural
+M1125	verb, qal, wayyiqtol, first person, unknown, plural, pronominal suffix, third person, feminine, singular
+M1126	verb, qal, perfect, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+M1127	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, second person, masculine, singular
+M1128	verb, hishtaf‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, first person, unknown, singular
+M1129	conjunction, unknown, plural
+M1130	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, second person, masculine, plural
+M1131	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, plural
+M1132	noun, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+M1133	verb, tif‘al, participle, unknown, masculine, singular, absolute
+M1134	verb, pi“el, imperfect, second person, feminine, singular, pronominal suffix, third person, masculine, plural
+M1135	verb, pa“el, imperfect, third person, masculine, plural, pronominal suffix, second person, masculine, singular
+M1136	verb, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+M1137	verb, pe‘al, participle (passive), unknown, feminine, singular, absolute
+M1138	verb, qal, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, plural
+M1139	verb, pi“el, perfect, third person, feminine, singular, pronominal suffix, second person, masculine, singular
+M1140	noun, masculine, dual, absolute, pronominal suffix, third person, feminine, plural
+M1141	verb, pa“el, imperfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+M1142	verb, hif‘il, imperfect, third person, masculine, plural, pronominal suffix, third person, feminine, singular
+M1143	verb, tif‘al, perfect, first person, unknown, singular, pronominal suffix, second person, masculine, plural
+M1144	noun, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+M1145	noun, feminine, plural, absolute, pronominal suffix, second person, feminine, plural
+M1146	adjective, hof‘al, participle (passive), unknown, feminine, singular, absolute
+M1147	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, second person, feminine, singular
+M1148	preposition, unknown, singular, absolute, pronominal suffix, second person, feminine, singular
+M1149	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, plural
+M1150	verb, shaf‘el, imperfect, third person, masculine, singular
+M1151	verb, pa“el, imperfect, first person, unknown, singular
+M1152	verb, hif‘il, imperfect, third person, feminine, singular, pronominal suffix, first person, unknown, plural
+M1153	verb, qal, participle, unknown, feminine, plural, absolute, pronominal suffix, third person, masculine, singular
+M1154	verb, pi“el, imperative, second person, masculine, singular, pronominal suffix, third person, masculine, plural
+M1155	noun, qal, participle (passive), unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+M1156	negative particle, unknown, singular, construct
+M1157	verb, haf‘el, imperfect, third person, masculine, singular, pronominal suffix, first person, unknown, singular
+M1158	verb, pi“el, perfect, third person, feminine, singular, pronominal suffix, second person, feminine, singular
+M1159	adverb, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+M1160	verb, hitpa“el, perfect, third person, unknown, plural, pronominal suffix, third person, masculine, plural
+M1161	verb, nif‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+M1162	verb, etpa“al, perfect, third person, unknown, plural
+M1163	noun, hof‘al, participle (passive), unknown, masculine, singular, construct
+M1164	verb, hif‘il, perfect, second person, feminine, singular, pronominal suffix, first person, unknown, singular
+M1165	verb, haf‘el, imperative, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M1166	noun, pu“al, participle (passive), unknown, masculine, plural, construct
+M1167	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+M1168	verb, pu“al, imperfect, second person, feminine, singular
+M1169	noun, masculine, plural, absolute, pronominal suffix, second person, feminine, plural
+M1170	verb, pa“el, participle (passive), unknown, feminine, singular, absolute
+M1171	verb, haf‘el, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M1172	adjective, hof‘al, participle (passive), unknown, feminine, plural, absolute
+M1173	verb, hitpe‘el, perfect, third person, masculine, plural
+M1174	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+M1175	verb, nif‘al, participle, unknown, masculine, plural, construct
+M1176	adverb, hof‘al, participle (passive), unknown, masculine, singular, absolute
+M1177	verb, pu“al, wayyiqtol, third person, masculine, singular
+M1178	noun, nif‘al, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, masculine, plural
+M1179	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+M1180	verb, haf‘el, perfect, third person, masculine, plural, pronominal suffix, first person, unknown, plural
+M1181	adjective, pi“el, participle, unknown, feminine, plural, absolute
+M1182	noun, qal, participle, unknown, feminine, plural, absolute, pronominal suffix, first person, unknown, plural
+M1183	verb, qal, imperfect, third person, masculine, plural, pronominal suffix, second person, masculine, plural
+M1184	verb, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+M1185	verb, hitpa“al, perfect, third person, masculine, plural
+M1186	verb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, feminine, singular
+M1187	adverb, feminine, plural, absolute, pronominal suffix, third person, feminine, singular
+M1188	verb, pe‘al, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, plural
+M1189	adjective, pe‘al, participle, unknown, masculine, plural, absolute
+M1190	adjective, hif‘il, participle, unknown, feminine, plural, absolute
+M1191	adverb, feminine, plural, absolute, pronominal suffix, second person, feminine, singular
+M1192	verb, haf‘el, perfect, third person, masculine, singular, pronominal suffix, third person, masculine, singular
+M1193	verb, pe‘al, perfect, first person, unknown, singular, pronominal suffix, third person, masculine, singular
+M1194	verb, pi“el, wayyiqtol, first person, unknown, plural, pronominal suffix, second person, masculine, singular
+M1195	verb, shaf‘el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+M1196	noun, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+M1197	verb, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+M1198	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, third person, feminine, singular
+M1199	verb, qal, imperfect, third person, feminine, plural, pronominal suffix, first person, unknown, singular
+M1200	verb, pa“el, perfect, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+M1201	verb, pi“el, imperfect, third person, feminine, singular, pronominal suffix, first person, unknown, plural
+M1202	verb, hitpe‘el, perfect, second person, masculine, singular
+M1203	noun, qal, participle (passive), unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+M1204	noun, hitpa“al, participle, unknown, masculine, singular, absolute
+M1205	verb, hif‘il, wayyiqtol, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+M1206	verb, hof‘al, wayyiqtol, second person, feminine, singular
+M1207	noun, nif‘al, participle, unknown, feminine, singular, construct
+M1208	verb, po“el, perfect, third person, masculine, singular
+M1209	noun, qal, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+M1210	noun, qal, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+M1211	interjection, masculine, singular, absolute
+M1212	verb, pa“el, imperative, second person, masculine, plural, pronominal suffix, third person, masculine, singular
+M1213	verb, hif‘il, wayyiqtol, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+M1214	verb, shaf‘el, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+M1215	verb, haf‘el, imperative, second person, masculine, singular
+M1216	verb, af‘el, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, singular
+M1217	verb, qal, participle, unknown, feminine, plural, absolute, pronominal suffix, second person, feminine, singular
+M1218	verb, hof‘al, perfect, second person, feminine, singular
+M1219	verb, haf‘el, infinitive (construct), unknown, unknown, unknown, construct
+M1220	verb, qal, perfect, first person, unknown, singular, pronominal suffix, third person, feminine, plural
+M1221	noun, qal, participle (passive), unknown, feminine, plural, construct
+M1222	verb, hitpa“el, infinitive (absolute), unknown, unknown, unknown, absolute
+M1223	verb, hishtaf‘al, imperative, second person, feminine, singular
+M1224	adverb, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute
+M1225	verb, po“el, imperfect, third person, masculine, singular
+M1226	verb, nif‘al, wayyiqtol, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+M1227	verb, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, first person, unknown, singular
+M1228	verb, pi“el, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, second person, feminine, plural
+M1229	verb, hitpo“el, imperfect, third person, masculine, plural
+M1230	noun, hif‘il, participle, unknown, feminine, singular, construct
+M1231	verb, haf‘el, perfect, second person, masculine, singular, pronominal suffix, first person, unknown, plural
+M1232	verb, qal, perfect, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+M1233	verb, qal, perfect, third person, feminine, singular, pronominal suffix, second person, feminine, singular
+M1234	verb, hitpo“el, participle, unknown, masculine, singular, absolute
+M1235	verb, hif‘il, perfect, third person, masculine, singular, pronominal suffix, second person, feminine, singular
+M1236	verb, hitpa“el, participle, unknown, masculine, singular, construct
+M1237	verb, af‘el, imperative, second person, masculine, singular
+M1238	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, second person, masculine, plural
+M1239	verb, hif‘il, perfect, second person, feminine, singular, pronominal suffix, third person, masculine, singular
+M1240	noun, nif‘al, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, masculine, singular
+M1241	verb, etpa“al, perfect, third person, masculine, plural
+M1242	verb, haf‘el, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, singular
+M1243	preposition, masculine, singular, absolute, pronominal suffix, second person, masculine, plural
+M1244	verb, pi“el, wayyiqtol, second person, feminine, singular, pronominal suffix, third person, masculine, plural
+M1245	noun, pa“el, participle (passive), unknown, feminine, plural, emphatic
+M1246	preposition, feminine, singular, absolute, pronominal suffix, third person, feminine, singular
+M1247	verb, hif‘il, perfect, third person, feminine, singular, pronominal suffix, first person, unknown, plural
+M1248	verb, hitpe‘el, perfect, second person, masculine, plural
+M1249	verb, haf‘el, imperfect, third person, feminine, singular, pronominal suffix, third person, masculine, singular
+M1250	noun, qal, participle (passive), unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M1251	verb, hof‘al, imperative, second person, masculine, plural
+M1252	preposition, masculine, singular, absolute, pronominal suffix, first person, unknown, plural
+M1253	noun, hitpa“el, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, singular
+M1254	verb, nif‘al, wayyiqtol, second person, feminine, singular
+M1255	verb, haf‘el, participle, unknown, feminine, singular, construct
+M1256	verb, pi“el, perfect, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+M1257	noun, pi“el, infinitive (construct), unknown, unknown, unknown, absolute
+M1258	verb, haf‘el, perfect, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+M1259	verb, pi“el, perfect, second person, feminine, plural
+M1260	verb, pe‘al, perfect, third person, masculine, plural, pronominal suffix, third person, masculine, singular
+M1261	noun, pi“el, participle, unknown, masculine, singular, absolute, pronominal suffix, second person, feminine, singular
+M1262	noun, hitpa“el, participle, unknown, masculine, singular, absolute, pronominal suffix, first person, unknown, singular
+M1263	noun, hof‘al, participle (passive), unknown, feminine, plural, absolute
+M1264	noun, pe‘al, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, feminine, singular
+M1265	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, third person, feminine, plural
+M1266	verb, hif‘il, wayyiqtol, third person, masculine, plural, pronominal suffix, second person, masculine, singular
+M1267	adverb, masculine, plural, absolute, pronominal suffix, third person, masculine, singular
+M1268	verb, af‘el, imperative, second person, masculine, plural
+M1269	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, third person, feminine, plural
+M1270	verb, af‘el, infinitive (construct), unknown, unknown, unknown, construct
+M1271	verb, nif‘al, imperfect, second person, feminine, plural
+M1272	verb, hif‘il, wayyiqtol, third person, masculine, singular, pronominal suffix, third person, feminine, plural
+M1273	verb, pi“el, participle, unknown, masculine, singular, construct
+M1274	verb, pi“el, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+M1275	verb, nif‘al, participle, unknown, masculine, singular, construct
+M1276	verb, hitpa“al, imperfect, third person, masculine, plural
+M1277	verb, nitpa“el, perfect, third person, unknown, plural
+M1278	verb, haf‘el, imperfect, first person, unknown, singular, pronominal suffix, third person, feminine, singular
+M1279	adjective, hif‘il, participle, unknown, masculine, plural, construct
+M1280	verb, pe‘il, perfect, second person, masculine, singular
+M1281	interrogative particle, pronominal suffix, second person, masculine, singular
+M1282	verb, nif‘al, imperfect, second person, masculine, singular, pronominal suffix, first person, unknown, singular
+M1283	verb, shaf‘el, participle, unknown, masculine, singular, absolute
+M1284	verb, qal, wayyiqtol, first person, unknown, plural, pronominal suffix, third person, masculine, singular
+M1285	verb, hof‘al, perfect, second person, masculine, plural
+M1286	verb, po“el, perfect, third person, unknown, plural
+M1287	verb, pi“el, imperative, second person, feminine, singular, pronominal suffix, first person, unknown, singular
+M1288	adverb, nif‘al, participle, unknown, feminine, singular, absolute
+M1289	verb, hof‘al, wayyiqtol, third person, masculine, plural
+M1290	noun, qal, participle (passive), unknown, masculine, singular, absolute, pronominal suffix, second person, masculine, singular
+M1291	verb, pi“el, perfect, third person, masculine, singular, pronominal suffix, second person, feminine, singular
+M1292	noun, qal, participle (passive), unknown, masculine, plural, absolute, pronominal suffix, second person, masculine, plural
+M1293	verb, tif‘al, perfect, first person, unknown, singular
+M1294	verb, pi“el, imperative, second person, masculine, plural, pronominal suffix, first person, unknown, plural
+M1295	verb, hif‘il, perfect, third person, feminine, singular, pronominal suffix, third person, masculine, plural
+M1296	verb, po“el, perfect, first person, unknown, singular
+M1297	verb, pi“el, wayyiqtol, third person, masculine, plural, pronominal suffix, first person, unknown, singular
+M1298	verb, hif‘il, participle, unknown, masculine, singular, absolute, pronominal suffix, third person, feminine, singular
+M1299	verb, hif‘il, perfect, second person, feminine, singular, pronominal suffix, first person, unknown, plural
+M1300	verb, pi“el, wayyiqtol, third person, feminine, singular, pronominal suffix, third person, feminine, singular
+M1301	noun, hif‘il, infinitive (construct), unknown, unknown, unknown, absolute, pronominal suffix, third person, masculine, singular
+M1302	verb, hitpe‘el, participle, unknown, masculine, plural, absolute
+M1303	verb, hof‘al, perfect, first person, unknown, plural
+M1304	noun, nif‘al, participle, unknown, masculine, plural, absolute, pronominal suffix, second person, feminine, singular
+M1305	verb, pi“el, wayyiqtol, third person, masculine, plural, pronominal suffix, first person, unknown, plural
+M1306	verb, hof‘al, infinitive (absolute), unknown, unknown, unknown, absolute
+M1307	verb, hif‘il, imperfect, third person, masculine, singular, pronominal suffix, second person, masculine, plural
+M1308	verb, pi“el, imperative, second person, feminine, plural
+M1309	noun, hif‘il, participle, unknown, masculine, plural, absolute, pronominal suffix, third person, feminine, singular
+M1310	noun, qal, participle, unknown, feminine, singular, absolute, pronominal suffix, third person, masculine, plural
+M1311	noun, qal, participle, unknown, masculine, plural, absolute, pronominal suffix, first person, unknown, singular
+M1312	verb, pe‘al, participle, unknown, masculine, plural, construct
+M1313	verb, hof‘al, imperfect, first person, unknown, plural, pronominal suffix, third person, masculine, plural
+M1314	verb, pa“el, participle, unknown, feminine, singular, absolute
+M1315	conjunction, feminine, singular, construct
+M1316	verb, pu“al, participle (passive), unknown, masculine, singular, construct
+M1317	adjective, pa“el, participle (passive), unknown, masculine, singular, absolute
