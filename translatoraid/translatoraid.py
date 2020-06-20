@@ -1,3 +1,4 @@
+## This script generates the gloss translation support files in /translatoraid/
 
 import pandas as pd
 
@@ -10,10 +11,12 @@ separator=pd.read_csv("sources/lastssepar.csv",header=None,names=["one"],sep="\t
 print(separator["one"].isna().sum(), ", ",separator.shape[0])
 print(4)
 #l1=pd.read_csv("sources/lexicon.csv")
-l1=pd.read_excel("sources/EHglosses.xls",usecols=["lexemeID","gloss"])
-l1.columns=["key","value"]
+l1=pd.read_excel("sources/EHglosses.xls",usecols=["lexemeID","gloss","extendedStrongNumber"])
+l1.columns=["key","value","H"]
+l1["H"]=l1["H"].apply(lambda x: x[1:]) # deletes the first letter "H"
 print(5)
 lexicon=dict(zip(l1["key"],l1["value"]))
+EtoH   =dict(zip(l1["key"],l1["H"]))
 print(6)
 m1=pd.read_csv("sources/mlexicon.csv")
 print(7)
@@ -32,6 +35,7 @@ print(10)
 
 
 glosstr0["morphologyfetched"]=glosstr0["morphology"].apply(lambda x: map(mdic.get, x)).apply(list)
+glosstr0["H"]=glosstr0["lexemeID"].apply(lambda x: map(EtoH.get, x)).apply(list)
 		
 glosstemplate="""<span id="word">
 <ol class="word">
@@ -39,14 +43,14 @@ glosstemplate="""<span id="word">
 <li lang="en_MORPH">{}</li>
 """+"""<li><span style="font-variant:small-caps;font-size:100%;">{}</span></li>"""*0+"""
 """+"""<li><span style="font-style:italic;font-size:100%;">{}</span></li>"""+"""
-<li><span style="font-size:80%;color=gray;">{}</span></li>
+<li><span style="font-size:80%;color=gray;"><a href="/v/{}">{}</a></span></li>
 </ol>
 </span>"""
 
 
-applyglosstemplate = lambda x: glosstemplate.format(x[0],x[1],x[2],x[3])
+applyglosstemplate = lambda x: glosstemplate.format(x[0],x[1],x[2],x[3],x[4])
 
-glosstrans = lambda x : "\n".join(map(applyglosstemplate, list(zip(x["trans1"], x["lexiconfetched"], x["morphologyfetched"], x["lexemeID"]))))
+glosstrans = lambda x : "\n".join(map(applyglosstemplate, list(zip(x["trans1"], x["lexiconfetched"], x["morphologyfetched"], x["H"], x["lexemeID"]))))
 
 print(11)
 
