@@ -1,5 +1,10 @@
 ## This script generates the gloss translation support files in /translatoraid/
 
+def beautify(phon):
+	if phon=="":return "_"
+	return phon.replace("ḏ","d").replace("ḡ","g").replace("ṯ","t").replace("ḵ","x").replace("ʔ","ʾ").replace("ʕ","ʿ").replace("ₐ","a").replace("î","ī").replace("ê","ē").replace("ô","ō").replace("û","ū").replace("ᵒ","ŏ").replace("ᵉ","ĕ").replace("ᵃ","ă").replace("ᵊ","ᵉ").replace("ʸ","").replace("ˈ",'<sub id="s">́</sub>').replace("  "," ").replace(" -","-")
+
+
 import pandas as pd
 
 print(1)
@@ -48,7 +53,7 @@ glosstemplate="""<span id="word">
 </span>"""
 
 
-applyglosstemplate = lambda x: glosstemplate.format(x[0],x[1],x[2],x[3],x[4])
+applyglosstemplate = lambda x: glosstemplate.format(beautify(x[0]),x[1],x[2],x[3],x[4])
 
 glosstrans = lambda x : "\n".join(map(applyglosstemplate, list(zip(x["trans1"], x["lexiconfetched"], x["morphologyfetched"], x["H"], x["lexemeID"]))))
 
