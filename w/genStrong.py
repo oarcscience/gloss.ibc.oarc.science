@@ -63,13 +63,13 @@ for i  in range(df.shape[0]):
 <p style="margin: 0px;background-color: #7296cc;padding: 5px;width:27%;"></p>
 
 """+"""<h1>{} {} ‘{}’ <span style="color: rgba(0, 0, 0, 0.75);font-size: 65%; font-family: EB Garamond;font-weight: normal;">({})</span></h1>""".format(df.iloc[i,22], df.iloc[i,2], df.iloc[i,20], lang_full(df.iloc[i,3]))+"""
-<p>Etymology: {}</p>""".format(df.iloc[i,15])+wrapper("""<p>Roots: {}</p>""", wrapper2("""
+<p>Etymology: {}""".format(df.iloc[i,15])+wrapper(""" | <span style="color: rgba(0, 0, 0, 0.75)">Roots:</span> {} """, wrapper2("""
 <a class="shadow" href="/w/{}">{}</a>""", stn(df.iloc[i,8] ), df.iloc[i,9])+wrapper2("""
 <a class="shadow" href="/w/{}">{}</a>""", stn(df.iloc[i,10]), df.iloc[i,11])+wrapper2("""
 <a class="shadow" href="/w/{}">{}</a>""", stn(df.iloc[i,12]), df.iloc[i,13]))+wrapper("""
-<p>In another language: {}</p> 
-""", wrapper("""<strong>{}</strong> """, df.iloc[i,6]))+wrapper("""({})""", stn(df.iloc[i,7]))+wrapper("""<p>Variants: {}</p>
-""", df.iloc[i,18])+wrapper("""<p>Morphology: {}</p>""", df.iloc[i,19])+wrapper("""<hr><p>{}</p>
+ | In another language: {}  
+""", wrapper("""<strong>{}</strong> """, df.iloc[i,6]))+wrapper("""({})""", stn(df.iloc[i,7]))+wrapper(""" | <span style="color: rgba(0, 0, 0, 0.75)">Variants:</span> {}
+""", df.iloc[i,18])+wrapper(""" | <span style="color: rgba(0, 0, 0, 0.75)">Morphology:</span> {} """, df.iloc[i,19])+wrapper("""</p><p>{}</p>
 """, df.iloc[i,21])+"""
 
 </article>
