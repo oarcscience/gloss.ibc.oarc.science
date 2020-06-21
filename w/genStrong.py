@@ -67,8 +67,9 @@ for i  in range(df.shape[0]):
 <a class="shadow" href="/w/{}">{}</a>""", stn(df.iloc[i,8] ), df.iloc[i,9])+wrapper2("""
 <a class="shadow" href="/w/{}">{}</a>""", stn(df.iloc[i,10]), df.iloc[i,11])+wrapper2("""
 <a class="shadow" href="/w/{}">{}</a>""", stn(df.iloc[i,12]), df.iloc[i,13]))+wrapper("""
-<p>In another language: {}</p>""", wrapper("""<strong>{}</strong> """, df.iloc[i,6]))+wrapper("""({})""", df.iloc[i,7])+wrapper("""
-<p>Variants: {}</p>""", df.iloc[i,19])+wrapper("""<p>Meaning<br> {}</p>""", df.iloc[i,21])+"""
+<p>In another language: {}</p>""", wrapper("""<strong>{}</strong> """, df.iloc[i,6]))+wrapper("""({})
+""", df.iloc[i,7])+wrapper("""<p>Variants: {}</p>""", df.iloc[i,18])+wrapper("""<p>Morphology: {}</p>""", df.iloc[i,19])+wrapper("""<p>Meaning<br> {}</p>
+""", df.iloc[i,21])+"""
 
 </article>
 
