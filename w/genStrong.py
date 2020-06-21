@@ -67,8 +67,9 @@ for i  in range(df.shape[0]):
 <a class="shadow" href="/w/{}">{}</a>""", stn(df.iloc[i,8] ), df.iloc[i,9])+wrapper2("""
 <a class="shadow" href="/w/{}">{}</a>""", stn(df.iloc[i,10]), df.iloc[i,11])+wrapper2("""
 <a class="shadow" href="/w/{}">{}</a>""", stn(df.iloc[i,12]), df.iloc[i,13]))+wrapper("""
-<p>In another language: {}</p>""", wrapper("""<strong>{}</strong> """, df.iloc[i,6]))+wrapper("""({})
-""", df.iloc[i,7])+wrapper("""<p>Variants: {}</p>""", df.iloc[i,18])+wrapper("""<p>Morphology: {}</p>""", df.iloc[i,19])+wrapper("""<p>Meaning<br> {}</p>
+<p>In another language: {}</p> 
+""", wrapper("""<strong>{}</strong> """, df.iloc[i,6]))+wrapper("""({})""", stn(df.iloc[i,7]))+wrapper("""<p>Variants: {}</p>
+""", df.iloc[i,18])+wrapper("""<p>Morphology: {}</p>""", df.iloc[i,19])+wrapper("""<hr><p>{}</p>
 """, df.iloc[i,21])+"""
 
 </article>
@@ -124,8 +125,8 @@ with open("../lexicon.html","w+") as fout:
 <p style="margin: 0px;background-color: #7296cc;padding: 5px;width:27%;"></p>
 
 
-<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Writings</span>""" + "".join(
-["""<span id="toc"><span style="color:darkgray;">"""+str(int(df.iloc[i,0][1:]))+"""</span><a class="shadow" href="/w/"""+str(int(df.iloc[i,0][1:]))+""".html">""" +df.iloc[i,2]+"</a></span>" for i in range(df.shape[0]) ])+ """
+<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Lexemes</span>""" + "".join(
+["""<span id="toc"><span style="color:darkgray;">"""+str(int(df.iloc[i,0][1:]))+"""</span><a class="shadow" href="/w/"""+str(int(df.iloc[i,0][1:]))+""".html">""" +df.iloc[i,22]+" "+df.iloc[i,2]+"</a></span>" for i in range(df.shape[0]) ])+ """
 </p></div>
  
 </article>
