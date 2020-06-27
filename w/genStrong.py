@@ -77,7 +77,7 @@ for i  in range(df.shape[0]):
 <p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/"""+str(int(df.iloc[max(i-1,0),0][1:]))+".html"+""" ">&laquo; Back</a>
 <a class="shadow" style="float:right;" href="/w/""" +str(int(df.iloc[min(i+1,df.shape[0]-1),0][1:]))+".html" +""" ">Forth &raquo;</a></p>
 
-<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in</span>"""+"".join(["""<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="/v/"""+h+""".html">""" +h+"</a></span>" for h in df.iloc[i,17].split(",") ])+ """
+<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in</span>"""+"".join(["""<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="/v/"""+h+""".html">""" +h+"</a></span>" for h in sorted(df.iloc[i,17].split(",")) ])+ """
 </p></div>
 
 
