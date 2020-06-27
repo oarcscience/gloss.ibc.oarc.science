@@ -102,7 +102,7 @@ for i  in range(df.shape[0]):
 </body></html>"""  )
 
 
-
+df=df.sort_values(by=[df.columns[0]], axis=0)
 
 with open("../lexicon.html","w+") as fout:
     fout.write("""<!DOCTYPE html>
