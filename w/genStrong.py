@@ -44,7 +44,7 @@ for i  in range(df.shape[0]):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" href="/assets/img/favicon.png"/>
 
-<title>Strong's lexeme """+df.iloc[i,0][1:]+"""— Westminster Leningrad Codex for Linguists</title>
+<title>Strong's lexeme """+df.iloc[i,0][1:]+""" — Westminster Leningrad Codex for Linguists</title>
 <meta name="description" content=""""+df.iloc[i,7]+"""">
 
 <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
@@ -76,7 +76,7 @@ for i  in range(df.shape[0]):
 <p style="margin: 0px;background-color: #ff7f2a;padding: 5px;width:38%;"></p>
 <p style="margin: 0px;background-color: #7296cc;padding: 5px;width:27%;"></p>
 
-"""+"""<h1>{} {} ‘{}’ <span style="color: rgba(0, 0, 0, 0.75);font-size: 65%; font-family: EB Garamond;font-weight: normal;">({})</span></h1>""".format(df.iloc[i,22], df.iloc[i,2], df.iloc[i,20], lang_full(df.iloc[i,3]))+"""
+"""+"""<h1>{} <span id="bh">{}</span> ‘{}’ <span style="color: rgba(0, 0, 0, 0.75);font-size: 65%; font-family: EB Garamond;font-weight: normal;">({})</span></h1>""".format(df.iloc[i,22], df.iloc[i,2], df.iloc[i,20], lang_full(df.iloc[i,3]))+"""
 <p><span style="color: rgba(0, 0, 0, 0.75)">Etymology:</span> {}""".format(df.iloc[i,15])+wrapper(""" | <span style="color: rgba(0, 0, 0, 0.75)">Roots:</span> {} """, wrapper2("""
 <a class="shadow" href="/w/{}">{}</a>""", stn(df.iloc[i,8] ), df.iloc[i,9])+wrapper2("""
 <a class="shadow" href="/w/{}">{}</a>""", stn(df.iloc[i,10]), df.iloc[i,11])+wrapper2("""
@@ -140,7 +140,7 @@ with open("../lexicon.html","w+") as fout:
 
 
 <div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Lexemes</span>""" + "".join(
-["""<span id="toc"><span style="color:darkgray;">"""+str(int(df.iloc[i,0][1:]))+"""</span><a class="shadow" href="/w/"""+str(int(df.iloc[i,0][1:]))+""".html">""" +df.iloc[i,22]+" "+df.iloc[i,2]+"</a></span>" for i in range(df.shape[0]) ])+ """
+["""<span id="toc"><span style="color:darkgray;">"""+str(int(df.iloc[i,0][1:]))+"""</span><a class="shadow" href="/w/"""+str(int(df.iloc[i,0][1:]))+""".html">""" +df.iloc[i,22]+""" <span id="bh">"""+df.iloc[i,2]+"</span></a></span>" for i in range(df.shape[0]) ])+ """
 </p></div>
  
 </article>
