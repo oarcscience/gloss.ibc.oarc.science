@@ -124,7 +124,7 @@ for i  in range(df.shape[0]):
 <p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/"""+str(nav_prev(int(df.iloc[i,0][1:])))+".html"+""" ">&laquo; Back</a>
 <a class="shadow" style="float:right;" href="/w/""" +str(nav_next(int(df.iloc[i,0][1:])))+".html" +""" ">Forth &raquo;</a></p>
 
-<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in</span>"""+intell_links(sorted(list_notnull(df.iloc[i,17].split(",")),key=lambda x: float(x)))+ """
+<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in </span>"""+intell_links(sorted(list_notnull(df.iloc[i,17].split(",")),key=lambda x: float(x)))+ """
 </p></div>
 
 
