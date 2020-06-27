@@ -24,6 +24,15 @@ def wrapper2(line, arg1, arg2):
     if arg2=="":return ""
     else: return line.format(arg1, arg2)
 
+def nav_next(ind):
+    if ind==8674: return 9000
+    if ind==9012: return 1
+    return ind+1
+
+def nav_prev(ind):
+    if ind==9000: return 8674
+    if ind==1: return 9012
+    return ind-1
 
 for i  in range(df.shape[0]):
     if i%100==0:
@@ -57,8 +66,8 @@ for i  in range(df.shape[0]):
 <h3>Biblical Hebrew for linguists</h3><h4>Westminster Leningrad Codex</h4></a></nav>
 </header>
 
-<p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/"""+str(int(df.iloc[max(i-1,0),0][1:]))+".html"+""" ">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/w/""" +str(int(df.iloc[min(i+1,df.shape[0]-1),0][1:]))+".html" +""" ">Forth &raquo;</a></p>
+<p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/"""+str(nav_prev(int(df.iloc[i,0][1:])))+".html"+""" ">&laquo; Back</a>
+<a class="shadow" style="float:right;" href="/w/""" +str(nav_next(int(df.iloc[i,0][1:])))+".html" +""" ">Forth &raquo;</a></p>
 
 
 
@@ -79,8 +88,8 @@ for i  in range(df.shape[0]):
 
 </article>
 
-<p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/"""+str(int(df.iloc[max(i-1,0),0][1:]))+".html"+""" ">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/w/""" +str(int(df.iloc[min(i+1,df.shape[0]-1),0][1:]))+".html" +""" ">Forth &raquo;</a></p>
+<p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/"""+str(nav_prev(int(df.iloc[i,0][1:])))+".html"+""" ">&laquo; Back</a>
+<a class="shadow" style="float:right;" href="/w/""" +str(nav_next(int(df.iloc[i,0][1:])))+".html" +""" ">Forth &raquo;</a></p>
 
 <div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in</span>"""+"".join(["""<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="/v/"""+h+""".html">""" +h+"</a></span>" for h in sorted(list_notnull(df.iloc[i,17].split(",")),key=lambda x: float(x)) ])+ """
 </p></div>
