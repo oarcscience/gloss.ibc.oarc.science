@@ -1,55 +1,55 @@
-1:1 (15095) 
-1:2 (15096) 
-1:3 (15097) 
-1:4 (15098) 
-1:5 (15099) 
-1:6 (15100) 
-1:7 (15101) 
-1:8 (15102) 
-1:9 (15103) 
-1:10 (15104) 
-1:11 (15105) 
-1:12 (15106) 
-1:13 (15107) ס
-1:14 (15108) 
-2:1 (15109) 
-2:2 (15110) 
-2:3 (15111) 
-2:4 (15112) 
-2:5 (15113) 
-2:6 (15114) 
-2:7 (15115) 
-2:8 (15116) 
-2:9 (15117) פ
-2:10 (15118) 
-2:11 (15119) 
-2:12 (15120) פ
-2:13 (15121) 
-2:14 (15122) 
-2:15 (15123) 
-2:16 (15124) ס
-2:17 (15125) 
-3:1 (15126) 
-3:2 (15127) 
-3:3 (15128) 
-3:4 (15129) 
-3:5 (15130) 
-3:6 (15131) 
-3:7 (15132) 
-3:8 (15133) 
-3:9 (15134) 
-3:10 (15135) 
-3:11 (15136) 
-3:12 (15137) ס
-3:13 (15138) 
-3:14 (15139) 
-3:15 (15140) 
-3:16 (15141) 
-3:17 (15142) 
-3:18 (15143) ס
-3:19 (15144) 
-3:20 (15145) 
-3:21 (15146) פ
-3:22 (15147) 
-3:23 (15148) 
-3:24 (15149) 
+Malachi 1:1 (15095) <strong>utterance</strong> слова|рэч Існы да Ісраэль у|[Тв.с.] рука <strong>Malachi</strong> 
+Malachi 1:2 (15096) любіць|кахаць [В.с.] казаць Існы і казаць у|[Тв.с.] што любіць|кахаць ці не брат Эсаў да|[Д.с.] Яако́ў прароцтва Існы і любіць|кахаць [В.с.] Яако́ў 
+Malachi 1:3 (15097) і [В.с.] Эсаў ненавідзець і класці|ставіць [В.с.] гара <strong>desolation</strong> і [В.с.] уласнасць да|[Д.с.] <strong>jackal</strong> <strong>desert</strong> 
+Malachi 1:4 (15098) бо|што казаць Эдом <strong>shatter</strong> і вяртацца і будаваць <strong>ruin</strong> такім чынам казаць Існы <strong>service</strong> яны будаваць і я <strong>tear down</strong> і зваць да|[Д.с.] мяжа <strong>guilt</strong> і [арт.] народ які <strong>curse</strong> Існы (ажно) да свет|вечнасць 
+Malachi 1:5 (15099) і вока бачыць і <strong>you</strong> казаць узвялічваць Існы з на да|[Д.с.] мяжа Ісраэль 
+Malachi 1:6 (15100) сын <strong>be heavy</strong> бацька і слуга <strong>lord</strong> і калі[зл.] бацька я <strong>where</strong> вага і калі[зл.] <strong>lord</strong> я <strong>where</strong> <strong>fear</strong> казаць Існы <strong>service</strong> да|[Д.с.] [арт.] <strong>priest</strong> грэбаваць імя і казаць у|[Тв.с.] што грэбаваць [В.с.] імя 
+Malachi 1:7 (15101) <strong>approach</strong> на <strong>altar</strong> хлеб <strong>pollute</strong> і казаць у|[Тв.с.] што <strong>pollute</strong> у|[Тв.с.] казаць <strong>table</strong> Існы грэбаваць ён 
+Malachi 1:8 (15102) і бо|што <strong>approach</strong> <strong>blind</strong> да|[Д.с.] забіць няма зло і бо|што <strong>approach</strong> <strong>lame</strong> і <strong>become weak</strong> няма зло набліжацца ж, -ка [узмацн.] да|[Д.с.] <strong>governor</strong> ці <strong>like</strong> ці ці падняць твар казаць Існы <strong>service</strong> 
+Malachi 1:9 (15103) і <strong>now</strong> <strong>become weak</strong> ж, -ка [узмацн.] твар <strong>god</strong> і <strong>favour</strong> з рука быць <strong>this</strong> ці падняць з твар казаць Існы <strong>service</strong> 
+Malachi 1:10 (15104) хто таксама|нават у|[Тв.с.] і зачыняць дзверы і не <strong>be light</strong> <strong>altar</strong> <strong>in vain</strong> няма да|[Д.с.] <strong>pleasure</strong> у|[Тв.с.] казаць Існы <strong>service</strong> і <strong>present</strong> не <strong>like</strong> з рука 
+Malachi 1:11 (15105) бо|што з <strong>sunrise</strong> сонца і (ажно) да <strong>entrance</strong> вялікі імя у|[Тв.с.] [арт.] знешні народ і у|[Тв.с.] цэлы|увесь месца <strong>smoke</strong> <strong>approach</strong> да|[Д.с.] імя і <strong>present</strong> <strong>pure</strong> бо|што вялікі імя у|[Тв.с.] [арт.] знешні народ казаць Існы <strong>service</strong> 
+Malachi 1:12 (15106) і <strong>you</strong> <strong>defile</strong> [В.с.] у|[Тв.с.] казаць <strong>table</strong> валадар <strong>pollute</strong> ён і <strong>fruit</strong> грэбаваць <strong>food</strong> 
+Malachi 1:13 (15107) і казаць вось што <strong>weariness</strong> і <strong>blow</strong> [В.с.] казаць Існы <strong>service</strong> і прыйсці <strong>tear away</strong> і [В.с.] [арт.] <strong>lame</strong> і [В.с.] [арт.] <strong>become weak</strong> і прыйсці [В.с.] [арт.] <strong>present</strong> ці <strong>like</strong> [В.с.] з рука казаць Існы ס
+Malachi 1:14 (15108) і <strong>curse</strong> <strong>act cunningly</strong> і ёсць у|[Тв.с.] <strong>flock</strong> <strong>male</strong> і <strong>vow</strong> і забіць <strong>destroy</strong> да|[Д.с.] валадар бо|што цар вялікі я казаць Існы <strong>service</strong> і імя баяцца у|[Тв.с.] [арт.] знешні народ 
+Malachi 2:1 (15109) і <strong>now</strong> да [арт.] <strong>commandment</strong> [арт.] <strong>this</strong> [арт.] <strong>priest</strong> 
+Malachi 2:2 (15110) калі[зл.] не чуць і калі[зл.] не класці|ставіць на сэрца да|[Д.с.] даць вага да|[Д.с.] імя казаць Існы <strong>service</strong> і слаць у|[Тв.с.] [В.с.] [арт.] <strong>curse</strong> і <strong>curse</strong> [В.с.] <strong>blessing</strong> і таксама|нават <strong>curse</strong> бо|што няма класці|ставіць на сэрца 
+Malachi 2:3 (15111) вось <strong>rebuke</strong> да|[Д.с.] [В.с.] [арт.] семя і <strong>scatter</strong> <strong>contents of stomach</strong> на твар <strong>contents of stomach</strong> <strong>festival</strong> і падняць [В.с.] да 
+Malachi 2:4 (15112) і ведаць [+неад.]|займацца сэксам [+адуш.] бо|што слаць да [В.с.] [арт.] <strong>commandment</strong> [арт.] <strong>this</strong> да|[Д.с.] быць дамова разам з <strong>Levi</strong> казаць Існы <strong>service</strong> 
+Malachi 2:5 (15113) дамова быць разам з [арт.] <strong>life</strong> і [арт.] згода і даць да|[Д.с.] <strong>fear</strong> і баяцца і з твар імя пажахацца ён 
+Malachi 2:6 (15114) <strong>instruction</strong> праўда быць у|[Тв.с.] рот і <strong>wickedness</strong> не знайсці у|[Тв.с.] губа у|[Тв.с.] згода і у|[Тв.с.] <strong>fairness</strong> хадзіць разам з і шматлікі вяртацца з <strong>sin</strong> 
+Malachi 2:7 (15115) бо|што губа <strong>priest</strong> захоўваць веды [акрамя адуш.] і <strong>instruction</strong> шукаць з рот бо|што пасланец Існы <strong>service</strong> ён 
+Malachi 2:8 (15116) і <strong>you</strong> збочыць з [арт.] шлях <strong>stumble</strong> шматлікі у|[Тв.с.] [арт.] <strong>instruction</strong> <strong>destroy</strong> дамова [арт.] <strong>Levite</strong> казаць Існы <strong>service</strong> 
+Malachi 2:9 (15117) і таксама|нават я даць [В.с.] грэбаваць і <strong>low</strong> да|[Д.с.] цэлы|увесь [арт.] народ як рот які няма захоўваць [В.с.] шлях і падняць твар у|[Тв.с.] [арт.] <strong>instruction</strong> פ
+Malachi 2:10 (15118) ці не бацька адзін да|[Д.с.] цэлы|увесь ці не <strong>god</strong> адзін <strong>create</strong> <strong>why</strong> <strong>deal treacherously</strong> чалавек (1) у|[Тв.с.] брат да|[Д.с.] <strong>defile</strong> дамова бацька 
+Malachi 2:11 (15119) <strong>deal treacherously</strong> Егуда і <strong>abomination</strong> рабіць у|[Тв.с.] Ісраэль і у|[Тв.с.] Ерусалім бо|што <strong>defile</strong> Егуда святасць Існы які любіць|кахаць і <strong>own</strong> дачка <strong>god</strong> <strong>foreigner</strong> 
+Malachi 2:12 (15120) выразаць Існы да|[Д.с.] [арт.] чалавек (1) які рабіць <strong>be awake</strong> і адказаць з <strong>tent</strong> Яако́ў і <strong>approach</strong> <strong>present</strong> да|[Д.с.] Існы <strong>service</strong> פ
+Malachi 2:13 (15121) і <strong>this</strong> другі рабіць пакрыць <strong>tear</strong> [В.с.] <strong>altar</strong> Існы <strong>weeping</strong> і <strong>sigh</strong> з няма яшчэ <strong>turn</strong> да [арт.] <strong>present</strong> і да|[Д.с.] браць <strong>pleasure</strong> з рука 
+Malachi 2:14 (15122) і казаць на што на бо|што Існы <strong>warn, to witness</strong> між і між жанчына <strong>youth</strong> які ты[м.] <strong>deal treacherously</strong> у|[Тв.с.] і яна <strong>companion</strong> і жанчына дамова 
+Malachi 2:15 (15123) і не адзін рабіць і <strong>rest</strong> вецер да|[Д.с.] і што [арт.] адзін шукаць семя Бог і захоўваць у|[Тв.с.] вецер і у|[Тв.с.] жанчына <strong>youth</strong> не [+заг.лад] <strong>deal treacherously</strong> 
+Malachi 2:16 (15124) бо|што ненавідзець слаць казаць Існы Бог Ісраэль і пакрыць гвалт на <strong>clothing</strong> казаць Існы <strong>service</strong> і захоўваць у|[Тв.с.] вецер і не <strong>deal treacherously</strong> ס
+Malachi 2:17 (15125) <strong>be weary</strong> Існы у|[Тв.с.] слова|рэч і казаць у|[Тв.с.] што <strong>be weary</strong> у|[Тв.с.] казаць цэлы|увесь рабіць зло добры у|[Тв.с.] вока Існы і у|[Тв.с.] ён <strong>desire</strong> ці <strong>where</strong> Бог [арт.] правасуддзе 
+Malachi 3:1 (15126) вось слаць пасланец і <strong>turn</strong> шлях да|[Д.с.] твар і раптам прыйсці да <strong>palace</strong> [арт.] <strong>lord</strong> які <strong>you</strong> шукаць і пасланец [арт.] дамова які <strong>you</strong> <strong>delighting</strong> вось прыйсці казаць Існы <strong>service</strong> 
+Malachi 3:2 (15127) і хто <strong>comprehend</strong> [В.с.] дзень прыйсці і хто [арт.] стаяць у|[Тв.с.] бачыць бо|што ён як агонь <strong>melt</strong> і як <strong>alkaline salt</strong> <strong>wash</strong> 
+Malachi 3:3 (15128) і сядзець <strong>melt</strong> і <strong>be clean</strong> срэбра і <strong>be clean</strong> [В.с.] сын <strong>Levi</strong> і <strong>filter</strong> [В.с.] як [арт.] золата і як [арт.] срэбра і быць да|[Д.с.] Існы <strong>approach</strong> <strong>present</strong> у|[Тв.с.] <strong>justice</strong> 
+Malachi 3:4 (15129) і <strong>be pleasing</strong> да|[Д.с.] Існы <strong>present</strong> Егуда і Ерусалім як дзень свет|вечнасць і як год <strong>eastern</strong> 
+Malachi 3:5 (15130) і набліжацца да да|[Д.с.] [арт.] правасуддзе і быць <strong>witness</strong> спяшацца|хутка [як прысл.] у|[Тв.с.] [арт.] <strong>practice sorcery</strong> і у|[Тв.с.] [арт.] <strong>commit adultery</strong> і у|[Тв.с.] [арт.] <strong>swear</strong> да|[Д.с.] [арт.] <strong>lie</strong> і у|[Тв.с.] <strong>oppress</strong> <strong>hire</strong> <strong>hired</strong> <strong>widow</strong> і <strong>orphan</strong> і <strong>extend</strong> <strong>sojourner</strong> і не баяцца казаць Існы <strong>service</strong> 
+Malachi 3:6 (15131) бо|што я Існы не <strong>change</strong> і <strong>you</strong> сын Яако́ў не <strong>be complete</strong> 
+Malachi 3:7 (15132) да|[Д.с.] з дзень бацька збочыць з <strong>portion</strong> і не захоўваць вяртацца да і вяртацца да казаць Існы <strong>service</strong> і казаць у|[Тв.с.] што вяртацца 
+Malachi 3:8 (15133) ці <strong>deceive</strong> чалавек (від) Бог бо|што <strong>you</strong> <strong>deceive</strong> [В.с.] і казаць у|[Тв.с.] што <strong>deceive</strong> [арт.] <strong>tenth</strong> і [арт.] <strong>contribution</strong> 
+Malachi 3:9 (15134) у|[Тв.с.] [арт.] <strong>curse</strong> <strong>you</strong> <strong>curse</strong> і [В.с.] <strong>you</strong> <strong>deceive</strong> [арт.] знешні народ цэлы|увесь 
+Malachi 3:10 (15135) прыйсці [В.с.] цэлы|увесь [арт.] <strong>tenth</strong> да дом [арт.] <strong>supply</strong> і быць <strong>food</strong> у|[Тв.с.] дом і <strong>examine</strong> ж, -ка [узмацн.] у|[Тв.с.] <strong>this</strong> казаць Існы <strong>service</strong> калі[зл.] не <strong>open</strong> да|[Д.с.] [В.с.] <strong>hole</strong> [арт.] неба і <strong>be empty</strong> да|[Д.с.] <strong>blessing</strong> (ажно) да <strong>destruction</strong> дастатковасць 
+Malachi 3:11 (15136) і <strong>rebuke</strong> да|[Д.с.] у|[Тв.с.] [арт.] есці і не <strong>destroy</strong> да|[Д.с.] [В.с.] плод [арт.] <strong>soil</strong> і не <strong>be bereaved of children</strong> да|[Д.с.] [арт.] <strong>vine</strong> у|[Тв.с.] [арт.] поле казаць Існы <strong>service</strong> 
+Malachi 3:12 (15137) і <strong>be happy</strong> [В.с.] цэлы|увесь [арт.] знешні народ бо|што быць <strong>you</strong> зямля <strong>pleasure</strong> казаць Існы <strong>service</strong> ס
+Malachi 3:13 (15138) <strong>be strong</strong> на слова|рэч казаць Існы і казаць што гаварыць на 
+Malachi 3:14 (15139) казаць <strong>vanity</strong> працаваць Бог і што <strong>profit</strong> бо|што захоўваць <strong>guard-post</strong> і бо|што хадзіць <strong>mourningly</strong> з твар Існы <strong>service</strong> 
+Malachi 3:15 (15140) і <strong>now</strong> <strong>we</strong> <strong>be happy</strong> <strong>insolent</strong> таксама|нават будаваць рабіць <strong>guilt</strong> таксама|нават <strong>examine</strong> Бог і <strong>escape</strong> 
+Malachi 3:16 (15141) тады гаварыць <strong>afraid</strong> Існы чалавек (1) разам з <strong>fellow</strong> і <strong>give attention</strong> Існы і чуць і пісанне ліст <strong>remembrance</strong> да|[Д.с.] твар да|[Д.с.] <strong>afraid</strong> Існы і да|[Д.с.] <strong>account</strong> імя 
+Malachi 3:17 (15142) і быць да|[Д.с.] казаць Існы <strong>service</strong> да|[Д.с.] [арт.] дзень які я рабіць <strong>property</strong> і <strong>have compassion</strong> на як які <strong>have compassion</strong> чалавек (1) на сын [арт.] працаваць [В.с.] 
+Malachi 3:18 (15143) і вяртацца і бачыць між справядлівы|правільны да|[Д.с.] вінаваты між працаваць Бог да|[Д.с.] які не працаваць ס
+Malachi 3:19 (15144) бо|што вось [арт.] дзень прыйсці <strong>burn</strong> як [арт.] <strong>furnace</strong> і быць цэлы|увесь <strong>insolent</strong> і цэлы|увесь рабіць <strong>guilt</strong> мякіна|салома і <strong>devour</strong> [В.с.] [арт.] дзень [арт.] прыйсці казаць Існы <strong>service</strong> які не <strong>leave</strong> да|[Д.с.] <strong>root</strong> і <strong>branches</strong> 
+Malachi 3:20 (15145) і <strong>flash up</strong> да|[Д.с.] <strong>afraid</strong> імя сонца <strong>justice</strong> і <strong>healing</strong> у|[Тв.с.] крыло і выйсці і <strong>paw the ground</strong> як <strong>bull</strong> <strong>fatted calf</strong> 
+Malachi 3:21 (15146) і <strong>tread down</strong> вінаваты бо|што быць <strong>dust</strong> пад далонь нага у|[Тв.с.] [арт.] дзень які я рабіць казаць Існы <strong>service</strong> פ
+Malachi 3:22 (15147) помніць <strong>instruction</strong> Майсей слуга які <strong>command</strong> [В.с.] у|[Тв.с.] <strong>Horeb</strong> на цэлы|увесь Ісраэль <strong>portion</strong> і правасуддзе 
+Malachi 3:23 (15148) вось <strong>i</strong> слаць да|[Д.с.] [В.с.] <strong>Elijah</strong> [арт.] <strong>prophet</strong> да|[Д.с.] твар прыйсці дзень Існы [арт.] вялікі і [арт.] баяцца 
+Malachi 3:24 (15149) і вяртацца сэрца бацька на сын і сэрца сын на бацька <strong>lest</strong> прыйсці і <strong>strike</strong> [В.с.] [арт.] зямля <strong>ban</strong> 

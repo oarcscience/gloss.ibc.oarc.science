@@ -1,280 +1,280 @@
-1:1 (20764) 
-1:2 (20765) 
-1:3 (20766) 
-1:4 (20767) 
-1:5 (20768) 
-1:6 (20769) ס
-1:7 (20770) 
-1:8 (20771) 
-1:9 (20772) ס
-1:10 (20773) ס
-1:11 (20774) פ
-2:1 (20775) 
-2:2 (20776) ס
-2:3 (20777) ס
-2:4 (20778) ס
-2:5 (20779) ס
-2:6 (20780) ס
-2:7 (20781) ס
-2:8 (20782) ס
-2:9 (20783) ס
-2:10 (20784) ס
-2:11 (20785) ס
-2:12 (20786) ס
-2:13 (20787) ס
-2:14 (20788) ס
-2:15 (20789) ס
-2:16 (20790) ס
-2:17 (20791) ס
-2:18 (20792) ס
-2:19 (20793) ס
-2:20 (20794) ס
-2:21 (20795) ס
-2:22 (20796) 
-2:23 (20797) ס
-2:24 (20798) ס
-2:25 (20799) ס
-2:26 (20800) ס
-2:27 (20801) ס
-2:28 (20802) ס
-2:29 (20803) ס
-2:30 (20804) ס
-2:31 (20805) ס
-2:32 (20806) ס
-2:33 (20807) ס
-2:34 (20808) ס
-2:35 (20809) ס
-2:36 (20810) ס
-2:37 (20811) ס
-2:38 (20812) ס
-2:39 (20813) ס
-2:40 (20814) ס
-2:41 (20815) פ
-2:42 (20816) פ
-2:43 (20817) 
-2:44 (20818) 
-2:45 (20819) 
-2:46 (20820) 
-2:47 (20821) 
-2:48 (20822) 
-2:49 (20823) 
-2:50 (20824) 
-2:51 (20825) 
-2:52 (20826) 
-2:53 (20827) 
-2:54 (20828) 
-2:55 (20829) 
-2:56 (20830) 
-2:57 (20831) 
-2:58 (20832) ס
-2:59 (20833) 
-2:60 (20834) ס
-2:61 (20835) 
-2:62 (20836) 
-2:63 (20837) 
-2:64 (20838) 
-2:65 (20839) 
-2:66 (20840) 
-2:67 (20841) פ
-2:68 (20842) 
-2:69 (20843) ס
-2:70 (20844) ס
-3:1 (20845) ס
-3:2 (20846) 
-3:3 (20847) 
-3:4 (20848) 
-3:5 (20849) 
-3:6 (20850) 
-3:7 (20851) פ
-3:8 (20852) פ
-3:9 (20853) 
-3:10 (20854) 
-3:11 (20855) ס
-3:12 (20856) 
-3:13 (20857) פ
-4:1 (20858) 
-4:2 (20859) 
-4:3 (20860) 
-4:4 (20861) 
-4:5 (20862) 
-4:6 (20863) ס
-4:7 (20864) פ
-4:8 (20865) 
-4:9 (20866) 
-4:10 (20867) 
-4:11 (20868) פ
-4:12 (20869) 
-4:13 (20870) 
-4:14 (20871) 
-4:15 (20872) 
-4:16 (20873) פ
-4:17 (20874) ס
-4:18 (20875) 
-4:19 (20876) 
-4:20 (20877) 
-4:21 (20878) 
-4:22 (20879) ס
-4:23 (20880) ס
-4:24 (20881) פ
-5:1 (20882) ס
-5:2 (20883) פ
-5:3 (20884) ס
-5:4 (20885) 
-5:5 (20886) פ
-5:6 (20887) 
-5:7 (20888) ס
-5:8 (20889) ס
-5:9 (20890) 
-5:10 (20891) ס
-5:11 (20892) 
-5:12 (20893) ס
-5:13 (20894) 
-5:14 (20895) 
-5:15 (20896) ס
-5:16 (20897) 
-5:17 (20898) ס
-6:1 (20899) 
-6:2 (20900) פ
-6:3 (20901) 
-6:4 (20902) 
-6:5 (20903) ס
-6:6 (20904) 
-6:7 (20905) 
-6:8 (20906) 
-6:9 (20907) 
-6:10 (20908) 
-6:11 (20909) 
-6:12 (20910) פ
-6:13 (20911) 
-6:14 (20912) 
-6:15 (20913) פ
-6:16 (20914) 
-6:17 (20915) 
-6:18 (20916) פ
-6:19 (20917) 
-6:20 (20918) 
-6:21 (20919) 
-6:22 (20920) פ
-7:1 (20921) 
-7:2 (20922) 
-7:3 (20923) 
-7:4 (20924) 
-7:5 (20925) 
-7:6 (20926) פ
-7:7 (20927) 
-7:8 (20928) 
-7:9 (20929) 
-7:10 (20930) ס
-7:11 (20931) פ
-7:12 (20932) 
-7:13 (20933) 
-7:14 (20934) 
-7:15 (20935) 
-7:16 (20936) 
-7:17 (20937) 
-7:18 (20938) 
-7:19 (20939) 
-7:20 (20940) 
-7:21 (20941) 
-7:22 (20942) 
-7:23 (20943) 
-7:24 (20944) 
-7:25 (20945) 
-7:26 (20946) פ
-7:27 (20947) 
-7:28 (20948) פ
-8:1 (20949) ס
-8:2 (20950) ס
-8:3 (20951) ס
-8:4 (20952) ס
-8:5 (20953) ס
-8:6 (20954) ס
-8:7 (20955) ס
-8:8 (20956) ס
-8:9 (20957) ס
-8:10 (20958) ס
-8:11 (20959) ס
-8:12 (20960) ס
-8:13 (20961) ס
-8:14 (20962) פ
-8:15 (20963) 
-8:16 (20964) 
-8:17 (20965) 
-8:18 (20966) 
-8:19 (20967) ס
-8:20 (20968) 
-8:21 (20969) 
-8:22 (20970) 
-8:23 (20971) 
-8:24 (20972) 
-8:25 (20973) 
-8:26 (20974) 
-8:27 (20975) 
-8:28 (20976) 
-8:29 (20977) 
-8:30 (20978) פ
-8:31 (20979) 
-8:32 (20980) 
-8:33 (20981) 
-8:34 (20982) פ
-8:35 (20983) פ
-8:36 (20984) ס
-9:1 (20985) 
-9:2 (20986) ס
-9:3 (20987) 
-9:4 (20988) 
-9:5 (20989) 
-9:6 (20990) 
-9:7 (20991) 
-9:8 (20992) 
-9:9 (20993) ס
-9:10 (20994) 
-9:11 (20995) 
-9:12 (20996) 
-9:13 (20997) 
-9:14 (20998) פ
-9:15 (20999) פ
-10:1 (21000) ס
-10:2 (21001) 
-10:3 (21002) 
-10:4 (21003) פ
-10:5 (21004) 
-10:6 (21005) ס
-10:7 (21006) 
-10:8 (21007) ס
-10:9 (21008) פ
-10:10 (21009) 
-10:11 (21010) 
-10:12 (21011) 
-10:13 (21012) 
-10:14 (21013) פ
-10:15 (21014) 
-10:16 (21015) 
-10:17 (21016) פ
-10:18 (21017) 
-10:19 (21018) ס
-10:20 (21019) ס
-10:21 (21020) 
-10:22 (21021) ס
-10:23 (21022) ס
-10:24 (21023) ס
-10:25 (21024) ס
-10:26 (21025) ס
-10:27 (21026) ס
-10:28 (21027) ס
-10:29 (21028) 
-10:30 (21029) ס
-10:31 (21030) 
-10:32 (21031) ס
-10:33 (21032) ס
-10:34 (21033) ס
-10:35 (21034) 
-10:36 (21035) 
-10:37 (21036) 
-10:38 (21037) 
-10:39 (21038) 
-10:40 (21039) 
-10:41 (21040) 
-10:42 (21041) ס
-10:43 (21042) 
-10:44 (21043) פ
+Ezra 1:1 (20764) і у|[Тв.с.] год адзін да|[Д.с.] <strong>Cyrus</strong> цар <strong>Persia</strong> да|[Д.с.] <strong>be complete</strong> слова|рэч Існы з рот <strong>Jeremiah</strong> <strong>be awake</strong> Існы [В.с.] вецер <strong>Cyrus</strong> цар <strong>Persia</strong> і перайсці голас у|[Тв.с.] цэлы|увесь царства і таксама|нават у|[Тв.с.] <strong>writing</strong> да|[Д.с.] казаць 
+Ezra 1:2 (20765) такім чынам казаць <strong>Cyrus</strong> цар <strong>Persia</strong> цэлы|увесь <strong>kingdom</strong> [арт.] зямля даць да|[Д.с.] Існы Бог [арт.] неба і ён <strong>miss</strong> на да|[Д.с.] будаваць да|[Д.с.] дом у|[Тв.с.] Ерусалім які у|[Тв.с.] Егуда 
+Ezra 1:3 (20766) хто у|[Тв.с.] з цэлы|увесь народ быць Бог з і падымацца да|[Д.с.] Ерусалім які у|[Тв.с.] Егуда і будаваць [В.с.] дом Існы Бог Ісраэль ён [арт.] Бог які у|[Тв.с.] Ерусалім 
+Ezra 1:4 (20767) і цэлы|увесь [арт.] пакідаць з цэлы|увесь [арт.] месца які ён <strong>dwell</strong> там падняць чалавек (1) месца у|[Тв.с.] срэбра і у|[Тв.с.] золата і у|[Тв.с.] <strong>property</strong> і у|[Тв.с.] звяры з [арт.] <strong>free will</strong> да|[Д.с.] дом [арт.] Бог які у|[Тв.с.] Ерусалім 
+Ezra 1:5 (20768) і устаць галава [арт.] бацька да|[Д.с.] Егуда і Бін’ямін і [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> да|[Д.с.] цэлы|увесь <strong>be awake</strong> [арт.] Бог [В.с.] вецер да|[Д.с.] падымацца да|[Д.с.] будаваць [В.с.] дом Існы які у|[Тв.с.] Ерусалім 
+Ezra 1:6 (20769) і цэлы|увесь вакол <strong>be strong</strong> у|[Тв.с.] рука у|[Тв.с.] прылада срэбра у|[Тв.с.] [арт.] золата у|[Тв.с.] [арт.] <strong>property</strong> і у|[Тв.с.] [арт.] звяры і у|[Тв.с.] [арт.] <strong>presents</strong> да|[Д.с.] частка на цэлы|увесь <strong>incite</strong> ס
+Ezra 1:7 (20770) і [арт.] цар <strong>Cyrus</strong> выйсці [В.с.] прылада дом Існы які выйсці <strong>Nebuchadnezzar</strong> з Ерусалім і даць у|[Тв.с.] дом Бог 
+Ezra 1:8 (20771) і выйсці <strong>Cyrus</strong> цар <strong>Persia</strong> на рука <strong>Mithredath</strong> [арт.] <strong>treasurer</strong> і <strong>count</strong> да|[Д.с.] <strong>Sheshbazzar</strong> [арт.] <strong>chief</strong> да|[Д.с.] Егуда 
+Ezra 1:9 (20772) і гэтыя лік <strong>basket</strong> золата <strong>three</strong> <strong>basket</strong> срэбра тысяча <strong>disease</strong> <strong>nine</strong> і <strong>twenty</strong> ס
+Ezra 1:10 (20773) <strong>bowl</strong> золата <strong>three</strong> <strong>bowl</strong> срэбра <strong>second</strong> <strong>four</strong> сотня і дзесяць прылада іншы тысяча ס
+Ezra 1:11 (20774) цэлы|увесь прылада да|[Д.с.] [арт.] золата і да|[Д.с.] [арт.] срэбра <strong>five</strong> тысяча і <strong>four</strong> сотня [арт.] цэлы|увесь падымацца <strong>Sheshbazzar</strong> з падымацца [арт.] <strong>exile</strong> з <strong>Babel</strong> да|[Д.с.] Ерусалім פ
+Ezra 2:1 (20775) і гэтыя сын [арт.] <strong>district</strong> [арт.] падымацца з <strong>captive</strong> [арт.] <strong>exile</strong> які <strong>uncover</strong> <strong>Nebuchadnezzar</strong> цар <strong>Babel</strong> да|[Д.с.] <strong>Babel</strong> і вяртацца да|[Д.с.] Ерусалім і Егуда чалавек (1) да|[Д.с.] горад 
+Ezra 2:2 (20776) які прыйсці з <strong>Zerubbabel</strong> <strong>Jeshua</strong> <strong>Nehemiah</strong> <strong>Seraiah</strong> <strong>Reelaiah</strong> <strong>Mordecai</strong> <strong>Bilshan</strong> <strong>Mispar</strong> <strong>Bigvai</strong> <strong>Rehum</strong> <strong>Baanah</strong> лік чалавек (1) народ Ісраэль ס
+Ezra 2:3 (20777) сын <strong>Parosh</strong> тысяча сотня сем і два ס
+Ezra 2:4 (20778) сын <strong>Shephatiah</strong> <strong>three</strong> сотня сем і два ס
+Ezra 2:5 (20779) сын <strong>Arah</strong> сем сотня <strong>five</strong> і сем ס
+Ezra 2:6 (20780) сын <strong>Pahath-Moab</strong> да|[Д.с.] сын <strong>Jeshua</strong> <strong>Joab</strong> тысяча восем сотня і два <strong>-teen</strong> ס
+Ezra 2:7 (20781) сын <strong>Elam</strong> тысяча сотня <strong>five</strong> і <strong>four</strong> ס
+Ezra 2:8 (20782) сын <strong>Zattu</strong> <strong>nine</strong> сотня і <strong>four</strong> і <strong>five</strong> ס
+Ezra 2:9 (20783) сын <strong>Zaccai</strong> сем сотня і <strong>six</strong> ס
+Ezra 2:10 (20784) сын <strong>Bani</strong> <strong>six</strong> сотня <strong>four</strong> і два ס
+Ezra 2:11 (20785) сын <strong>Bebai</strong> <strong>six</strong> сотня <strong>twenty</strong> і <strong>three</strong> ס
+Ezra 2:12 (20786) сын <strong>Azgad</strong> тысяча сотня <strong>twenty</strong> і два ס
+Ezra 2:13 (20787) сын <strong>Adonikam</strong> <strong>six</strong> сотня <strong>six</strong> і <strong>six</strong> ס
+Ezra 2:14 (20788) сын <strong>Bigvai</strong> тысяча <strong>five</strong> і <strong>six</strong> ס
+Ezra 2:15 (20789) сын <strong>Adin</strong> <strong>four</strong> сотня <strong>five</strong> і <strong>four</strong> ס
+Ezra 2:16 (20790) сын <strong>Ater</strong> да|[Д.с.] <strong>Hezekiah</strong> <strong>nine</strong> і восем ס
+Ezra 2:17 (20791) сын <strong>Bezai</strong> <strong>three</strong> сотня <strong>twenty</strong> і <strong>three</strong> ס
+Ezra 2:18 (20792) сын <strong>Jorah</strong> сотня і два <strong>-teen</strong> ס
+Ezra 2:19 (20793) сын <strong>Hashum</strong> сотня <strong>twenty</strong> і <strong>three</strong> ס
+Ezra 2:20 (20794) сын <strong>Gibbar</strong> <strong>nine</strong> і <strong>five</strong> ס
+Ezra 2:21 (20795) сын <strong>Bethlehem</strong> сотня <strong>twenty</strong> і <strong>three</strong> ס
+Ezra 2:22 (20796) чалавек (1) <strong>Netophah</strong> <strong>five</strong> і <strong>six</strong> 
+Ezra 2:23 (20797) чалавек (1) <strong>[town]</strong> сотня <strong>twenty</strong> і восем ס
+Ezra 2:24 (20798) сын <strong>Azmaveth</strong> <strong>four</strong> і два ס
+Ezra 2:25 (20799) сын <strong>Kiriath Jearim</strong> <strong>Kephirah</strong> і <strong>Beeroth</strong> сем сотня і <strong>four</strong> і <strong>three</strong> ס
+Ezra 2:26 (20800) сын [арт.] <strong>Ramah</strong> і <strong>Geba</strong> <strong>six</strong> сотня <strong>twenty</strong> і адзін ס
+Ezra 2:27 (20801) чалавек (1) <strong>Micmash</strong> сотня <strong>twenty</strong> і два ס
+Ezra 2:28 (20802) чалавек (1) <strong>Bethel</strong> і [арт.] <strong>Ai</strong> сотня <strong>twenty</strong> і <strong>three</strong> ס
+Ezra 2:29 (20803) сын <strong>[mountain]</strong> <strong>five</strong> і два ס
+Ezra 2:30 (20804) сын <strong>Magbish</strong> сотня <strong>five</strong> і <strong>six</strong> ס
+Ezra 2:31 (20805) сын <strong>Elam</strong> іншы тысяча сотня <strong>five</strong> і <strong>four</strong> ס
+Ezra 2:32 (20806) сын <strong>Harim</strong> <strong>three</strong> сотня і <strong>twenty</strong> ס
+Ezra 2:33 (20807) сын <strong>Lod</strong> <strong>Hadid</strong> і <strong>Ono</strong> сем сотня <strong>twenty</strong> і <strong>five</strong> ס
+Ezra 2:34 (20808) сын <strong>Jericho</strong> <strong>three</strong> сотня <strong>four</strong> і <strong>five</strong> ס
+Ezra 2:35 (20809) сын <strong>Senaah</strong> <strong>three</strong> тысяча і <strong>six</strong> сотня і <strong>three</strong> ס
+Ezra 2:36 (20810) [арт.] <strong>priest</strong> сын <strong>Jedaiah</strong> да|[Д.с.] дом <strong>Jeshua</strong> <strong>nine</strong> сотня сем і <strong>three</strong> ס
+Ezra 2:37 (20811) сын <strong>Immer</strong> тысяча <strong>five</strong> і два ס
+Ezra 2:38 (20812) сын <strong>Pashhur</strong> тысяча сотня <strong>four</strong> і сем ס
+Ezra 2:39 (20813) сын <strong>Harim</strong> тысяча і сем <strong>-teen</strong> ס
+Ezra 2:40 (20814) [арт.] <strong>Levite</strong> сын <strong>Jeshua</strong> і <strong>Kadmiel</strong> да|[Д.с.] сын <strong>Hodaviah</strong> сем і <strong>four</strong> ס
+Ezra 2:41 (20815) [арт.] <strong>sing</strong> сын <strong>Asaph</strong> сотня <strong>twenty</strong> і восем פ
+Ezra 2:42 (20816) сын [арт.] <strong>porter</strong> сын <strong>Shallum</strong> сын <strong>Ater</strong> сын <strong>Talmon</strong> сын <strong>Akkub</strong> сын <strong>Hatita</strong> сын <strong>Shobai</strong> [арт.] цэлы|увесь сотня <strong>three</strong> і <strong>nine</strong> פ
+Ezra 2:43 (20817) [арт.] <strong>temple slave</strong> сын <strong>Ziha</strong> сын <strong>Hasupha</strong> сын <strong>Tabbaoth</strong> 
+Ezra 2:44 (20818) сын <strong>Keros</strong> сын <strong>Sia</strong> сын <strong>Padon</strong> 
+Ezra 2:45 (20819) сын <strong>Lebanah</strong> сын <strong>Hagabah</strong> сын <strong>Akkub</strong> 
+Ezra 2:46 (20820) сын <strong>Hagab</strong> сын <strong>Shalmai</strong> сын <strong>Hanan</strong> 
+Ezra 2:47 (20821) сын <strong>Giddel</strong> сын <strong>Gahar</strong> сын <strong>Reaiah</strong> 
+Ezra 2:48 (20822) сын <strong>Rezin</strong> сын <strong>Nekoda</strong> сын <strong>Gazzam</strong> 
+Ezra 2:49 (20823) сын <strong>Uzza</strong> сын <strong>Paseah</strong> сын <strong>Besai</strong> 
+Ezra 2:50 (20824) сын <strong>Asnah</strong> сын <strong>Meunites</strong> сын <strong>Nephussim</strong> 
+Ezra 2:51 (20825) сын <strong>Bakbuk</strong> сын <strong>Hakupha</strong> сын <strong>Harhur</strong> 
+Ezra 2:52 (20826) сын <strong>Bazluth</strong> сын <strong>Mehida</strong> сын <strong>Harsha</strong> 
+Ezra 2:53 (20827) сын <strong>Barkos</strong> сын <strong>Sisera</strong> сын <strong>Temah</strong> 
+Ezra 2:54 (20828) сын <strong>Neziah</strong> сын <strong>Hatipha</strong> 
+Ezra 2:55 (20829) сын слуга <strong>Solomon</strong> сын <strong>Sotai</strong> сын [арт.] <strong>function of scribe</strong> сын <strong>Peruda</strong> 
+Ezra 2:56 (20830) сын <strong>Jaala</strong> сын <strong>Darkon</strong> сын <strong>Giddel</strong> 
+Ezra 2:57 (20831) сын <strong>Shephatiah</strong> сын <strong>Hattil</strong> сын <strong>Pokereth-Hazzebaim</strong> сын <strong>Ami</strong> 
+Ezra 2:58 (20832) цэлы|увесь [арт.] <strong>temple slave</strong> і сын слуга <strong>Solomon</strong> <strong>three</strong> сотня <strong>nine</strong> і два ס
+Ezra 2:59 (20833) і гэтыя [арт.] падымацца з <strong>Tel Melah</strong> <strong>Tel Harsha</strong> <strong>Kerub</strong> <strong>Addon</strong> <strong>Immer</strong> і не магчы да|[Д.с.] абвяшчаць дом бацька і семя калі[зл.] з Ісраэль яны [ж.] 
+Ezra 2:60 (20834) сын <strong>Delaiah</strong> сын <strong>Tobijah</strong> сын <strong>Nekoda</strong> <strong>six</strong> сотня <strong>five</strong> і два ס
+Ezra 2:61 (20835) і з сын [арт.] <strong>priest</strong> сын <strong>Hobaiah</strong> сын [арт.] <strong>Koz</strong> сын <strong>Barzillai</strong> які браць з дачка <strong>Barzillai</strong> [арт.] <strong>Gileadite</strong> жанчына і зваць на імя 
+Ezra 2:62 (20836) гэтыя шукаць <strong>writing</strong> [арт.] <strong>register</strong> і не знайсці і <strong>pollute</strong> з [арт.] <strong>priesthood</strong> 
+Ezra 2:63 (20837) і казаць [арт.] <strong>governor</strong> да|[Д.с.] які не есці з святасць [арт.] святасць (ажно) да стаяць <strong>priest</strong> да|[Д.с.] <strong>[oracle device]</strong> і да|[Д.с.] <strong>tummim</strong> 
+Ezra 2:64 (20838) цэлы|увесь [арт.] <strong>assembly</strong> як адзін <strong>four</strong> <strong>ten thousand</strong> тысяча <strong>three</strong> сотня <strong>six</strong> 
+Ezra 2:65 (20839) з да|[Д.с.] частка слуга і <strong>handmaid</strong> гэтыя сем тысяча <strong>three</strong> сотня <strong>three</strong> і сем і да|[Д.с.] <strong>sing</strong> і <strong>sing</strong> сотня 
+Ezra 2:66 (20840) конь сем сотня <strong>three</strong> і <strong>six</strong> <strong>mule</strong> сотня <strong>four</strong> і <strong>five</strong> 
+Ezra 2:67 (20841) <strong>camel</strong> <strong>four</strong> сотня <strong>three</strong> і <strong>five</strong> <strong>he-ass</strong> <strong>six</strong> тысяча сем сотня і <strong>twenty</strong> פ
+Ezra 2:68 (20842) і з галава [арт.] бацька у|[Тв.с.] прыйсці да|[Д.с.] дом Існы які у|[Тв.с.] Ерусалім <strong>incite</strong> да|[Д.с.] дом [арт.] Бог да|[Д.с.] стаяць на <strong>site</strong> 
+Ezra 2:69 (20843) як сіла даць да|[Д.с.] <strong>supply</strong> [арт.] <strong>work</strong> золата <strong>drachmas</strong> <strong>six</strong> <strong>ten thousand</strong> і тысяча і срэбра <strong>mineh</strong> <strong>five</strong> тысяча і <strong>tunic</strong> <strong>priest</strong> сотня ס
+Ezra 2:70 (20844) і сядзець [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> і з [арт.] народ і [арт.] <strong>sing</strong> і [арт.] <strong>porter</strong> і [арт.] <strong>temple slave</strong> у|[Тв.с.] горад і цэлы|увесь Ісраэль у|[Тв.с.] горад ס
+Ezra 3:1 (20845) і <strong>touch</strong> [арт.] <strong>month</strong> [арт.] <strong>seventh</strong> і сын Ісраэль у|[Тв.с.] [арт.] горад і збіраць [арт.] народ як чалавек (1) адзін да Ерусалім ס
+Ezra 3:2 (20846) і устаць <strong>Jeshua</strong> сын <strong>Jozadak</strong> і брат [арт.] <strong>priest</strong> і <strong>Zerubbabel</strong> сын <strong>Shealtiel</strong> і брат і будаваць [В.с.] <strong>altar</strong> Бог Ісраэль да|[Д.с.] падымацца на <strong>burnt-offering</strong> як [арт.] пісанне у|[Тв.с.] <strong>instruction</strong> Майсей чалавек (1) [арт.] Бог 
+Ezra 3:3 (20847) і <strong>be firm</strong> [арт.] <strong>altar</strong> на <strong>place</strong> бо|што у|[Тв.с.] <strong>fright</strong> на з народ [арт.] зямля і падымацца на <strong>burnt-offering</strong> да|[Д.с.] Існы <strong>burnt-offering</strong> да|[Д.с.] [арт.] раніца і да|[Д.с.] [арт.] вечар 
+Ezra 3:4 (20848) і рабіць [В.с.] <strong>festival</strong> [арт.] <strong>cover of foliage</strong> як [арт.] пісанне і <strong>burnt-offering</strong> дзень у|[Тв.с.] дзень у|[Тв.с.] лік як правасуддзе слова|рэч дзень у|[Тв.с.] дзень 
+Ezra 3:5 (20849) і пасля так <strong>burnt-offering</strong> беззаганнасць і да|[Д.с.] [арт.] <strong>month</strong> і да|[Д.с.] цэлы|увесь <strong>appointment</strong> Існы [арт.] <strong>be holy</strong> і да|[Д.с.] цэлы|увесь <strong>incite</strong> <strong>free will</strong> да|[Д.с.] Існы 
+Ezra 3:6 (20850) з дзень адзін да|[Д.с.] [арт.] <strong>month</strong> [арт.] <strong>seventh</strong> <strong>defile</strong> да|[Д.с.] падымацца <strong>burnt-offering</strong> да|[Д.с.] Існы і <strong>palace</strong> Існы не <strong>found</strong> 
+Ezra 3:7 (20851) і даць срэбра да|[Д.с.] [арт.] <strong>hew</strong> і да|[Д.с.] [арт.] <strong>artisan</strong> і <strong>food</strong> і <strong>drinking</strong> і алей да|[Д.с.] [арт.] <strong>Sidonian</strong> і да|[Д.с.] [арт.] <strong>Tyrian</strong> да|[Д.с.] прыйсці дрэва <strong>cedar</strong> з [арт.] <strong>Lebanon</strong> да мора <strong>Joppa</strong> як <strong>permission</strong> <strong>Cyrus</strong> цар <strong>Persia</strong> на פ
+Ezra 3:8 (20852) і у|[Тв.с.] [арт.] год [арт.] другі да|[Д.с.] прыйсці да дом [арт.] Бог да|[Д.с.] Ерусалім у|[Тв.с.] [арт.] <strong>month</strong> [арт.] другі <strong>defile</strong> <strong>Zerubbabel</strong> сын <strong>Shealtiel</strong> і <strong>Jeshua</strong> сын <strong>Jozadak</strong> і <strong>rest</strong> брат [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> і цэлы|увесь [арт.] прыйсці з [арт.] <strong>captive</strong> Ерусалім і стаяць [В.с.] [арт.] <strong>Levite</strong> з сын <strong>twenty</strong> год і верх да|[Д.с.] <strong>prevail</strong> на <strong>work</strong> дом Існы פ
+Ezra 3:9 (20853) і стаяць <strong>Jeshua</strong> сын і брат <strong>Kadmiel</strong> і сын сын Егуда як адзін да|[Д.с.] <strong>prevail</strong> на рабіць [арт.] <strong>work</strong> у|[Тв.с.] дом [арт.] Бог сын <strong>Henadad</strong> сын і брат [арт.] <strong>Levite</strong> 
+Ezra 3:10 (20854) і <strong>found</strong> [арт.] будаваць [В.с.] <strong>palace</strong> Існы і стаяць [арт.] <strong>priest</strong> <strong>cloth</strong> у|[Тв.с.] [арт.] <strong>clarion</strong> і [арт.] <strong>Levite</strong> сын <strong>Asaph</strong> у|[Тв.с.] [арт.] <strong>cymbals</strong> да|[Д.с.] <strong>praise</strong> [В.с.] Існы на рука Давыд цар Ісраэль 
+Ezra 3:11 (20855) і <strong>sing</strong> у|[Тв.с.] <strong>praise</strong> і у|[Тв.с.] <strong>praise</strong> да|[Д.с.] Існы бо|што добры бо|што да|[Д.с.] свет|вечнасць <strong>loyalty</strong> на Ісраэль і цэлы|увесь [арт.] народ <strong>shout</strong> <strong>shouting</strong> вялікі у|[Тв.с.] <strong>praise</strong> да|[Д.с.] Існы на <strong>found</strong> дом Існы ס
+Ezra 3:12 (20856) і шматлікі з [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> і галава [арт.] бацька [арт.] старадаўні які бачыць [В.с.] [арт.] дом [арт.] першы у|[Тв.с.] <strong>found</strong> гэты [арт.] дом у|[Тв.с.] вока плакаць у|[Тв.с.] голас вялікі і шматлікі у|[Тв.с.] <strong>shouting</strong> у|[Тв.с.] радасць да|[Д.с.] <strong>be high</strong> голас 
+Ezra 3:13 (20857) і няма [арт.] народ <strong>recognise</strong> голас <strong>shouting</strong> [арт.] радасць да|[Д.с.] голас <strong>weeping</strong> [арт.] народ бо|што [арт.] народ <strong>shout</strong> <strong>shouting</strong> вялікі і [арт.] голас чуць (ажно) да да|[Д.с.] з далёкі פ
+Ezra 4:1 (20858) і чуць <strong>adversary</strong> Егуда і Бін’ямін бо|што сын [арт.] <strong>exile</strong> будаваць <strong>palace</strong> да|[Д.с.] Існы Бог Ісраэль 
+Ezra 4:2 (20859) і <strong>approach</strong> да <strong>Zerubbabel</strong> і да галава [арт.] бацька і казаць да|[Д.с.] будаваць з бо|што як <strong>inquire</strong> да|[Д.с.] Бог і да|[Д.с.] <strong>we</strong> забіць з дзень <strong>Esarhaddon</strong> цар <strong>Asshur</strong> [арт.] падымацца [В.с.] <strong>here</strong> 
+Ezra 4:3 (20860) і казаць да|[Д.с.] <strong>Zerubbabel</strong> і <strong>Jeshua</strong> і <strong>rest</strong> галава [арт.] бацька да|[Д.с.] Ісраэль не да|[Д.с.] і да|[Д.с.] да|[Д.с.] будаваць дом да|[Д.с.] Бог бо|што <strong>we</strong> <strong>gathering</strong> будаваць да|[Д.с.] Існы Бог Ісраэль як які <strong>command</strong> [арт.] цар <strong>Cyrus</strong> цар <strong>Persia</strong> 
+Ezra 4:4 (20861) і быць народ [арт.] зямля <strong>be slack</strong> рука народ Егуда і <strong>disturb</strong> [В.с.] да|[Д.с.] будаваць 
+Ezra 4:5 (20862) і <strong>hire</strong> на <strong>advise</strong> да|[Д.с.] <strong>break</strong> <strong>counsel</strong> цэлы|увесь дзень <strong>Cyrus</strong> цар <strong>Persia</strong> і (ажно) да царства <strong>Darius</strong> цар <strong>Persia</strong> 
+Ezra 4:6 (20863) і у|[Тв.с.] царства <strong>Ahasuerus</strong> у|[Тв.с.] <strong>beginning</strong> царства пісанне <strong>accusation</strong> на сядзець Егуда і Ерусалім ס
+Ezra 4:7 (20864) і у|[Тв.с.] дзень <strong>Artaxerxes</strong> пісанне <strong>Bishlam</strong> <strong>Mithredath</strong> <strong>Tabeel</strong> і <strong>rest</strong> <strong>companion</strong> на <strong>Artaxerxes</strong> цар <strong>Persia</strong> і <strong>writing</strong> [арт.] <strong>letter</strong> пісанне <strong>in Aramaic</strong> і <strong>interpret</strong> <strong>in Aramaic</strong> פ
+Ezra 4:8 (20865) <strong>Rehum</strong> <strong>master</strong> <strong>sense</strong> <strong>and</strong> <strong>Shimshai</strong> <strong>scribe</strong> <strong>write</strong> <strong>letter</strong> <strong>one</strong> <strong>upon</strong> <strong>Jerusalem</strong> <strong>to</strong> <strong>Artaxerxes</strong> <strong>king</strong> <strong>thus</strong> 
+Ezra 4:9 (20866) <strong>then</strong> <strong>Rehum</strong> <strong>master</strong> <strong>sense</strong> <strong>and</strong> <strong>Shimshai</strong> <strong>scribe</strong> <strong>and</strong> <strong>rest</strong> <strong>colleague</strong> <strong>[uncertain]</strong> <strong>and</strong> <strong>[uncertain]</strong> <strong>[unknown]</strong> <strong>[uncertain]</strong> <strong>Erechite</strong> <strong>Babylonian</strong> <strong>man from Susa</strong> <strong>Dehite</strong> <strong>Elamite</strong> 
+Ezra 4:10 (20867) <strong>and</strong> <strong>rest</strong> <strong>nation</strong> <strong>[relative]</strong> <strong>reveal</strong> <strong>Assurbanipal</strong> <strong>great</strong> <strong>and</strong> <strong>difficult</strong> <strong>and</strong> <strong>sit</strong> <strong>they</strong> <strong>in</strong> <strong>city</strong> <strong>[relative]</strong> <strong>Samaria</strong> <strong>and</strong> <strong>rest</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>and</strong> <strong>now</strong> 
+Ezra 4:11 (20868) <strong>this</strong> <strong>copy</strong> <strong>letter</strong> <strong>[relative]</strong> <strong>send</strong> <strong>upon</strong> <strong>upon</strong> <strong>Artaxerxes</strong> <strong>king</strong> <strong>servant</strong> <strong>mankind</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>and</strong> <strong>now</strong> פ
+Ezra 4:12 (20869) <strong>know</strong> <strong>be</strong> <strong>to</strong> <strong>king</strong> <strong>[relative]</strong> <strong>Jew</strong> <strong>[relative]</strong> <strong>go up</strong> <strong>from</strong> <strong>with</strong> <strong>upon</strong> <strong>come</strong> <strong>to</strong> <strong>Jerusalem</strong> <strong>city</strong> <strong>rebellious</strong> <strong>and</strong> <strong>bad</strong> <strong>build</strong> <strong>and</strong> <strong>wall</strong> <strong>finish</strong> <strong>and</strong> <strong>foundation</strong> <strong>dig</strong> 
+Ezra 4:13 (20870) <strong>now</strong> <strong>know</strong> <strong>be</strong> <strong>to</strong> <strong>king</strong> <strong>[relative]</strong> <strong>if</strong> <strong>city</strong> <strong>that</strong> <strong>build</strong> <strong>and</strong> <strong>wall</strong> <strong>finish</strong> <strong>tax</strong> <strong>tribute</strong> <strong>and</strong> <strong>tax</strong> <strong>not</strong> <strong>give</strong> <strong>and</strong> <strong>[uncertain]</strong> <strong>king</strong> <strong>suffer</strong> 
+Ezra 4:14 (20871) <strong>now</strong> <strong>like</strong> <strong>to</strong> <strong>opposite</strong> <strong>[relative]</strong> <strong>salt</strong> <strong>palace</strong> <strong>eat salt</strong> <strong>and</strong> <strong>nakedness</strong> <strong>king</strong> <strong>not</strong> <strong>fitting</strong> <strong>to</strong> <strong>to</strong> <strong>see</strong> <strong>upon</strong> <strong>this</strong> <strong>send</strong> <strong>and</strong> <strong>know</strong> <strong>to</strong> <strong>king</strong> 
+Ezra 4:15 (20872) <strong>[relative]</strong> <strong>search</strong> <strong>in</strong> <strong>book</strong> <strong>memorandum</strong> <strong>[relative]</strong> <strong>father</strong> <strong>and</strong> <strong>find</strong> <strong>in</strong> <strong>book</strong> <strong>memorandum</strong> <strong>and</strong> <strong>know</strong> <strong>[relative]</strong> <strong>city</strong> <strong>that</strong> <strong>city</strong> <strong>rebellious</strong> <strong>and</strong> <strong>suffer</strong> <strong>king</strong> <strong>and</strong> <strong>province</strong> <strong>and</strong> <strong>revolt</strong> <strong>do</strong> <strong>in</strong> <strong>interior</strong> <strong>from</strong> <strong>day</strong> <strong>eternity</strong> <strong>upon</strong> <strong>this</strong> <strong>city</strong> <strong>that</strong> <strong>destroy</strong> 
+Ezra 4:16 (20873) <strong>know</strong> <strong>we</strong> <strong>to</strong> <strong>king</strong> <strong>[relative]</strong> <strong>if</strong> <strong>city</strong> <strong>that</strong> <strong>build</strong> <strong>and</strong> <strong>wall</strong> <strong>finish</strong> <strong>to</strong> <strong>opposite</strong> <strong>this</strong> <strong>share</strong> <strong>in</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>not</strong> <strong>existence</strong> <strong>to</strong> פ
+Ezra 4:17 (20874) <strong>word</strong> <strong>send</strong> <strong>king</strong> <strong>upon</strong> <strong>Rehum</strong> <strong>master</strong> <strong>sense</strong> <strong>and</strong> <strong>Shimshai</strong> <strong>scribe</strong> <strong>and</strong> <strong>rest</strong> <strong>colleague</strong> <strong>[relative]</strong> <strong>sit</strong> <strong>in</strong> <strong>Samaria</strong> <strong>and</strong> <strong>rest</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>well-being</strong> <strong>and</strong> <strong>now</strong> ס
+Ezra 4:18 (20875) <strong>decree</strong> <strong>[relative]</strong> <strong>send</strong> <strong>upon</strong> <strong>interpret</strong> <strong>call</strong> <strong>before</strong> 
+Ezra 4:19 (20876) <strong>and</strong> <strong>from</strong> <strong>place</strong> <strong>sense</strong> <strong>and</strong> <strong>search</strong> <strong>and</strong> <strong>find</strong> <strong>[relative]</strong> <strong>city</strong> <strong>that</strong> <strong>from</strong> <strong>day</strong> <strong>eternity</strong> <strong>upon</strong> <strong>king</strong> <strong>take</strong> <strong>and</strong> <strong>rebellion</strong> <strong>and</strong> <strong>revolt</strong> <strong>do</strong> <strong>in</strong> 
+Ezra 4:20 (20877) <strong>and</strong> <strong>king</strong> <strong>strong</strong> <strong>be</strong> <strong>upon</strong> <strong>Jerusalem</strong> <strong>and</strong> <strong>mighty</strong> <strong>in</strong> <strong>whole</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>and</strong> <strong>tax</strong> <strong>tribute</strong> <strong>and</strong> <strong>tax</strong> <strong>give</strong> <strong>to</strong> 
+Ezra 4:21 (20878) <strong>now</strong> <strong>place</strong> <strong>sense</strong> <strong>to</strong> <strong>be idle</strong> <strong>man</strong> <strong>these</strong> <strong>and</strong> <strong>city</strong> <strong>that</strong> <strong>not</strong> <strong>build</strong> <strong>until</strong> <strong>from</strong> <strong>sense</strong> <strong>place</strong> 
+Ezra 4:22 (20879) <strong>and</strong> <strong>cautious</strong> <strong>be</strong> <strong>negligence</strong> <strong>to</strong> <strong>do</strong> <strong>upon</strong> <strong>this</strong> <strong>to</strong> <strong>what</strong> <strong>be much</strong> <strong>damage</strong> <strong>to</strong> <strong>suffer</strong> <strong>king</strong> ס
+Ezra 4:23 (20880) <strong>then</strong> <strong>from</strong> <strong>[relative]</strong> <strong>copy</strong> <strong>decree</strong> <strong>[relative]</strong> <strong>Artaxerxes</strong> <strong>king</strong> <strong>call</strong> <strong>before</strong> <strong>Rehum</strong> <strong>and</strong> <strong>Shimshai</strong> <strong>scribe</strong> <strong>and</strong> <strong>colleague</strong> <strong>go</strong> <strong>in</strong> <strong>haste</strong> <strong>to</strong> <strong>Jerusalem</strong> <strong>upon</strong> <strong>Jew</strong> <strong>and</strong> <strong>be idle</strong> <strong>they</strong> <strong>in</strong> <strong>arm</strong> <strong>and</strong> <strong>strength</strong> ס
+Ezra 4:24 (20881) <strong>in</strong> <strong>then</strong> <strong>be idle</strong> <strong>work</strong> <strong>house</strong> <strong>god</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>and</strong> <strong>be</strong> <strong>be idle</strong> <strong>until</strong> <strong>year</strong> <strong>two</strong> <strong>to</strong> <strong>kingdom</strong> <strong>Darius</strong> <strong>king</strong> <strong>Persia</strong> פ
+Ezra 5:1 (20882) <strong>and</strong> <strong>prophesy</strong> <strong>Haggai</strong> <strong>prophet</strong> <strong>and</strong> <strong>Zechariah</strong> <strong>son</strong> <strong>Iddo</strong> <strong>prophet</strong> <strong>upon</strong> <strong>Jew</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Judaea</strong> <strong>and</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>in</strong> <strong>name</strong> <strong>god</strong> <strong>Israel</strong> <strong>upon</strong> ס
+Ezra 5:2 (20883) <strong>in</strong> <strong>then</strong> <strong>stand</strong> <strong>Zerubbabel</strong> <strong>son</strong> <strong>Shealtiel</strong> <strong>and</strong> <strong>Jeshua</strong> <strong>son</strong> <strong>Jozadak</strong> <strong>and</strong> <strong>loosen</strong> <strong>to</strong> <strong>build</strong> <strong>house</strong> <strong>god</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>and</strong> <strong>with</strong> <strong>prophet</strong> <strong>[relative]</strong> <strong>god</strong> <strong>support</strong> <strong>to</strong> פ
+Ezra 5:3 (20884) <strong>in</strong> <strong>time</strong> <strong>come</strong> <strong>upon</strong> <strong>Tattenai</strong> <strong>governor</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>and</strong> <strong>Shethar-Bozenai</strong> <strong>and</strong> <strong>colleague</strong> <strong>and</strong> <strong>thus</strong> <strong>say</strong> <strong>to</strong> <strong>who</strong> <strong>place</strong> <strong>to</strong> <strong>sense</strong> <strong>house</strong> <strong>this</strong> <strong>to</strong> <strong>build</strong> <strong>and</strong> <strong>[uncertain]</strong> <strong>this</strong> <strong>to</strong> <strong>finish</strong> ס
+Ezra 5:4 (20885) <strong>then</strong> <strong>thus</strong> <strong>say</strong> <strong>to</strong> <strong>who</strong> <strong>they</strong> <strong>name</strong> <strong>man</strong> <strong>[relative]</strong> <strong>this</strong> <strong>building</strong> <strong>build</strong> 
+Ezra 5:5 (20886) <strong>and</strong> <strong>eye</strong> <strong>god</strong> <strong>be</strong> <strong>upon</strong> <strong>elder</strong> <strong>Jew</strong> <strong>and</strong> <strong>not</strong> <strong>be idle</strong> <strong>they</strong> <strong>until</strong> <strong>sense</strong> <strong>to</strong> <strong>Darius</strong> <strong>go</strong> <strong>and</strong> <strong>then</strong> <strong>return</strong> <strong>decree</strong> <strong>upon</strong> <strong>this</strong> פ
+Ezra 5:6 (20887) <strong>copy</strong> <strong>letter</strong> <strong>[relative]</strong> <strong>send</strong> <strong>Tattenai</strong> <strong>governor</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>and</strong> <strong>Shethar-Bozenai</strong> <strong>and</strong> <strong>colleague</strong> <strong>[uncertain]</strong> <strong>[relative]</strong> <strong>in</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>upon</strong> <strong>Darius</strong> <strong>king</strong> 
+Ezra 5:7 (20888) <strong>word</strong> <strong>send</strong> <strong>upon</strong> <strong>and</strong> <strong>like</strong> <strong>this</strong> <strong>write</strong> <strong>in</strong> <strong>interior</strong> <strong>to</strong> <strong>Darius</strong> <strong>king</strong> <strong>well-being</strong> <strong>whole</strong> ס
+Ezra 5:8 (20889) <strong>know</strong> <strong>be</strong> <strong>to</strong> <strong>king</strong> <strong>[relative]</strong> <strong>go</strong> <strong>to</strong> <strong>Judaea</strong> <strong>province</strong> <strong>to</strong> <strong>house</strong> <strong>god</strong> <strong>great</strong> <strong>and</strong> <strong>he</strong> <strong>build</strong> <strong>stone</strong> <strong>[uncertain]</strong> <strong>and</strong> <strong>wood</strong> <strong>place</strong> <strong>in</strong> <strong>wall</strong> <strong>and</strong> <strong>work</strong> <strong>that</strong> <strong>exactly</strong> <strong>do</strong> <strong>and</strong> <strong>prosper</strong> <strong>in</strong> <strong>hand</strong> ס
+Ezra 5:9 (20890) <strong>then</strong> <strong>ask</strong> <strong>to</strong> <strong>elder</strong> <strong>these</strong> <strong>thus</strong> <strong>say</strong> <strong>to</strong> <strong>who</strong> <strong>place</strong> <strong>to</strong> <strong>sense</strong> <strong>house</strong> <strong>this</strong> <strong>to</strong> <strong>build</strong> <strong>and</strong> <strong>[uncertain]</strong> <strong>this</strong> <strong>to</strong> <strong>finish</strong> 
+Ezra 5:10 (20891) <strong>and</strong> <strong>also</strong> <strong>name</strong> <strong>ask</strong> <strong>to</strong> <strong>to</strong> <strong>know</strong> <strong>[relative]</strong> <strong>write</strong> <strong>name</strong> <strong>man</strong> <strong>[relative]</strong> <strong>in</strong> <strong>head</strong> ס
+Ezra 5:11 (20892) <strong>and</strong> <strong>thus</strong> <strong>word</strong> <strong>return</strong> <strong>to</strong> <strong>say</strong> <strong>we</strong> <strong>they</strong> <strong>servant</strong> <strong>[relative]</strong> <strong>god</strong> <strong>heaven</strong> <strong>and</strong> <strong>earth</strong> <strong>and</strong> <strong>build</strong> <strong>house</strong> <strong>[relative]</strong> <strong>be</strong> <strong>build</strong> <strong>from</strong> <strong>former time</strong> <strong>this</strong> <strong>year</strong> <strong>much</strong> <strong>and</strong> <strong>king</strong> <strong>to</strong> <strong>Israel</strong> <strong>great</strong> <strong>build</strong> <strong>and</strong> <strong>finish</strong> 
+Ezra 5:12 (20893) <strong>but</strong> <strong>from</strong> <strong>[relative]</strong> <strong>be angry</strong> <strong>father</strong> <strong>to</strong> <strong>god</strong> <strong>heaven</strong> <strong>give</strong> <strong>they</strong> <strong>in</strong> <strong>hand</strong> <strong>Nebuchadnezzar</strong> <strong>king</strong> <strong>Babylon</strong> <strong>Chaldaean</strong> <strong>and</strong> <strong>house</strong> <strong>this</strong> <strong>demolish</strong> <strong>and</strong> <strong>people</strong> <strong>reveal</strong> <strong>to</strong> <strong>Babylon</strong> ס
+Ezra 5:13 (20894) <strong>but</strong> <strong>in</strong> <strong>year</strong> <strong>one</strong> <strong>to</strong> <strong>Cyrus</strong> <strong>king</strong> <strong>[relative]</strong> <strong>Babylon</strong> <strong>Cyrus</strong> <strong>king</strong> <strong>place</strong> <strong>sense</strong> <strong>house</strong> <strong>god</strong> <strong>this</strong> <strong>to</strong> <strong>build</strong> 
+Ezra 5:14 (20895) <strong>and</strong> <strong>also</strong> <strong>vessel</strong> <strong>[relative]</strong> <strong>house</strong> <strong>god</strong> <strong>[relative]</strong> <strong>gold</strong> <strong>and</strong> <strong>silver</strong> <strong>[relative]</strong> <strong>Nebuchadnezzar</strong> <strong>go out</strong> <strong>from</strong> <strong>palace</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>and</strong> <strong>bring</strong> <strong>they</strong> <strong>to</strong> <strong>palace</strong> <strong>[relative]</strong> <strong>Babylon</strong> <strong>go out</strong> <strong>they</strong> <strong>Cyrus</strong> <strong>king</strong> <strong>from</strong> <strong>palace</strong> <strong>[relative]</strong> <strong>Babylon</strong> <strong>and</strong> <strong>give</strong> <strong>to</strong> <strong>Sheshbazzar</strong> <strong>name</strong> <strong>[relative]</strong> <strong>governor</strong> <strong>place</strong> 
+Ezra 5:15 (20896) <strong>and</strong> <strong>say</strong> <strong>to</strong> <strong>these</strong> <strong>vessel</strong> <strong>take</strong> <strong>go</strong> <strong>come down</strong> <strong>they</strong> <strong>in</strong> <strong>palace</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>and</strong> <strong>house</strong> <strong>god</strong> <strong>build</strong> <strong>upon</strong> <strong>place</strong> ס
+Ezra 5:16 (20897) <strong>then</strong> <strong>Sheshbazzar</strong> <strong>that</strong> <strong>come</strong> <strong>give</strong> <strong>foundation</strong> <strong>[relative]</strong> <strong>house</strong> <strong>god</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>and</strong> <strong>from</strong> <strong>then</strong> <strong>and</strong> <strong>until</strong> <strong>now</strong> <strong>build</strong> <strong>and</strong> <strong>not</strong> <strong>be finished</strong> 
+Ezra 5:17 (20898) <strong>and</strong> <strong>now</strong> <strong>if</strong> <strong>upon</strong> <strong>king</strong> <strong>good</strong> <strong>search</strong> <strong>in</strong> <strong>house</strong> <strong>treasure</strong> <strong>[relative]</strong> <strong>king</strong> <strong>there</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Babylon</strong> <strong>if</strong> <strong>existence</strong> <strong>[relative]</strong> <strong>from</strong> <strong>Cyrus</strong> <strong>king</strong> <strong>place</strong> <strong>sense</strong> <strong>to</strong> <strong>build</strong> <strong>house</strong> <strong>god</strong> <strong>that</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>and</strong> <strong>will</strong> <strong>king</strong> <strong>upon</strong> <strong>this</strong> <strong>send</strong> <strong>upon</strong> ס
+Ezra 6:1 (20899) <strong>in</strong> <strong>then</strong> <strong>Darius</strong> <strong>king</strong> <strong>place</strong> <strong>sense</strong> <strong>and</strong> <strong>search</strong> <strong>in</strong> <strong>house</strong> <strong>book</strong> <strong>[relative]</strong> <strong>treasure</strong> <strong>come down</strong> <strong>there</strong> <strong>in</strong> <strong>Babylon</strong> 
+Ezra 6:2 (20900) <strong>and</strong> <strong>find</strong> <strong>in</strong> <strong>Ecbatana</strong> <strong>in</strong> <strong>fortified place</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Media</strong> <strong>province</strong> <strong>scroll</strong> <strong>one</strong> <strong>and</strong> <strong>thus</strong> <strong>write</strong> <strong>in</strong> <strong>interior</strong> <strong>memorandum</strong> פ
+Ezra 6:3 (20901) <strong>in</strong> <strong>year</strong> <strong>one</strong> <strong>to</strong> <strong>Cyrus</strong> <strong>king</strong> <strong>Cyrus</strong> <strong>king</strong> <strong>place</strong> <strong>sense</strong> <strong>house</strong> <strong>god</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>house</strong> <strong>build</strong> <strong>place</strong> <strong>[relative]</strong> <strong>sacrifice</strong> <strong>sacrifice</strong> <strong>and</strong> <strong>foundation</strong> <strong>carry</strong> <strong>height</strong> <strong>cubit</strong> <strong>sixty</strong> <strong>breadth</strong> <strong>cubit</strong> <strong>sixty</strong> 
+Ezra 6:4 (20902) <strong>layer</strong> <strong>[relative]</strong> <strong>stone</strong> <strong>[uncertain]</strong> <strong>three</strong> <strong>and</strong> <strong>layer</strong> <strong>[relative]</strong> <strong>wood</strong> <strong>new</strong> <strong>and</strong> <strong>expenses</strong> <strong>from</strong> <strong>house</strong> <strong>king</strong> <strong>give</strong> 
+Ezra 6:5 (20903) <strong>and</strong> <strong>also</strong> <strong>vessel</strong> <strong>house</strong> <strong>god</strong> <strong>[relative]</strong> <strong>gold</strong> <strong>and</strong> <strong>silver</strong> <strong>[relative]</strong> <strong>Nebuchadnezzar</strong> <strong>go out</strong> <strong>from</strong> <strong>palace</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>and</strong> <strong>bring</strong> <strong>to</strong> <strong>Babylon</strong> <strong>return</strong> <strong>and</strong> <strong>go</strong> <strong>to</strong> <strong>palace</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>to</strong> <strong>place</strong> <strong>and</strong> <strong>come down</strong> <strong>in</strong> <strong>house</strong> <strong>god</strong> ס
+Ezra 6:6 (20904) <strong>now</strong> <strong>Tattenai</strong> <strong>governor</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>Shethar-Bozenai</strong> <strong>and</strong> <strong>colleague</strong> <strong>[uncertain]</strong> <strong>[relative]</strong> <strong>in</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>far</strong> <strong>be</strong> <strong>from</strong> <strong>there</strong> 
+Ezra 6:7 (20905) <strong>leave</strong> <strong>to</strong> <strong>work</strong> <strong>house</strong> <strong>god</strong> <strong>that</strong> <strong>governor</strong> <strong>Jew</strong> <strong>and</strong> <strong>to</strong> <strong>elder</strong> <strong>Jew</strong> <strong>house</strong> <strong>god</strong> <strong>that</strong> <strong>build</strong> <strong>upon</strong> <strong>place</strong> 
+Ezra 6:8 (20906) <strong>and</strong> <strong>from</strong> <strong>place</strong> <strong>sense</strong> <strong>to</strong> <strong>what</strong> <strong>[relative]</strong> <strong>do</strong> <strong>with</strong> <strong>elder</strong> <strong>Jew</strong> <strong>these</strong> <strong>to</strong> <strong>build</strong> <strong>house</strong> <strong>god</strong> <strong>that</strong> <strong>and</strong> <strong>from</strong> <strong>possession</strong> <strong>king</strong> <strong>[relative]</strong> <strong>tax</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>exactly</strong> <strong>expenses</strong> <strong>be</strong> <strong>give</strong> <strong>to</strong> <strong>man</strong> <strong>these</strong> <strong>[relative]</strong> <strong>not</strong> <strong>to</strong> <strong>be idle</strong> 
+Ezra 6:9 (20907) <strong>and</strong> <strong>what</strong> <strong>need</strong> <strong>and</strong> <strong>son</strong> <strong>ox</strong> <strong>and</strong> <strong>ram</strong> <strong>and</strong> <strong>lamb</strong> <strong>to</strong> <strong>sacrifice</strong> <strong>to</strong> <strong>god</strong> <strong>heaven</strong> <strong>wheat</strong> <strong>salt</strong> <strong>wine</strong> <strong>and</strong> <strong>oil</strong> <strong>like</strong> <strong>word</strong> <strong>priest</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>be</strong> <strong>give</strong> <strong>to</strong> <strong>day</strong> <strong>in</strong> <strong>day</strong> <strong>[relative]</strong> <strong>not</strong> <strong>negligence</strong> 
+Ezra 6:10 (20908) <strong>[relative]</strong> <strong>be</strong> <strong>approach</strong> <strong>incense</strong> <strong>to</strong> <strong>god</strong> <strong>heaven</strong> <strong>and</strong> <strong>pray</strong> <strong>to</strong> <strong>life</strong> <strong>king</strong> <strong>and</strong> <strong>son</strong> 
+Ezra 6:11 (20909) <strong>and</strong> <strong>from</strong> <strong>place</strong> <strong>sense</strong> <strong>[relative]</strong> <strong>whole</strong> <strong>mankind</strong> <strong>[relative]</strong> <strong>be different</strong> <strong>word</strong> <strong>this</strong> <strong>pull out</strong> <strong>wood</strong> <strong>from</strong> <strong>house</strong> <strong>and</strong> <strong>erect</strong> <strong>hit</strong> <strong>upon</strong> <strong>and</strong> <strong>house</strong> <strong>dunghill</strong> <strong>do</strong> <strong>upon</strong> <strong>this</strong> 
+Ezra 6:12 (20910) <strong>and</strong> <strong>god</strong> <strong>[relative]</strong> <strong>dwell</strong> <strong>name</strong> <strong>there</strong> <strong>fall</strong> <strong>whole</strong> <strong>king</strong> <strong>and</strong> <strong>people</strong> <strong>[relative]</strong> <strong>send</strong> <strong>hand</strong> <strong>to</strong> <strong>be different</strong> <strong>to</strong> <strong>be harmful</strong> <strong>house</strong> <strong>god</strong> <strong>that</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>I</strong> <strong>Darius</strong> <strong>place</strong> <strong>sense</strong> <strong>exactly</strong> <strong>do</strong> פ
+Ezra 6:13 (20911) <strong>then</strong> <strong>Tattenai</strong> <strong>governor</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>Shethar-Bozenai</strong> <strong>and</strong> <strong>colleague</strong> <strong>to</strong> <strong>opposite</strong> <strong>[relative]</strong> <strong>send</strong> <strong>Darius</strong> <strong>king</strong> <strong>thus</strong> <strong>exactly</strong> <strong>do</strong> 
+Ezra 6:14 (20912) <strong>and</strong> <strong>elder</strong> <strong>Jew</strong> <strong>build</strong> <strong>and</strong> <strong>prosper</strong> <strong>in</strong> <strong>prophecy</strong> <strong>Haggai</strong> <strong>prophet</strong> <strong>and</strong> <strong>Zechariah</strong> <strong>son</strong> <strong>Iddo</strong> <strong>and</strong> <strong>build</strong> <strong>and</strong> <strong>finish</strong> <strong>from</strong> <strong>sense</strong> <strong>god</strong> <strong>Israel</strong> <strong>and</strong> <strong>from</strong> <strong>sense</strong> <strong>Cyrus</strong> <strong>and</strong> <strong>Darius</strong> <strong>and</strong> <strong>Artaxerxes</strong> <strong>king</strong> <strong>Persia</strong> 
+Ezra 6:15 (20913) <strong>and</strong> <strong>go out</strong> <strong>house</strong> <strong>this</strong> <strong>until</strong> <strong>day</strong> <strong>three</strong> <strong>to</strong> <strong>month</strong> <strong>Adar</strong> <strong>[relative]</strong> <strong>she</strong> <strong>year</strong> <strong>six</strong> <strong>to</strong> <strong>kingdom</strong> <strong>Darius</strong> <strong>king</strong> פ
+Ezra 6:16 (20914) <strong>and</strong> <strong>do</strong> <strong>son</strong> <strong>Israel</strong> <strong>priest</strong> <strong>and</strong> <strong>Levite</strong> <strong>and</strong> <strong>rest</strong> <strong>son</strong> <strong>exile</strong> <strong>inauguration</strong> <strong>house</strong> <strong>god</strong> <strong>this</strong> <strong>in</strong> <strong>joy</strong> 
+Ezra 6:17 (20915) <strong>and</strong> <strong>approach</strong> <strong>to</strong> <strong>inauguration</strong> <strong>house</strong> <strong>god</strong> <strong>this</strong> <strong>ox</strong> <strong>hundred</strong> <strong>ram</strong> <strong>hundred</strong> <strong>lamb</strong> <strong>four</strong> <strong>hundred</strong> <strong>and</strong> <strong>he-goat</strong> <strong>goat</strong> <strong>to</strong> <strong>sin-offering</strong> <strong>upon</strong> <strong>whole</strong> <strong>Israel</strong> <strong>two</strong> <strong>ten</strong> <strong>to</strong> <strong>number</strong> <strong>tribe</strong> <strong>Israel</strong> 
+Ezra 6:18 (20916) <strong>and</strong> <strong>stand</strong> <strong>priest</strong> <strong>in</strong> <strong>division</strong> <strong>and</strong> <strong>Levite</strong> <strong>in</strong> <strong>division</strong> <strong>upon</strong> <strong>work</strong> <strong>god</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>like</strong> <strong>writing</strong> <strong>book</strong> <strong>Moses</strong> פ
+Ezra 6:19 (20917) і рабіць сын [арт.] <strong>exile</strong> [В.с.] [арт.] <strong>Passover</strong> у|[Тв.с.] <strong>four</strong> <strong>-teen</strong> да|[Д.с.] [арт.] <strong>month</strong> [арт.] першы 
+Ezra 6:20 (20918) бо|што <strong>be clean</strong> [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> як адзін цэлы|увесь <strong>pure</strong> і <strong>slaughter</strong> [арт.] <strong>Passover</strong> да|[Д.с.] цэлы|увесь сын [арт.] <strong>exile</strong> і да|[Д.с.] брат [арт.] <strong>priest</strong> і да|[Д.с.] 
+Ezra 6:21 (20919) і есці сын Ісраэль [арт.] вяртацца з [арт.] <strong>exile</strong> і цэлы|увесь [арт.] <strong>separate</strong> з <strong>uncleanness</strong> знешні народ [арт.] зямля да да|[Д.с.] <strong>inquire</strong> да|[Д.с.] Існы Бог Ісраэль 
+Ezra 6:22 (20920) і рабіць <strong>festival</strong> <strong>matzah</strong> сем дзень у|[Тв.с.] радасць бо|што узрадавацца Існы і <strong>turn</strong> сэрца цар <strong>Asshur</strong> на да|[Д.с.] <strong>be strong</strong> рука у|[Тв.с.] <strong>work</strong> дом [арт.] Бог Бог Ісраэль פ
+Ezra 7:1 (20921) і пасля [арт.] слова|рэч [арт.] гэтыя у|[Тв.с.] царства <strong>Artaxerxes</strong> цар <strong>Persia</strong> <strong>Ezra</strong> сын <strong>Seraiah</strong> сын <strong>Azariah</strong> сын <strong>Hilkiah</strong> 
+Ezra 7:2 (20922) сын <strong>Shallum</strong> сын <strong>Zadok</strong> сын <strong>Ahitub</strong> 
+Ezra 7:3 (20923) сын <strong>Amariah</strong> сын <strong>Azariah</strong> сын <strong>Meraioth</strong> 
+Ezra 7:4 (20924) сын <strong>Zerahiah</strong> сын <strong>Uzzi</strong> сын <strong>Bukki</strong> 
+Ezra 7:5 (20925) сын <strong>Abishua</strong> сын <strong>Phinehas</strong> сын <strong>Eleazar</strong> сын <strong>Aaron</strong> [арт.] <strong>priest</strong> [арт.] галава 
+Ezra 7:6 (20926) ён <strong>Ezra</strong> падымацца з <strong>Babel</strong> і ён <strong>scribe</strong> <strong>quick</strong> у|[Тв.с.] <strong>instruction</strong> Майсей які даць Існы Бог Ісраэль і даць да|[Д.с.] [арт.] цар як рука Існы Бог на цэлы|увесь <strong>request</strong> פ
+Ezra 7:7 (20927) і падымацца з сын Ісраэль і з [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> і [арт.] <strong>sing</strong> і [арт.] <strong>porter</strong> і [арт.] <strong>temple slave</strong> да Ерусалім у|[Тв.с.] год сем да|[Д.с.] <strong>Artaxerxes</strong> [арт.] цар 
+Ezra 7:8 (20928) і прыйсці Ерусалім у|[Тв.с.] [арт.] <strong>month</strong> [арт.] <strong>fifth</strong> яна год [арт.] <strong>seventh</strong> да|[Д.с.] [арт.] цар 
+Ezra 7:9 (20929) бо|што у|[Тв.с.] адзін да|[Д.с.] [арт.] <strong>month</strong> [арт.] першы ён <strong>establishment</strong> [арт.] <strong>ascent</strong> з <strong>Babel</strong> і у|[Тв.с.] адзін да|[Д.с.] [арт.] <strong>month</strong> [арт.] <strong>fifth</strong> прыйсці да Ерусалім як рука Бог [арт.] добры на 
+Ezra 7:10 (20930) бо|што <strong>Ezra</strong> <strong>be firm</strong> сэрца да|[Д.с.] <strong>inquire</strong> [В.с.] <strong>instruction</strong> Існы і да|[Д.с.] рабіць і да|[Д.с.] <strong>learn</strong> у|[Тв.с.] Ісраэль <strong>portion</strong> і правасуддзе ס
+Ezra 7:11 (20931) і гэты <strong>copy</strong> [арт.] <strong>letter</strong> які даць [арт.] цар <strong>Artaxerxes</strong> да|[Д.с.] <strong>Ezra</strong> [арт.] <strong>priest</strong> [арт.] <strong>scribe</strong> <strong>count</strong> слова|рэч <strong>commandment</strong> Існы і <strong>portion</strong> на Ісраэль פ
+Ezra 7:12 (20932) <strong>Artaxerxes</strong> <strong>king</strong> <strong>king</strong> <strong>to</strong> <strong>Ezra</strong> <strong>priest</strong> <strong>scribe</strong> <strong>law</strong> <strong>[relative]</strong> <strong>god</strong> <strong>heaven</strong> <strong>bring to an end</strong> <strong>and</strong> <strong>now</strong> 
+Ezra 7:13 (20933) <strong>from</strong> <strong>place</strong> <strong>sense</strong> <strong>[relative]</strong> <strong>whole</strong> <strong>be willing</strong> <strong>in</strong> <strong>kingdom</strong> <strong>from</strong> <strong>people</strong> <strong>Israel</strong> <strong>and</strong> <strong>priest</strong> <strong>and</strong> <strong>Levite</strong> <strong>to</strong> <strong>go</strong> <strong>to</strong> <strong>Jerusalem</strong> <strong>with</strong> <strong>go</strong> 
+Ezra 7:14 (20934) <strong>like</strong> <strong>to</strong> <strong>opposite</strong> <strong>[relative]</strong> <strong>from</strong> <strong>before</strong> <strong>king</strong> <strong>and</strong> <strong>seven</strong> <strong>advise</strong> <strong>send</strong> <strong>to</strong> <strong>search</strong> <strong>upon</strong> <strong>Judaea</strong> <strong>and</strong> <strong>to</strong> <strong>Jerusalem</strong> <strong>in</strong> <strong>law</strong> <strong>god</strong> <strong>[relative]</strong> <strong>in</strong> <strong>hand</strong> 
+Ezra 7:15 (20935) <strong>and</strong> <strong>to</strong> <strong>bring</strong> <strong>silver</strong> <strong>and</strong> <strong>gold</strong> <strong>[relative]</strong> <strong>king</strong> <strong>and</strong> <strong>advise</strong> <strong>be willing</strong> <strong>to</strong> <strong>god</strong> <strong>Israel</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Jerusalem</strong> <strong>abode</strong> 
+Ezra 7:16 (20936) <strong>and</strong> <strong>whole</strong> <strong>silver</strong> <strong>and</strong> <strong>gold</strong> <strong>[relative]</strong> <strong>find</strong> <strong>in</strong> <strong>whole</strong> <strong>province</strong> <strong>Babylon</strong> <strong>with</strong> <strong>be willing</strong> <strong>people</strong> <strong>and</strong> <strong>priest</strong> <strong>be willing</strong> <strong>to</strong> <strong>house</strong> <strong>god</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Jerusalem</strong> 
+Ezra 7:17 (20937) <strong>like</strong> <strong>to</strong> <strong>opposite</strong> <strong>this</strong> <strong>exactly</strong> <strong>buy</strong> <strong>in</strong> <strong>silver</strong> <strong>this</strong> <strong>ox</strong> <strong>ram</strong> <strong>lamb</strong> <strong>and</strong> <strong>offering</strong> <strong>and</strong> <strong>libation</strong> <strong>and</strong> <strong>approach</strong> <strong>they</strong> <strong>upon</strong> <strong>altar</strong> <strong>[relative]</strong> <strong>house</strong> <strong>god</strong> <strong>[relative]</strong> <strong>in</strong> <strong>Jerusalem</strong> 
+Ezra 7:18 (20938) <strong>and</strong> <strong>what</strong> <strong>[relative]</strong> <strong>upon</strong> <strong>and</strong> <strong>upon</strong> <strong>brother</strong> <strong>be good</strong> <strong>in</strong> <strong>rest</strong> <strong>silver</strong> <strong>and</strong> <strong>gold</strong> <strong>to</strong> <strong>do</strong> <strong>like</strong> <strong>will</strong> <strong>god</strong> <strong>do</strong> 
+Ezra 7:19 (20939) <strong>and</strong> <strong>vessel</strong> <strong>[relative]</strong> <strong>give</strong> <strong>to</strong> <strong>to</strong> <strong>service</strong> <strong>house</strong> <strong>god</strong> <strong>be finished</strong> <strong>before</strong> <strong>god</strong> <strong>Jerusalem</strong> 
+Ezra 7:20 (20940) <strong>and</strong> <strong>rest</strong> <strong>need</strong> <strong>house</strong> <strong>god</strong> <strong>[relative]</strong> <strong>fall</strong> <strong>to</strong> <strong>to</strong> <strong>give</strong> <strong>give</strong> <strong>from</strong> <strong>house</strong> <strong>treasure</strong> <strong>king</strong> 
+Ezra 7:21 (20941) <strong>and</strong> <strong>from</strong> <strong>I</strong> <strong>Artaxerxes</strong> <strong>king</strong> <strong>place</strong> <strong>sense</strong> <strong>to</strong> <strong>whole</strong> <strong>treasurer</strong> <strong>[relative]</strong> <strong>in</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>[relative]</strong> <strong>whole</strong> <strong>[relative]</strong> <strong>ask</strong> <strong>Ezra</strong> <strong>priest</strong> <strong>scribe</strong> <strong>law</strong> <strong>[relative]</strong> <strong>god</strong> <strong>heaven</strong> <strong>exactly</strong> <strong>do</strong> 
+Ezra 7:22 (20942) <strong>until</strong> <strong>silver</strong> <strong>talent</strong> <strong>hundred</strong> <strong>and</strong> <strong>until</strong> <strong>wheat</strong> <strong>kor</strong> <strong>hundred</strong> <strong>and</strong> <strong>until</strong> <strong>wine</strong> <strong>bath</strong> <strong>hundred</strong> <strong>and</strong> <strong>until</strong> <strong>bath</strong> <strong>oil</strong> <strong>hundred</strong> <strong>and</strong> <strong>salt</strong> <strong>[relative]</strong> <strong>not</strong> <strong>writing</strong> 
+Ezra 7:23 (20943) <strong>whole</strong> <strong>[relative]</strong> <strong>from</strong> <strong>sense</strong> <strong>god</strong> <strong>heaven</strong> <strong>do</strong> <strong>with zeal</strong> <strong>to</strong> <strong>house</strong> <strong>god</strong> <strong>heaven</strong> <strong>[relative]</strong> <strong>to</strong> <strong>what</strong> <strong>be</strong> <strong>wrath</strong> <strong>upon</strong> <strong>kingdom</strong> <strong>king</strong> <strong>and</strong> <strong>son</strong> 
+Ezra 7:24 (20944) <strong>and</strong> <strong>to</strong> <strong>know</strong> <strong>[relative]</strong> <strong>whole</strong> <strong>priest</strong> <strong>and</strong> <strong>Levite</strong> <strong>musician</strong> <strong>door-keeper</strong> <strong>temple servant</strong> <strong>and</strong> <strong>serve</strong> <strong>house</strong> <strong>god</strong> <strong>this</strong> <strong>tax</strong> <strong>tribute</strong> <strong>and</strong> <strong>tax</strong> <strong>not</strong> <strong>mighty</strong> <strong>to</strong> <strong>throw</strong> <strong>upon</strong> 
+Ezra 7:25 (20945) <strong>and</strong> <strong>you</strong> <strong>Ezra</strong> <strong>like</strong> <strong>wisdom</strong> <strong>god</strong> <strong>[relative]</strong> <strong>in</strong> <strong>hand</strong> <strong>count</strong> <strong>judge</strong> <strong>and</strong> <strong>judge</strong> <strong>[relative]</strong> <strong>be</strong> <strong>judge</strong> <strong>to</strong> <strong>whole</strong> <strong>people</strong> <strong>[relative]</strong> <strong>in</strong> <strong>opposite bank</strong> <strong>river</strong> <strong>to</strong> <strong>whole</strong> <strong>know</strong> <strong>law</strong> <strong>god</strong> <strong>and</strong> <strong>[relative]</strong> <strong>not</strong> <strong>know</strong> <strong>know</strong> 
+Ezra 7:26 (20946) <strong>and</strong> <strong>whole</strong> <strong>[relative]</strong> <strong>not</strong> <strong>be</strong> <strong>do</strong> <strong>law</strong> <strong>[relative]</strong> <strong>god</strong> <strong>and</strong> <strong>law</strong> <strong>[relative]</strong> <strong>king</strong> <strong>exactly</strong> <strong>judgement</strong> <strong>be</strong> <strong>do</strong> <strong>from</strong> <strong>if</strong> <strong>to</strong> <strong>death</strong> <strong>if</strong> <strong>to</strong> <strong>banishment</strong> <strong>if</strong> <strong>to</strong> <strong>fine</strong> <strong>possession</strong> <strong>and</strong> <strong>to</strong> <strong>bond</strong> פ
+Ezra 7:27 (20947) <strong>bless</strong> Існы Бог бацька які даць як <strong>this</strong> у|[Тв.с.] сэрца [арт.] цар да|[Д.с.] <strong>glorify</strong> [В.с.] дом Існы які у|[Тв.с.] Ерусалім 
+Ezra 7:28 (20948) і на <strong>extend</strong> <strong>loyalty</strong> да|[Д.с.] твар [арт.] цар і <strong>advise</strong> і да|[Д.с.] цэлы|увесь кіраўнік|міністр [арт.] цар [арт.] мужны|моцны і я <strong>be strong</strong> як рука Існы Бог на і <strong>collect</strong> з Ісраэль галава да|[Д.с.] падымацца з פ
+Ezra 8:1 (20949) і гэтыя галава бацька і <strong>register</strong> [арт.] падымацца з у|[Тв.с.] царства <strong>Artaxerxes</strong> [арт.] цар з <strong>Babel</strong> ס
+Ezra 8:2 (20950) з сын <strong>Phinehas</strong> <strong>Gershom</strong> з сын <strong>Ithamar</strong> <strong>Daniel</strong> з сын Давыд <strong>Hattush</strong> ס
+Ezra 8:3 (20951) з сын <strong>Shecaniah</strong> з сын <strong>Parosh</strong> <strong>Zechariah</strong> і з <strong>register</strong> да|[Д.с.] <strong>male</strong> сотня і <strong>five</strong> ס
+Ezra 8:4 (20952) з сын <strong>Pahath-Moab</strong> <strong>Eliehoenai</strong> сын <strong>Zerahiah</strong> і з сотня [арт.] <strong>male</strong> ס
+Ezra 8:5 (20953) з сын <strong>Shecaniah</strong> сын <strong>Jahaziel</strong> і з <strong>three</strong> сотня [арт.] <strong>male</strong> ס
+Ezra 8:6 (20954) і з сын <strong>Adin</strong> <strong>Ebed</strong> сын <strong>Jonathan</strong> і з <strong>five</strong> [арт.] <strong>male</strong> ס
+Ezra 8:7 (20955) і з сын <strong>Elam</strong> <strong>Jeshaiah</strong> сын <strong>Athaliah</strong> і з сем [арт.] <strong>male</strong> ס
+Ezra 8:8 (20956) і з сын <strong>Shephatiah</strong> <strong>Zebadiah</strong> сын <strong>Michael</strong> і з восем [арт.] <strong>male</strong> ס
+Ezra 8:9 (20957) з сын <strong>Joab</strong> Аваддзя сын <strong>Jehiel</strong> і з сотня і восем <strong>-teen</strong> [арт.] <strong>male</strong> ס
+Ezra 8:10 (20958) і з сын <strong>Shelomith</strong> сын <strong>Josiphiah</strong> і з сотня і <strong>six</strong> [арт.] <strong>male</strong> ס
+Ezra 8:11 (20959) і з сын <strong>Bebai</strong> <strong>Zechariah</strong> сын <strong>Bebai</strong> і з <strong>twenty</strong> і восем [арт.] <strong>male</strong> ס
+Ezra 8:12 (20960) і з сын <strong>Azgad</strong> <strong>Johanan</strong> сын [арт.] <strong>Hakkatan</strong> і з сотня і дзесяць [арт.] <strong>male</strong> ס
+Ezra 8:13 (20961) і з сын <strong>Adonikam</strong> апошні і гэтыя імя <strong>Eliphelet</strong> <strong>Jeiel</strong> і <strong>Shemaiah</strong> і з <strong>six</strong> [арт.] <strong>male</strong> ס
+Ezra 8:14 (20962) і з сын <strong>Bigvai</strong> <strong>Uthai</strong> і <strong>Zaccur</strong> і з сем [арт.] <strong>male</strong> פ
+Ezra 8:15 (20963) і <strong>collect</strong> да [арт.] <strong>stream</strong> [арт.] прыйсці да <strong>Ahava</strong> і <strong>encamp</strong> там дзень <strong>three</strong> і разумець у|[Тв.с.] [арт.] народ і у|[Тв.с.] [арт.] <strong>priest</strong> і з сын <strong>Levi</strong> не знайсці там 
+Ezra 8:16 (20964) і слаць да|[Д.с.] <strong>Eliezer</strong> да|[Д.с.] <strong>Ariel</strong> да|[Д.с.] <strong>Shemaiah</strong> і да|[Д.с.] <strong>Elnathan</strong> і да|[Д.с.] <strong>Jarib</strong> і да|[Д.с.] <strong>Elnathan</strong> і да|[Д.с.] <strong>Nathan</strong> і да|[Д.с.] <strong>Zechariah</strong> і да|[Д.с.] <strong>Meshullam</strong> галава і да|[Д.с.] <strong>Joiarib</strong> і да|[Д.с.] <strong>Elnathan</strong> разумець 
+Ezra 8:17 (20965) і <strong>command</strong> [В.с.] на <strong>Iddo</strong> [арт.] галава у|[Тв.с.] <strong>Casiphia</strong> [арт.] месца і класці|ставіць у|[Тв.с.] рот слова|рэч да|[Д.с.] гаварыць да <strong>Iddo</strong> брат [арт.] <strong>temple slave</strong> у|[Тв.с.] <strong>Casiphia</strong> [арт.] месца да|[Д.с.] прыйсці да|[Д.с.] <strong>serve</strong> да|[Д.с.] дом Бог 
+Ezra 8:18 (20966) і прыйсці да|[Д.с.] як рука Бог [арт.] добры на чалавек (1) <strong>insight</strong> з сын <strong>Mahli</strong> сын <strong>Levi</strong> сын Ісраэль і <strong>Sherebiah</strong> і сын і брат восем <strong>-teen</strong> 
+Ezra 8:19 (20967) і [В.с.] <strong>Hashabiah</strong> і разам з <strong>Jeshaiah</strong> з сын <strong>Merari</strong> брат і сын <strong>twenty</strong> ס
+Ezra 8:20 (20968) і з [арт.] <strong>temple slave</strong> што даць Давыд і [арт.] кіраўнік|міністр да|[Д.с.] <strong>work</strong> [арт.] <strong>Levite</strong> <strong>temple slave</strong> сотня і <strong>twenty</strong> цэлы|увесь <strong>bore</strong> у|[Тв.с.] імя 
+Ezra 8:21 (20969) і зваць там <strong>fasting</strong> на [арт.] <strong>stream</strong> <strong>Ahava</strong> да|[Д.с.] <strong>be lowly</strong> да|[Д.с.] твар Бог да|[Д.с.] шукаць з шлях <strong>right</strong> да|[Д.с.] і да|[Д.с.] <strong>[those unable to march]</strong> і да|[Д.с.] цэлы|увесь <strong>property</strong> 
+Ezra 8:22 (20970) бо|што <strong>be ashamed</strong> да|[Д.с.] пытацца з [арт.] цар моц і <strong>horseman</strong> да|[Д.с.] <strong>help</strong> з <strong>be hostile</strong> у|[Тв.с.] [арт.] шлях бо|што казаць да|[Д.с.] [арт.] цар да|[Д.с.] казаць рука Бог на цэлы|увесь шукаць да|[Д.с.] <strong>what is good</strong> і <strong>power</strong> і <strong>nose</strong> на цэлы|увесь <strong>leave</strong> 
+Ezra 8:23 (20971) і <strong>fast</strong> і шукаць з Бог на <strong>this</strong> і <strong>entreat</strong> да|[Д.с.] 
+Ezra 8:24 (20972) і <strong>separate</strong> з кіраўнік|міністр [арт.] <strong>priest</strong> два <strong>-teen</strong> да|[Д.с.] <strong>Sherebiah</strong> <strong>Hashabiah</strong> і з з брат дзесяць 
+Ezra 8:25 (20973) і <strong>weigh</strong> да|[Д.с.] [В.с.] [арт.] срэбра і [В.с.] [арт.] золата і [В.с.] [арт.] прылада <strong>contribution</strong> дом Бог [арт.] <strong>be high</strong> [арт.] цар і <strong>advise</strong> і кіраўнік|міністр і цэлы|увесь Ісраэль [арт.] знайсці 
+Ezra 8:26 (20974) і <strong>weigh</strong> на рука срэбра <strong>disk</strong> <strong>six</strong> сотня і <strong>five</strong> і прылада срэбра сотня да|[Д.с.] <strong>disk</strong> золата сотня <strong>disk</strong> 
+Ezra 8:27 (20975) і <strong>bowl</strong> золата <strong>twenty</strong> да|[Д.с.] <strong>[currency unit]</strong> тысяча і прылада <strong>bronze</strong> <strong>gleam</strong> добры два <strong>desirables</strong> як [арт.] золата 
+Ezra 8:28 (20976) і казаць да <strong>you</strong> святасць да|[Д.с.] Існы і [арт.] прылада святасць і [арт.] срэбра і [арт.] золата <strong>free will</strong> да|[Д.с.] Існы Бог бацька 
+Ezra 8:29 (20977) <strong>be wakeful</strong> і захоўваць (ажно) да <strong>weigh</strong> да|[Д.с.] твар кіраўнік|міністр [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> і кіраўнік|міністр [арт.] бацька да|[Д.с.] Ісраэль у|[Тв.с.] Ерусалім [арт.] <strong>hall</strong> дом Існы 
+Ezra 8:30 (20978) і <strong>take</strong> [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> <strong>weight</strong> [арт.] срэбра і [арт.] золата і [арт.] прылада да|[Д.с.] прыйсці да|[Д.с.] Ерусалім да|[Д.с.] дом Бог פ
+Ezra 8:31 (20979) і выцягнуць з <strong>stream</strong> <strong>Ahava</strong> у|[Тв.с.] два <strong>-teen</strong> да|[Д.с.] [арт.] <strong>month</strong> [арт.] першы да|[Д.с.] хадзіць Ерусалім і рука Бог быць на і <strong>deliver</strong> з далонь <strong>be hostile</strong> і <strong>lie in ambush</strong> на [арт.] шлях 
+Ezra 8:32 (20980) і прыйсці Ерусалім і сядзець там дзень <strong>three</strong> 
+Ezra 8:33 (20981) і у|[Тв.с.] [арт.] дзень [арт.] <strong>fourth</strong> <strong>weigh</strong> [арт.] срэбра і [арт.] золата і [арт.] прылада у|[Тв.с.] дом Бог на рука <strong>Meremoth</strong> сын <strong>Uriah</strong> [арт.] <strong>priest</strong> і з <strong>Eleazar</strong> сын <strong>Phinehas</strong> і з <strong>Jozabad</strong> сын <strong>Jeshua</strong> і <strong>Noadiah</strong> сын <strong>Binnui</strong> [арт.] <strong>Levite</strong> 
+Ezra 8:34 (20982) у|[Тв.с.] лік у|[Тв.с.] <strong>weight</strong> да|[Д.с.] [арт.] цэлы|увесь і пісанне цэлы|увесь [арт.] <strong>weight</strong> у|[Тв.с.] [арт.] момант [арт.] яна פ
+Ezra 8:35 (20983) [арт.] прыйсці з [арт.] <strong>captive</strong> сын [арт.] <strong>exile</strong> набліжацца <strong>burnt-offering</strong> да|[Д.с.] Бог Ісраэль <strong>young bull</strong> два <strong>-teen</strong> на цэлы|увесь Ісраэль <strong>ram, despot</strong> <strong>nine</strong> і <strong>six</strong> <strong>young ram</strong> сем і сем <strong>he-goat</strong> <strong>sin</strong> два <strong>-teen</strong> [арт.] цэлы|увесь <strong>burnt-offering</strong> да|[Д.с.] Існы פ
+Ezra 8:36 (20984) і даць [В.с.] <strong>orders</strong> [арт.] цар да|[Д.с.] <strong>satrap</strong> [арт.] цар і <strong>governor</strong> <strong>opposite</strong> [арт.] <strong>stream</strong> і падняць [В.с.] [арт.] народ і [В.с.] дом [арт.] Бог ס
+Ezra 9:1 (20985) і як <strong>be complete</strong> гэтыя <strong>approach</strong> да [арт.] кіраўнік|міністр да|[Д.с.] казаць не <strong>separate</strong> [арт.] народ Ісраэль і [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> з народ [арт.] зямля як <strong>abomination</strong> да|[Д.с.] [арт.] канаанец [арт.] <strong>Hittite</strong> [арт.] <strong>Perizzite</strong> [арт.] <strong>Jebusite</strong> [арт.] <strong>Ammonite</strong> [арт.] <strong>Moabite</strong> [арт.] <strong>Egyptian</strong> і [арт.] <strong>Amorite</strong> 
+Ezra 9:2 (20986) бо|што падняць з дачка да|[Д.с.] і да|[Д.с.] сын і <strong>mix</strong> семя [арт.] святасць у|[Тв.с.] народ [арт.] зямля і рука [арт.] кіраўнік|міністр і [арт.] <strong>prefect</strong> быць у|[Тв.с.] [арт.] <strong>unfaithfulness</strong> [арт.] гэты першы ס
+Ezra 9:3 (20987) і як чуць [В.с.] [арт.] слова|рэч [арт.] гэты <strong>tear</strong> [В.с.] адзежа і <strong>coat</strong> і <strong>pull off</strong> з <strong>hair</strong> галава і <strong>beard</strong> і сядзець <strong>be desolate</strong> 
+Ezra 9:4 (20988) і да збіраць цэлы|увесь <strong>trembling</strong> у|[Тв.с.] слова|рэч Бог Ісраэль на <strong>unfaithfulness</strong> [арт.] <strong>exile</strong> і я сядзець <strong>be desolate</strong> (ажно) да да|[Д.с.] <strong>present</strong> [арт.] вечар 
+Ezra 9:5 (20989) і у|[Тв.с.] <strong>present</strong> [арт.] вечар устаць з <strong>humiliation</strong> і у|[Тв.с.] <strong>tear</strong> адзежа і <strong>coat</strong> і <strong>kneel</strong> на <strong>knee</strong> і <strong>spread out</strong> далонь да Існы Бог 
+Ezra 9:6 (20990) і казаць Бог <strong>be ashamed</strong> і <strong>humiliate</strong> да|[Д.с.] <strong>be high</strong> Бог твар да бо|што <strong>sin</strong> шмат да|[Д.с.] верх галава і <strong>guiltiness</strong> узвялічваць (ажно) да да|[Д.с.] [арт.] неба 
+Ezra 9:7 (20991) з дзень бацька <strong>we</strong> у|[Тв.с.] <strong>guiltiness</strong> вялікі (ажно) да [арт.] дзень [арт.] гэты і у|[Тв.с.] <strong>sin</strong> даць <strong>we</strong> цар <strong>priest</strong> у|[Тв.с.] рука цар [арт.] зямля у|[Тв.с.] [арт.] <strong>dagger</strong> у|[Тв.с.] [арт.] <strong>captive</strong> і у|[Тв.с.] [арт.] <strong>spoil</strong> і у|[Тв.с.] <strong>shame</strong> твар як [арт.] дзень [арт.] гэты 
+Ezra 9:8 (20992) і <strong>now</strong> як <strong>little</strong> <strong>moment</strong> быць <strong>supplication</strong> з разам з Існы Бог да|[Д.с.] пакідаць да|[Д.с.] збаўленне і да|[Д.с.] даць да|[Д.с.] <strong>peg</strong> у|[Тв.с.] месца святасць да|[Д.с.] <strong>be light</strong> вока Бог і да|[Д.с.] даць <strong>life preservation</strong> <strong>little</strong> у|[Тв.с.] <strong>servitude</strong> 
+Ezra 9:9 (20993) бо|што слуга <strong>we</strong> і у|[Тв.с.] <strong>servitude</strong> не <strong>leave</strong> Бог і <strong>extend</strong> на <strong>loyalty</strong> да|[Д.с.] твар цар <strong>Persia</strong> да|[Д.с.] даць да|[Д.с.] <strong>life preservation</strong> да|[Д.с.] <strong>be high</strong> [В.с.] дом Бог і да|[Д.с.] стаяць [В.с.] <strong>ruin</strong> і да|[Д.с.] даць да|[Д.с.] сцяна|мур у|[Тв.с.] Егуда і у|[Тв.с.] Ерусалім ס
+Ezra 9:10 (20994) і <strong>now</strong> што казаць Бог пасля <strong>this</strong> бо|што <strong>leave</strong> <strong>commandment</strong> 
+Ezra 9:11 (20995) які <strong>command</strong> у|[Тв.с.] рука слуга [арт.] <strong>prophet</strong> да|[Д.с.] казаць [арт.] зямля які <strong>you</strong> прыйсці да|[Д.с.] заўладаць зямля <strong>menstruation</strong> яна у|[Тв.с.] <strong>menstruation</strong> народ [арт.] зямля у|[Тв.с.] <strong>abomination</strong> які поўніцца з рот да рот у|[Тв.с.] <strong>uncleanness</strong> 
+Ezra 9:12 (20996) і <strong>now</strong> дачка не [+заг.лад] даць да|[Д.с.] сын і дачка не [+заг.лад] падняць да|[Д.с.] сын і не <strong>inquire</strong> згода і <strong>what is good</strong> (ажно) да свет|вечнасць з-за <strong>be strong</strong> і есці [В.с.] <strong>best</strong> [арт.] зямля і заўладаць да|[Д.с.] сын (ажно) да свет|вечнасць 
+Ezra 9:13 (20997) і пасля цэлы|увесь [арт.] прыйсці на у|[Тв.с.] учынак|справа [арт.] зло і у|[Тв.с.] <strong>guiltiness</strong> [арт.] вялікі бо|што ты[м.] Бог <strong>withhold</strong> да|[Д.с.] <strong>low place</strong> з <strong>sin</strong> і даць да|[Д.с.] збаўленне як <strong>this</strong> 
+Ezra 9:14 (20998) ці вяртацца да|[Д.с.] <strong>break</strong> <strong>commandment</strong> і да|[Д.с.] <strong>be father-in-law</strong> у|[Тв.с.] народ [арт.] <strong>abomination</strong> [арт.] гэтыя ці не <strong>be angry</strong> у|[Тв.с.] (ажно) да <strong>be complete</strong> да|[Д.с.] няма <strong>rest</strong> і збаўленне פ
+Ezra 9:15 (20999) Існы Бог Ісраэль справядлівы|правільны ты[м.] бо|што пакідаць збаўленне як [арт.] дзень [арт.] гэты вось да|[Д.с.] твар у|[Тв.с.] <strong>guiltiness</strong> бо|што няма да|[Д.с.] стаяць да|[Д.с.] твар на <strong>this</strong> פ
+Ezra 10:1 (21000) і як <strong>pray</strong> <strong>Ezra</strong> і як <strong>praise</strong> плакаць і падаць да|[Д.с.] твар дом [арт.] Бог <strong>collect</strong> да з Ісраэль <strong>assembly</strong> шматлікі вельмі чалавек (1) і жанчына і дзіця [м.] бо|што плакаць [арт.] народ шмат <strong>weeping</strong> ס
+Ezra 10:2 (21001) і адказаць <strong>Shecaniah</strong> сын <strong>Jehiel</strong> з сын <strong>Elam</strong> і казаць да|[Д.с.] <strong>Ezra</strong> <strong>we</strong> <strong>be unfaithful</strong> у|[Тв.с.] Бог і сядзець жанчына чужынскі з народ [арт.] зямля і <strong>now</strong> ёсць <strong>hope</strong> да|[Д.с.] Ісраэль на <strong>this</strong> 
+Ezra 10:3 (21002) і <strong>now</strong> выразаць дамова да|[Д.с.] Бог да|[Д.с.] выйсці цэлы|увесь жанчына і [арт.] нарадзіць з у|[Тв.с.] <strong>counsel</strong> валадар і [арт.] <strong>trembling</strong> у|[Тв.с.] <strong>commandment</strong> Бог і як [арт.] <strong>instruction</strong> рабіць 
+Ezra 10:4 (21003) устаць бо|што на [арт.] слова|рэч і <strong>we</strong> з <strong>be strong</strong> і рабіць פ
+Ezra 10:5 (21004) і устаць <strong>Ezra</strong> і <strong>swear</strong> [В.с.] кіраўнік|міністр [арт.] <strong>priest</strong> [арт.] <strong>Levite</strong> і цэлы|увесь Ісраэль да|[Д.с.] рабіць як [арт.] слова|рэч [арт.] гэты і <strong>swear</strong> 
+Ezra 10:6 (21005) і устаць <strong>Ezra</strong> з да|[Д.с.] твар дом [арт.] Бог і хадзіць да <strong>hall</strong> <strong>Jehohanan</strong> сын <strong>Eliashib</strong> і хадзіць там хлеб не есці і вада не піць бо|што <strong>mourn</strong> на <strong>unfaithfulness</strong> [арт.] <strong>exile</strong> ס
+Ezra 10:7 (21006) і перайсці голас у|[Тв.с.] Егуда і Ерусалім да|[Д.с.] цэлы|увесь сын [арт.] <strong>exile</strong> да|[Д.с.] <strong>collect</strong> Ерусалім 
+Ezra 10:8 (21007) і цэлы|увесь які не прыйсці да|[Д.с.] <strong>three</strong> [арт.] дзень як <strong>counsel</strong> [арт.] кіраўнік|міністр і [арт.] старадаўні <strong>consecrate</strong> цэлы|увесь <strong>property</strong> і ён <strong>separate</strong> з <strong>assembly</strong> [арт.] <strong>exile</strong> ס
+Ezra 10:9 (21008) і <strong>collect</strong> цэлы|увесь чалавек (1) Егуда і Бін’ямін Ерусалім да|[Д.с.] <strong>three</strong> [арт.] дзень ён <strong>month</strong> [арт.] <strong>ninth</strong> у|[Тв.с.] <strong>twenty</strong> у|[Тв.с.] [арт.] <strong>month</strong> і сядзець цэлы|увесь [арт.] народ у|[Тв.с.] <strong>open place</strong> дом [арт.] Бог <strong>tremble</strong> на [арт.] слова|рэч і з [арт.] дождж פ
+Ezra 10:10 (21009) і устаць <strong>Ezra</strong> [арт.] <strong>priest</strong> і казаць да <strong>you</strong> <strong>be unfaithful</strong> і сядзець жанчына чужынскі да|[Д.с.] дадаць на <strong>guiltiness</strong> Ісраэль 
+Ezra 10:11 (21010) і <strong>now</strong> даць <strong>thanksgiving</strong> да|[Д.с.] Існы Бог бацька і рабіць <strong>pleasure</strong> і <strong>separate</strong> з народ [арт.] зямля і з [арт.] жанчына [арт.] чужынскі 
+Ezra 10:12 (21011) і адказаць цэлы|увесь [арт.] <strong>assembly</strong> і казаць голас вялікі так як слова|рэч на да|[Д.с.] рабіць 
+Ezra 10:13 (21012) <strong>verily</strong> [арт.] народ шматлікі і [арт.] момант дождж і няма сіла да|[Д.с.] стаяць у|[Тв.с.] [арт.] <strong>outside</strong> і [арт.] <strong>work</strong> не да|[Д.с.] дзень адзін і не да|[Д.с.] два бо|што шмат да|[Д.с.] <strong>rebel</strong> у|[Тв.с.] [арт.] слова|рэч [арт.] гэты 
+Ezra 10:14 (21013) стаяць ж, -ка [узмацн.] кіраўнік|міністр да|[Д.с.] цэлы|увесь [арт.] <strong>assembly</strong> і цэлы|увесь які у|[Тв.с.] [арт.] горад [арт.] сядзець жанчына чужынскі прыйсці да|[Д.с.] момант <strong>appoint</strong> і з старадаўні горад і горад і судзіць (ажно) да да|[Д.с.] вяртацца <strong>anger</strong> <strong>nose</strong> Бог з (ажно) да да|[Д.с.] [арт.] слова|рэч [арт.] гэты פ
+Ezra 10:15 (21014) <strong>only</strong> <strong>Jonathan</strong> сын <strong>Asahel</strong> і <strong>Jahzeiah</strong> сын <strong>Tikvah</strong> стаяць на <strong>this</strong> і <strong>Meshullam</strong> і <strong>Shabbethai</strong> [арт.] <strong>Levite</strong> <strong>help</strong> 
+Ezra 10:16 (21015) і рабіць так сын [арт.] <strong>exile</strong> і <strong>separate</strong> <strong>Ezra</strong> [арт.] <strong>priest</strong> чалавек (1) галава [арт.] бацька да|[Д.с.] дом бацька і цэлы|увесь у|[Тв.с.] імя і сядзець у|[Тв.с.] дзень адзін да|[Д.с.] [арт.] <strong>month</strong> [арт.] <strong>tenth</strong> да|[Д.с.] <strong>inquire</strong> [арт.] слова|рэч 
+Ezra 10:17 (21016) і <strong>be complete</strong> у|[Тв.с.] [арт.] цэлы|увесь чалавек (1) [арт.] сядзець жанчына чужынскі (ажно) да дзень адзін да|[Д.с.] [арт.] <strong>month</strong> [арт.] першы פ
+Ezra 10:18 (21017) і знайсці з сын [арт.] <strong>priest</strong> які сядзець жанчына чужынскі з сын <strong>Jeshua</strong> сын <strong>Jozadak</strong> і брат <strong>Maaseiah</strong> і <strong>Eliezer</strong> і <strong>Jarib</strong> і <strong>Gedaliah</strong> 
+Ezra 10:19 (21018) і даць рука да|[Д.с.] выйсці жанчына і <strong>guilty</strong> <strong>ram, despot</strong> скаціна на <strong>guiltiness</strong> ס
+Ezra 10:20 (21019) і з сын <strong>Immer</strong> <strong>Hanani</strong> і <strong>Zebadiah</strong> ס
+Ezra 10:21 (21020) і з сын <strong>Harim</strong> <strong>Maaseiah</strong> і <strong>Elijah</strong> і <strong>Shemaiah</strong> і <strong>Jehiel</strong> і <strong>Uzziah</strong> 
+Ezra 10:22 (21021) і з сын <strong>Pashhur</strong> <strong>Elioenai</strong> <strong>Maaseiah</strong> <strong>Ishmael</strong> <strong>Nethanel</strong> <strong>Jozabad</strong> і <strong>Elasah</strong> ס
+Ezra 10:23 (21022) і з [арт.] <strong>Levite</strong> <strong>Jozabad</strong> і <strong>Shimei</strong> і <strong>Kelaiah</strong> ён <strong>Kelita</strong> <strong>Pethahiah</strong> Егуда і <strong>Eliezer</strong> ס
+Ezra 10:24 (21023) і з [арт.] <strong>sing</strong> <strong>Eliashib</strong> і з [арт.] <strong>porter</strong> <strong>Shallum</strong> і <strong>Telem</strong> і <strong>Uri</strong> ס
+Ezra 10:25 (21024) і з Ісраэль з сын <strong>Parosh</strong> <strong>Ramiah</strong> і <strong>Izziah</strong> і <strong>Malkijah</strong> і <strong>Mijamin</strong> і <strong>Eleazar</strong> і <strong>Malkijah</strong> і <strong>Benaiah</strong> ס
+Ezra 10:26 (21025) і з сын <strong>Elam</strong> <strong>Mattaniah</strong> <strong>Zechariah</strong> і <strong>Jehiel</strong> і <strong>Abdi</strong> і <strong>Jeremoth</strong> і <strong>Elijah</strong> ס
+Ezra 10:27 (21026) і з сын <strong>Zattu</strong> <strong>Elioenai</strong> <strong>Eliashib</strong> <strong>Mattaniah</strong> і <strong>Jeremoth</strong> і <strong>Zabad</strong> і <strong>Aziza</strong> ס
+Ezra 10:28 (21027) і з сын <strong>Bebai</strong> <strong>Jehohanan</strong> <strong>Hananiah</strong> <strong>Zabbai</strong> <strong>Athlai</strong> ס
+Ezra 10:29 (21028) і з сын <strong>Bani</strong> <strong>Meshullam</strong> <strong>Malluch</strong> і <strong>Adaiah</strong> <strong>Jashub</strong> і <strong>Sheal</strong> і <strong>Jeremoth</strong> 
+Ezra 10:30 (21029) і з сын <strong>Pahath-Moab</strong> <strong>Adna</strong> і <strong>Kelal</strong> <strong>Benaiah</strong> <strong>Maaseiah</strong> <strong>Mattaniah</strong> <strong>Bezalel</strong> і <strong>Binnui</strong> і <strong>Manasseh</strong> ס
+Ezra 10:31 (21030) і сын <strong>Harim</strong> <strong>Eliezer</strong> <strong>Ishijah</strong> <strong>Malkijah</strong> <strong>Shemaiah</strong> <strong>Simeon</strong> 
+Ezra 10:32 (21031) Бін’ямін <strong>Malluch</strong> <strong>Shemariah</strong> ס
+Ezra 10:33 (21032) з сын <strong>Hashum</strong> <strong>Mattenai</strong> <strong>Mattattah</strong> <strong>Zabad</strong> <strong>Eliphelet</strong> <strong>Jeremai</strong> <strong>Manasseh</strong> <strong>Shimei</strong> ס
+Ezra 10:34 (21033) з сын <strong>Bani</strong> <strong>Maadai</strong> <strong>Amram</strong> і <strong>Uel</strong> ס
+Ezra 10:35 (21034) <strong>Benaiah</strong> <strong>Bedeiah</strong> <strong>Keluhi</strong> 
+Ezra 10:36 (21035) <strong>Vaniah</strong> <strong>Meremoth</strong> <strong>Eliashib</strong> 
+Ezra 10:37 (21036) <strong>Mattaniah</strong> <strong>Mattenai</strong> і <strong>Jaasu</strong> 
+Ezra 10:38 (21037) і <strong>Bani</strong> і <strong>Binnui</strong> <strong>Shimei</strong> 
+Ezra 10:39 (21038) і <strong>Shelemiah</strong> і <strong>Nathan</strong> і <strong>Adaiah</strong> 
+Ezra 10:40 (21039) <strong>Macnadebai</strong> <strong>Shashai</strong> <strong>Sharai</strong> 
+Ezra 10:41 (21040) <strong>Azarel</strong> і <strong>Shelemiah</strong> <strong>Shemariah</strong> 
+Ezra 10:42 (21041) <strong>Shallum</strong> <strong>Amariah</strong> Ёсэ́ф ס
+Ezra 10:43 (21042) з сын <strong>[mountain]</strong> <strong>Jeiel</strong> <strong>Mattithiah</strong> <strong>Zabad</strong> <strong>Zebina</strong> <strong>Jaddai</strong> і <strong>Joel</strong> <strong>Benaiah</strong> 
+Ezra 10:44 (21043) цэлы|увесь гэтыя падняць жанчына чужынскі і ёсць з жанчына і класці|ставіць сын פ

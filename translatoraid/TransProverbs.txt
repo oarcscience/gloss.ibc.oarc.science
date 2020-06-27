@@ -1,915 +1,915 @@
-1:1 (17677) 
-1:2 (17678) 
-1:3 (17679) 
-1:4 (17680) 
-1:5 (17681) 
-1:6 (17682) 
-1:7 (17683) פ
-1:8 (17684) 
-1:9 (17685) 
-1:10 (17686) 
-1:11 (17687) 
-1:12 (17688) 
-1:13 (17689) 
-1:14 (17690) 
-1:15 (17691) 
-1:16 (17692) 
-1:17 (17693) 
-1:18 (17694) 
-1:19 (17695) פ
-1:20 (17696) 
-1:21 (17697) 
-1:22 (17698) 
-1:23 (17699) 
-1:24 (17700) 
-1:25 (17701) 
-1:26 (17702) 
-1:27 (17703) 
-1:28 (17704) 
-1:29 (17705) 
-1:30 (17706) 
-1:31 (17707) 
-1:32 (17708) 
-1:33 (17709) פ
-2:1 (17710) 
-2:2 (17711) 
-2:3 (17712) 
-2:4 (17713) 
-2:5 (17714) 
-2:6 (17715) 
-2:7 (17716) 
-2:8 (17717) 
-2:9 (17718) 
-2:10 (17719) 
-2:11 (17720) 
-2:12 (17721) 
-2:13 (17722) 
-2:14 (17723) 
-2:15 (17724) 
-2:16 (17725) 
-2:17 (17726) 
-2:18 (17727) 
-2:19 (17728) 
-2:20 (17729) 
-2:21 (17730) 
-2:22 (17731) פ
-3:1 (17732) 
-3:2 (17733) 
-3:3 (17734) 
-3:4 (17735) פ
-3:5 (17736) 
-3:6 (17737) 
-3:7 (17738) 
-3:8 (17739) 
-3:9 (17740) 
-3:10 (17741) פ
-3:11 (17742) 
-3:12 (17743) 
-3:13 (17744) 
-3:14 (17745) 
-3:15 (17746) 
-3:16 (17747) 
-3:17 (17748) 
-3:18 (17749) פ
-3:19 (17750) 
-3:20 (17751) 
-3:21 (17752) 
-3:22 (17753) 
-3:23 (17754) 
-3:24 (17755) 
-3:25 (17756) 
-3:26 (17757) 
-3:27 (17758) 
-3:28 (17759) 
-3:29 (17760) 
-3:30 (17761) 
-3:31 (17762) 
-3:32 (17763) 
-3:33 (17764) 
-3:34 (17765) 
-3:35 (17766) פ
-4:1 (17767) 
-4:2 (17768) 
-4:3 (17769) 
-4:4 (17770) 
-4:5 (17771) 
-4:6 (17772) 
-4:7 (17773) 
-4:8 (17774) 
-4:9 (17775) 
-4:10 (17776) 
-4:11 (17777) 
-4:12 (17778) 
-4:13 (17779) 
-4:14 (17780) 
-4:15 (17781) 
-4:16 (17782) 
-4:17 (17783) 
-4:18 (17784) 
-4:19 (17785) פ
-4:20 (17786) 
-4:21 (17787) 
-4:22 (17788) 
-4:23 (17789) 
-4:24 (17790) 
-4:25 (17791) 
-4:26 (17792) 
-4:27 (17793) 
-5:1 (17794) 
-5:2 (17795) 
-5:3 (17796) 
-5:4 (17797) 
-5:5 (17798) 
-5:6 (17799) פ
-5:7 (17800) 
-5:8 (17801) 
-5:9 (17802) 
-5:10 (17803) 
-5:11 (17804) 
-5:12 (17805) 
-5:13 (17806) 
-5:14 (17807) 
-5:15 (17808) 
-5:16 (17809) 
-5:17 (17810) 
-5:18 (17811) 
-5:19 (17812) 
-5:20 (17813) 
-5:21 (17814) 
-5:22 (17815) 
-5:23 (17816) פ
-6:1 (17817) 
-6:2 (17818) 
-6:3 (17819) 
-6:4 (17820) 
-6:5 (17821) פ
-6:6 (17822) 
-6:7 (17823) 
-6:8 (17824) 
-6:9 (17825) 
-6:10 (17826) 
-6:11 (17827) פ
-6:12 (17828) 
-6:13 (17829) 
-6:14 (17830) 
-6:15 (17831) פ
-6:16 (17832) 
-6:17 (17833) 
-6:18 (17834) 
-6:19 (17835) פ
-6:20 (17836) 
-6:21 (17837) 
-6:22 (17838) 
-6:23 (17839) 
-6:24 (17840) 
-6:25 (17841) 
-6:26 (17842) פ
-6:27 (17843) 
-6:28 (17844) 
-6:29 (17845) 
-6:30 (17846) 
-6:31 (17847) 
-6:32 (17848) 
-6:33 (17849) 
-6:34 (17850) 
-6:35 (17851) פ
-7:1 (17852) 
-7:2 (17853) 
-7:3 (17854) 
-7:4 (17855) 
-7:5 (17856) 
-7:6 (17857) 
-7:7 (17858) 
-7:8 (17859) 
-7:9 (17860) 
-7:10 (17861) 
-7:11 (17862) 
-7:12 (17863) 
-7:13 (17864) 
-7:14 (17865) 
-7:15 (17866) 
-7:16 (17867) 
-7:17 (17868) 
-7:18 (17869) 
-7:19 (17870) 
-7:20 (17871) 
-7:21 (17872) 
-7:22 (17873) 
-7:23 (17874) פ
-7:24 (17875) 
-7:25 (17876) 
-7:26 (17877) 
-7:27 (17878) פ
-8:1 (17879) 
-8:2 (17880) 
-8:3 (17881) 
-8:4 (17882) 
-8:5 (17883) 
-8:6 (17884) 
-8:7 (17885) 
-8:8 (17886) 
-8:9 (17887) 
-8:10 (17888) 
-8:11 (17889) 
-8:12 (17890) 
-8:13 (17891) 
-8:14 (17892) 
-8:15 (17893) 
-8:16 (17894) 
-8:17 (17895) 
-8:18 (17896) 
-8:19 (17897) 
-8:20 (17898) 
-8:21 (17899) פ
-8:22 (17900) 
-8:23 (17901) 
-8:24 (17902) 
-8:25 (17903) 
-8:26 (17904) 
-8:27 (17905) 
-8:28 (17906) 
-8:29 (17907) 
-8:30 (17908) 
-8:31 (17909) פ
-8:32 (17910) 
-8:33 (17911) 
-8:34 (17912) 
-8:35 (17913) 
-8:36 (17914) פ
-9:1 (17915) 
-9:2 (17916) 
-9:3 (17917) 
-9:4 (17918) 
-9:5 (17919) 
-9:6 (17920) 
-9:7 (17921) 
-9:8 (17922) 
-9:9 (17923) פ
-9:10 (17924) 
-9:11 (17925) 
-9:12 (17926) 
-9:13 (17927) 
-9:14 (17928) 
-9:15 (17929) 
-9:16 (17930) 
-9:17 (17931) 
-9:18 (17932) פ
-10:1 (17933) 
-10:2 (17934) 
-10:3 (17935) 
-10:4 (17936) 
-10:5 (17937) 
-10:6 (17938) 
-10:7 (17939) 
-10:8 (17940) 
-10:9 (17941) 
-10:10 (17942) 
-10:11 (17943) 
-10:12 (17944) 
-10:13 (17945) 
-10:14 (17946) 
-10:15 (17947) 
-10:16 (17948) 
-10:17 (17949) 
-10:18 (17950) 
-10:19 (17951) 
-10:20 (17952) 
-10:21 (17953) 
-10:22 (17954) 
-10:23 (17955) 
-10:24 (17956) 
-10:25 (17957) 
-10:26 (17958) 
-10:27 (17959) 
-10:28 (17960) 
-10:29 (17961) 
-10:30 (17962) 
-10:31 (17963) 
-10:32 (17964) 
-11:1 (17965) 
-11:2 (17966) 
-11:3 (17967) 
-11:4 (17968) 
-11:5 (17969) 
-11:6 (17970) 
-11:7 (17971) 
-11:8 (17972) 
-11:9 (17973) 
-11:10 (17974) 
-11:11 (17975) 
-11:12 (17976) 
-11:13 (17977) 
-11:14 (17978) 
-11:15 (17979) 
-11:16 (17980) 
-11:17 (17981) 
-11:18 (17982) 
-11:19 (17983) 
-11:20 (17984) 
-11:21 (17985) 
-11:22 (17986) 
-11:23 (17987) 
-11:24 (17988) 
-11:25 (17989) 
-11:26 (17990) 
-11:27 (17991) 
-11:28 (17992) 
-11:29 (17993) 
-11:30 (17994) 
-11:31 (17995) 
-12:1 (17996) 
-12:2 (17997) 
-12:3 (17998) 
-12:4 (17999) 
-12:5 (18000) 
-12:6 (18001) 
-12:7 (18002) 
-12:8 (18003) 
-12:9 (18004) 
-12:10 (18005) 
-12:11 (18006) 
-12:12 (18007) 
-12:13 (18008) 
-12:14 (18009) 
-12:15 (18010) 
-12:16 (18011) 
-12:17 (18012) 
-12:18 (18013) 
-12:19 (18014) 
-12:20 (18015) 
-12:21 (18016) 
-12:22 (18017) 
-12:23 (18018) 
-12:24 (18019) 
-12:25 (18020) 
-12:26 (18021) 
-12:27 (18022) 
-12:28 (18023) 
-13:1 (18024) 
-13:2 (18025) 
-13:3 (18026) 
-13:4 (18027) 
-13:5 (18028) 
-13:6 (18029) 
-13:7 (18030) 
-13:8 (18031) 
-13:9 (18032) 
-13:10 (18033) 
-13:11 (18034) 
-13:12 (18035) 
-13:13 (18036) 
-13:14 (18037) 
-13:15 (18038) 
-13:16 (18039) 
-13:17 (18040) 
-13:18 (18041) 
-13:19 (18042) 
-13:20 (18043) 
-13:21 (18044) 
-13:22 (18045) 
-13:23 (18046) 
-13:24 (18047) 
-13:25 (18048) פ
-14:1 (18049) 
-14:2 (18050) 
-14:3 (18051) 
-14:4 (18052) 
-14:5 (18053) 
-14:6 (18054) 
-14:7 (18055) 
-14:8 (18056) 
-14:9 (18057) 
-14:10 (18058) 
-14:11 (18059) 
-14:12 (18060) 
-14:13 (18061) 
-14:14 (18062) 
-14:15 (18063) 
-14:16 (18064) 
-14:17 (18065) 
-14:18 (18066) 
-14:19 (18067) 
-14:20 (18068) 
-14:21 (18069) 
-14:22 (18070) 
-14:23 (18071) 
-14:24 (18072) 
-14:25 (18073) 
-14:26 (18074) 
-14:27 (18075) 
-14:28 (18076) 
-14:29 (18077) 
-14:30 (18078) 
-14:31 (18079) 
-14:32 (18080) 
-14:33 (18081) 
-14:34 (18082) 
-14:35 (18083) 
-15:1 (18084) 
-15:2 (18085) 
-15:3 (18086) 
-15:4 (18087) 
-15:5 (18088) 
-15:6 (18089) 
-15:7 (18090) 
-15:8 (18091) 
-15:9 (18092) 
-15:10 (18093) 
-15:11 (18094) 
-15:12 (18095) 
-15:13 (18096) 
-15:14 (18097) 
-15:15 (18098) 
-15:16 (18099) 
-15:17 (18100) 
-15:18 (18101) 
-15:19 (18102) 
-15:20 (18103) 
-15:21 (18104) 
-15:22 (18105) 
-15:23 (18106) 
-15:24 (18107) 
-15:25 (18108) 
-15:26 (18109) 
-15:27 (18110) 
-15:28 (18111) 
-15:29 (18112) 
-15:30 (18113) 
-15:31 (18114) 
-15:32 (18115) 
-15:33 (18116) 
-16:1 (18117) 
-16:2 (18118) 
-16:3 (18119) 
-16:4 (18120) 
-16:5 (18121) 
-16:6 (18122) 
-16:7 (18123) 
-16:8 (18124) 
-16:9 (18125) 
-16:10 (18126) 
-16:11 (18127) 
-16:12 (18128) 
-16:13 (18129) 
-16:14 (18130) 
-16:15 (18131) 
-16:16 (18132) 
-16:17 (18133) 
-16:18 (18134) 
-16:19 (18135) 
-16:20 (18136) 
-16:21 (18137) 
-16:22 (18138) 
-16:23 (18139) 
-16:24 (18140) 
-16:25 (18141) 
-16:26 (18142) 
-16:27 (18143) 
-16:28 (18144) 
-16:29 (18145) 
-16:30 (18146) 
-16:31 (18147) 
-16:32 (18148) 
-16:33 (18149) 
-17:1 (18150) 
-17:2 (18151) 
-17:3 (18152) 
-17:4 (18153) 
-17:5 (18154) 
-17:6 (18155) 
-17:7 (18156) 
-17:8 (18157) 
-17:9 (18158) 
-17:10 (18159) 
-17:11 (18160) 
-17:12 (18161) 
-17:13 (18162) 
-17:14 (18163) 
-17:15 (18164) 
-17:16 (18165) 
-17:17 (18166) 
-17:18 (18167) 
-17:19 (18168) 
-17:20 (18169) 
-17:21 (18170) 
-17:22 (18171) 
-17:23 (18172) 
-17:24 (18173) 
-17:25 (18174) 
-17:26 (18175) 
-17:27 (18176) 
-17:28 (18177) 
-18:1 (18178) 
-18:2 (18179) 
-18:3 (18180) 
-18:4 (18181) 
-18:5 (18182) 
-18:6 (18183) 
-18:7 (18184) 
-18:8 (18185) 
-18:9 (18186) 
-18:10 (18187) 
-18:11 (18188) 
-18:12 (18189) 
-18:13 (18190) 
-18:14 (18191) 
-18:15 (18192) 
-18:16 (18193) 
-18:17 (18194) 
-18:18 (18195) 
-18:19 (18196) 
-18:20 (18197) 
-18:21 (18198) 
-18:22 (18199) 
-18:23 (18200) 
-18:24 (18201) 
-19:1 (18202) 
-19:2 (18203) 
-19:3 (18204) 
-19:4 (18205) 
-19:5 (18206) 
-19:6 (18207) 
-19:7 (18208) 
-19:8 (18209) 
-19:9 (18210) פ
-19:10 (18211) 
-19:11 (18212) 
-19:12 (18213) 
-19:13 (18214) 
-19:14 (18215) 
-19:15 (18216) 
-19:16 (18217) 
-19:17 (18218) 
-19:18 (18219) 
-19:19 (18220) 
-19:20 (18221) 
-19:21 (18222) 
-19:22 (18223) 
-19:23 (18224) 
-19:24 (18225) 
-19:25 (18226) 
-19:26 (18227) 
-19:27 (18228) 
-19:28 (18229) 
-19:29 (18230) 
-20:1 (18231) 
-20:2 (18232) 
-20:3 (18233) 
-20:4 (18234) 
-20:5 (18235) 
-20:6 (18236) 
-20:7 (18237) 
-20:8 (18238) 
-20:9 (18239) 
-20:10 (18240) 
-20:11 (18241) 
-20:12 (18242) 
-20:13 (18243) 
-20:14 (18244) 
-20:15 (18245) 
-20:16 (18246) 
-20:17 (18247) 
-20:18 (18248) 
-20:19 (18249) 
-20:20 (18250) 
-20:21 (18251) 
-20:22 (18252) 
-20:23 (18253) 
-20:24 (18254) 
-20:25 (18255) 
-20:26 (18256) 
-20:27 (18257) 
-20:28 (18258) 
-20:29 (18259) 
-20:30 (18260) 
-21:1 (18261) 
-21:2 (18262) 
-21:3 (18263) 
-21:4 (18264) 
-21:5 (18265) 
-21:6 (18266) 
-21:7 (18267) 
-21:8 (18268) 
-21:9 (18269) 
-21:10 (18270) 
-21:11 (18271) 
-21:12 (18272) 
-21:13 (18273) 
-21:14 (18274) 
-21:15 (18275) 
-21:16 (18276) 
-21:17 (18277) 
-21:18 (18278) 
-21:19 (18279) 
-21:20 (18280) 
-21:21 (18281) 
-21:22 (18282) 
-21:23 (18283) 
-21:24 (18284) 
-21:25 (18285) 
-21:26 (18286) 
-21:27 (18287) 
-21:28 (18288) 
-21:29 (18289) 
-21:30 (18290) פ
-21:31 (18291) 
-22:1 (18292) 
-22:2 (18293) 
-22:3 (18294) 
-22:4 (18295) 
-22:5 (18296) 
-22:6 (18297) 
-22:7 (18298) 
-22:8 (18299) 
-22:9 (18300) 
-22:10 (18301) 
-22:11 (18302) 
-22:12 (18303) 
-22:13 (18304) 
-22:14 (18305) 
-22:15 (18306) 
-22:16 (18307) 
-22:17 (18308) 
-22:18 (18309) 
-22:19 (18310) 
-22:20 (18311) 
-22:21 (18312) פ
-22:22 (18313) 
-22:23 (18314) 
-22:24 (18315) 
-22:25 (18316) 
-22:26 (18317) 
-22:27 (18318) 
-22:28 (18319) 
-22:29 (18320) פ
-23:1 (18321) 
-23:2 (18322) 
-23:3 (18323) 
-23:4 (18324) 
-23:5 (18325) פ
-23:6 (18326) 
-23:7 (18327) 
-23:8 (18328) 
-23:9 (18329) 
-23:10 (18330) 
-23:11 (18331) 
-23:12 (18332) 
-23:13 (18333) 
-23:14 (18334) 
-23:15 (18335) 
-23:16 (18336) 
-23:17 (18337) 
-23:18 (18338) 
-23:19 (18339) 
-23:20 (18340) 
-23:21 (18341) 
-23:22 (18342) 
-23:23 (18343) 
-23:24 (18344) 
-23:25 (18345) 
-23:26 (18346) 
-23:27 (18347) 
-23:28 (18348) 
-23:29 (18349) 
-23:30 (18350) 
-23:31 (18351) 
-23:32 (18352) 
-23:33 (18353) 
-23:34 (18354) 
-23:35 (18355) 
-24:1 (18356) 
-24:2 (18357) 
-24:3 (18358) 
-24:4 (18359) 
-24:5 (18360) 
-24:6 (18361) 
-24:7 (18362) 
-24:8 (18363) 
-24:9 (18364) 
-24:10 (18365) 
-24:11 (18366) 
-24:12 (18367) 
-24:13 (18368) 
-24:14 (18369) פ
-24:15 (18370) 
-24:16 (18371) 
-24:17 (18372) 
-24:18 (18373) 
-24:19 (18374) 
-24:20 (18375) 
-24:21 (18376) 
-24:22 (18377) ס
-24:23 (18378) 
-24:24 (18379) 
-24:25 (18380) 
-24:26 (18381) 
-24:27 (18382) פ
-24:28 (18383) 
-24:29 (18384) 
-24:30 (18385) 
-24:31 (18386) 
-24:32 (18387) 
-24:33 (18388) 
-24:34 (18389) פ
-25:1 (18390) 
-25:2 (18391) 
-25:3 (18392) 
-25:4 (18393) 
-25:5 (18394) 
-25:6 (18395) 
-25:7 (18396) 
-25:8 (18397) 
-25:9 (18398) 
-25:10 (18399) 
-25:11 (18400) 
-25:12 (18401) 
-25:13 (18402) פ
-25:14 (18403) 
-25:15 (18404) 
-25:16 (18405) 
-25:17 (18406) 
-25:18 (18407) 
-25:19 (18408) 
-25:20 (18409) פ
-25:21 (18410) 
-25:22 (18411) 
-25:23 (18412) 
-25:24 (18413) 
-25:25 (18414) 
-25:26 (18415) 
-25:27 (18416) 
-25:28 (18417) 
-26:1 (18418) 
-26:2 (18419) 
-26:3 (18420) 
-26:4 (18421) 
-26:5 (18422) 
-26:6 (18423) 
-26:7 (18424) 
-26:8 (18425) 
-26:9 (18426) 
-26:10 (18427) 
-26:11 (18428) 
-26:12 (18429) 
-26:13 (18430) 
-26:14 (18431) 
-26:15 (18432) 
-26:16 (18433) 
-26:17 (18434) 
-26:18 (18435) 
-26:19 (18436) 
-26:20 (18437) 
-26:21 (18438) פ
-26:22 (18439) 
-26:23 (18440) 
-26:24 (18441) 
-26:25 (18442) 
-26:26 (18443) 
-26:27 (18444) 
-26:28 (18445) 
-27:1 (18446) 
-27:2 (18447) 
-27:3 (18448) 
-27:4 (18449) 
-27:5 (18450) 
-27:6 (18451) 
-27:7 (18452) 
-27:8 (18453) 
-27:9 (18454) 
-27:10 (18455) 
-27:11 (18456) 
-27:12 (18457) 
-27:13 (18458) 
-27:14 (18459) 
-27:15 (18460) 
-27:16 (18461) 
-27:17 (18462) 
-27:18 (18463) 
-27:19 (18464) 
-27:20 (18465) 
-27:21 (18466) 
-27:22 (18467) פ
-27:23 (18468) 
-27:24 (18469) 
-27:25 (18470) 
-27:26 (18471) 
-27:27 (18472) 
-28:1 (18473) 
-28:2 (18474) 
-28:3 (18475) 
-28:4 (18476) פ
-28:5 (18477) 
-28:6 (18478) 
-28:7 (18479) 
-28:8 (18480) 
-28:9 (18481) 
-28:10 (18482) 
-28:11 (18483) 
-28:12 (18484) 
-28:13 (18485) 
-28:14 (18486) 
-28:15 (18487) 
-28:16 (18488) פ
-28:17 (18489) 
-28:18 (18490) 
-28:19 (18491) 
-28:20 (18492) 
-28:21 (18493) 
-28:22 (18494) 
-28:23 (18495) 
-28:24 (18496) 
-28:25 (18497) 
-28:26 (18498) 
-28:27 (18499) 
-28:28 (18500) 
-29:1 (18501) 
-29:2 (18502) 
-29:3 (18503) 
-29:4 (18504) 
-29:5 (18505) 
-29:6 (18506) 
-29:7 (18507) 
-29:8 (18508) 
-29:9 (18509) 
-29:10 (18510) 
-29:11 (18511) 
-29:12 (18512) 
-29:13 (18513) 
-29:14 (18514) 
-29:15 (18515) 
-29:16 (18516) 
-29:17 (18517) פ
-29:18 (18518) 
-29:19 (18519) 
-29:20 (18520) 
-29:21 (18521) 
-29:22 (18522) 
-29:23 (18523) 
-29:24 (18524) 
-29:25 (18525) 
-29:26 (18526) 
-29:27 (18527) פ
-30:1 (18528) 
-30:2 (18529) 
-30:3 (18530) 
-30:4 (18531) 
-30:5 (18532) 
-30:6 (18533) פ
-30:7 (18534) 
-30:8 (18535) 
-30:9 (18536) פ
-30:10 (18537) 
-30:11 (18538) 
-30:12 (18539) 
-30:13 (18540) 
-30:14 (18541) פ
-30:15 (18542) 
-30:16 (18543) 
-30:17 (18544) פ
-30:18 (18545) 
-30:19 (18546) 
-30:20 (18547) פ
-30:21 (18548) 
-30:22 (18549) 
-30:23 (18550) פ
-30:24 (18551) 
-30:25 (18552) 
-30:26 (18553) 
-30:27 (18554) 
-30:28 (18555) פ
-30:29 (18556) 
-30:30 (18557) 
-30:31 (18558) 
-30:32 (18559) 
-30:33 (18560) פ
-31:1 (18561) 
-31:2 (18562) 
-31:3 (18563) 
-31:4 (18564) 
-31:5 (18565) 
-31:6 (18566) 
-31:7 (18567) 
-31:8 (18568) 
-31:9 (18569) פ
-31:10 (18570) 
-31:11 (18571) 
-31:12 (18572) 
-31:13 (18573) 
-31:14 (18574) 
-31:15 (18575) 
-31:16 (18576) 
-31:17 (18577) 
-31:18 (18578) 
-31:19 (18579) 
-31:20 (18580) 
-31:21 (18581) 
-31:22 (18582) 
-31:23 (18583) 
-31:24 (18584) 
-31:25 (18585) 
-31:26 (18586) 
-31:27 (18587) 
-31:28 (18588) 
-31:29 (18589) 
-31:30 (18590) 
-31:31 (18591) 
+Proverbs 1:1 (17677) <strong>proverb</strong> <strong>Solomon</strong> сын Давыд цар Ісраэль 
+Proverbs 1:2 (17678) да|[Д.с.] ведаць [+неад.]|займацца сэксам [+адуш.] разумнасць і <strong>chastening</strong> да|[Д.с.] разумець <strong>word</strong> <strong>understanding</strong> 
+Proverbs 1:3 (17679) да|[Д.с.] браць <strong>chastening</strong> <strong>prosper</strong> <strong>justice</strong> і правасуддзе і <strong>uprightness</strong> 
+Proverbs 1:4 (17680) да|[Д.с.] даць да|[Д.с.] <strong>young man</strong> <strong>prudence</strong> да|[Д.с.] хлапчук веды [акрамя адуш.] і <strong>purpose</strong> 
+Proverbs 1:5 (17681) чуць разумны і дадаць <strong>teaching</strong> і разумець <strong>steering</strong> набыць 
+Proverbs 1:6 (17682) да|[Д.с.] разумець <strong>proverb</strong> і <strong>saying</strong> слова|рэч разумны і <strong>riddle</strong> 
+Proverbs 1:7 (17683) <strong>fear</strong> Існы зачын веды [акрамя адуш.] разумнасць і <strong>chastening</strong> <strong>foolish</strong> <strong>despise</strong> פ
+Proverbs 1:8 (17684) чуць сын <strong>chastening</strong> бацька і не [+заг.лад] <strong>abandon</strong> <strong>instruction</strong> маці 
+Proverbs 1:9 (17685) бо|што <strong>wreath</strong> ласка яны [ж.] да|[Д.с.] галава і <strong>necklace</strong> да|[Д.с.] <strong>throat</strong> 
+Proverbs 1:10 (17686) сын калі[зл.] <strong>seduce</strong> <strong>sinful</strong> не [+заг.лад] <strong>want</strong> 
+Proverbs 1:11 (17687) калі[зл.] казаць хадзіць разам з <strong>lie in ambush</strong> да|[Д.с.] <strong>blood</strong> <strong>hide</strong> да|[Д.с.] <strong>innocent</strong> <strong>in vain</strong> 
+Proverbs 1:12 (17688) <strong>swallow</strong> як <strong>nether world</strong> жывы і <strong>complete</strong> як апускацца <strong>cistern</strong> 
+Proverbs 1:13 (17689) цэлы|увесь <strong>abundance</strong> <strong>rare</strong> знайсці поўніцца дом <strong>plunder</strong> 
+Proverbs 1:14 (17690) лёс|доля падаць у|[Тв.с.] <strong>midst</strong> <strong>bag</strong> адзін быць да|[Д.с.] цэлы|увесь 
+Proverbs 1:15 (17691) сын не [+заг.лад] хадзіць у|[Тв.с.] шлях разам з <strong>withhold</strong> нага з <strong>path</strong> 
+Proverbs 1:16 (17692) бо|што нага да|[Д.с.] [арт.] зло бяжаць і спяшацца|хутка [як прысл.] да|[Д.с.] <strong>pour</strong> <strong>blood</strong> 
+Proverbs 1:17 (17693) бо|што <strong>in vain</strong> <strong>scatter</strong> [арт.] <strong>net</strong> у|[Тв.с.] вока цэлы|увесь хазяін крыло 
+Proverbs 1:18 (17694) і яны [ж.] да|[Д.с.] <strong>blood</strong> <strong>lie in ambush</strong> <strong>hide</strong> да|[Д.с.] душа 
+Proverbs 1:19 (17695) так <strong>path</strong> цэлы|увесь <strong>cut off</strong> <strong>profit</strong> [В.с.] душа хазяін браць פ
+Proverbs 1:20 (17696) <strong>wisdom</strong> у|[Тв.с.] [арт.] <strong>outside</strong> <strong>cry of joy</strong> у|[Тв.с.] [арт.] <strong>open place</strong> даць голас 
+Proverbs 1:21 (17697) у|[Тв.с.] галава <strong>make noise</strong> зваць у|[Тв.с.] <strong>opening</strong> брама у|[Тв.с.] [арт.] горад <strong>word</strong> казаць 
+Proverbs 1:22 (17698) (ажно) да <strong>when</strong> <strong>young man</strong> любіць|кахаць <strong>simplicity</strong> і <strong>scorner</strong> <strong>boasting</strong> <strong>desire</strong> да|[Д.с.] і <strong>insolent</strong> ненавідзець веды [акрамя адуш.] 
+Proverbs 1:23 (17699) вяртацца да|[Д.с.] <strong>rebuke</strong> вось <strong>bubble</strong> да|[Д.с.] вецер ведаць [+неад.]|займацца сэксам [+адуш.] слова|рэч [В.с.] 
+Proverbs 1:24 (17700) <strong>motive</strong> зваць і <strong>refuse</strong> <strong>extend</strong> рука і няма <strong>give attention</strong> 
+Proverbs 1:25 (17701) і <strong>let loose</strong> цэлы|увесь <strong>counsel</strong> і <strong>rebuke</strong> не <strong>want</strong> 
+Proverbs 1:26 (17702) таксама|нават я у|[Тв.с.] няшчасце смяяцца <strong>mock</strong> у|[Тв.с.] прыйсці <strong>trembling</strong> 
+Proverbs 1:27 (17703) у|[Тв.с.] прыйсці як <strong>trouble</strong> <strong>trembling</strong> і няшчасце як <strong>storm</strong> <strong>come</strong> у|[Тв.с.] прыйсці на бедства і <strong>distress</strong> 
+Proverbs 1:28 (17704) тады зваць і не адказаць <strong>look for</strong> і не знайсці 
+Proverbs 1:29 (17705) пад бо|што ненавідзець веды [акрамя адуш.] і <strong>fear</strong> Існы не <strong>examine</strong> 
+Proverbs 1:30 (17706) не <strong>want</strong> да|[Д.с.] <strong>counsel</strong> <strong>contemn</strong> цэлы|увесь <strong>rebuke</strong> 
+Proverbs 1:31 (17707) і есці з плод шлях і з <strong>counsel</strong> <strong>be sated</strong> 
+Proverbs 1:32 (17708) бо|што <strong>apostasy</strong> <strong>young man</strong> <strong>kill</strong> і <strong>ease</strong> <strong>insolent</strong> загінуць 
+Proverbs 1:33 (17709) і чуць да|[Д.с.] насяляць <strong>trust</strong> і <strong>be at ease</strong> з <strong>trembling</strong> дрэнны פ
+Proverbs 2:1 (17710) сын калі[зл.] браць <strong>word</strong> і <strong>commandment</strong> <strong>hide</strong> разам з 
+Proverbs 2:2 (17711) да|[Д.с.] <strong>give attention</strong> да|[Д.с.] [арт.] разумнасць вуха <strong>extend</strong> сэрца да|[Д.с.] [арт.] разуменне 
+Proverbs 2:3 (17712) бо|што калі[зл.] да|[Д.с.] [арт.] <strong>understanding</strong> зваць да|[Д.с.] [арт.] разуменне даць голас 
+Proverbs 2:4 (17713) калі[зл.] шукаць як [арт.] срэбра і як [арт.] <strong>treasure</strong> маскіравацца 
+Proverbs 2:5 (17714) тады разумець <strong>fear</strong> Існы і веды [акрамя адуш.] Бог знайсці 
+Proverbs 2:6 (17715) бо|што Існы даць разумнасць з рот веды [акрамя адуш.] і разуменне 
+Proverbs 2:7 (17716) <strong>hide</strong> да|[Д.с.] [арт.] <strong>right</strong> <strong>effect</strong> <strong>shield</strong> да|[Д.с.] хадзіць <strong>completeness</strong> 
+Proverbs 2:8 (17717) да|[Д.с.] <strong>watch</strong> <strong>path</strong> правасуддзе і шлях <strong>loyal</strong> захоўваць 
+Proverbs 2:9 (17718) тады разумець <strong>justice</strong> і правасуддзе і <strong>uprightness</strong> цэлы|увесь <strong>course</strong> добры 
+Proverbs 2:10 (17719) бо|што прыйсці разумнасць у|[Тв.с.] сэрца і веды [акрамя адуш.] да|[Д.с.] душа <strong>be pleasant</strong> 
+Proverbs 2:11 (17720) <strong>purpose</strong> захоўваць на разуменне <strong>watch</strong> 
+Proverbs 2:12 (17721) да|[Д.с.] <strong>deliver</strong> з шлях зло з чалавек (1) гаварыць <strong>perversity</strong> 
+Proverbs 2:13 (17722) [арт.] <strong>leave</strong> <strong>path</strong> <strong>uprightness</strong> да|[Д.с.] хадзіць у|[Тв.с.] шлях цемра 
+Proverbs 2:14 (17723) [арт.] <strong>joyful</strong> да|[Д.с.] рабіць зло <strong>rejoice</strong> у|[Тв.с.] <strong>perversity</strong> зло 
+Proverbs 2:15 (17724) які <strong>path</strong> <strong>crooked</strong> і <strong>turn aside</strong> у|[Тв.с.] <strong>course</strong> 
+Proverbs 2:16 (17725) да|[Д.с.] <strong>deliver</strong> з жанчына чужы з чужынскі <strong>word</strong> <strong>be smooth</strong> 
+Proverbs 2:17 (17726) [арт.] <strong>leave</strong> <strong>familiar</strong> <strong>youth</strong> і [В.с.] дамова Бог забыць 
+Proverbs 2:18 (17727) бо|што <strong>run down</strong> да смерць дом і да <strong>ghosts</strong> <strong>course</strong> 
+Proverbs 2:19 (17728) цэлы|увесь прыйсці не вяртацца і не <strong>overtake</strong> <strong>path</strong> <strong>life</strong> 
+Proverbs 2:20 (17729) з-за хадзіць у|[Тв.с.] шлях добры і <strong>path</strong> справядлівы|правільны захоўваць 
+Proverbs 2:21 (17730) бо|што <strong>right</strong> насяляць зямля і <strong>complete</strong> <strong>remain</strong> у|[Тв.с.] 
+Proverbs 2:22 (17731) і вінаваты з зямля выразаць і <strong>deal treacherously</strong> <strong>tear</strong> з פ
+Proverbs 3:1 (17732) сын <strong>instruction</strong> не [+заг.лад] забыць і <strong>commandment</strong> <strong>watch</strong> сэрца 
+Proverbs 3:2 (17733) бо|што <strong>length</strong> дзень і год <strong>life</strong> і згода дадаць да|[Д.с.] 
+Proverbs 3:3 (17734) <strong>loyalty</strong> і праўда не [+заг.лад] <strong>leave</strong> <strong>tie</strong> на <strong>throat</strong> пісанне на <strong>tablet</strong> сэрца 
+Proverbs 3:4 (17735) і знайсці ласка і <strong>insight</strong> добры у|[Тв.с.] вока Бог і чалавек (від) פ
+Proverbs 3:5 (17736) <strong>trust</strong> да Існы у|[Тв.с.] цэлы|увесь сэрца і да <strong>understanding</strong> не [+заг.лад] <strong>lean</strong> 
+Proverbs 3:6 (17737) у|[Тв.с.] цэлы|увесь шлях ведаць [+неад.]|займацца сэксам [+адуш.] і ён <strong>be right</strong> <strong>path</strong> 
+Proverbs 3:7 (17738) не [+заг.лад] быць разумны у|[Тв.с.] вока баяцца [В.с.] Існы і збочыць з зло 
+Proverbs 3:8 (17739) <strong>healing</strong> быць да|[Д.с.] <strong>navel</strong> і <strong>drink</strong> да|[Д.с.] костка 
+Proverbs 3:9 (17740) <strong>be heavy</strong> [В.с.] Існы з <strong>abundance</strong> і з зачын цэлы|увесь <strong>yield</strong> 
+Proverbs 3:10 (17741) і поўніцца <strong>store</strong> <strong>satiety</strong> і <strong>wine</strong> <strong>pit</strong> <strong>break</strong> פ
+Proverbs 3:11 (17742) <strong>chastening</strong> Існы сын не [+заг.лад] <strong>retract</strong> і не [+заг.лад] <strong>loath</strong> у|[Тв.с.] <strong>rebuke</strong> 
+Proverbs 3:12 (17743) бо|што [В.с.] які любіць|кахаць Існы <strong>reprove</strong> і як бацька [В.с.] сын <strong>like</strong> 
+Proverbs 3:13 (17744) <strong>happiness</strong> чалавек (від) знайсці разумнасць і чалавек (від) <strong>totter</strong> разуменне 
+Proverbs 3:14 (17745) бо|што добры <strong>gain</strong> з <strong>gain</strong> срэбра і з <strong>gold</strong> <strong>yield</strong> 
+Proverbs 3:15 (17746) <strong>rare</strong> яна з <strong>corals</strong> і цэлы|увесь <strong>pleasure</strong> не <strong>be like</strong> у|[Тв.с.] 
+Proverbs 3:16 (17747) <strong>length</strong> дзень у|[Тв.с.] правая частка у|[Тв.с.] левая частка <strong>riches</strong> і вага 
+Proverbs 3:17 (17748) шлях шлях <strong>kindness</strong> і цэлы|увесь <strong>path</strong> згода 
+Proverbs 3:18 (17749) дрэва <strong>life</strong> яна да|[Д.с.] [арт.] <strong>be strong</strong> у|[Тв.с.] і <strong>grasp</strong> <strong>be happy</strong> פ
+Proverbs 3:19 (17750) Існы у|[Тв.с.] разумнасць <strong>found</strong> зямля <strong>be firm</strong> неба у|[Тв.с.] разуменне 
+Proverbs 3:20 (17751) у|[Тв.с.] веды [акрамя адуш.] <strong>primeval ocean</strong> <strong>split</strong> і <strong>dust</strong> <strong>trickle</strong> <strong>dew</strong> 
+Proverbs 3:21 (17752) сын не [+заг.лад] <strong>turn aside</strong> з вока <strong>watch</strong> <strong>effect</strong> і <strong>purpose</strong> 
+Proverbs 3:22 (17753) і быць <strong>life</strong> да|[Д.с.] душа і ласка да|[Д.с.] <strong>throat</strong> 
+Proverbs 3:23 (17754) тады хадзіць да|[Д.с.] <strong>trust</strong> шлях і нага не <strong>hurt</strong> 
+Proverbs 3:24 (17755) калі[зл.] ляжаць не <strong>tremble</strong> і ляжаць і <strong>be pleasing</strong> <strong>sleep</strong> 
+Proverbs 3:25 (17756) не [+заг.лад] баяцца з <strong>trembling</strong> раптам і з <strong>trouble</strong> вінаваты бо|што прыйсці 
+Proverbs 3:26 (17757) бо|што Існы быць у|[Тв.с.] <strong>imperturbability</strong> і захоўваць нага з <strong>capture</strong> 
+Proverbs 3:27 (17758) не [+заг.лад] <strong>withhold</strong> добры з хазяін у|[Тв.с.] быць да|[Д.с.] <strong>power</strong> рука да|[Д.с.] рабіць 
+Proverbs 3:28 (17759) не [+заг.лад] казаць да|[Д.с.] <strong>fellow</strong> хадзіць і вяртацца і <strong>next day</strong> даць і ёсць разам з 
+Proverbs 3:29 (17760) не [+заг.лад] <strong>plough</strong> на <strong>fellow</strong> дрэнны і ён сядзець да|[Д.с.] <strong>trust</strong> разам з 
+Proverbs 3:30 (17761) не [+заг.лад] <strong>contend</strong> з чалавек (від) <strong>in vain</strong> калі[зл.] не <strong>deal fully</strong> дрэнны 
+Proverbs 3:31 (17762) не [+заг.лад] <strong>be jealous</strong> у|[Тв.с.] чалавек (1) гвалт і не [+заг.лад] <strong>examine</strong> у|[Тв.с.] цэлы|увесь шлях 
+Proverbs 3:32 (17763) бо|што <strong>abomination</strong> Існы <strong>turn aside</strong> і разам з <strong>right</strong> <strong>confidential talk</strong> 
+Proverbs 3:33 (17764) <strong>curse</strong> Існы у|[Тв.с.] дом вінаваты і <strong>pasture</strong> справядлівы|правільны <strong>bless</strong> 
+Proverbs 3:34 (17765) калі[зл.] да|[Д.с.] [арт.] <strong>scorner</strong> ён <strong>boast</strong> і да|[Д.с.] <strong>humble</strong> даць ласка 
+Proverbs 3:35 (17766) вага разумны <strong>take possession</strong> і <strong>insolent</strong> <strong>be high</strong> <strong>dishonour</strong> פ
+Proverbs 4:1 (17767) чуць сын <strong>chastening</strong> бацька і <strong>give attention</strong> да|[Д.с.] ведаць [+неад.]|займацца сэксам [+адуш.] <strong>understanding</strong> 
+Proverbs 4:2 (17768) бо|што <strong>teaching</strong> добры даць да|[Д.с.] <strong>instruction</strong> не [+заг.лад] <strong>leave</strong> 
+Proverbs 4:3 (17769) бо|што сын быць да|[Д.с.] бацька <strong>tender</strong> і <strong>only one</strong> да|[Д.с.] твар маці 
+Proverbs 4:4 (17770) і <strong>teach</strong> і казаць да|[Д.с.] <strong>grasp</strong> слова|рэч сэрца захоўваць <strong>commandment</strong> і жыць 
+Proverbs 4:5 (17771) набыць разумнасць набыць <strong>understanding</strong> не [+заг.лад] забыць і не [+заг.лад] <strong>extend</strong> з <strong>word</strong> рот 
+Proverbs 4:6 (17772) не [+заг.лад] <strong>leave</strong> і захоўваць любіць|кахаць і <strong>watch</strong> 
+Proverbs 4:7 (17773) зачын разумнасць набыць разумнасць і у|[Тв.с.] цэлы|увесь <strong>property</strong> набыць <strong>understanding</strong> 
+Proverbs 4:8 (17774) <strong>build</strong> і <strong>be high</strong> <strong>be heavy</strong> бо|што <strong>embrace</strong> 
+Proverbs 4:9 (17775) даць да|[Д.с.] галава <strong>wreath</strong> ласка <strong>wreath</strong> <strong>splendour</strong> <strong>deliver</strong> 
+Proverbs 4:10 (17776) чуць сын і браць <strong>word</strong> і шмат да|[Д.с.] год <strong>life</strong> 
+Proverbs 4:11 (17777) у|[Тв.с.] шлях разумнасць <strong>teach</strong> <strong>tread</strong> у|[Тв.с.] <strong>course</strong> <strong>uprightness</strong> 
+Proverbs 4:12 (17778) у|[Тв.с.] хадзіць не <strong>wrap, be narrow</strong> <strong>marching</strong> і калі[зл.] бяжаць не <strong>stumble</strong> 
+Proverbs 4:13 (17779) <strong>be strong</strong> у|[Тв.с.] [арт.] <strong>chastening</strong> не [+заг.лад] <strong>be slack</strong> <strong>watch</strong> бо|што яна <strong>life</strong> 
+Proverbs 4:14 (17780) у|[Тв.с.] <strong>path</strong> вінаваты не [+заг.лад] прыйсці і не [+заг.лад] <strong>walk straight</strong> у|[Тв.с.] шлях зло 
+Proverbs 4:15 (17781) <strong>let loose</strong> не [+заг.лад] перайсці у|[Тв.с.] <strong>turn aside</strong> з на і перайсці 
+Proverbs 4:16 (17782) бо|што не спаць калі[зл.] не <strong>be evil</strong> і <strong>tear away</strong> <strong>sleep</strong> калі[зл.] не <strong>stumble</strong> 
+Proverbs 4:17 (17783) бо|што <strong>feed</strong> хлеб <strong>guilt</strong> і віно гвалт піць 
+Proverbs 4:18 (17784) і <strong>path</strong> справядлівы|правільны як святло <strong>brightness</strong> хадзіць і <strong>be light</strong> (ажно) да <strong>be firm</strong> [арт.] дзень 
+Proverbs 4:19 (17785) шлях вінаваты як [арт.] <strong>darkness</strong> не ведаць [+неад.]|займацца сэксам [+адуш.] у|[Тв.с.] што <strong>stumble</strong> פ
+Proverbs 4:20 (17786) сын да|[Д.с.] слова|рэч <strong>give attention</strong> да|[Д.с.] <strong>word</strong> <strong>extend</strong> вуха 
+Proverbs 4:21 (17787) не [+заг.лад] <strong>turn aside</strong> з вока захоўваць у|[Тв.с.] <strong>midst</strong> сэрца 
+Proverbs 4:22 (17788) бо|што <strong>life</strong> яны [ж.] да|[Д.с.] знайсці і да|[Д.с.] цэлы|увесь мяса|плоць <strong>healing</strong> 
+Proverbs 4:23 (17789) з цэлы|увесь <strong>guard</strong> <strong>watch</strong> сэрца бо|што з <strong>outlets</strong> <strong>life</strong> 
+Proverbs 4:24 (17790) збочыць з <strong>crookedness</strong> рот і <strong>crookedness</strong> губа <strong>be far</strong> з 
+Proverbs 4:25 (17791) вока да|[Д.с.] <strong>straightness</strong> <strong>look at</strong> і <strong>beaming eyes</strong> <strong>be right</strong> перад 
+Proverbs 4:26 (17792) <strong>level</strong> <strong>course</strong> нага і цэлы|увесь шлях <strong>be firm</strong> 
+Proverbs 4:27 (17793) не [+заг.лад] <strong>extend</strong> правая частка і левая частка збочыць нага з зло 
+Proverbs 5:1 (17794) сын да|[Д.с.] разумнасць <strong>give attention</strong> да|[Д.с.] разуменне <strong>extend</strong> вуха 
+Proverbs 5:2 (17795) да|[Д.с.] захоўваць <strong>purpose</strong> і веды [акрамя адуш.] губа <strong>watch</strong> 
+Proverbs 5:3 (17796) бо|што <strong>honey</strong> <strong>drop</strong> губа чужы і <strong>smooth</strong> з алей <strong>palate</strong> 
+Proverbs 5:4 (17797) і прыканец горкі як [арт.] <strong>wormwood</strong> <strong>sharp</strong> як <strong>dagger</strong> рот 
+Proverbs 5:5 (17798) нага апускацца смерць <strong>nether world</strong> <strong>marching</strong> <strong>grasp</strong> 
+Proverbs 5:6 (17799) <strong>path</strong> <strong>life</strong> <strong>lest</strong> <strong>watch</strong> <strong>quiver</strong> <strong>course</strong> не ведаць [+неад.]|займацца сэксам [+адуш.] פ
+Proverbs 5:7 (17800) і <strong>now</strong> сын чуць да|[Д.с.] і не [+заг.лад] збочыць з <strong>word</strong> рот 
+Proverbs 5:8 (17801) <strong>be far</strong> з на шлях і не [+заг.лад] набліжацца да <strong>opening</strong> дом 
+Proverbs 5:9 (17802) <strong>lest</strong> даць да|[Д.с.] іншы <strong>splendour</strong> і год да|[Д.с.] <strong>cruel</strong> 
+Proverbs 5:10 (17803) <strong>lest</strong> <strong>be sated</strong> чужы сіла і <strong>pain</strong> у|[Тв.с.] дом чужынскі 
+Proverbs 5:11 (17804) і <strong>groan</strong> у|[Тв.с.] прыканец у|[Тв.с.] <strong>be complete</strong> мяса|плоць і <strong>body</strong> 
+Proverbs 5:12 (17805) і казаць як ненавідзець <strong>chastening</strong> і <strong>rebuke</strong> <strong>contemn</strong> сэрца 
+Proverbs 5:13 (17806) і не чуць у|[Тв.с.] голас <strong>teacher</strong> і да|[Д.с.] <strong>learn</strong> не <strong>extend</strong> вуха 
+Proverbs 5:14 (17807) як <strong>little</strong> быць у|[Тв.с.] цэлы|увесь зло у|[Тв.с.] <strong>midst</strong> <strong>assembly</strong> і <strong>gathering</strong> 
+Proverbs 5:15 (17808) піць вада з <strong>cistern</strong> і <strong>flow</strong> з <strong>midst</strong> <strong>well</strong> 
+Proverbs 5:16 (17809) <strong>disperse</strong> <strong>well</strong> <strong>outside</strong> у|[Тв.с.] [арт.] <strong>open place</strong> <strong>division</strong> вада 
+Proverbs 5:17 (17810) быць да|[Д.с.] да|[Д.с.] частка і няма да|[Д.с.] чужы разам з 
+Proverbs 5:18 (17811) быць <strong>well</strong> <strong>bless</strong> і узрадавацца з жанчына <strong>youth</strong> 
+Proverbs 5:19 (17812) <strong>doe</strong> <strong>love</strong> і <strong>goat</strong> ласка <strong>breast</strong> <strong>drink</strong> у|[Тв.с.] цэлы|увесь момант у|[Тв.с.] любоў|каханне <strong>err</strong> беззаганнасць 
+Proverbs 5:20 (17813) і чаму <strong>err</strong> сын у|[Тв.с.] чужы і <strong>embrace</strong> <strong>lap</strong> чужынскі 
+Proverbs 5:21 (17814) бо|што <strong>straightness</strong> вока Існы шлях чалавек (1) і цэлы|увесь <strong>course</strong> <strong>watch</strong> 
+Proverbs 5:22 (17815) <strong>sin</strong> <strong>seize</strong> [В.с.] [арт.] вінаваты і у|[Тв.с.] <strong>cord</strong> <strong>sin</strong> <strong>grasp</strong> 
+Proverbs 5:23 (17816) ён паміраць у|[Тв.с.] няма <strong>chastening</strong> і у|[Тв.с.] шматлікасць <strong>foolishness</strong> <strong>err</strong> פ
+Proverbs 6:1 (17817) сын калі[зл.] <strong>stand bail</strong> да|[Д.с.] <strong>fellow</strong> <strong>blow</strong> да|[Д.с.] [арт.] чужы далонь 
+Proverbs 6:2 (17818) <strong>lay snares</strong> у|[Тв.с.] <strong>word</strong> рот <strong>seize</strong> у|[Тв.с.] <strong>word</strong> рот 
+Proverbs 6:3 (17819) рабіць <strong>this</strong> <strong>then</strong> сын і <strong>deliver</strong> бо|што прыйсці у|[Тв.с.] далонь <strong>fellow</strong> хадзіць <strong>[uncertain]</strong> і <strong>storm against</strong> <strong>fellow</strong> 
+Proverbs 6:4 (17820) не [+заг.лад] даць <strong>sleep</strong> да|[Д.с.] вока і <strong>slumber</strong> да|[Д.с.] <strong>beaming eyes</strong> 
+Proverbs 6:5 (17821) <strong>deliver</strong> як <strong>gazelle</strong> з рука і як птушка з рука <strong>fowler</strong> פ
+Proverbs 6:6 (17822) хадзіць да <strong>ant</strong> <strong>sluggish</strong> бачыць шлях і баць разумным 
+Proverbs 6:7 (17823) які няма да|[Д.с.] <strong>chief</strong> <strong>register</strong> і <strong>rule</strong> 
+Proverbs 6:8 (17824) <strong>be firm</strong> у|[Тв.с.] [арт.] <strong>summer</strong> хлеб <strong>gather</strong> у|[Тв.с.] [арт.] <strong>harvest</strong> <strong>food</strong> 
+Proverbs 6:9 (17825) (ажно) да <strong>when</strong> <strong>sluggish</strong> ляжаць <strong>when</strong> устаць з <strong>sleep</strong> 
+Proverbs 6:10 (17826) <strong>little</strong> <strong>sleep</strong> <strong>little</strong> <strong>slumber</strong> <strong>little</strong> <strong>folding</strong> рука да|[Д.с.] ляжаць 
+Proverbs 6:11 (17827) і прыйсці як хадзіць <strong>poverty</strong> і <strong>need</strong> як чалавек (1) <strong>insolent</strong> פ
+Proverbs 6:12 (17828) чалавек (від) <strong>wickedness</strong> чалавек (1) <strong>wickedness</strong> хадзіць <strong>crookedness</strong> рот 
+Proverbs 6:13 (17829) <strong>twinkle</strong> у|[Тв.с.] вока <strong>make signs</strong> у|[Тв.с.] нага <strong>teach</strong> у|[Тв.с.] <strong>finger</strong> 
+Proverbs 6:14 (17830) <strong>perversity</strong> у|[Тв.с.] сэрца <strong>plough</strong> зло у|[Тв.с.] цэлы|увесь момант <strong>contention</strong> слаць 
+Proverbs 6:15 (17831) на так раптам прыйсці няшчасце <strong>instant</strong> разбіць і няма <strong>healing</strong> פ
+Proverbs 6:16 (17832) <strong>six</strong> <strong>they</strong> ненавідзець Існы і сем <strong>abomination</strong> душа 
+Proverbs 6:17 (17833) вока <strong>be high</strong> язык <strong>lie</strong> і рука <strong>pour</strong> <strong>blood</strong> <strong>innocent</strong> 
+Proverbs 6:18 (17834) сэрца <strong>plough</strong> <strong>thought</strong> <strong>wickedness</strong> нага спяшацца|хутка [як прысл.] да|[Д.с.] бяжаць да|[Д.с.] [арт.] дрэнны 
+Proverbs 6:19 (17835) <strong>wheeze</strong> <strong>lie</strong> <strong>witness</strong> <strong>lie</strong> і слаць <strong>contention</strong> між брат פ
+Proverbs 6:20 (17836) <strong>watch</strong> сын <strong>commandment</strong> бацька і не [+заг.лад] <strong>abandon</strong> <strong>instruction</strong> маці 
+Proverbs 6:21 (17837) <strong>tie</strong> на сэрца беззаганнасць <strong>bind</strong> на <strong>throat</strong> 
+Proverbs 6:22 (17838) у|[Тв.с.] хадзіць <strong>lead</strong> [В.с.] у|[Тв.с.] ляжаць захоўваць на і <strong>pass summer</strong> яна <strong>be concerned with</strong> 
+Proverbs 6:23 (17839) бо|што <strong>lamp</strong> <strong>commandment</strong> і <strong>instruction</strong> святло і шлях <strong>life</strong> <strong>rebuke</strong> <strong>chastening</strong> 
+Proverbs 6:24 (17840) да|[Д.с.] захоўваць з жанчына зло з <strong>smoothness</strong> язык чужынскі 
+Proverbs 6:25 (17841) не [+заг.лад] <strong>desire</strong> <strong>beauty</strong> у|[Тв.с.] сэрца і не [+заг.лад] браць у|[Тв.с.] <strong>beaming eyes</strong> 
+Proverbs 6:26 (17842) бо|што <strong>distance</strong> жанчына <strong>fornicate</strong> (ажно) да <strong>disk</strong> хлеб і жанчына чалавек (1) душа <strong>rare</strong> <strong>hunt</strong> פ
+Proverbs 6:27 (17843) ці <strong>rake together</strong> чалавек (1) агонь у|[Тв.с.] <strong>lap</strong> і адзежа не <strong>burn</strong> 
+Proverbs 6:28 (17844) калі[зл.] хадзіць чалавек (1) на [арт.] <strong>charcoals</strong> і нага не <strong>burn</strong> 
+Proverbs 6:29 (17845) так [арт.] прыйсці да жанчына <strong>fellow</strong> не <strong>be clean</strong> цэлы|увесь [арт.] <strong>touch</strong> у|[Тв.с.] 
+Proverbs 6:30 (17846) не <strong>despise</strong> да|[Д.с.] [арт.] злодзей бо|што красці да|[Д.с.] поўніцца душа бо|што <strong>be hungry</strong> 
+Proverbs 6:31 (17847) і знайсці <strong>be complete</strong> сем [В.с.] цэлы|увесь <strong>abundance</strong> дом даць 
+Proverbs 6:32 (17848) <strong>commit adultery</strong> жанчына бракуючы сэрца <strong>destroy</strong> душа ён рабіць 
+Proverbs 6:33 (17849) <strong>stroke</strong> і <strong>dishonour</strong> знайсці і <strong>reproach</strong> не <strong>wipe</strong> 
+Proverbs 6:34 (17850) бо|што <strong>jealousy</strong> <strong>heat</strong> <strong>vigorous man</strong> і не <strong>have compassion</strong> у|[Тв.с.] дзень <strong>vengeance</strong> 
+Proverbs 6:35 (17851) не падняць твар цэлы|увесь <strong>ransom</strong> і не <strong>want</strong> бо|што шмат <strong>present</strong> פ
+Proverbs 7:1 (17852) сын захоўваць <strong>word</strong> і <strong>commandment</strong> <strong>hide</strong> разам з 
+Proverbs 7:2 (17853) захоўваць <strong>commandment</strong> і жыць і <strong>instruction</strong> як <strong>pupil of eye</strong> вока 
+Proverbs 7:3 (17854) <strong>tie</strong> на <strong>finger</strong> пісанне на <strong>tablet</strong> сэрца 
+Proverbs 7:4 (17855) казаць да|[Д.с.] [арт.] разумнасць <strong>sister</strong> <strong>you</strong> і <strong>kinsman</strong> да|[Д.с.] [арт.] <strong>understanding</strong> зваць 
+Proverbs 7:5 (17856) да|[Д.с.] захоўваць з жанчына чужы з чужынскі <strong>word</strong> <strong>be smooth</strong> 
+Proverbs 7:6 (17857) бо|што у|[Тв.с.] <strong>window</strong> дом <strong>distance</strong> <strong>window</strong> <strong>look</strong> 
+Proverbs 7:7 (17858) і бачыць у|[Тв.с.] [арт.] <strong>young man</strong> разумець у|[Тв.с.] [арт.] сын хлапчук бракуючы сэрца 
+Proverbs 7:8 (17859) перайсці у|[Тв.с.] [арт.] <strong>street</strong> <strong>side</strong> <strong>corner</strong> і шлях дом <strong>march</strong> 
+Proverbs 7:9 (17860) у|[Тв.с.] <strong>breeze</strong> у|[Тв.с.] вечар дзень у|[Тв.с.] <strong>pupil of eye</strong> ноч і <strong>darkness</strong> 
+Proverbs 7:10 (17861) і вось жанчына да|[Д.с.] <strong>encounter</strong> <strong>garment</strong> <strong>fornicate</strong> і <strong>watch</strong> сэрца 
+Proverbs 7:11 (17862) <strong>make noise</strong> яна і <strong>rebel</strong> у|[Тв.с.] дом не насяляць нага 
+Proverbs 7:12 (17863) <strong>foot</strong> у|[Тв.с.] [арт.] <strong>outside</strong> <strong>foot</strong> у|[Тв.с.] [арт.] <strong>open place</strong> і <strong>side</strong> цэлы|увесь <strong>corner</strong> <strong>lie in ambush</strong> 
+Proverbs 7:13 (17864) і <strong>be strong</strong> у|[Тв.с.] і <strong>kiss</strong> да|[Д.с.] <strong>be strong</strong> твар і казаць да|[Д.с.] 
+Proverbs 7:14 (17865) <strong>sacrifice</strong> <strong>final offer</strong> на [арт.] дзень <strong>be complete</strong> <strong>vow</strong> 
+Proverbs 7:15 (17866) на так выйсці да|[Д.с.] <strong>encounter</strong> да|[Д.с.] <strong>look for</strong> твар і знайсці 
+Proverbs 7:16 (17867) <strong>coverlets</strong> <strong>prepare</strong> <strong>couch</strong> <strong>be coloured</strong> <strong>linen</strong> <strong>Egypt</strong> 
+Proverbs 7:17 (17868) <strong>besprinkle</strong> <strong>couch</strong> <strong>myrrh</strong> <strong>aloe</strong> і <strong>cinnamon</strong> 
+Proverbs 7:18 (17869) хадзіць <strong>drink</strong> <strong>beloved one</strong> (ажно) да [арт.] раніца <strong>enjoy</strong> у|[Тв.с.] <strong>display of love</strong> 
+Proverbs 7:19 (17870) бо|што няма [арт.] чалавек (1) у|[Тв.с.] дом хадзіць у|[Тв.с.] шлях з далёкі 
+Proverbs 7:20 (17871) <strong>bag</strong> [арт.] срэбра браць у|[Тв.с.] рука да|[Д.с.] дзень [арт.] <strong>full moon</strong> прыйсці дом 
+Proverbs 7:21 (17872) <strong>extend</strong> у|[Тв.с.] шматлікасць <strong>teaching</strong> у|[Тв.с.] <strong>smoothness</strong> губа <strong>wield</strong> 
+Proverbs 7:22 (17873) хадзіць пасля раптам як <strong>bullock</strong> да <strong>slaughtering</strong> прыйсці і як <strong>anklet</strong> да <strong>chastening</strong> <strong>foolish</strong> 
+Proverbs 7:23 (17874) (ажно) да <strong>cleave</strong> <strong>arrow</strong> <strong>liver</strong> як спяшацца|хутка [як прысл.] птушка да <strong>bird-trap</strong> і не ведаць [+неад.]|займацца сэксам [+адуш.] бо|што у|[Тв.с.] душа ён פ
+Proverbs 7:24 (17875) і <strong>now</strong> сын чуць да|[Д.с.] і <strong>give attention</strong> да|[Д.с.] <strong>word</strong> рот 
+Proverbs 7:25 (17876) не [+заг.лад] <strong>turn aside</strong> да шлях сэрца не [+заг.лад] <strong>err</strong> у|[Тв.с.] <strong>path</strong> 
+Proverbs 7:26 (17877) бо|што шматлікі <strong>pierced</strong> падаць і <strong>mighty</strong> цэлы|увесь <strong>kill</strong> 
+Proverbs 7:27 (17878) шлях <strong>nether world</strong> дом апускацца да пакой смерць פ
+Proverbs 8:1 (17879) ці не разумнасць зваць і разуменне даць голас 
+Proverbs 8:2 (17880) у|[Тв.с.] галава узвышанасць на шлях дом <strong>path</strong> <strong>stand</strong> 
+Proverbs 8:3 (17881) да|[Д.с.] рука брама да|[Д.с.] рот <strong>town</strong> <strong>entrance</strong> <strong>opening</strong> <strong>cry of joy</strong> 
+Proverbs 8:4 (17882) да чалавек (1) зваць і голас да сын чалавек (від) 
+Proverbs 8:5 (17883) разумець <strong>young man</strong> <strong>prudence</strong> і <strong>insolent</strong> разумець сэрца 
+Proverbs 8:6 (17884) чуць бо|што <strong>chief</strong> гаварыць і <strong>opening</strong> губа <strong>uprightness</strong> 
+Proverbs 8:7 (17885) бо|што праўда <strong>mutter</strong> <strong>palate</strong> і <strong>abomination</strong> губа <strong>guilt</strong> 
+Proverbs 8:8 (17886) у|[Тв.с.] <strong>justice</strong> цэлы|увесь <strong>word</strong> рот няма у|[Тв.с.] <strong>twist</strong> і <strong>crooked</strong> 
+Proverbs 8:9 (17887) цэлы|увесь <strong>straight</strong> да|[Д.с.] [арт.] разумець і <strong>right</strong> да|[Д.с.] знайсці веды [акрамя адуш.] 
+Proverbs 8:10 (17888) браць <strong>chastening</strong> і не [+заг.лад] срэбра і веды [акрамя адуш.] з <strong>gold</strong> <strong>examine</strong> 
+Proverbs 8:11 (17889) бо|што добры разумнасць з <strong>corals</strong> і цэлы|увесь <strong>pleasure</strong> не <strong>be like</strong> у|[Тв.с.] 
+Proverbs 8:12 (17890) я разумнасць насяляць <strong>prudence</strong> і веды [акрамя адуш.] <strong>purpose</strong> знайсці 
+Proverbs 8:13 (17891) <strong>fear</strong> Існы ненавідзець зло <strong>arrogance</strong> і <strong>height</strong> і шлях зло і рот <strong>perversity</strong> ненавідзець 
+Proverbs 8:14 (17892) да|[Д.с.] <strong>counsel</strong> і <strong>effect</strong> я <strong>understanding</strong> да|[Д.с.] мужнасць 
+Proverbs 8:15 (17893) у|[Тв.с.] цар цараваць і <strong>be weighty</strong> <strong>engrave</strong> <strong>justice</strong> 
+Proverbs 8:16 (17894) у|[Тв.с.] кіраўнік|міністр <strong>rule</strong> і <strong>willing</strong> цэлы|увесь судзіць <strong>justice</strong> 
+Proverbs 8:17 (17895) я любіць|кахаць любіць|кахаць і <strong>look for</strong> знайсці 
+Proverbs 8:18 (17896) <strong>riches</strong> і вага разам з <strong>abundance</strong> <strong>hereditary</strong> і <strong>justice</strong> 
+Proverbs 8:19 (17897) добры плод з <strong>gold</strong> і з <strong>topaz</strong> і <strong>yield</strong> з срэбра <strong>examine</strong> 
+Proverbs 8:20 (17898) у|[Тв.с.] <strong>path</strong> <strong>justice</strong> хадзіць у|[Тв.с.] <strong>midst</strong> <strong>path</strong> правасуддзе 
+Proverbs 8:21 (17899) да|[Д.с.] <strong>take possession</strong> любіць|кахаць ёсць і <strong>supply</strong> поўніцца פ
+Proverbs 8:22 (17900) Існы <strong>create</strong> зачын шлях <strong>front</strong> <strong>work</strong> з тады 
+Proverbs 8:23 (17901) з свет|вечнасць <strong>pour</strong> з галава з <strong>front</strong> зямля 
+Proverbs 8:24 (17902) у|[Тв.с.] няма <strong>primeval ocean</strong> <strong>have labour pain, to cry</strong> у|[Тв.с.] няма <strong>well</strong> <strong>be heavy</strong> вада 
+Proverbs 8:25 (17903) у|[Тв.с.] <strong>beginning</strong> гара <strong>sink</strong> да|[Д.с.] твар <strong>hill</strong> <strong>have labour pain, to cry</strong> 
+Proverbs 8:26 (17904) (ажно) да не рабіць зямля і <strong>outside</strong> і галава пыл <strong>world</strong> 
+Proverbs 8:27 (17905) у|[Тв.с.] <strong>be firm</strong> неба там я у|[Тв.с.] <strong>engrave</strong> <strong>circle</strong> на твар <strong>primeval ocean</strong> 
+Proverbs 8:28 (17906) у|[Тв.с.] <strong>be strong</strong> <strong>dust</strong> з верх у|[Тв.с.] <strong>be strong</strong> вока <strong>primeval ocean</strong> 
+Proverbs 8:29 (17907) у|[Тв.с.] класці|ставіць да|[Д.с.] [арт.] мора <strong>portion</strong> і вада не перайсці рот у|[Тв.с.] <strong>engrave</strong> <strong>foundation</strong> зямля 
+Proverbs 8:30 (17908) і быць <strong>side</strong> <strong>fondling</strong> і быць <strong>delight</strong> дзень дзень смяяцца да|[Д.с.] твар у|[Тв.с.] цэлы|увесь момант 
+Proverbs 8:31 (17909) смяяцца у|[Тв.с.] <strong>world</strong> зямля і <strong>delight</strong> разам з сын чалавек (від) פ
+Proverbs 8:32 (17910) і <strong>now</strong> сын чуць да|[Д.с.] і <strong>happiness</strong> шлях захоўваць 
+Proverbs 8:33 (17911) чуць <strong>chastening</strong> і баць разумным і не [+заг.лад] <strong>let loose</strong> 
+Proverbs 8:34 (17912) <strong>happiness</strong> чалавек (від) чуць да|[Д.с.] да|[Д.с.] <strong>be wakeful</strong> на дзверы дзень дзень да|[Д.с.] захоўваць <strong>door-post</strong> <strong>opening</strong> 
+Proverbs 8:35 (17913) бо|што знайсці знайсці <strong>life</strong> і <strong>totter</strong> <strong>pleasure</strong> з Існы 
+Proverbs 8:36 (17914) і заблудзіць <strong>treat violently</strong> душа цэлы|увесь ненавідзець любіць|кахаць смерць פ
+Proverbs 9:1 (17915) <strong>wisdom</strong> будаваць дом <strong>hew</strong> <strong>pillar</strong> сем 
+Proverbs 9:2 (17916) <strong>slaughter</strong> <strong>slaughtering</strong> <strong>mix</strong> віно нават <strong>arrange</strong> <strong>table</strong> 
+Proverbs 9:3 (17917) слаць <strong>girl</strong> зваць на <strong>back?</strong> узвышанасць <strong>town</strong> 
+Proverbs 9:4 (17918) хто <strong>young man</strong> збочыць <strong>here</strong> бракуючы сэрца казаць да|[Д.с.] 
+Proverbs 9:5 (17919) хадзіць <strong>feed</strong> у|[Тв.с.] хлеб і піць у|[Тв.с.] віно <strong>mix</strong> 
+Proverbs 9:6 (17920) <strong>leave</strong> <strong>young man</strong> і жыць і <strong>walk straight</strong> у|[Тв.с.] шлях <strong>understanding</strong> 
+Proverbs 9:7 (17921) <strong>admonish</strong> <strong>scorner</strong> браць да|[Д.с.] <strong>dishonour</strong> і <strong>reprove</strong> да|[Д.с.] вінаваты <strong>blemish</strong> 
+Proverbs 9:8 (17922) не [+заг.лад] <strong>reprove</strong> <strong>scorner</strong> <strong>lest</strong> ненавідзець <strong>reprove</strong> да|[Д.с.] разумны і любіць|кахаць 
+Proverbs 9:9 (17923) даць да|[Д.с.] разумны і баць разумным яшчэ ведаць [+неад.]|займацца сэксам [+адуш.] да|[Д.с.] справядлівы|правільны і дадаць <strong>teaching</strong> פ
+Proverbs 9:10 (17924) <strong>beginning</strong> разумнасць <strong>fear</strong> Існы і веды [акрамя адуш.] святы <strong>understanding</strong> 
+Proverbs 9:11 (17925) бо|што у|[Тв.с.] шмат дзень і дадаць да|[Д.с.] год <strong>life</strong> 
+Proverbs 9:12 (17926) калі[зл.] баць разумным баць разумным да|[Д.с.] і <strong>boast</strong> да|[Д.с.] частка падняць 
+Proverbs 9:13 (17927) жанчына <strong>insolence</strong> <strong>make noise</strong> <strong>[uncertain]</strong> і <strong>not</strong> ведаць [+неад.]|займацца сэксам [+адуш.] што 
+Proverbs 9:14 (17928) і сядзець да|[Д.с.] <strong>opening</strong> дом на <strong>seat</strong> узвышанасць <strong>town</strong> 
+Proverbs 9:15 (17929) да|[Д.с.] зваць да|[Д.с.] перайсці шлях [арт.] <strong>be right</strong> <strong>path</strong> 
+Proverbs 9:16 (17930) хто <strong>young man</strong> збочыць <strong>here</strong> і бракуючы сэрца і казаць да|[Д.с.] 
+Proverbs 9:17 (17931) вада красці <strong>be sweet</strong> і хлеб <strong>hiding place</strong> <strong>be pleasant</strong> 
+Proverbs 9:18 (17932) і не ведаць [+неад.]|займацца сэксам [+адуш.] бо|што <strong>ghosts</strong> там у|[Тв.с.] <strong>depth</strong> <strong>nether world</strong> зваць פ
+Proverbs 10:1 (17933) <strong>proverb</strong> <strong>Solomon</strong> сын разумны узрадавацца бацька і сын <strong>insolent</strong> <strong>grief</strong> маці 
+Proverbs 10:2 (17934) не <strong>profit</strong> <strong>supply</strong> <strong>guilt</strong> і <strong>justice</strong> <strong>deliver</strong> з смерць 
+Proverbs 10:3 (17935) не <strong>be hungry</strong> Існы душа справядлівы|правільны і <strong>desire</strong> вінаваты <strong>push</strong> 
+Proverbs 10:4 (17936) <strong>be poor</strong> рабіць далонь <strong>looseness</strong> і рука <strong>assiduous</strong> <strong>become rich</strong> 
+Proverbs 10:5 (17937) <strong>gather</strong> у|[Тв.с.] [арт.] <strong>summer</strong> сын <strong>prosper</strong> <strong>sleep</strong> у|[Тв.с.] [арт.] <strong>harvest</strong> сын <strong>be ashamed</strong> 
+Proverbs 10:6 (17938) <strong>blessing</strong> да|[Д.с.] галава справядлівы|правільны і рот вінаваты пакрыць гвалт 
+Proverbs 10:7 (17939) <strong>mention</strong> справядлівы|правільны да|[Д.с.] <strong>blessing</strong> і імя вінаваты <strong>rot</strong> 
+Proverbs 10:8 (17940) разумны сэрца браць <strong>commandment</strong> і <strong>foolish</strong> губа <strong>trample</strong> 
+Proverbs 10:9 (17941) хадзіць у|[Тв.с.] [арт.] <strong>completeness</strong> хадзіць <strong>trust</strong> і <strong>crook</strong> шлях ведаць [+неад.]|займацца сэксам [+адуш.] 
+Proverbs 10:10 (17942) <strong>twinkle</strong> вока даць <strong>pain</strong> і <strong>foolish</strong> губа <strong>trample</strong> 
+Proverbs 10:11 (17943) <strong>well</strong> <strong>life</strong> рот справядлівы|правільны і рот вінаваты пакрыць гвалт 
+Proverbs 10:12 (17944) <strong>hatred</strong> <strong>be awake</strong> <strong>contention</strong> і на цэлы|увесь <strong>rebellion</strong> пакрыць любоў|каханне 
+Proverbs 10:13 (17945) у|[Тв.с.] губа разумець знайсці разумнасць і <strong>rod</strong> да|[Д.с.] <strong>back</strong> бракуючы сэрца 
+Proverbs 10:14 (17946) разумны <strong>hide</strong> веды [акрамя адуш.] і рот <strong>foolish</strong> <strong>terror</strong> блізкі 
+Proverbs 10:15 (17947) <strong>abundance</strong> <strong>rich</strong> <strong>town</strong> <strong>power</strong> <strong>terror</strong> <strong>poor</strong> <strong>poverty</strong> 
+Proverbs 10:16 (17948) <strong>work</strong> справядлівы|правільны да|[Д.с.] <strong>life</strong> <strong>yield</strong> вінаваты да|[Д.с.] <strong>sin</strong> 
+Proverbs 10:17 (17949) <strong>path</strong> да|[Д.с.] <strong>life</strong> захоўваць <strong>chastening</strong> і <strong>leave</strong> <strong>rebuke</strong> <strong>err</strong> 
+Proverbs 10:18 (17950) пакрыць <strong>hatred</strong> губа <strong>lie</strong> і выйсці <strong>evil report</strong> ён <strong>insolent</strong> 
+Proverbs 10:19 (17951) у|[Тв.с.] шматлікасць слова|рэч не <strong>cease</strong> <strong>rebellion</strong> і <strong>withhold</strong> губа <strong>prosper</strong> 
+Proverbs 10:20 (17952) срэбра <strong>examine</strong> язык справядлівы|правільны сэрца вінаваты як <strong>little</strong> 
+Proverbs 10:21 (17953) губа справядлівы|правільны <strong>pasture</strong> шматлікі і <strong>foolish</strong> у|[Тв.с.] бракуючы сэрца паміраць 
+Proverbs 10:22 (17954) <strong>blessing</strong> Існы яна <strong>become rich</strong> і не дадаць <strong>pain</strong> з 
+Proverbs 10:23 (17955) як смех да|[Д.с.] <strong>insolent</strong> рабіць <strong>loose conduct</strong> і разумнасць да|[Д.с.] чалавек (1) разуменне 
+Proverbs 10:24 (17956) <strong>horror</strong> вінаваты яна прыйсці і <strong>desire</strong> справядлівы|правільны даць 
+Proverbs 10:25 (17957) як перайсці <strong>storm</strong> і няма вінаваты і справядлівы|правільны <strong>foundation</strong> свет|вечнасць 
+Proverbs 10:26 (17958) як [арт.] <strong>vinegar</strong> да|[Д.с.] [арт.] <strong>tooth</strong> і як [арт.] <strong>smoke</strong> да|[Д.с.] [арт.] вока так [арт.] <strong>sluggish</strong> да|[Д.с.] слаць 
+Proverbs 10:27 (17959) <strong>fear</strong> Існы дадаць дзень і год вінаваты <strong>be short</strong> 
+Proverbs 10:28 (17960) <strong>hope</strong> справядлівы|правільны радасць і <strong>hope</strong> вінаваты загінуць 
+Proverbs 10:29 (17961) <strong>fort</strong> да|[Д.с.] [арт.] <strong>completeness</strong> шлях Існы і <strong>terror</strong> да|[Д.с.] <strong>make</strong> <strong>wickedness</strong> 
+Proverbs 10:30 (17962) справядлівы|правільны да|[Д.с.] свет|вечнасць <strong>not</strong> <strong>totter</strong> і вінаваты не насяляць зямля 
+Proverbs 10:31 (17963) рот справядлівы|правільны <strong>thrive</strong> разумнасць і язык <strong>perversity</strong> выразаць 
+Proverbs 10:32 (17964) губа справядлівы|правільны ведаць [+неад.]|займацца сэксам [+адуш.] <strong>pleasure</strong> і рот вінаваты <strong>perversity</strong> 
+Proverbs 11:1 (17965) <strong>balances</strong> <strong>deceit</strong> <strong>abomination</strong> Існы і камень <strong>complete</strong> <strong>pleasure</strong> 
+Proverbs 11:2 (17966) прыйсці пагарда і прыйсці <strong>dishonour</strong> і разам з <strong>humble</strong> разумнасць 
+Proverbs 11:3 (17967) <strong>integrity</strong> <strong>right</strong> <strong>lead</strong> і <strong>crookedness</strong> <strong>deal treacherously</strong> быць спустошаным 
+Proverbs 11:4 (17968) не <strong>profit</strong> <strong>abundance</strong> у|[Тв.с.] дзень <strong>anger</strong> і <strong>justice</strong> <strong>deliver</strong> з смерць 
+Proverbs 11:5 (17969) <strong>justice</strong> <strong>complete</strong> <strong>be right</strong> шлях і у|[Тв.с.] <strong>guilt</strong> падаць вінаваты 
+Proverbs 11:6 (17970) <strong>justice</strong> <strong>right</strong> <strong>deliver</strong> і у|[Тв.с.] <strong>desire</strong> <strong>deal treacherously</strong> <strong>seize</strong> 
+Proverbs 11:7 (17971) у|[Тв.с.] смерць чалавек (від) вінаваты загінуць <strong>hope</strong> і <strong>hope</strong> <strong>generative power</strong> загінуць 
+Proverbs 11:8 (17972) справядлівы|правільны з бедства <strong>draw off</strong> і прыйсці вінаваты пад 
+Proverbs 11:9 (17973) у|[Тв.с.] рот <strong>alienated</strong> <strong>destroy</strong> <strong>fellow</strong> і у|[Тв.с.] веды [акрамя адуш.] справядлівы|правільны <strong>draw off</strong> 
+Proverbs 11:10 (17974) у|[Тв.с.] <strong>best</strong> справядлівы|правільны <strong>rejoice</strong> <strong>town</strong> і у|[Тв.с.] загінуць вінаваты <strong>cry of joy</strong> 
+Proverbs 11:11 (17975) у|[Тв.с.] <strong>blessing</strong> <strong>right</strong> <strong>be high</strong> <strong>town</strong> і у|[Тв.с.] рот вінаваты <strong>tear down</strong> 
+Proverbs 11:12 (17976) <strong>despise</strong> да|[Д.с.] <strong>fellow</strong> бракуючы сэрца і чалавек (1) разуменне <strong>be deaf</strong> 
+Proverbs 11:13 (17977) хадзіць <strong>slanderer</strong> <strong>uncover</strong> <strong>confidential talk</strong> і <strong>be firm</strong> вецер пакрыць слова|рэч 
+Proverbs 11:14 (17978) у|[Тв.с.] няма <strong>steering</strong> падаць народ і <strong>salvation</strong> у|[Тв.с.] шматлікасць <strong>advise</strong> 
+Proverbs 11:15 (17979) зло <strong>be evil</strong> бо|што <strong>stand bail</strong> чужы і ненавідзець <strong>handshakes</strong> <strong>trust</strong> 
+Proverbs 11:16 (17980) жанчына ласка <strong>grasp</strong> вага і <strong>ruthless</strong> <strong>grasp</strong> <strong>riches</strong> 
+Proverbs 11:17 (17981) <strong>deal fully</strong> душа чалавек (1) <strong>loyalty</strong> і <strong>taboo</strong> <strong>body</strong> <strong>cruel</strong> 
+Proverbs 11:18 (17982) вінаваты рабіць <strong>work</strong> <strong>lie</strong> і <strong>sow</strong> <strong>justice</strong> <strong>hire</strong> праўда 
+Proverbs 11:19 (17983) <strong>correct</strong> <strong>justice</strong> да|[Д.с.] <strong>life</strong> і <strong>pursue</strong> дрэнны да|[Д.с.] смерць 
+Proverbs 11:20 (17984) <strong>abomination</strong> Існы <strong>crooked</strong> сэрца і <strong>pleasure</strong> <strong>complete</strong> шлях 
+Proverbs 11:21 (17985) рука да|[Д.с.] рука не <strong>be clean</strong> зло і семя справядлівы|правільны <strong>escape</strong> 
+Proverbs 11:22 (17986) <strong>nose-ring</strong> золата у|[Тв.с.] <strong>nose</strong> <strong>swine</strong> жанчына прыгожы і збочыць <strong>taste</strong> 
+Proverbs 11:23 (17987) <strong>desire</strong> справядлівы|правільны <strong>only</strong> добры <strong>hope</strong> вінаваты <strong>anger</strong> 
+Proverbs 11:24 (17988) ёсць <strong>scatter</strong> і дадаць яшчэ і <strong>withhold</strong> з <strong>uprightness</strong> <strong>only</strong> да|[Д.с.] <strong>need</strong> 
+Proverbs 11:25 (17989) душа <strong>blessing</strong> <strong>grow fat</strong> і <strong>drink</strong> таксама|нават ён <strong>cast</strong> 
+Proverbs 11:26 (17990) <strong>withhold</strong> <strong>grain</strong> <strong>curse</strong> <strong>people</strong> і <strong>blessing</strong> да|[Д.с.] галава <strong>buy grain</strong> 
+Proverbs 11:27 (17991) <strong>look for</strong> добры шукаць <strong>pleasure</strong> і <strong>inquire</strong> дрэнны прыйсці 
+Proverbs 11:28 (17992) <strong>trust</strong> у|[Тв.с.] <strong>riches</strong> ён падаць і як [арт.] <strong>leafage</strong> справядлівы|правільны <strong>sprout</strong> 
+Proverbs 11:29 (17993) <strong>taboo</strong> дом <strong>take possession</strong> вецер і слуга <strong>foolish</strong> да|[Д.с.] разумны сэрца 
+Proverbs 11:30 (17994) плод справядлівы|правільны дрэва <strong>life</strong> і браць душа разумны 
+Proverbs 11:31 (17995) <strong>behold</strong> справядлівы|правільны у|[Тв.с.] [арт.] зямля <strong>be complete</strong> нават бо|што вінаваты і заблудзіць 
+Proverbs 12:1 (17996) любіць|кахаць <strong>chastening</strong> любіць|кахаць веды [акрамя адуш.] і ненавідзець <strong>rebuke</strong> <strong>stupid</strong> 
+Proverbs 12:2 (17997) добры <strong>totter</strong> <strong>pleasure</strong> з Існы і чалавек (1) <strong>purpose</strong> <strong>be guilty</strong> 
+Proverbs 12:3 (17998) не <strong>be firm</strong> чалавек (від) у|[Тв.с.] <strong>guilt</strong> і <strong>root</strong> справядлівы|правільны <strong>not</strong> <strong>totter</strong> 
+Proverbs 12:4 (17999) жанчына моц <strong>wreath</strong> хазяін і як <strong>rottenness</strong> у|[Тв.с.] костка <strong>be ashamed</strong> 
+Proverbs 12:5 (18000) <strong>thought</strong> справядлівы|правільны правасуддзе <strong>steering</strong> вінаваты <strong>deceit</strong> 
+Proverbs 12:6 (18001) слова|рэч вінаваты <strong>lie in ambush</strong> <strong>blood</strong> і рот <strong>right</strong> <strong>deliver</strong> 
+Proverbs 12:7 (18002) <strong>turn</strong> вінаваты і няма і дом справядлівы|правільны стаяць 
+Proverbs 12:8 (18003) да|[Д.с.] рот <strong>insight</strong> <strong>praise</strong> чалавек (1) і <strong>do wrong</strong> сэрца быць да|[Д.с.] <strong>contempt</strong> 
+Proverbs 12:9 (18004) добры <strong>contempt</strong> і слуга да|[Д.с.] з <strong>be heavy</strong> і бракуючы хлеб 
+Proverbs 12:10 (18005) ведаць [+неад.]|займацца сэксам [+адуш.] справядлівы|правільны душа звяры і <strong>compassion</strong> вінаваты <strong>cruel</strong> 
+Proverbs 12:11 (18006) працаваць <strong>soil</strong> <strong>be sated</strong> хлеб і <strong>pursue</strong> <strong>empty</strong> бракуючы сэрца 
+Proverbs 12:12 (18007) <strong>desire</strong> вінаваты <strong>net</strong> зло і <strong>root</strong> справядлівы|правільны даць 
+Proverbs 12:13 (18008) у|[Тв.с.] <strong>rebellion</strong> губа <strong>bait</strong> зло і выйсці з бедства справядлівы|правільны 
+Proverbs 12:14 (18009) з плод рот чалавек (1) <strong>be sated</strong> добры і учынак рука чалавек (від) вяртацца да|[Д.с.] 
+Proverbs 12:15 (18010) шлях <strong>foolish</strong> <strong>right</strong> у|[Тв.с.] вока і чуць да|[Д.с.] <strong>counsel</strong> разумны 
+Proverbs 12:16 (18011) <strong>foolish</strong> у|[Тв.с.] [арт.] дзень ведаць [+неад.]|займацца сэксам [+адуш.] <strong>grief</strong> і пакрыць <strong>dishonour</strong> <strong>shrewd</strong> 
+Proverbs 12:17 (18012) <strong>wheeze</strong> <strong>steadiness</strong> абвяшчаць <strong>justice</strong> і <strong>witness</strong> <strong>lie</strong> <strong>deceit</strong> 
+Proverbs 12:18 (18013) ёсць <strong>speak thoughtlessly</strong> як <strong>stab</strong> <strong>dagger</strong> і язык разумны <strong>healing</strong> 
+Proverbs 12:19 (18014) губа праўда <strong>be firm</strong> да|[Д.с.] <strong>future</strong> і (ажно) да <strong>stir</strong> язык <strong>lie</strong> 
+Proverbs 12:20 (18015) <strong>deceit</strong> у|[Тв.с.] сэрца <strong>plough</strong> зло і да|[Д.с.] <strong>advise</strong> згода радасць 
+Proverbs 12:21 (18016) не <strong>occur</strong> да|[Д.с.] [арт.] справядлівы|правільны цэлы|увесь <strong>wickedness</strong> і вінаваты поўніцца зло 
+Proverbs 12:22 (18017) <strong>abomination</strong> Існы губа <strong>lie</strong> і рабіць <strong>steadiness</strong> <strong>pleasure</strong> 
+Proverbs 12:23 (18018) чалавек (від) <strong>shrewd</strong> пакрыць веды [акрамя адуш.] і сэрца <strong>insolent</strong> зваць <strong>foolishness</strong> 
+Proverbs 12:24 (18019) рука <strong>assiduous</strong> <strong>rule</strong> і <strong>looseness</strong> быць да|[Д.с.] <strong>forced labour</strong> 
+Proverbs 12:25 (18020) <strong>care</strong> у|[Тв.с.] сэрца чалавек (1) <strong>bow down</strong> і слова|рэч добры узрадавацца 
+Proverbs 12:26 (18021) <strong>spy</strong> <strong>friend</strong> справядлівы|правільны і шлях вінаваты <strong>err</strong> 
+Proverbs 12:27 (18022) не <strong>start?</strong> <strong>looseness</strong> <strong>hunting</strong> і <strong>abundance</strong> чалавек (від) <strong>rare</strong> <strong>assiduous</strong> 
+Proverbs 12:28 (18023) у|[Тв.с.] <strong>path</strong> <strong>justice</strong> <strong>life</strong> і шлях <strong>path</strong> не [+заг.лад] смерць 
+Proverbs 13:1 (18024) сын разумны <strong>chastening</strong> бацька і <strong>scorner</strong> не чуць <strong>rebuke</strong> 
+Proverbs 13:2 (18025) з плод рот чалавек (1) есці добры і душа <strong>deal treacherously</strong> гвалт 
+Proverbs 13:3 (18026) <strong>watch</strong> рот захоўваць душа <strong>open</strong> губа <strong>terror</strong> да|[Д.с.] 
+Proverbs 13:4 (18027) <strong>wish</strong> і няма душа <strong>sluggish</strong> і душа <strong>assiduous</strong> <strong>grow fat</strong> 
+Proverbs 13:5 (18028) слова|рэч <strong>lie</strong> ненавідзець справядлівы|правільны і вінаваты <strong>stink</strong> і <strong>be ashamed</strong> 
+Proverbs 13:6 (18029) <strong>justice</strong> <strong>watch</strong> <strong>completeness</strong> шлях і <strong>guilt</strong> <strong>distort</strong> <strong>sin</strong> 
+Proverbs 13:7 (18030) ёсць <strong>become rich</strong> і няма цэлы|увесь <strong>be poor</strong> і <strong>abundance</strong> шматлікі 
+Proverbs 13:8 (18031) <strong>ransom</strong> душа чалавек (1) <strong>riches</strong> і <strong>be poor</strong> не чуць <strong>rebuke</strong> 
+Proverbs 13:9 (18032) святло справядлівы|правільны узрадавацца і <strong>lamp</strong> вінаваты <strong>be extinguished</strong> 
+Proverbs 13:10 (18033) <strong>only</strong> у|[Тв.с.] пагарда даць <strong>contention</strong> і разам з <strong>advise</strong> разумнасць 
+Proverbs 13:11 (18034) <strong>abundance</strong> з подых <strong>be little</strong> і <strong>collect</strong> на рука шмат 
+Proverbs 13:12 (18035) <strong>hope</strong> <strong>draw</strong> <strong>become weak</strong> сэрца і дрэва <strong>life</strong> <strong>desire</strong> прыйсці 
+Proverbs 13:13 (18036) <strong>despise</strong> да|[Д.с.] слова|рэч <strong>take a pledge</strong> да|[Д.с.] і <strong>afraid</strong> <strong>commandment</strong> ён <strong>be complete</strong> 
+Proverbs 13:14 (18037) <strong>instruction</strong> разумны <strong>well</strong> <strong>life</strong> да|[Д.с.] збочыць з <strong>bait</strong> смерць 
+Proverbs 13:15 (18038) <strong>insight</strong> добры даць ласка і шлях <strong>deal treacherously</strong> <strong>ever-flowing</strong> 
+Proverbs 13:16 (18039) цэлы|увесь <strong>shrewd</strong> рабіць у|[Тв.с.] веды [акрамя адуш.] і <strong>insolent</strong> <strong>spread out</strong> <strong>foolishness</strong> 
+Proverbs 13:17 (18040) пасланец вінаваты падаць у|[Тв.с.] зло і пасланец <strong>faithful</strong> <strong>healing</strong> 
+Proverbs 13:18 (18041) <strong>poverty</strong> і <strong>dishonour</strong> <strong>let loose</strong> <strong>chastening</strong> і захоўваць <strong>rebuke</strong> <strong>be heavy</strong> 
+Proverbs 13:19 (18042) <strong>desire</strong> быць <strong>be pleasing</strong> да|[Д.с.] душа і <strong>abomination</strong> <strong>insolent</strong> збочыць з зло 
+Proverbs 13:20 (18043) хадзіць разам з разумны баць разумным і <strong>deal with</strong> <strong>insolent</strong> <strong>be evil</strong> 
+Proverbs 13:21 (18044) <strong>sinful</strong> <strong>pursue</strong> дрэнны і [В.с.] справядлівы|правільны <strong>be complete</strong> добры 
+Proverbs 13:22 (18045) добры <strong>take possession</strong> сын сын і <strong>hide</strong> да|[Д.с.] [арт.] справядлівы|правільны моц заблудзіць 
+Proverbs 13:23 (18046) шматлікасць <strong>food</strong> <strong>tilled ground</strong> <strong>be poor</strong> і ёсць <strong>sweep away</strong> у|[Тв.с.] не правасуддзе 
+Proverbs 13:24 (18047) <strong>withhold</strong> <strong>rod</strong> ненавідзець сын і любіць|кахаць <strong>look for</strong> <strong>chastening</strong> 
+Proverbs 13:25 (18048) справядлівы|правільны есці да|[Д.с.] <strong>satiety</strong> душа і <strong>belly</strong> вінаваты <strong>diminish</strong> פ
+Proverbs 14:1 (18049) разумны жанчына будаваць дом і <strong>foolishness</strong> у|[Тв.с.] рука <strong>tear down</strong> 
+Proverbs 14:2 (18050) хадзіць у|[Тв.с.] <strong>uprightness</strong> <strong>afraid</strong> Існы і <strong>turn aside</strong> шлях грэбаваць 
+Proverbs 14:3 (18051) у|[Тв.с.] рот <strong>foolish</strong> <strong>shoot</strong> <strong>uproar</strong> і губа разумны захоўваць 
+Proverbs 14:4 (18052) у|[Тв.с.] няма <strong>cattle</strong> <strong>manger</strong> <strong>grain</strong> і шматлікасць <strong>yield</strong> у|[Тв.с.] сіла <strong>bullock</strong> 
+Proverbs 14:5 (18053) <strong>witness</strong> <strong>faithful</strong> не <strong>lie</strong> і <strong>wheeze</strong> <strong>lie</strong> <strong>witness</strong> <strong>lie</strong> 
+Proverbs 14:6 (18054) шукаць <strong>scorner</strong> разумнасць і няма і веды [акрамя адуш.] да|[Д.с.] разумець <strong>be slight</strong> 
+Proverbs 14:7 (18055) хадзіць з перад да|[Д.с.] чалавек (1) <strong>insolent</strong> і <strong>not</strong> ведаць [+неад.]|займацца сэксам [+адуш.] губа веды [акрамя адуш.] 
+Proverbs 14:8 (18056) разумнасць <strong>shrewd</strong> разумець шлях і <strong>foolishness</strong> <strong>insolent</strong> <strong>deceit</strong> 
+Proverbs 14:9 (18057) <strong>foolish</strong> <strong>boast</strong> <strong>guilt</strong> і між <strong>right</strong> <strong>pleasure</strong> 
+Proverbs 14:10 (18058) сэрца ведаць [+неад.]|займацца сэксам [+адуш.] <strong>bitterness</strong> душа і у|[Тв.с.] радасць не <strong>mix</strong> чужы 
+Proverbs 14:11 (18059) дом вінаваты <strong>destroy</strong> і <strong>tent</strong> <strong>right</strong> <strong>sprout</strong> 
+Proverbs 14:12 (18060) ёсць шлях <strong>right</strong> да|[Д.с.] твар чалавек (1) і прыканец шлях смерць 
+Proverbs 14:13 (18061) таксама|нават у|[Тв.с.] смех <strong>be in pain</strong> сэрца і прыканец радасць <strong>grief</strong> 
+Proverbs 14:14 (18062) з шлях <strong>be sated</strong> <strong>turn</strong> сэрца і з на чалавек (1) добры 
+Proverbs 14:15 (18063) <strong>young man</strong> <strong>be firm</strong> да|[Д.с.] цэлы|увесь слова|рэч і <strong>shrewd</strong> разумець да|[Д.с.] <strong>step</strong> 
+Proverbs 14:16 (18064) разумны баяцца і збочыць з зло і <strong>insolent</strong> <strong>be angry</strong> і <strong>trust</strong> 
+Proverbs 14:17 (18065) <strong>short</strong> <strong>nose</strong> рабіць <strong>foolishness</strong> і чалавек (1) <strong>purpose</strong> ненавідзець 
+Proverbs 14:18 (18066) <strong>take possession</strong> <strong>young man</strong> <strong>foolishness</strong> і <strong>shrewd</strong> <strong>surround</strong> веды [акрамя адуш.] 
+Proverbs 14:19 (18067) <strong>bow down</strong> зло да|[Д.с.] твар добры і вінаваты на брама справядлівы|правільны 
+Proverbs 14:20 (18068) таксама|нават да|[Д.с.] <strong>fellow</strong> ненавідзець <strong>be poor</strong> і любіць|кахаць <strong>rich</strong> шматлікі 
+Proverbs 14:21 (18069) <strong>despise</strong> да|[Д.с.] <strong>fellow</strong> заблудзіць і <strong>favour</strong> <strong>humble</strong> <strong>happiness</strong> 
+Proverbs 14:22 (18070) ці не <strong>err</strong> <strong>plough</strong> зло і <strong>loyalty</strong> і праўда <strong>plough</strong> добры 
+Proverbs 14:23 (18071) у|[Тв.с.] цэлы|увесь <strong>pain</strong> быць <strong>advantage</strong> і слова|рэч губа <strong>only</strong> да|[Д.с.] <strong>need</strong> 
+Proverbs 14:24 (18072) <strong>wreath</strong> разумны <strong>riches</strong> <strong>foolishness</strong> <strong>insolent</strong> <strong>foolishness</strong> 
+Proverbs 14:25 (18073) <strong>deliver</strong> душа <strong>witness</strong> праўда і <strong>wheeze</strong> <strong>lie</strong> <strong>deceit</strong> 
+Proverbs 14:26 (18074) у|[Тв.с.] <strong>fear</strong> Існы <strong>trust</strong> <strong>power</strong> і да|[Д.с.] сын быць <strong>refuge</strong> 
+Proverbs 14:27 (18075) <strong>fear</strong> Існы <strong>well</strong> <strong>life</strong> да|[Д.с.] збочыць з <strong>bait</strong> смерць 
+Proverbs 14:28 (18076) у|[Тв.с.] шматлікасць народ <strong>adornment</strong> цар і у|[Тв.с.] <strong>end</strong> <strong>people</strong> <strong>terror</strong> <strong>[official]</strong> 
+Proverbs 14:29 (18077) доўгі <strong>nose</strong> шматлікі разуменне і <strong>short</strong> вецер <strong>be high</strong> <strong>foolishness</strong> 
+Proverbs 14:30 (18078) <strong>life</strong> мяса|плоць сэрца <strong>calmness</strong> і <strong>rottenness</strong> костка <strong>jealousy</strong> 
+Proverbs 14:31 (18079) <strong>oppress</strong> <strong>poor</strong> <strong>reproach</strong> рабіць і <strong>be heavy</strong> <strong>favour</strong> <strong>poor</strong> 
+Proverbs 14:32 (18080) у|[Тв.с.] дрэнны <strong>push</strong> вінаваты і <strong>seek refuge</strong> у|[Тв.с.] смерць справядлівы|правільны 
+Proverbs 14:33 (18081) у|[Тв.с.] сэрца разумець асесць разумнасць і у|[Тв.с.] <strong>interior</strong> <strong>insolent</strong> ведаць [+неад.]|займацца сэксам [+адуш.] 
+Proverbs 14:34 (18082) <strong>justice</strong> <strong>be high</strong> знешні народ і <strong>shame</strong> <strong>people</strong> <strong>sin</strong> 
+Proverbs 14:35 (18083) <strong>pleasure</strong> цар да|[Д.с.] слуга <strong>prosper</strong> і <strong>anger</strong> быць <strong>be ashamed</strong> 
+Proverbs 15:1 (18084) <strong>answer</strong> <strong>tender</strong> вяртацца <strong>heat</strong> і слова|рэч <strong>pain</strong> падымацца <strong>nose</strong> 
+Proverbs 15:2 (18085) язык разумны <strong>be good</strong> веды [акрамя адуш.] і рот <strong>insolent</strong> <strong>bubble</strong> <strong>foolishness</strong> 
+Proverbs 15:3 (18086) у|[Тв.с.] цэлы|увесь месца вока Існы <strong>look out</strong> зло і добры 
+Proverbs 15:4 (18087) <strong>calmness</strong> язык дрэва <strong>life</strong> і <strong>crookedness</strong> у|[Тв.с.] <strong>breaking</strong> у|[Тв.с.] вецер 
+Proverbs 15:5 (18088) <strong>foolish</strong> <strong>contemn</strong> <strong>chastening</strong> бацька і захоўваць <strong>rebuke</strong> <strong>be cunning</strong> 
+Proverbs 15:6 (18089) дом справядлівы|правільны <strong>store</strong> шматлікі і у|[Тв.с.] <strong>yield</strong> вінаваты <strong>taboo</strong> 
+Proverbs 15:7 (18090) губа разумны <strong>scatter</strong> веды [акрамя адуш.] і сэрца <strong>insolent</strong> не <strong>correct</strong> 
+Proverbs 15:8 (18091) <strong>sacrifice</strong> вінаваты <strong>abomination</strong> Існы і <strong>prayer</strong> <strong>right</strong> <strong>pleasure</strong> 
+Proverbs 15:9 (18092) <strong>abomination</strong> Існы шлях вінаваты і <strong>pursue</strong> <strong>justice</strong> любіць|кахаць 
+Proverbs 15:10 (18093) <strong>chastening</strong> зло да|[Д.с.] <strong>leave</strong> <strong>path</strong> ненавідзець <strong>rebuke</strong> паміраць 
+Proverbs 15:11 (18094) <strong>nether world</strong> і <strong>destruction</strong> перад Існы нават бо|што сэрца сын чалавек (від) 
+Proverbs 15:12 (18095) не любіць|кахаць <strong>scorner</strong> <strong>reprove</strong> да|[Д.с.] да разумны не хадзіць 
+Proverbs 15:13 (18096) сэрца <strong>joyful</strong> <strong>be good</strong> твар і у|[Тв.с.] <strong>pain</strong> сэрца вецер <strong>smitten</strong> 
+Proverbs 15:14 (18097) сэрца разумець шукаць веды [акрамя адуш.] і рот <strong>insolent</strong> <strong>pasture</strong> <strong>foolishness</strong> 
+Proverbs 15:15 (18098) цэлы|увесь дзень <strong>humble</strong> зло і добры сэрца <strong>drinking</strong> беззаганнасць 
+Proverbs 15:16 (18099) добры <strong>little</strong> у|[Тв.с.] <strong>fear</strong> Існы з <strong>supply</strong> шматлікі і <strong>discomfiture</strong> у|[Тв.с.] 
+Proverbs 15:17 (18100) добры <strong>sustenance</strong> <strong>greens</strong> і любоў|каханне там з <strong>bullock</strong> <strong>fatten</strong> і <strong>hatred</strong> у|[Тв.с.] 
+Proverbs 15:18 (18101) чалавек (1) <strong>heat</strong> <strong>stir</strong> <strong>contention</strong> і доўгі <strong>nose</strong> <strong>be at peace</strong> <strong>law-case</strong> 
+Proverbs 15:19 (18102) шлях <strong>sluggish</strong> як <strong>hedge</strong> <strong>nightshade</strong> і <strong>path</strong> <strong>right</strong> <strong>build</strong> 
+Proverbs 15:20 (18103) сын разумны узрадавацца бацька і <strong>insolent</strong> чалавек (від) грэбаваць маці 
+Proverbs 15:21 (18104) <strong>foolishness</strong> радасць да|[Д.с.] бракуючы сэрца і чалавек (1) разуменне <strong>be right</strong> хадзіць 
+Proverbs 15:22 (18105) <strong>break</strong> <strong>thought</strong> у|[Тв.с.] няма <strong>confidential talk</strong> і у|[Тв.с.] шматлікасць <strong>advise</strong> устаць 
+Proverbs 15:23 (18106) радасць да|[Д.с.] [арт.] чалавек (1) у|[Тв.с.] <strong>answer</strong> рот і слова|рэч у|[Тв.с.] момант што добры 
+Proverbs 15:24 (18107) <strong>path</strong> <strong>life</strong> да|[Д.с.] верх да|[Д.с.] <strong>prosper</strong> з-за збочыць з <strong>nether world</strong> <strong>low place</strong> 
+Proverbs 15:25 (18108) дом <strong>haughty</strong> <strong>tear</strong> Існы і <strong>stand</strong> мяжа <strong>widow</strong> 
+Proverbs 15:26 (18109) <strong>abomination</strong> Існы <strong>thought</strong> зло і <strong>pure</strong> <strong>word</strong> <strong>kindness</strong> 
+Proverbs 15:27 (18110) <strong>taboo</strong> дом <strong>cut off</strong> <strong>profit</strong> і ненавідзець <strong>present</strong> жыць 
+Proverbs 15:28 (18111) сэрца справядлівы|правільны <strong>mutter</strong> да|[Д.с.] адказаць і рот вінаваты <strong>bubble</strong> дрэнны 
+Proverbs 15:29 (18112) далёкі Існы з вінаваты і <strong>prayer</strong> справядлівы|правільны чуць 
+Proverbs 15:30 (18113) <strong>lamp</strong> вока узрадавацца сэрца звестка добры <strong>grow fat</strong> костка 
+Proverbs 15:31 (18114) вуха чуць <strong>rebuke</strong> <strong>life</strong> у|[Тв.с.] <strong>interior</strong> разумны <strong>lodge</strong> 
+Proverbs 15:32 (18115) <strong>let loose</strong> <strong>chastening</strong> <strong>retract</strong> душа і чуць <strong>rebuke</strong> набыць сэрца 
+Proverbs 15:33 (18116) <strong>fear</strong> Існы <strong>chastening</strong> разумнасць і да|[Д.с.] твар вага <strong>humility</strong> 
+Proverbs 16:1 (18117) да|[Д.с.] чалавек (від) <strong>arrangement</strong> сэрца і з Існы <strong>answer</strong> язык 
+Proverbs 16:2 (18118) цэлы|увесь шлях чалавек (1) <strong>pure</strong> у|[Тв.с.] вока і <strong>estimate</strong> вецер Існы 
+Proverbs 16:3 (18119) <strong>roll</strong> да Існы учынак|справа і <strong>be firm</strong> <strong>thought</strong> 
+Proverbs 16:4 (18120) цэлы|увесь <strong>make</strong> Існы да|[Д.с.] [арт.] <strong>purpose</strong> і таксама|нават вінаваты да|[Д.с.] дзень дрэнны 
+Proverbs 16:5 (18121) <strong>abomination</strong> Існы цэлы|увесь <strong>tall</strong> сэрца рука да|[Д.с.] рука не <strong>be clean</strong> 
+Proverbs 16:6 (18122) у|[Тв.с.] <strong>loyalty</strong> і праўда <strong>cover</strong> <strong>sin</strong> і у|[Тв.с.] <strong>fear</strong> Існы збочыць з зло 
+Proverbs 16:7 (18123) у|[Тв.с.] <strong>like</strong> Існы шлях чалавек (1) таксама|нават <strong>be hostile</strong> <strong>be complete</strong> разам з 
+Proverbs 16:8 (18124) добры <strong>little</strong> у|[Тв.с.] <strong>justice</strong> з шматлікасць <strong>yield</strong> у|[Тв.с.] не правасуддзе 
+Proverbs 16:9 (18125) сэрца чалавек (від) <strong>account</strong> шлях і Існы <strong>be firm</strong> <strong>marching</strong> 
+Proverbs 16:10 (18126) <strong>divination</strong> на губа цар у|[Тв.с.] правасуддзе не <strong>be unfaithful</strong> рот 
+Proverbs 16:11 (18127) <strong>indicator</strong> і <strong>balances</strong> правасуддзе да|[Д.с.] Існы учынак|справа цэлы|увесь камень <strong>bag</strong> 
+Proverbs 16:12 (18128) <strong>abomination</strong> цар рабіць <strong>guilt</strong> бо|што у|[Тв.с.] <strong>justice</strong> <strong>be firm</strong> <strong>seat</strong> 
+Proverbs 16:13 (18129) <strong>pleasure</strong> цар губа <strong>justice</strong> і гаварыць <strong>right</strong> любіць|кахаць 
+Proverbs 16:14 (18130) <strong>heat</strong> цар пасланец смерць і чалавек (1) разумны <strong>cover</strong> 
+Proverbs 16:15 (18131) у|[Тв.с.] святло твар цар <strong>life</strong> і <strong>pleasure</strong> як воблака|хмара <strong>spring-rain</strong> 
+Proverbs 16:16 (18132) набыць разумнасць што добры з <strong>gold</strong> і набыць <strong>understanding</strong> <strong>examine</strong> з срэбра 
+Proverbs 16:17 (18133) <strong>highway</strong> <strong>right</strong> збочыць з зло захоўваць душа <strong>watch</strong> шлях 
+Proverbs 16:18 (18134) да|[Д.с.] твар <strong>breaking</strong> <strong>height</strong> і да|[Д.с.] твар <strong>stumbling</strong> <strong>height</strong> вецер 
+Proverbs 16:19 (18135) добры <strong>be low</strong> вецер разам з <strong>humble</strong> з <strong>divide</strong> <strong>plunder</strong> разам з <strong>haughty</strong> 
+Proverbs 16:20 (18136) <strong>prosper</strong> на слова|рэч знайсці добры і <strong>trust</strong> у|[Тв.с.] Існы <strong>happiness</strong> 
+Proverbs 16:21 (18137) да|[Д.с.] разумны сэрца зваць разумець і <strong>sweet</strong> губа дадаць <strong>teaching</strong> 
+Proverbs 16:22 (18138) <strong>well</strong> <strong>life</strong> <strong>insight</strong> хазяін і <strong>chastening</strong> <strong>foolish</strong> <strong>foolishness</strong> 
+Proverbs 16:23 (18139) сэрца разумны <strong>prosper</strong> рот і на губа дадаць <strong>teaching</strong> 
+Proverbs 16:24 (18140) <strong>honey-comb</strong> <strong>honey</strong> <strong>word</strong> <strong>kindness</strong> салодкі да|[Д.с.] [арт.] душа і <strong>healing</strong> да|[Д.с.] [арт.] костка 
+Proverbs 16:25 (18141) ёсць шлях <strong>right</strong> да|[Д.с.] твар чалавек (1) і прыканец шлях смерць 
+Proverbs 16:26 (18142) душа працоўны праца да|[Д.с.] бо|што <strong>press hard</strong> на рот 
+Proverbs 16:27 (18143) чалавек (1) <strong>wickedness</strong> <strong>dig</strong> дрэнны і на губа як агонь <strong>burning</strong> 
+Proverbs 16:28 (18144) чалавек (1) <strong>perversity</strong> слаць <strong>contention</strong> і <strong>grumble</strong> <strong>divide</strong> <strong>familiar</strong> 
+Proverbs 16:29 (18145) чалавек (1) гвалт <strong>seduce</strong> <strong>fellow</strong> і хадзіць у|[Тв.с.] шлях не добры 
+Proverbs 16:30 (18146) <strong>blink</strong> вока да|[Д.с.] <strong>account</strong> <strong>perversity</strong> <strong>twinkle</strong> губа <strong>be complete</strong> дрэнны 
+Proverbs 16:31 (18147) <strong>wreath</strong> <strong>splendour</strong> <strong>age</strong> у|[Тв.с.] шлях <strong>justice</strong> знайсці 
+Proverbs 16:32 (18148) добры доўгі <strong>nose</strong> з мужны|моцны і <strong>rule</strong> у|[Тв.с.] вецер з <strong>seize</strong> горад 
+Proverbs 16:33 (18149) у|[Тв.с.] [арт.] <strong>lap</strong> <strong>cast</strong> [В.с.] [арт.] лёс|доля і з Існы цэлы|увесь правасуддзе 
+Proverbs 17:1 (18150) добры <strong>bit</strong> <strong>dry</strong> і <strong>ease</strong> у|[Тв.с.] з дом поўніцца <strong>sacrifice</strong> <strong>law-case</strong> 
+Proverbs 17:2 (18151) слуга <strong>prosper</strong> <strong>rule</strong> у|[Тв.с.] сын <strong>be ashamed</strong> і у|[Тв.с.] <strong>midst</strong> брат <strong>divide</strong> уласнасць 
+Proverbs 17:3 (18152) <strong>melting pot</strong> да|[Д.с.] [арт.] срэбра і <strong>furnace</strong> да|[Д.с.] [арт.] золата і <strong>examine</strong> сэрца Існы 
+Proverbs 17:4 (18153) <strong>be evil</strong> <strong>give attention</strong> на губа <strong>wickedness</strong> <strong>lie</strong> <strong>listen</strong> на язык <strong>destruction</strong> 
+Proverbs 17:5 (18154) <strong>mock</strong> да|[Д.с.] [арт.] <strong>be poor</strong> <strong>reproach</strong> рабіць <strong>joyful</strong> да|[Д.с.] няшчасце не <strong>be clean</strong> 
+Proverbs 17:6 (18155) <strong>wreath</strong> старадаўні сын сын і <strong>splendour</strong> сын бацька 
+Proverbs 17:7 (18156) не <strong>lovely</strong> да|[Д.с.] <strong>stupid</strong> губа <strong>remainder</strong> нават бо|што да|[Д.с.] <strong>willing</strong> губа <strong>lie</strong> 
+Proverbs 17:8 (18157) камень ласка [арт.] <strong>present</strong> у|[Тв.с.] вока хазяін да цэлы|увесь які <strong>turn</strong> <strong>prosper</strong> 
+Proverbs 17:9 (18158) пакрыць <strong>rebellion</strong> шукаць любоў|каханне і <strong>change</strong> у|[Тв.с.] слова|рэч <strong>divide</strong> <strong>familiar</strong> 
+Proverbs 17:10 (18159) <strong>descend</strong> <strong>rebuke</strong> у|[Тв.с.] разумець з <strong>strike</strong> <strong>insolent</strong> сотня 
+Proverbs 17:11 (18160) <strong>only</strong> <strong>rebellion</strong> шукаць зло і пасланец <strong>cruel</strong> слаць у|[Тв.с.] 
+Proverbs 17:12 (18161) <strong>meet</strong> <strong>bear</strong> <strong>bereaved of children</strong> у|[Тв.с.] чалавек (1) і не [+заг.лад] <strong>insolent</strong> у|[Тв.с.] <strong>foolishness</strong> 
+Proverbs 17:13 (18162) вяртацца дрэнны пад <strong>what is good</strong> не <strong>depart</strong> дрэнны з дом 
+Proverbs 17:14 (18163) <strong>escape</strong> вада зачын <strong>contention</strong> і да|[Д.с.] твар <strong>burst out</strong> [арт.] <strong>law-case</strong> <strong>abandon</strong> 
+Proverbs 17:15 (18164) <strong>be just</strong> вінаваты і <strong>be guilty</strong> справядлівы|правільны <strong>abomination</strong> Існы таксама|нават два 
+Proverbs 17:16 (18165) чаму гэты <strong>price</strong> у|[Тв.с.] рука <strong>insolent</strong> да|[Д.с.] набыць разумнасць і сэрца няма 
+Proverbs 17:17 (18166) у|[Тв.с.] цэлы|увесь момант любіць|кахаць [арт.] <strong>fellow</strong> і брат да|[Д.с.] бедства нарадзіць 
+Proverbs 17:18 (18167) чалавек (від) бракуючы сэрца <strong>blow</strong> далонь <strong>stand bail</strong> <strong>pledge</strong> да|[Д.с.] твар <strong>fellow</strong> 
+Proverbs 17:19 (18168) любіць|кахаць <strong>rebellion</strong> любіць|кахаць <strong>contention</strong> высіцца <strong>opening</strong> шукаць <strong>breaking</strong> 
+Proverbs 17:20 (18169) <strong>crooked</strong> сэрца не знайсці добры і <strong>turn</strong> у|[Тв.с.] язык падаць у|[Тв.с.] дрэнны 
+Proverbs 17:21 (18170) нарадзіць <strong>insolent</strong> да|[Д.с.] <strong>grief</strong> да|[Д.с.] і не узрадавацца бацька <strong>stupid</strong> 
+Proverbs 17:22 (18171) сэрца <strong>joyful</strong> <strong>be good</strong> <strong>healing</strong> і вецер <strong>smitten</strong> <strong>be dry</strong> <strong>bone</strong> 
+Proverbs 17:23 (18172) <strong>present</strong> з <strong>lap</strong> вінаваты браць да|[Д.с.] <strong>extend</strong> <strong>path</strong> правасуддзе 
+Proverbs 17:24 (18173) разам з твар разумець разумнасць і вока <strong>insolent</strong> у|[Тв.с.] <strong>end</strong> зямля 
+Proverbs 17:25 (18174) <strong>grief</strong> да|[Д.с.] бацька сын <strong>insolent</strong> і <strong>bitterness</strong> да|[Д.с.] нарадзіць 
+Proverbs 17:26 (18175) таксама|нават <strong>fine</strong> да|[Д.с.] [арт.] справядлівы|правільны не добры да|[Д.с.] <strong>strike</strong> <strong>willing</strong> на <strong>uprightness</strong> 
+Proverbs 17:27 (18176) <strong>withhold</strong> <strong>word</strong> ведаць [+неад.]|займацца сэксам [+адуш.] веды [акрамя адуш.] <strong>rare</strong> вецер чалавек (1) разуменне 
+Proverbs 17:28 (18177) таксама|нават <strong>foolish</strong> <strong>be deaf</strong> разумны <strong>account</strong> <strong>plug</strong> губа разумець 
+Proverbs 18:1 (18178) да|[Д.с.] <strong>desire</strong> шукаць <strong>divide</strong> у|[Тв.с.] цэлы|увесь <strong>effect</strong> <strong>burst out</strong> 
+Proverbs 18:2 (18179) не <strong>desire</strong> <strong>insolent</strong> у|[Тв.с.] разуменне бо|што калі[зл.] у|[Тв.с.] <strong>uncover</strong> сэрца 
+Proverbs 18:3 (18180) у|[Тв.с.] прыйсці вінаваты прыйсці таксама|нават <strong>contempt</strong> і з <strong>dishonour</strong> <strong>reproach</strong> 
+Proverbs 18:4 (18181) вада <strong>deep</strong> слова|рэч рот чалавек (1) <strong>wadi</strong> <strong>bubble</strong> <strong>well</strong> разумнасць 
+Proverbs 18:5 (18182) падняць твар вінаваты не добры да|[Д.с.] <strong>extend</strong> справядлівы|правільны у|[Тв.с.] [арт.] правасуддзе 
+Proverbs 18:6 (18183) губа <strong>insolent</strong> прыйсці у|[Тв.с.] <strong>law-case</strong> і рот да|[Д.с.] <strong>strokes</strong> зваць 
+Proverbs 18:7 (18184) рот <strong>insolent</strong> <strong>terror</strong> да|[Д.с.] і губа <strong>bait</strong> душа 
+Proverbs 18:8 (18185) слова|рэч <strong>grumble</strong> як <strong>swallow</strong> і яны [ж.] апускацца пакой <strong>belly</strong> 
+Proverbs 18:9 (18186) таксама|нават <strong>be slack</strong> у|[Тв.с.] <strong>work</strong> брат ён да|[Д.с.] хазяін <strong>destruction</strong> 
+Proverbs 18:10 (18187) <strong>tower</strong> <strong>power</strong> імя Існы у|[Тв.с.] бяжаць справядлівы|правільны і <strong>be high</strong> 
+Proverbs 18:11 (18188) <strong>abundance</strong> <strong>rich</strong> <strong>town</strong> <strong>power</strong> і як <strong>wall</strong> <strong>be high</strong> у|[Тв.с.] <strong>figure</strong> 
+Proverbs 18:12 (18189) да|[Д.с.] твар <strong>breaking</strong> высіцца сэрца чалавек (1) і да|[Д.с.] твар вага <strong>humility</strong> 
+Proverbs 18:13 (18190) вяртацца слова|рэч у|[Тв.с.] <strong>beginning</strong> чуць <strong>foolishness</strong> яна да|[Д.с.] і <strong>insult</strong> 
+Proverbs 18:14 (18191) вецер чалавек (1) <strong>comprehend</strong> <strong>disease</strong> і вецер <strong>smitten</strong> хто падняць 
+Proverbs 18:15 (18192) сэрца разумець набыць веды [акрамя адуш.] і вуха разумны шукаць веды [акрамя адуш.] 
+Proverbs 18:16 (18193) <strong>present</strong> чалавек (від) <strong>be wide</strong> да|[Д.с.] і да|[Д.с.] твар вялікі <strong>lead</strong> 
+Proverbs 18:17 (18194) справядлівы|правільны [арт.] першы у|[Тв.с.] <strong>law-case</strong> і прыйсці <strong>fellow</strong> і <strong>explore</strong> 
+Proverbs 18:18 (18195) <strong>contention</strong> <strong>cease</strong> [арт.] лёс|доля і між <strong>mighty</strong> <strong>divide</strong> 
+Proverbs 18:19 (18196) брат <strong>rebel</strong> з <strong>town</strong> <strong>power</strong> і <strong>contention</strong> як <strong>bar</strong> <strong>dwelling tower</strong> 
+Proverbs 18:20 (18197) з плод рот чалавек (1) <strong>be sated</strong> <strong>belly</strong> <strong>yield</strong> губа <strong>be sated</strong> 
+Proverbs 18:21 (18198) смерць і <strong>life</strong> у|[Тв.с.] рука язык і любіць|кахаць есці плод 
+Proverbs 18:22 (18199) знайсці жанчына знайсці добры і <strong>totter</strong> <strong>pleasure</strong> з Існы 
+Proverbs 18:23 (18200) <strong>supplication</strong> гаварыць <strong>be poor</strong> і <strong>rich</strong> адказаць <strong>strong</strong> 
+Proverbs 18:24 (18201) <strong>existence</strong> <strong>fellow</strong> да|[Д.с.] <strong>break</strong> і ёсць любіць|кахаць <strong>clinging, cleaving to</strong> з брат 
+Proverbs 19:1 (18202) добры <strong>be poor</strong> хадзіць у|[Тв.с.] <strong>completeness</strong> з <strong>crooked</strong> губа і ён <strong>insolent</strong> 
+Proverbs 19:2 (18203) таксама|нават у|[Тв.с.] не веды [акрамя адуш.] душа не добры і <strong>urge</strong> у|[Тв.с.] нага заблудзіць 
+Proverbs 19:3 (18204) <strong>foolishness</strong> чалавек (від) <strong>distort</strong> шлях і на Існы <strong>be embittered</strong> сэрца 
+Proverbs 19:4 (18205) <strong>abundance</strong> дадаць <strong>fellow</strong> шматлікі і <strong>poor</strong> з <strong>fellow</strong> <strong>divide</strong> 
+Proverbs 19:5 (18206) <strong>witness</strong> <strong>lie</strong> не <strong>be clean</strong> і <strong>wheeze</strong> <strong>lie</strong> не <strong>escape</strong> 
+Proverbs 19:6 (18207) шматлікі <strong>become weak</strong> твар <strong>willing</strong> і цэлы|увесь [арт.] <strong>fellow</strong> да|[Д.с.] чалавек (1) <strong>present</strong> 
+Proverbs 19:7 (18208) цэлы|увесь брат <strong>be poor</strong> ненавідзець нават бо|што <strong>friend</strong> <strong>be far</strong> з <strong>pursue</strong> <strong>word</strong> да|[Д.с.] яны 
+Proverbs 19:8 (18209) набыць сэрца любіць|кахаць душа захоўваць разуменне да|[Д.с.] знайсці добры 
+Proverbs 19:9 (18210) <strong>witness</strong> <strong>lie</strong> не <strong>be clean</strong> і <strong>wheeze</strong> <strong>lie</strong> загінуць פ
+Proverbs 19:10 (18211) не <strong>lovely</strong> да|[Д.с.] <strong>insolent</strong> <strong>comfort</strong> нават бо|што да|[Д.с.] слуга <strong>rule</strong> у|[Тв.с.] кіраўнік|міністр 
+Proverbs 19:11 (18212) <strong>insight</strong> чалавек (від) <strong>be long</strong> <strong>nose</strong> і <strong>splendour</strong> перайсці на <strong>rebellion</strong> 
+Proverbs 19:12 (18213) <strong>groaning</strong> як [арт.] <strong>young lion</strong> <strong>rage</strong> цар і як <strong>dew</strong> на <strong>herb</strong> <strong>pleasure</strong> 
+Proverbs 19:13 (18214) <strong>destruction</strong> да|[Д.с.] бацька сын <strong>insolent</strong> і <strong>roof</strong> <strong>drive away</strong> <strong>contention</strong> жанчына 
+Proverbs 19:14 (18215) дом і <strong>abundance</strong> уласнасць бацька і з Існы жанчына <strong>prosper</strong> 
+Proverbs 19:15 (18216) <strong>sluggishness</strong> падаць <strong>sleep</strong> і душа <strong>looseness</strong> <strong>be hungry</strong> 
+Proverbs 19:16 (18217) захоўваць <strong>commandment</strong> захоўваць душа грэбаваць шлях паміраць 
+Proverbs 19:17 (18218) <strong>borrow</strong> Існы <strong>favour</strong> <strong>poor</strong> і учынак <strong>be complete</strong> да|[Д.с.] 
+Proverbs 19:18 (18219) <strong>admonish</strong> сын бо|што ёсць <strong>hope</strong> і да паміраць не [+заг.лад] падняць душа 
+Proverbs 19:19 (18220) вялікі <strong>heat</strong> падняць <strong>fine</strong> бо|што калі[зл.] <strong>deliver</strong> і яшчэ дадаць 
+Proverbs 19:20 (18221) чуць <strong>counsel</strong> і <strong>take</strong> <strong>chastening</strong> з-за баць разумным у|[Тв.с.] прыканец 
+Proverbs 19:21 (18222) шматлікі <strong>thought</strong> у|[Тв.с.] сэрца чалавек (1) і <strong>counsel</strong> Існы яна устаць 
+Proverbs 19:22 (18223) <strong>desire</strong> чалавек (від) <strong>loyalty</strong> і добры <strong>be poor</strong> з чалавек (1) <strong>lie</strong> 
+Proverbs 19:23 (18224) <strong>fear</strong> Існы да|[Д.с.] <strong>life</strong> і <strong>sated</strong> <strong>lodge</strong> <strong>not</strong> <strong>miss</strong> зло 
+Proverbs 19:24 (18225) <strong>hide</strong> <strong>sluggish</strong> рука у|[Тв.с.] [арт.] <strong>pan</strong> таксама|нават да рот не вяртацца 
+Proverbs 19:25 (18226) <strong>scorner</strong> <strong>strike</strong> і <strong>young man</strong> <strong>be cunning</strong> і <strong>reprove</strong> да|[Д.с.] разумець разумець веды [акрамя адуш.] 
+Proverbs 19:26 (18227) быць спустошаным бацька <strong>run away</strong> маці сын <strong>be ashamed</strong> і <strong>be ashamed</strong> 
+Proverbs 19:27 (18228) <strong>cease</strong> сын да|[Д.с.] чуць <strong>chastening</strong> да|[Д.с.] <strong>err</strong> з <strong>word</strong> веды [акрамя адуш.] 
+Proverbs 19:28 (18229) <strong>witness</strong> <strong>wickedness</strong> <strong>boast</strong> правасуддзе і рот вінаваты <strong>swallow</strong> <strong>wickedness</strong> 
+Proverbs 19:29 (18230) <strong>be firm</strong> да|[Д.с.] [арт.] <strong>scorner</strong> <strong>judgment</strong> і <strong>strokes</strong> да|[Д.с.] <strong>back</strong> <strong>insolent</strong> 
+Proverbs 20:1 (18231) <strong>scorner</strong> [арт.] віно <strong>make noise</strong> <strong>strong drink</strong> і цэлы|увесь <strong>err</strong> у|[Тв.с.] не баць разумным 
+Proverbs 20:2 (18232) <strong>groaning</strong> як [арт.] <strong>young lion</strong> <strong>fright</strong> цар <strong>be angry</strong> заблудзіць душа 
+Proverbs 20:3 (18233) вага да|[Д.с.] [арт.] чалавек (1) <strong>inaction</strong> з <strong>law-case</strong> і цэлы|увесь <strong>foolish</strong> <strong>burst out</strong> 
+Proverbs 20:4 (18234) з <strong>autumn</strong> <strong>sluggish</strong> не <strong>plough</strong> і пытацца у|[Тв.с.] [арт.] <strong>harvest</strong> і няма 
+Proverbs 20:5 (18235) вада <strong>deep</strong> <strong>counsel</strong> у|[Тв.с.] сэрца чалавек (1) і чалавек (1) разуменне <strong>draw water</strong> 
+Proverbs 20:6 (18236) шматлікасць чалавек (від) зваць чалавек (1) <strong>loyalty</strong> і чалавек (1) <strong>faithful</strong> хто знайсці 
+Proverbs 20:7 (18237) хадзіць у|[Тв.с.] <strong>completeness</strong> справядлівы|правільны <strong>happiness</strong> сын пасля 
+Proverbs 20:8 (18238) цар сядзець на <strong>seat</strong> <strong>claim</strong> <strong>scatter</strong> у|[Тв.с.] вока цэлы|увесь зло 
+Proverbs 20:9 (18239) хто казаць <strong>be clean</strong> сэрца <strong>be clean</strong> з <strong>sin</strong> 
+Proverbs 20:10 (18240) камень і камень <strong>ephah</strong> і <strong>ephah</strong> <strong>abomination</strong> Існы таксама|нават два 
+Proverbs 20:11 (18241) таксама|нават у|[Тв.с.] <strong>deed</strong> <strong>recognise</strong> хлапчук калі[зл.] <strong>pure</strong> і калі[зл.] <strong>right</strong> <strong>doing</strong> 
+Proverbs 20:12 (18242) вуха чуць і вока бачыць Існы рабіць таксама|нават два 
+Proverbs 20:13 (18243) не [+заг.лад] любіць|кахаць <strong>sleep</strong> <strong>lest</strong> заўладаць <strong>open</strong> вока <strong>be sated</strong> хлеб 
+Proverbs 20:14 (18244) зло зло казаць [арт.] набыць і <strong>go away</strong> да|[Д.с.] тады <strong>praise</strong> 
+Proverbs 20:15 (18245) ёсць золата і шматлікасць <strong>corals</strong> і прылада <strong>preciousness</strong> губа веды [акрамя адуш.] 
+Proverbs 20:16 (18246) браць адзежа бо|што <strong>stand bail</strong> чужы і <strong>distance</strong> чужынскі <strong>take a pledge</strong> 
+Proverbs 20:17 (18247) <strong>pleasant</strong> да|[Д.с.] [арт.] чалавек (1) хлеб <strong>lie</strong> і пасля поўніцца рот <strong>pebble</strong> 
+Proverbs 20:18 (18248) <strong>thought</strong> у|[Тв.с.] <strong>counsel</strong> <strong>be firm</strong> і у|[Тв.с.] <strong>steering</strong> рабіць вайна 
+Proverbs 20:19 (18249) <strong>uncover</strong> <strong>confidential talk</strong> хадзіць <strong>slanderer</strong> і да|[Д.с.] <strong>seduce</strong> губа не <strong>mix</strong> 
+Proverbs 20:20 (18250) <strong>be slight</strong> бацька і маці <strong>be extinguished</strong> <strong>lamp</strong> у|[Тв.с.] <strong>approach</strong> цемра 
+Proverbs 20:21 (18251) уласнасць <strong>disturb</strong> у|[Тв.с.] [арт.] першы і прыканец не <strong>bless</strong> 
+Proverbs 20:22 (18252) не [+заг.лад] казаць <strong>be complete</strong> зло <strong>wait for</strong> да|[Д.с.] Існы і збавіць да|[Д.с.] 
+Proverbs 20:23 (18253) <strong>abomination</strong> Існы камень і камень і <strong>balances</strong> <strong>deceit</strong> не добры 
+Proverbs 20:24 (18254) з Існы <strong>step</strong> <strong>vigorous man</strong> і чалавек (від) што разумець шлях 
+Proverbs 20:25 (18255) <strong>bait</strong> чалавек (від) <strong>talk inconsiderately</strong> святасць і пасля <strong>vow</strong> да|[Д.с.] <strong>attend to</strong> 
+Proverbs 20:26 (18256) <strong>scatter</strong> вінаваты цар разумны і вяртацца на <strong>wheel</strong> 
+Proverbs 20:27 (18257) <strong>lamp</strong> Існы <strong>breath</strong> чалавек (від) маскіравацца цэлы|увесь пакой <strong>belly</strong> 
+Proverbs 20:28 (18258) <strong>loyalty</strong> і праўда <strong>watch</strong> цар і <strong>support</strong> у|[Тв.с.] [арт.] <strong>loyalty</strong> <strong>seat</strong> 
+Proverbs 20:29 (18259) <strong>splendour</strong> хлопец сіла і <strong>ornament</strong> старадаўні <strong>age</strong> 
+Proverbs 20:30 (18260) <strong>bruise</strong> <strong>bruise</strong> <strong>massage</strong> у|[Тв.с.] зло і <strong>blow</strong> пакой <strong>belly</strong> 
+Proverbs 21:1 (18261) <strong>division</strong> вада сэрца цар у|[Тв.с.] рука Існы на цэлы|увесь які <strong>desire</strong> <strong>extend</strong> 
+Proverbs 21:2 (18262) цэлы|увесь шлях чалавек (1) <strong>right</strong> у|[Тв.с.] вока і <strong>estimate</strong> сэрца Існы 
+Proverbs 21:3 (18263) рабіць <strong>justice</strong> і правасуддзе <strong>examine</strong> да|[Д.с.] Існы з <strong>sacrifice</strong> 
+Proverbs 21:4 (18264) <strong>height</strong> вока і <strong>wide</strong> сэрца <strong>lamp</strong> вінаваты <strong>sin</strong> 
+Proverbs 21:5 (18265) <strong>thought</strong> <strong>assiduous</strong> <strong>only</strong> да|[Д.с.] <strong>advantage</strong> і цэлы|увесь <strong>urge</strong> <strong>only</strong> да|[Д.с.] <strong>need</strong> 
+Proverbs 21:6 (18266) <strong>doing</strong> <strong>supply</strong> у|[Тв.с.] язык <strong>lie</strong> подых <strong>scatter</strong> шукаць смерць 
+Proverbs 21:7 (18267) <strong>violence</strong> вінаваты <strong>drag away</strong> бо|што <strong>refuse</strong> да|[Д.с.] рабіць правасуддзе 
+Proverbs 21:8 (18268) <strong>crooked</strong> шлях чалавек (1) <strong>guilty</strong> і <strong>pure</strong> <strong>right</strong> <strong>doing</strong> 
+Proverbs 21:9 (18269) добры да|[Д.с.] сядзець на <strong>corner</strong> <strong>roof</strong> з жанчына <strong>contention</strong> і дом <strong>company</strong> 
+Proverbs 21:10 (18270) душа вінаваты <strong>wish</strong> зло не <strong>favour</strong> у|[Тв.с.] вока <strong>fellow</strong> 
+Proverbs 21:11 (18271) у|[Тв.с.] <strong>fine</strong> <strong>scorner</strong> баць разумным <strong>young man</strong> і у|[Тв.с.] <strong>prosper</strong> да|[Д.с.] разумны браць веды [акрамя адуш.] 
+Proverbs 21:12 (18272) <strong>prosper</strong> справядлівы|правільны да|[Д.с.] дом вінаваты <strong>distort</strong> вінаваты да|[Д.с.] [арт.] зло 
+Proverbs 21:13 (18273) <strong>plug</strong> вуха з <strong>cry</strong> <strong>poor</strong> таксама|нават ён зваць і не адказаць 
+Proverbs 21:14 (18274) <strong>present</strong> у|[Тв.с.] [арт.] <strong>hiding place</strong> <strong>subdue</strong> <strong>nose</strong> і <strong>present</strong> у|[Тв.с.] [арт.] <strong>lap</strong> <strong>heat</strong> <strong>strong</strong> 
+Proverbs 21:15 (18275) радасць да|[Д.с.] [арт.] справядлівы|правільны рабіць правасуддзе і <strong>terror</strong> да|[Д.с.] <strong>make</strong> <strong>wickedness</strong> 
+Proverbs 21:16 (18276) чалавек (від) <strong>err</strong> з шлях <strong>prosper</strong> у|[Тв.с.] <strong>assembly</strong> <strong>ghosts</strong> асесць 
+Proverbs 21:17 (18277) чалавек (1) <strong>need</strong> любіць|кахаць радасць любіць|кахаць віно і алей не <strong>become rich</strong> 
+Proverbs 21:18 (18278) <strong>ransom</strong> да|[Д.с.] [арт.] справядлівы|правільны вінаваты і пад <strong>right</strong> <strong>deal treacherously</strong> 
+Proverbs 21:19 (18279) добры сядзець у|[Тв.с.] зямля <strong>desert</strong> з жанчына <strong>contention</strong> і <strong>grief</strong> 
+Proverbs 21:20 (18280) <strong>supply</strong> <strong>desire</strong> і алей у|[Тв.с.] <strong>pasture</strong> разумны і <strong>insolent</strong> чалавек (від) <strong>swallow</strong> 
+Proverbs 21:21 (18281) <strong>pursue</strong> <strong>justice</strong> і <strong>loyalty</strong> знайсці <strong>life</strong> <strong>justice</strong> і вага 
+Proverbs 21:22 (18282) горад мужны|моцны падымацца разумны і апускацца <strong>power</strong> <strong>trust</strong> 
+Proverbs 21:23 (18283) захоўваць рот і язык захоўваць з бедства душа 
+Proverbs 21:24 (18284) <strong>insolent</strong> <strong>haughty</strong> <strong>scorner</strong> імя рабіць у|[Тв.с.] <strong>anger</strong> пагарда 
+Proverbs 21:25 (18285) <strong>desire</strong> <strong>sluggish</strong> паміраць бо|што <strong>refuse</strong> рука да|[Д.с.] рабіць 
+Proverbs 21:26 (18286) цэлы|увесь [арт.] дзень <strong>wish</strong> <strong>desire</strong> і справядлівы|правільны даць і не <strong>withhold</strong> 
+Proverbs 21:27 (18287) <strong>sacrifice</strong> вінаваты <strong>abomination</strong> нават бо|што у|[Тв.с.] <strong>loose conduct</strong> прыйсці 
+Proverbs 21:28 (18288) <strong>witness</strong> <strong>lie</strong> загінуць і чалавек (1) чуць да|[Д.с.] <strong>glory</strong> гаварыць 
+Proverbs 21:29 (18289) <strong>be strong</strong> чалавек (1) вінаваты у|[Тв.с.] твар і <strong>right</strong> ён разумець шлях 
+Proverbs 21:30 (18290) няма разумнасць і няма разуменне і няма <strong>counsel</strong> да|[Д.с.] перад Існы פ
+Proverbs 21:31 (18291) конь <strong>be firm</strong> да|[Д.с.] дзень вайна і да|[Д.с.] Існы [арт.] <strong>salvation</strong> 
+Proverbs 22:1 (18292) <strong>examine</strong> імя з <strong>riches</strong> шматлікі з срэбра і з золата ласка добры 
+Proverbs 22:2 (18293) <strong>rich</strong> і <strong>be poor</strong> <strong>meet</strong> рабіць цэлы|увесь Існы 
+Proverbs 22:3 (18294) <strong>shrewd</strong> бачыць дрэнны і <strong>hide</strong> і <strong>young man</strong> перайсці і <strong>fine</strong> 
+Proverbs 22:4 (18295) <strong>end</strong> <strong>humility</strong> <strong>fear</strong> Існы <strong>riches</strong> і вага і <strong>life</strong> 
+Proverbs 22:5 (18296) <strong>[uncertain]</strong> <strong>bird-trap</strong> у|[Тв.с.] шлях <strong>crooked</strong> захоўваць душа <strong>be far</strong> з 
+Proverbs 22:6 (18297) <strong>dedicate</strong> да|[Д.с.] [арт.] хлапчук на рот шлях таксама|нават бо|што <strong>be old</strong> не збочыць з 
+Proverbs 22:7 (18298) <strong>rich</strong> у|[Тв.с.] <strong>be poor</strong> <strong>rule</strong> і слуга <strong>borrow</strong> да|[Д.с.] чалавек (1) <strong>borrow</strong> 
+Proverbs 22:8 (18299) <strong>sow</strong> <strong>wickedness</strong> <strong>harvest</strong> <strong>wickedness</strong> і <strong>rod</strong> <strong>anger</strong> <strong>be complete</strong> 
+Proverbs 22:9 (18300) добры вока ён <strong>bless</strong> бо|што даць з хлеб да|[Д.с.] [арт.] <strong>poor</strong> 
+Proverbs 22:10 (18301) <strong>drive out</strong> <strong>scorner</strong> і выйсці <strong>contention</strong> і <strong>cease</strong> <strong>claim</strong> і <strong>dishonour</strong> 
+Proverbs 22:11 (18302) любіць|кахаць <strong>pure</strong> сэрца ласка губа <strong>fellow</strong> цар 
+Proverbs 22:12 (18303) вока Існы <strong>watch</strong> веды [акрамя адуш.] і <strong>distort</strong> слова|рэч <strong>deal treacherously</strong> 
+Proverbs 22:13 (18304) казаць <strong>sluggish</strong> <strong>lion</strong> у|[Тв.с.] [арт.] <strong>outside</strong> у|[Тв.с.] <strong>midst</strong> <strong>open place</strong> <strong>kill</strong> 
+Proverbs 22:14 (18305) <strong>pit</strong> <strong>deep</strong> рот чужы <strong>curse</strong> Існы падаць там 
+Proverbs 22:15 (18306) <strong>foolishness</strong> <strong>tie</strong> у|[Тв.с.] сэрца хлапчук <strong>rod</strong> <strong>chastening</strong> <strong>be far</strong> з 
+Proverbs 22:16 (18307) <strong>oppress</strong> <strong>poor</strong> да|[Д.с.] шмат да|[Д.с.] даць да|[Д.с.] <strong>rich</strong> <strong>only</strong> да|[Д.с.] <strong>need</strong> 
+Proverbs 22:17 (18308) <strong>extend</strong> вуха і чуць слова|рэч разумны і сэрца <strong>put</strong> да|[Д.с.] веды [акрамя адуш.] 
+Proverbs 22:18 (18309) бо|што <strong>pleasant</strong> бо|што захоўваць у|[Тв.с.] <strong>belly</strong> <strong>be firm</strong> <strong>together</strong> на губа 
+Proverbs 22:19 (18310) да|[Д.с.] быць у|[Тв.с.] Існы <strong>trust</strong> ведаць [+неад.]|займацца сэксам [+адуш.] [арт.] дзень нават ты[м.] 
+Proverbs 22:20 (18311) ці не пісанне да|[Д.с.] <strong>adjutant</strong> у|[Тв.с.] <strong>counsel</strong> і веды [акрамя адуш.] 
+Proverbs 22:21 (18312) да|[Д.с.] ведаць [+неад.]|займацца сэксам [+адуш.] <strong>truth</strong> <strong>word</strong> праўда да|[Д.с.] вяртацца <strong>word</strong> праўда да|[Д.с.] слаць פ
+Proverbs 22:22 (18313) не [+заг.лад] <strong>tear away</strong> <strong>poor</strong> бо|што <strong>poor</strong> ён і не [+заг.лад] <strong>oppress</strong> <strong>humble</strong> у|[Тв.с.] [арт.] брама 
+Proverbs 22:23 (18314) бо|што Існы <strong>contend</strong> <strong>law-case</strong> і <strong>deceive</strong> [В.с.] <strong>deceive</strong> душа 
+Proverbs 22:24 (18315) не [+заг.лад] <strong>deal with</strong> разам з хазяін <strong>nose</strong> і разам з чалавек (1) <strong>heat</strong> не прыйсці 
+Proverbs 22:25 (18316) <strong>lest</strong> <strong>be familiar</strong> <strong>path</strong> і браць <strong>bait</strong> да|[Д.с.] душа 
+Proverbs 22:26 (18317) не [+заг.лад] быць у|[Тв.с.] <strong>blow</strong> далонь у|[Тв.с.] [арт.] <strong>stand bail</strong> <strong>loan</strong> 
+Proverbs 22:27 (18318) калі[зл.] няма да|[Д.с.] да|[Д.с.] <strong>be complete</strong> чаму браць <strong>couch</strong> з пад 
+Proverbs 22:28 (18319) не [+заг.лад] <strong>turn</strong> мяжа свет|вечнасць які рабіць бацька 
+Proverbs 22:29 (18320) <strong>see</strong> чалавек (1) <strong>quick</strong> у|[Тв.с.] <strong>work</strong> да|[Д.с.] твар цар <strong>stand</strong> <strong>not</strong> <strong>stand</strong> да|[Д.с.] твар <strong>dark</strong> פ
+Proverbs 23:1 (18321) бо|што сядзець да|[Д.с.] <strong>feed</strong> разам з <strong>rule</strong> разумець разумець [В.с.] які да|[Д.с.] твар 
+Proverbs 23:2 (18322) і класці|ставіць <strong>knife</strong> у|[Тв.с.] <strong>throat</strong> калі[зл.] хазяін душа ты[м.] 
+Proverbs 23:3 (18323) не [+заг.лад] <strong>wish</strong> да|[Д.с.] <strong>savoury food</strong> і ён хлеб <strong>lie</strong> 
+Proverbs 23:4 (18324) не [+заг.лад] <strong>be weary</strong> да|[Д.с.] <strong>become rich</strong> з <strong>understanding</strong> <strong>cease</strong> 
+Proverbs 23:5 (18325) ці <strong>fly</strong> вока у|[Тв.с.] і няма бо|што рабіць рабіць да|[Д.с.] крыло як арол <strong>fly</strong> [арт.] неба פ
+Proverbs 23:6 (18326) не [+заг.лад] <strong>feed</strong> [В.с.] хлеб зло вока і не [+заг.лад] <strong>wish</strong> да|[Д.с.] <strong>savoury food</strong> 
+Proverbs 23:7 (18327) бо|што <strong>like</strong> <strong>estimate</strong> у|[Тв.с.] душа так ён есці і піць казаць да|[Д.с.] і сэрца <strong>not</strong> з 
+Proverbs 23:8 (18328) <strong>bit</strong> есці <strong>vomit</strong> і <strong>destroy</strong> слова|рэч [арт.] <strong>pleasant</strong> 
+Proverbs 23:9 (18329) у|[Тв.с.] вуха <strong>insolent</strong> не [+заг.лад] гаварыць бо|што <strong>despise</strong> да|[Д.с.] <strong>insight</strong> <strong>word</strong> 
+Proverbs 23:10 (18330) не [+заг.лад] <strong>turn</strong> мяжа свет|вечнасць і у|[Тв.с.] поле <strong>orphan</strong> не [+заг.лад] прыйсці 
+Proverbs 23:11 (18331) бо|што <strong>redeem</strong> <strong>strong</strong> ён <strong>contend</strong> [В.с.] <strong>law-case</strong> разам з 
+Proverbs 23:12 (18332) прыйсці да|[Д.с.] [арт.] <strong>chastening</strong> сэрца і вуха да|[Д.с.] <strong>word</strong> веды [акрамя адуш.] 
+Proverbs 23:13 (18333) не [+заг.лад] <strong>withhold</strong> з хлапчук <strong>chastening</strong> бо|што <strong>strike</strong> у|[Тв.с.] [арт.] <strong>rod</strong> не паміраць 
+Proverbs 23:14 (18334) ты[м.] у|[Тв.с.] [арт.] <strong>rod</strong> <strong>strike</strong> і душа з <strong>nether world</strong> <strong>deliver</strong> 
+Proverbs 23:15 (18335) сын калі[зл.] баць разумным сэрца узрадавацца сэрца таксама|нават я 
+Proverbs 23:16 (18336) і <strong>rejoice</strong> <strong>kidney</strong> у|[Тв.с.] гаварыць губа <strong>uprightness</strong> 
+Proverbs 23:17 (18337) не [+заг.лад] <strong>be jealous</strong> сэрца у|[Тв.с.] [арт.] <strong>sinful</strong> бо|што калі[зл.] у|[Тв.с.] <strong>fear</strong> Існы цэлы|увесь [арт.] дзень 
+Proverbs 23:18 (18338) бо|што калі[зл.] ёсць прыканец і <strong>hope</strong> не выразаць 
+Proverbs 23:19 (18339) чуць ты[м.] сын і баць разумным і <strong>walk straight</strong> у|[Тв.с.] [арт.] шлях сэрца 
+Proverbs 23:20 (18340) не [+заг.лад] быць у|[Тв.с.] <strong>drink</strong> віно у|[Тв.с.] <strong>be lavish</strong> мяса|плоць да|[Д.с.] 
+Proverbs 23:21 (18341) бо|што <strong>drink</strong> і <strong>be lavish</strong> заўладаць і <strong>rags</strong> <strong>cloth</strong> <strong>somnolence</strong> 
+Proverbs 23:22 (18342) чуць да|[Д.с.] бацька гэты нарадзіць і не [+заг.лад] <strong>despise</strong> бо|што <strong>be old</strong> маці 
+Proverbs 23:23 (18343) праўда набыць і не [+заг.лад] <strong>sell</strong> разумнасць і <strong>chastening</strong> і <strong>understanding</strong> 
+Proverbs 23:24 (18344) <strong>rejoice</strong> <strong>rejoice</strong> бацька справядлівы|правільны і нарадзіць разумны узрадавацца у|[Тв.с.] 
+Proverbs 23:25 (18345) узрадавацца бацька і маці і <strong>rejoice</strong> нарадзіць 
+Proverbs 23:26 (18346) даць сын сэрца да|[Д.с.] і вока шлях <strong>watch</strong> 
+Proverbs 23:27 (18347) бо|што <strong>pit</strong> <strong>deep</strong> <strong>fornicate</strong> і <strong>well</strong> <strong>narrow</strong> чужынскі 
+Proverbs 23:28 (18348) нават яна як <strong>robber</strong> <strong>lie in ambush</strong> і <strong>deal treacherously</strong> у|[Тв.с.] чалавек (від) дадаць 
+Proverbs 23:29 (18349) да|[Д.с.] хто <strong>woe</strong> да|[Д.с.] хто <strong>desire</strong> да|[Д.с.] хто <strong>contention</strong> да|[Д.с.] хто <strong>concern</strong> да|[Д.с.] хто <strong>bruise</strong> <strong>in vain</strong> да|[Д.с.] хто <strong>dullness</strong> вока 
+Proverbs 23:30 (18350) да|[Д.с.] [арт.] <strong>be behind</strong> на [арт.] віно да|[Д.с.] [арт.] прыйсці да|[Д.с.] <strong>explore</strong> <strong>mixed wine</strong> 
+Proverbs 23:31 (18351) не [+заг.лад] бачыць віно бо|што <strong>be ruddy</strong> бо|што даць у|[Тв.с.] [арт.] <strong>cup</strong> вока хадзіць у|[Тв.с.] <strong>uprightness</strong> 
+Proverbs 23:32 (18352) прыканец як цмок <strong>bite</strong> і як <strong>viper</strong> <strong>explain</strong> 
+Proverbs 23:33 (18353) вока бачыць чужы і сэрца гаварыць <strong>perversity</strong> 
+Proverbs 23:34 (18354) і быць як ляжаць у|[Тв.с.] сэрца мора і як ляжаць у|[Тв.с.] галава <strong>[uncertain]</strong> 
+Proverbs 23:35 (18355) <strong>strike</strong> <strong>not</strong> <strong>become weak</strong> <strong>strike</strong> <strong>not</strong> ведаць [+неад.]|займацца сэксам [+адуш.] <strong>when</strong> <strong>pass summer</strong> дадаць шукаць яшчэ 
+Proverbs 24:1 (18356) не [+заг.лад] <strong>be jealous</strong> у|[Тв.с.] чалавек (1) дрэнны і не [+заг.лад] <strong>wish</strong> да|[Д.с.] быць разам з 
+Proverbs 24:2 (18357) бо|што <strong>violence</strong> <strong>mutter</strong> сэрца і <strong>labour</strong> губа гаварыць 
+Proverbs 24:3 (18358) у|[Тв.с.] разумнасць будаваць дом і у|[Тв.с.] разуменне <strong>be firm</strong> 
+Proverbs 24:4 (18359) і у|[Тв.с.] веды [акрамя адуш.] пакой поўніцца цэлы|увесь <strong>abundance</strong> <strong>rare</strong> і <strong>pleasant</strong> 
+Proverbs 24:5 (18360) <strong>vigorous man</strong> разумны у|[Тв.с.] [арт.] <strong>power</strong> і чалавек (1) веды [акрамя адуш.] <strong>be strong</strong> сіла 
+Proverbs 24:6 (18361) бо|што у|[Тв.с.] <strong>steering</strong> рабіць да|[Д.с.] вайна і <strong>salvation</strong> у|[Тв.с.] шматлікасць <strong>advise</strong> 
+Proverbs 24:7 (18362) <strong>[uncertain]</strong> да|[Д.с.] <strong>foolish</strong> <strong>wisdom</strong> у|[Тв.с.] [арт.] брама не <strong>open</strong> рот 
+Proverbs 24:8 (18363) <strong>account</strong> да|[Д.с.] <strong>be evil</strong> да|[Д.с.] хазяін <strong>purpose</strong> зваць 
+Proverbs 24:9 (18364) <strong>loose conduct</strong> <strong>foolishness</strong> <strong>sin</strong> і <strong>abomination</strong> да|[Д.с.] чалавек (від) <strong>scorner</strong> 
+Proverbs 24:10 (18365) <strong>be slack</strong> у|[Тв.с.] дзень бедства <strong>narrow</strong> сіла 
+Proverbs 24:11 (18366) <strong>deliver</strong> браць да|[Д.с.] [арт.] смерць і <strong>coming</strong> да|[Д.с.] [арт.] <strong>slaughter</strong> калі[зл.] <strong>withhold</strong> 
+Proverbs 24:12 (18367) бо|што казаць <strong>behold</strong> не ведаць [+неад.]|займацца сэксам [+адуш.] гэты ці не <strong>estimate</strong> сэрца ён разумець і <strong>watch</strong> душа ён ведаць [+неад.]|займацца сэксам [+адуш.] і вяртацца да|[Д.с.] чалавек (від) як <strong>doing</strong> 
+Proverbs 24:13 (18368) есці сын <strong>honey</strong> бо|што добры і <strong>honey</strong> салодкі на <strong>palate</strong> 
+Proverbs 24:14 (18369) так ведаць [+неад.]|займацца сэксам [+адуш.] разумнасць да|[Д.с.] душа калі[зл.] знайсці і ёсць прыканец і <strong>hope</strong> не выразаць פ
+Proverbs 24:15 (18370) не [+заг.лад] <strong>lie in ambush</strong> вінаваты да|[Д.с.] <strong>pasture</strong> справядлівы|правільны не [+заг.лад] быць спустошаным <strong>resting place</strong> 
+Proverbs 24:16 (18371) бо|што сем падаць справядлівы|правільны і устаць і вінаваты <strong>stumble</strong> у|[Тв.с.] дрэнны 
+Proverbs 24:17 (18372) у|[Тв.с.] падаць <strong>be hostile</strong> не [+заг.лад] узрадавацца і у|[Тв.с.] <strong>stumble</strong> не [+заг.лад] <strong>rejoice</strong> сэрца 
+Proverbs 24:18 (18373) <strong>lest</strong> бачыць Існы і <strong>be evil</strong> у|[Тв.с.] вока і вяртацца з на <strong>nose</strong> 
+Proverbs 24:19 (18374) не [+заг.лад] <strong>be hot</strong> у|[Тв.с.] [арт.] <strong>be evil</strong> не [+заг.лад] <strong>be jealous</strong> у|[Тв.с.] [арт.] вінаваты 
+Proverbs 24:20 (18375) бо|што не быць прыканец да|[Д.с.] [арт.] зло <strong>lamp</strong> вінаваты <strong>be extinguished</strong> 
+Proverbs 24:21 (18376) баяцца [В.с.] Існы сын і цар з <strong>change</strong> не [+заг.лад] <strong>mix</strong> 
+Proverbs 24:22 (18377) бо|што раптам устаць няшчасце і <strong>decay</strong> два хто ведаць [+неад.]|займацца сэксам [+адуш.] ס
+Proverbs 24:23 (18378) таксама|нават гэтыя да|[Д.с.] разумны <strong>recognise</strong> твар у|[Тв.с.] правасуддзе <strong>not</strong> добры 
+Proverbs 24:24 (18379) казаць да|[Д.с.] вінаваты справядлівы|правільны ты[м.] <strong>curse</strong> народ <strong>curse</strong> <strong>people</strong> 
+Proverbs 24:25 (18380) і да|[Д.с.] [арт.] <strong>reprove</strong> <strong>be pleasant</strong> і на прыйсці <strong>blessing</strong> добры 
+Proverbs 24:26 (18381) губа <strong>kiss</strong> вяртацца слова|рэч <strong>straight</strong> 
+Proverbs 24:27 (18382) <strong>be firm</strong> у|[Тв.с.] [арт.] <strong>outside</strong> <strong>work</strong> і <strong>prepare</strong> у|[Тв.с.] [арт.] поле да|[Д.с.] пасля і будаваць дом פ
+Proverbs 24:28 (18383) не [+заг.лад] быць <strong>witness</strong> <strong>in vain</strong> у|[Тв.с.] <strong>fellow</strong> і ці <strong>seduce</strong> у|[Тв.с.] губа 
+Proverbs 24:29 (18384) не [+заг.лад] казаць як які рабіць да|[Д.с.] так рабіць да|[Д.с.] вяртацца да|[Д.с.] [арт.] чалавек (1) як <strong>doing</strong> 
+Proverbs 24:30 (18385) на поле чалавек (1) <strong>sluggish</strong> перайсці і на <strong>vineyard</strong> чалавек (від) бракуючы сэрца 
+Proverbs 24:31 (18386) і вось падымацца цэлы|увесь <strong>weed</strong> пакрыць твар <strong>chickling</strong> і сцяна|мур камень <strong>tear down</strong> 
+Proverbs 24:32 (18387) і <strong>see</strong> <strong>i</strong> <strong>put</strong> сэрца бачыць браць <strong>chastening</strong> 
+Proverbs 24:33 (18388) <strong>little</strong> <strong>sleep</strong> <strong>little</strong> <strong>slumber</strong> <strong>little</strong> <strong>folding</strong> рука да|[Д.с.] ляжаць 
+Proverbs 24:34 (18389) і прыйсці хадзіць <strong>poverty</strong> і <strong>need</strong> як чалавек (1) <strong>insolent</strong> פ
+Proverbs 25:1 (18390) таксама|нават гэтыя <strong>proverb</strong> <strong>Solomon</strong> які <strong>advance</strong> чалавек (1) <strong>Hizkiah</strong> цар Егуда 
+Proverbs 25:2 (18391) вага Бог <strong>hide</strong> слова|рэч і вага цар <strong>explore</strong> слова|рэч 
+Proverbs 25:3 (18392) неба да|[Д.с.] [арт.] <strong>height</strong> і зямля да|[Д.с.] [арт.] <strong>depth</strong> і сэрца цар няма <strong>exploration</strong> 
+Proverbs 25:4 (18393) <strong>expel</strong> <strong>lead oxide</strong> з срэбра і выйсці да|[Д.с.] [арт.] <strong>melt</strong> прылада 
+Proverbs 25:5 (18394) <strong>expel</strong> вінаваты да|[Д.с.] твар цар і <strong>be firm</strong> у|[Тв.с.] [арт.] <strong>justice</strong> <strong>seat</strong> 
+Proverbs 25:6 (18395) не [+заг.лад] <strong>honour</strong> да|[Д.с.] твар цар і у|[Тв.с.] месца вялікі не [+заг.лад] стаяць 
+Proverbs 25:7 (18396) бо|што добры казаць да|[Д.с.] падымацца <strong>here</strong> з <strong>be low</strong> да|[Д.с.] твар <strong>willing</strong> які бачыць вока 
+Proverbs 25:8 (18397) не [+заг.лад] выйсці да|[Д.с.] <strong>contend</strong> спяшацца|хутка [як прысл.] <strong>lest</strong> што рабіць у|[Тв.с.] прыканец у|[Тв.с.] <strong>humiliate</strong> [В.с.] <strong>fellow</strong> 
+Proverbs 25:9 (18398) <strong>law-case</strong> <strong>contend</strong> разам з <strong>fellow</strong> і <strong>confidential talk</strong> іншы не [+заг.лад] <strong>uncover</strong> 
+Proverbs 25:10 (18399) <strong>lest</strong> <strong>insult</strong> чуць і <strong>evil report</strong> не вяртацца 
+Proverbs 25:11 (18400) <strong>apple-tree</strong> золата у|[Тв.с.] <strong>figure</strong> срэбра слова|рэч гаварыць на <strong>right time</strong> 
+Proverbs 25:12 (18401) <strong>nose-ring</strong> золата і <strong>ornament</strong> <strong>gold</strong> <strong>reprove</strong> разумны на вуха чуць 
+Proverbs 25:13 (18402) як <strong>cold</strong> <strong>snow</strong> у|[Тв.с.] дзень <strong>harvest</strong> пасланец <strong>be firm</strong> да|[Д.с.] слаць і душа <strong>lord</strong> вяртацца פ
+Proverbs 25:14 (18403) <strong>fog</strong> і вецер і дождж няма чалавек (1) <strong>praise</strong> у|[Тв.с.] <strong>gift</strong> <strong>lie</strong> 
+Proverbs 25:15 (18404) у|[Тв.с.] <strong>length</strong> <strong>nose</strong> <strong>seduce</strong> <strong>chief</strong> і язык <strong>tender</strong> разбіць <strong>bone</strong> 
+Proverbs 25:16 (18405) <strong>honey</strong> знайсці есці дастатковасць <strong>lest</strong> <strong>be sated</strong> і <strong>vomit</strong> 
+Proverbs 25:17 (18406) <strong>be precious</strong> нага з дом <strong>fellow</strong> <strong>lest</strong> <strong>be sated</strong> і ненавідзець 
+Proverbs 25:18 (18407) <strong>[uncertain]</strong> і <strong>dagger</strong> і <strong>arrow</strong> <strong>sharpen</strong> чалавек (1) адказаць у|[Тв.с.] <strong>fellow</strong> <strong>witness</strong> <strong>lie</strong> 
+Proverbs 25:19 (18408) <strong>tooth</strong> <strong>pasture</strong> і нага <strong>shake</strong> <strong>trust</strong> <strong>deal treacherously</strong> у|[Тв.с.] дзень бедства 
+Proverbs 25:20 (18409) <strong>stride</strong> адзежа у|[Тв.с.] дзень <strong>cold</strong> <strong>vinegar</strong> на <strong>natron</strong> і <strong>sing</strong> у|[Тв.с.] [арт.] песня на сэрца зло פ
+Proverbs 25:21 (18410) калі[зл.] <strong>hungry</strong> ненавідзець есці хлеб і калі[зл.] <strong>thirsty</strong> <strong>give drink</strong> вада 
+Proverbs 25:22 (18411) бо|што <strong>charcoals</strong> ты[м.] <strong>rake together</strong> на галава і Існы <strong>be complete</strong> да|[Д.с.] 
+Proverbs 25:23 (18412) вецер поўнач <strong>have labour pain, to cry</strong> дождж і твар <strong>curse</strong> язык <strong>hiding place</strong> 
+Proverbs 25:24 (18413) добры сядзець на <strong>corner</strong> <strong>roof</strong> з жанчына <strong>contention</strong> і дом <strong>company</strong> 
+Proverbs 25:25 (18414) вада <strong>cool</strong> на душа <strong>faint</strong> і звестка добры з зямля <strong>distance</strong> 
+Proverbs 25:26 (18415) <strong>well</strong> <strong>foul</strong> і <strong>well</strong> <strong>destroy</strong> справядлівы|правільны <strong>totter</strong> да|[Д.с.] твар вінаваты 
+Proverbs 25:27 (18416) есці <strong>honey</strong> шмат не добры і <strong>exploration</strong> вага вага 
+Proverbs 25:28 (18417) горад <strong>break</strong> няма <strong>wall</strong> чалавек (1) які няма <strong>hindrance</strong> да|[Д.с.] вецер 
+Proverbs 26:1 (18418) як [арт.] <strong>snow</strong> у|[Тв.с.] [арт.] <strong>summer</strong> і як [арт.] <strong>rain</strong> у|[Тв.с.] [арт.] <strong>harvest</strong> так не <strong>lovely</strong> да|[Д.с.] <strong>insolent</strong> вага 
+Proverbs 26:2 (18419) як [арт.] птушка да|[Д.с.] <strong>waver</strong> як [арт.] <strong>swallow</strong> да|[Д.с.] <strong>fly</strong> так <strong>curse</strong> <strong>in vain</strong> да|[Д.с.] прыйсці 
+Proverbs 26:3 (18420) <strong>whip</strong> да|[Д.с.] [арт.] конь <strong>bridle</strong> да|[Д.с.] [арт.] <strong>he-ass</strong> і <strong>rod</strong> да|[Д.с.] <strong>back</strong> <strong>insolent</strong> 
+Proverbs 26:4 (18421) не [+заг.лад] адказаць <strong>insolent</strong> як <strong>foolishness</strong> <strong>lest</strong> <strong>be like</strong> да|[Д.с.] таксама|нават ты[м.] 
+Proverbs 26:5 (18422) адказаць <strong>insolent</strong> як <strong>foolishness</strong> <strong>lest</strong> быць разумны у|[Тв.с.] вока 
+Proverbs 26:6 (18423) <strong>cut off</strong> нага гвалт піць слаць слова|рэч у|[Тв.с.] рука <strong>insolent</strong> 
+Proverbs 26:7 (18424) <strong>draw water</strong> <strong>splintbone</strong> з <strong>lame</strong> і <strong>proverb</strong> у|[Тв.с.] рот <strong>insolent</strong> 
+Proverbs 26:8 (18425) як <strong>wrap, be narrow</strong> камень у|[Тв.с.] <strong>heap of stones</strong> так даць да|[Д.с.] <strong>insolent</strong> вага 
+Proverbs 26:9 (18426) <strong>thorn</strong> падымацца у|[Тв.с.] рука <strong>drunk</strong> і <strong>proverb</strong> у|[Тв.с.] рот <strong>insolent</strong> 
+Proverbs 26:10 (18427) шматлікі <strong>pierce</strong> цэлы|увесь і <strong>hire</strong> <strong>insolent</strong> і <strong>hire</strong> перайсці 
+Proverbs 26:11 (18428) як сабака вяртацца на <strong>vomit</strong> <strong>insolent</strong> <strong>change</strong> у|[Тв.с.] <strong>foolishness</strong> 
+Proverbs 26:12 (18429) бачыць чалавек (1) разумны у|[Тв.с.] вока <strong>hope</strong> да|[Д.с.] <strong>insolent</strong> з 
+Proverbs 26:13 (18430) казаць <strong>sluggish</strong> <strong>young lion</strong> у|[Тв.с.] [арт.] шлях <strong>lion</strong> між [арт.] <strong>open place</strong> 
+Proverbs 26:14 (18431) [арт.] дзверы <strong>turn</strong> на <strong>pivot</strong> і <strong>sluggish</strong> на <strong>couch</strong> 
+Proverbs 26:15 (18432) <strong>hide</strong> <strong>sluggish</strong> рука у|[Тв.с.] [арт.] <strong>pan</strong> <strong>be weary</strong> да|[Д.с.] вяртацца да рот 
+Proverbs 26:16 (18433) разумны <strong>sluggish</strong> у|[Тв.с.] вока з сем вяртацца <strong>taste</strong> 
+Proverbs 26:17 (18434) <strong>be strong</strong> у|[Тв.с.] вуха сабака перайсці <strong>be angry</strong> на <strong>law-case</strong> не да|[Д.с.] 
+Proverbs 26:18 (18435) як <strong>be crazy</strong> [арт.] <strong>cast</strong> <strong>fire-arrow</strong> <strong>arrow</strong> і смерць 
+Proverbs 26:19 (18436) так чалавек (1) <strong>deceive</strong> [В.с.] <strong>fellow</strong> і казаць ці не смяяцца я 
+Proverbs 26:20 (18437) у|[Тв.с.] <strong>end</strong> дрэва <strong>go out</strong> агонь і у|[Тв.с.] няма <strong>grumble</strong> <strong>be silent</strong> <strong>contention</strong> 
+Proverbs 26:21 (18438) <strong>charcoal</strong> да|[Д.с.] <strong>charcoals</strong> і дрэва да|[Д.с.] агонь і чалавек (1) <strong>contention</strong> да|[Д.с.] <strong>be hot</strong> <strong>law-case</strong> פ
+Proverbs 26:22 (18439) слова|рэч <strong>grumble</strong> як <strong>swallow</strong> і яны [ж.] апускацца пакой <strong>belly</strong> 
+Proverbs 26:23 (18440) срэбра <strong>lead oxide</strong> <strong>arrange</strong> на <strong>clay</strong> губа падпальваць і сэрца зло 
+Proverbs 26:24 (18441) у|[Тв.с.] губа <strong>recognise</strong> ненавідзець і у|[Тв.с.] <strong>interior</strong> <strong>put</strong> <strong>deceit</strong> 
+Proverbs 26:25 (18442) бо|што <strong>favour</strong> голас не [+заг.лад] <strong>be firm</strong> у|[Тв.с.] бо|што сем <strong>abomination</strong> у|[Тв.с.] сэрца 
+Proverbs 26:26 (18443) пакрыць <strong>hatred</strong> у|[Тв.с.] <strong>deceiving</strong> <strong>uncover</strong> дрэнны у|[Тв.с.] <strong>assembly</strong> 
+Proverbs 26:27 (18444) <strong>dig</strong> <strong>pit</strong> у|[Тв.с.] падаць і <strong>roll</strong> камень да вяртацца 
+Proverbs 26:28 (18445) язык <strong>lie</strong> ненавідзець <strong>oppressed</strong> і рот <strong>smooth</strong> рабіць <strong>overthrow</strong> 
+Proverbs 27:1 (18446) не [+заг.лад] <strong>praise</strong> у|[Тв.с.] дзень <strong>next day</strong> бо|што не ведаць [+неад.]|займацца сэксам [+адуш.] што нарадзіць дзень 
+Proverbs 27:2 (18447) <strong>praise</strong> чужы і не рот чужынскі і не [+заг.лад] губа 
+Proverbs 27:3 (18448) <strong>heaviness</strong> камень і <strong>load</strong> [арт.] <strong>sand</strong> і <strong>grief</strong> <strong>foolish</strong> <strong>heavy</strong> з два 
+Proverbs 27:4 (18449) <strong>cruelty</strong> <strong>heat</strong> і <strong>flood</strong> <strong>nose</strong> і хто стаяць да|[Д.с.] твар <strong>jealousy</strong> 
+Proverbs 27:5 (18450) добры <strong>rebuke</strong> <strong>uncover</strong> з любоў|каханне <strong>hide</strong> 
+Proverbs 27:6 (18451) <strong>be firm</strong> <strong>bruise</strong> любіць|кахаць і <strong>entreat</strong> <strong>kiss</strong> ненавідзець 
+Proverbs 27:7 (18452) душа <strong>sated</strong> <strong>tread down</strong> <strong>honey</strong> і душа <strong>hungry</strong> цэлы|увесь горкі салодкі 
+Proverbs 27:8 (18453) як птушка <strong>flee</strong> з гняздо так чалавек (1) <strong>flee</strong> з месца 
+Proverbs 27:9 (18454) алей і <strong>smoke of sacrifice</strong> узрадавацца сэрца і <strong>sweet</strong> <strong>fellow</strong> з <strong>counsel</strong> душа 
+Proverbs 27:10 (18455) <strong>fellow</strong> і <strong>fellow</strong> бацька не [+заг.лад] <strong>leave</strong> і дом брат не [+заг.лад] прыйсці у|[Тв.с.] дзень няшчасце добры <strong>inhabitant</strong> блізкі з брат далёкі 
+Proverbs 27:11 (18456) баць разумным сын і узрадавацца сэрца і вяртацца <strong>reproach</strong> слова|рэч 
+Proverbs 27:12 (18457) <strong>shrewd</strong> бачыць дрэнны <strong>hide</strong> <strong>young man</strong> перайсці <strong>fine</strong> 
+Proverbs 27:13 (18458) браць адзежа бо|што <strong>stand bail</strong> чужы і <strong>distance</strong> чужынскі <strong>take a pledge</strong> 
+Proverbs 27:14 (18459) <strong>bless</strong> <strong>fellow</strong> у|[Тв.с.] голас вялікі у|[Тв.с.] [арт.] раніца <strong>rise early</strong> <strong>curse</strong> <strong>account</strong> да|[Д.с.] 
+Proverbs 27:15 (18460) <strong>roof</strong> <strong>drive away</strong> у|[Тв.с.] дзень <strong>heavy rain</strong> і жанчына <strong>contention</strong> <strong>be like</strong> 
+Proverbs 27:16 (18461) <strong>hide</strong> <strong>hide</strong> вецер і алей правая частка <strong>encounter</strong> 
+Proverbs 27:17 (18462) жалеза у|[Тв.с.] жалеза <strong>gathering</strong> і чалавек (1) <strong>gathering</strong> твар <strong>fellow</strong> 
+Proverbs 27:18 (18463) <strong>watch</strong> <strong>fig</strong> есці плод і захоўваць <strong>lord</strong> <strong>be heavy</strong> 
+Proverbs 27:19 (18464) як [арт.] вада [арт.] твар да|[Д.с.] [арт.] твар так сэрца [арт.] чалавек (від) да|[Д.с.] [арт.] чалавек (від) 
+Proverbs 27:20 (18465) <strong>nether world</strong> і <strong>destruction</strong> не <strong>be sated</strong> і вока [арт.] чалавек (від) не <strong>be sated</strong> 
+Proverbs 27:21 (18466) <strong>melting pot</strong> да|[Д.с.] [арт.] срэбра і <strong>furnace</strong> да|[Д.с.] [арт.] золата і чалавек (1) да|[Д.с.] рот <strong>fame</strong> 
+Proverbs 27:22 (18467) калі[зл.] <strong>pound</strong> [В.с.] [арт.] <strong>foolish</strong> у|[Тв.с.] [арт.] <strong>grinder</strong> у|[Тв.с.] <strong>midst</strong> [арт.] <strong>[uncertain]</strong> у|[Тв.с.] [арт.] <strong>pestle</strong> не збочыць з на <strong>foolishness</strong> פ
+Proverbs 27:23 (18468) ведаць [+неад.]|займацца сэксам [+адуш.] ведаць [+неад.]|займацца сэксам [+адуш.] твар скаціна <strong>put</strong> сэрца да|[Д.с.] <strong>flock</strong> 
+Proverbs 27:24 (18469) бо|што не да|[Д.с.] свет|вечнасць <strong>store</strong> і калі[зл.] <strong>consecration</strong> да|[Д.с.] <strong>generation</strong> і <strong>generation</strong> 
+Proverbs 27:25 (18470) <strong>uncover</strong> <strong>grass</strong> і бачыць <strong>young grass</strong> і збіраць <strong>herb</strong> гара 
+Proverbs 27:26 (18471) <strong>young ram</strong> да|[Д.с.] <strong>clothing</strong> і <strong>price</strong> поле <strong>ram</strong> 
+Proverbs 27:27 (18472) і дастатковасць <strong>milk</strong> <strong>goat</strong> да|[Д.с.] хлеб да|[Д.с.] хлеб дом і <strong>life</strong> да|[Д.с.] <strong>girl</strong> 
+Proverbs 28:1 (18473) <strong>flee</strong> і няма <strong>pursue</strong> вінаваты і справядлівы|правільны як <strong>young lion</strong> <strong>trust</strong> 
+Proverbs 28:2 (18474) у|[Тв.с.] <strong>rebellion</strong> зямля шматлікі кіраўнік|міністр і у|[Тв.с.] чалавек (від) разумець ведаць [+неад.]|займацца сэксам [+адуш.] <strong>correct</strong> <strong>be long</strong> 
+Proverbs 28:3 (18475) <strong>vigorous man</strong> <strong>be poor</strong> і <strong>oppress</strong> <strong>poor</strong> <strong>rain</strong> <strong>wash away</strong> і няма хлеб 
+Proverbs 28:4 (18476) <strong>leave</strong> <strong>instruction</strong> <strong>praise</strong> вінаваты і захоўваць <strong>instruction</strong> <strong>stir</strong> у|[Тв.с.] פ
+Proverbs 28:5 (18477) чалавек (1) зло не разумець правасуддзе і шукаць Існы разумець цэлы|увесь 
+Proverbs 28:6 (18478) добры <strong>be poor</strong> хадзіць у|[Тв.с.] <strong>completeness</strong> з <strong>crooked</strong> шлях і ён <strong>rich</strong> 
+Proverbs 28:7 (18479) <strong>watch</strong> <strong>instruction</strong> сын разумець і <strong>deal with</strong> <strong>be lavish</strong> <strong>humiliate</strong> бацька 
+Proverbs 28:8 (18480) шмат <strong>abundance</strong> у|[Тв.с.] <strong>interest</strong> і <strong>interest</strong> да|[Д.с.] <strong>favour</strong> <strong>poor</strong> <strong>collect</strong> 
+Proverbs 28:9 (18481) збочыць вуха з чуць <strong>instruction</strong> таксама|нават <strong>prayer</strong> <strong>abomination</strong> 
+Proverbs 28:10 (18482) <strong>err</strong> <strong>right</strong> у|[Тв.с.] шлях зло у|[Тв.с.] <strong>pit</strong> ён падаць і <strong>complete</strong> <strong>take possession</strong> добры 
+Proverbs 28:11 (18483) разумны у|[Тв.с.] вока чалавек (1) <strong>rich</strong> і <strong>poor</strong> разумець <strong>explore</strong> 
+Proverbs 28:12 (18484) у|[Тв.с.] <strong>rejoice</strong> справядлівы|правільны шматлікі <strong>splendour</strong> і у|[Тв.с.] устаць вінаваты маскіравацца чалавек (від) 
+Proverbs 28:13 (18485) пакрыць <strong>rebellion</strong> не <strong>be strong</strong> і <strong>praise</strong> і <strong>leave</strong> <strong>have compassion</strong> 
+Proverbs 28:14 (18486) <strong>happiness</strong> чалавек (від) <strong>tremble</strong> беззаганнасць і <strong>be hard</strong> сэрца падаць у|[Тв.с.] дрэнны 
+Proverbs 28:15 (18487) <strong>lion</strong> <strong>groan</strong> і <strong>bear</strong> <strong>rush</strong> <strong>rule</strong> вінаваты на народ <strong>poor</strong> 
+Proverbs 28:16 (18488) <strong>chief</strong> бракуючы разуменне і шматлікі <strong>extortions</strong> ненавідзець <strong>profit</strong> <strong>be long</strong> дзень פ
+Proverbs 28:17 (18489) чалавек (від) <strong>oppress</strong> у|[Тв.с.] <strong>blood</strong> душа (ажно) да <strong>cistern</strong> <strong>flee</strong> не [+заг.лад] <strong>grasp</strong> у|[Тв.с.] 
+Proverbs 28:18 (18490) хадзіць <strong>complete</strong> збавіць і <strong>crook</strong> шлях падаць у|[Тв.с.] адзін 
+Proverbs 28:19 (18491) працаваць <strong>soil</strong> <strong>be sated</strong> хлеб і <strong>pursue</strong> <strong>empty</strong> <strong>be sated</strong> <strong>poverty</strong> 
+Proverbs 28:20 (18492) чалавек (1) <strong>steadiness</strong> шматлікі <strong>blessing</strong> і <strong>urge</strong> да|[Д.с.] <strong>become rich</strong> не <strong>be clean</strong> 
+Proverbs 28:21 (18493) <strong>recognise</strong> твар не добры і на <strong>bit</strong> хлеб <strong>rebel</strong> <strong>vigorous man</strong> 
+Proverbs 28:22 (18494) <strong>disturb</strong> да|[Д.с.] [арт.] <strong>abundance</strong> чалавек (1) зло вока і не ведаць [+неад.]|займацца сэксам [+адуш.] бо|што <strong>lack</strong> прыйсці 
+Proverbs 28:23 (18495) <strong>reprove</strong> чалавек (від) пасля ласка знайсці з <strong>be smooth</strong> язык 
+Proverbs 28:24 (18496) <strong>tear away</strong> бацька і маці і казаць няма <strong>rebellion</strong> сабар ён да|[Д.с.] чалавек (1) <strong>destroy</strong> 
+Proverbs 28:25 (18497) <strong>wide</strong> душа <strong>stir</strong> <strong>contention</strong> і <strong>trust</strong> на Існы <strong>grow fat</strong> 
+Proverbs 28:26 (18498) <strong>trust</strong> у|[Тв.с.] сэрца ён <strong>insolent</strong> і хадзіць у|[Тв.с.] разумнасць ён <strong>escape</strong> 
+Proverbs 28:27 (18499) даць да|[Д.с.] [арт.] <strong>be poor</strong> няма <strong>need</strong> і <strong>hide</strong> вока шматлікі <strong>curse</strong> 
+Proverbs 28:28 (18500) у|[Тв.с.] устаць вінаваты <strong>hide</strong> чалавек (від) і у|[Тв.с.] загінуць шмат справядлівы|правільны 
+Proverbs 29:1 (18501) чалавек (1) <strong>rebuke</strong> <strong>be hard</strong> <strong>neck</strong> <strong>instant</strong> разбіць і няма <strong>healing</strong> 
+Proverbs 29:2 (18502) у|[Тв.с.] шмат справядлівы|правільны узрадавацца [арт.] народ і у|[Тв.с.] <strong>rule</strong> вінаваты <strong>gasp</strong> народ 
+Proverbs 29:3 (18503) чалавек (1) любіць|кахаць разумнасць узрадавацца бацька і <strong>deal with</strong> <strong>fornicate</strong> загінуць <strong>abundance</strong> 
+Proverbs 29:4 (18504) цар у|[Тв.с.] правасуддзе стаяць зямля і чалавек (1) <strong>contribution</strong> <strong>tear down</strong> 
+Proverbs 29:5 (18505) <strong>vigorous man</strong> <strong>be smooth</strong> на <strong>fellow</strong> <strong>net</strong> <strong>spread out</strong> на <strong>foot</strong> 
+Proverbs 29:6 (18506) у|[Тв.с.] <strong>rebellion</strong> чалавек (1) зло <strong>bait</strong> і справядлівы|правільны <strong>cry of joy</strong> і <strong>joyful</strong> 
+Proverbs 29:7 (18507) ведаць [+неад.]|займацца сэксам [+адуш.] справядлівы|правільны <strong>claim</strong> <strong>poor</strong> вінаваты не разумець веды [акрамя адуш.] 
+Proverbs 29:8 (18508) чалавек (1) <strong>boasting</strong> <strong>wheeze</strong> <strong>town</strong> і разумны вяртацца <strong>nose</strong> 
+Proverbs 29:9 (18509) чалавек (1) разумны судзіць разам з чалавек (1) <strong>foolish</strong> і <strong>quake</strong> і смяяцца і няма <strong>rest</strong> 
+Proverbs 29:10 (18510) чалавек (1) <strong>blood</strong> ненавідзець <strong>complete</strong> і <strong>right</strong> шукаць душа 
+Proverbs 29:11 (18511) цэлы|увесь вецер выйсці <strong>insolent</strong> і разумны у|[Тв.с.] <strong>back(wards)</strong> <strong>be calm</strong> 
+Proverbs 29:12 (18512) <strong>rule</strong> <strong>give attention</strong> на слова|рэч <strong>lie</strong> цэлы|увесь <strong>serve</strong> вінаваты 
+Proverbs 29:13 (18513) <strong>be poor</strong> і чалавек (1) <strong>oppression</strong> <strong>meet</strong> <strong>be light</strong> вока два Існы 
+Proverbs 29:14 (18514) цар судзіць у|[Тв.с.] праўда <strong>poor</strong> <strong>seat</strong> да|[Д.с.] <strong>future</strong> <strong>be firm</strong> 
+Proverbs 29:15 (18515) <strong>rod</strong> і <strong>rebuke</strong> даць разумнасць і хлапчук слаць <strong>be ashamed</strong> маці 
+Proverbs 29:16 (18516) у|[Тв.с.] шмат вінаваты шмат <strong>rebellion</strong> і справядлівы|правільны у|[Тв.с.] <strong>carcass</strong> бачыць 
+Proverbs 29:17 (18517) <strong>admonish</strong> сын і асесць і даць <strong>dainty</strong> да|[Д.с.] душа פ
+Proverbs 29:18 (18518) у|[Тв.с.] няма зданак <strong>let loose</strong> народ і захоўваць <strong>instruction</strong> <strong>happiness</strong> 
+Proverbs 29:19 (18519) у|[Тв.с.] слова|рэч не <strong>admonish</strong> слуга бо|што разумець і няма адказаць 
+Proverbs 29:20 (18520) <strong>see</strong> чалавек (1) <strong>urge</strong> у|[Тв.с.] слова|рэч <strong>hope</strong> да|[Д.с.] <strong>insolent</strong> з 
+Proverbs 29:21 (18521) <strong>pamper</strong> з <strong>youth</strong> слуга і прыканец быць <strong>[uncertain]</strong> 
+Proverbs 29:22 (18522) чалавек (1) <strong>nose</strong> <strong>stir</strong> <strong>contention</strong> і хазяін <strong>heat</strong> шматлікі <strong>rebellion</strong> 
+Proverbs 29:23 (18523) <strong>uproar</strong> чалавек (від) <strong>be low</strong> і <strong>low</strong> вецер <strong>grasp</strong> вага 
+Proverbs 29:24 (18524) <strong>divide</strong> з злодзей ненавідзець душа <strong>curse</strong> чуць і не абвяшчаць 
+Proverbs 29:25 (18525) <strong>trembling</strong> чалавек (від) даць <strong>bait</strong> і <strong>trust</strong> у|[Тв.с.] Існы <strong>be high</strong> 
+Proverbs 29:26 (18526) шматлікі шукаць твар <strong>rule</strong> і з Існы правасуддзе чалавек (1) 
+Proverbs 29:27 (18527) <strong>abomination</strong> справядлівы|правільны чалавек (1) <strong>injustice</strong> і <strong>abomination</strong> вінаваты <strong>right</strong> шлях פ
+Proverbs 30:1 (18528) слова|рэч <strong>Agur</strong> сын <strong>Jakeh</strong> [арт.] <strong>utterance</strong> прароцтва [арт.] <strong>vigorous man</strong> да|[Д.с.] <strong>Ithiel</strong> да|[Д.с.] <strong>Ithiel</strong> і <strong>[uncertain]</strong> 
+Proverbs 30:2 (18529) бо|што <strong>stupid</strong> <strong>i</strong> з чалавек (1) і не <strong>understanding</strong> чалавек (від) да|[Д.с.] 
+Proverbs 30:3 (18530) і не <strong>learn</strong> разумнасць і веды [акрамя адуш.] святы ведаць [+неад.]|займацца сэксам [+адуш.] 
+Proverbs 30:4 (18531) хто падымацца неба і апускацца хто збіраць вецер у|[Тв.с.] <strong>hollow</strong> хто <strong>wrap, be narrow</strong> вада у|[Тв.с.] [арт.] <strong>mantle</strong> хто устаць цэлы|увесь <strong>end</strong> зямля што імя і што імя сын бо|што ведаць [+неад.]|займацца сэксам [+адуш.] 
+Proverbs 30:5 (18532) цэлы|увесь <strong>word</strong> <strong>god</strong> <strong>melt</strong> <strong>shield</strong> ён да|[Д.с.] [арт.] <strong>seek refuge</strong> у|[Тв.с.] 
+Proverbs 30:6 (18533) не [+заг.лад] дадаць на слова|рэч <strong>lest</strong> <strong>reprove</strong> у|[Тв.с.] і <strong>lie</strong> פ
+Proverbs 30:7 (18534) два пытацца з разам з не [+заг.лад] <strong>withhold</strong> з у|[Тв.с.] <strong>beginning</strong> паміраць 
+Proverbs 30:8 (18535) <strong>vanity</strong> і слова|рэч <strong>lie</strong> <strong>be far</strong> з <strong>poverty</strong> і <strong>riches</strong> не [+заг.лад] даць да|[Д.с.] <strong>tear</strong> хлеб <strong>portion</strong> 
+Proverbs 30:9 (18536) <strong>lest</strong> <strong>be sated</strong> і <strong>grow lean</strong> і казаць хто Існы і <strong>lest</strong> заўладаць і красці і <strong>seize</strong> імя Бог פ
+Proverbs 30:10 (18537) не [+заг.лад] <strong>slander</strong> слуга да <strong>lord</strong> <strong>lest</strong> <strong>be slight</strong> і <strong>do wrong</strong> 
+Proverbs 30:11 (18538) <strong>generation</strong> бацька <strong>be slight</strong> і [В.с.] маці не <strong>bless</strong> 
+Proverbs 30:12 (18539) <strong>generation</strong> <strong>pure</strong> у|[Тв.с.] вока і з <strong>vomit</strong> не <strong>wash</strong> 
+Proverbs 30:13 (18540) <strong>generation</strong> што <strong>be high</strong> вока і <strong>beaming eyes</strong> падняць 
+Proverbs 30:14 (18541) <strong>generation</strong> <strong>dagger</strong> <strong>tooth</strong> і <strong>knife</strong> <strong>jaw-bones</strong> да|[Д.с.] есці <strong>humble</strong> з зямля і <strong>poor</strong> з чалавек (від) פ
+Proverbs 30:15 (18542) да|[Д.с.] <strong>leech</strong> два дачка <strong>give</strong> <strong>give</strong> <strong>three</strong> <strong>they</strong> не <strong>be sated</strong> <strong>four</strong> не казаць <strong>abundance</strong> 
+Proverbs 30:16 (18543) <strong>nether world</strong> і <strong>restraint</strong> <strong>womb</strong> зямля не <strong>be sated</strong> вада і агонь не казаць <strong>abundance</strong> 
+Proverbs 30:17 (18544) вока <strong>mock</strong> да|[Д.с.] бацька і <strong>despise</strong> да|[Д.с.] <strong>obedience</strong> маці <strong>bore out</strong> <strong>raven</strong> <strong>wadi</strong> і есці сын арол פ
+Proverbs 30:18 (18545) <strong>three</strong> яны <strong>be miraculous</strong> з і <strong>four</strong> не ведаць [+неад.]|займацца сэксам [+адуш.] 
+Proverbs 30:19 (18546) шлях [арт.] арол у|[Тв.с.] [арт.] неба шлях цмок на <strong>rock</strong> шлях <strong>ship</strong> у|[Тв.с.] сэрца мора і шлях <strong>vigorous man</strong> у|[Тв.с.] <strong>young woman</strong> 
+Proverbs 30:20 (18547) так шлях жанчына <strong>commit adultery</strong> есці і <strong>wipe</strong> рот і казаць не <strong>make</strong> <strong>wickedness</strong> פ
+Proverbs 30:21 (18548) пад <strong>three</strong> <strong>quake</strong> зямля і пад <strong>four</strong> не магчы падняць 
+Proverbs 30:22 (18549) пад слуга бо|што цараваць і <strong>stupid</strong> бо|што <strong>be sated</strong> хлеб 
+Proverbs 30:23 (18550) пад ненавідзець бо|што <strong>own</strong> і <strong>maidservant</strong> бо|што заўладаць <strong>lady</strong> פ
+Proverbs 30:24 (18551) <strong>four</strong> яны [ж.] <strong>small</strong> зямля і яны разумны баць разумным 
+Proverbs 30:25 (18552) [арт.] <strong>ant</strong> народ не <strong>strong</strong> і <strong>be firm</strong> у|[Тв.с.] [арт.] <strong>summer</strong> хлеб 
+Proverbs 30:26 (18553) <strong>rockbadger</strong> народ не <strong>mighty</strong> і класці|ставіць у|[Тв.с.] [арт.] скала дом 
+Proverbs 30:27 (18554) цар няма да|[Д.с.] [арт.] <strong>locust</strong> і выйсці <strong>divide</strong> цэлы|увесь 
+Proverbs 30:28 (18555) <strong>gecko</strong> у|[Тв.с.] рука <strong>seize</strong> і яна у|[Тв.с.] <strong>palace</strong> цар פ
+Proverbs 30:29 (18556) <strong>three</strong> яны <strong>be good</strong> <strong>marching</strong> і <strong>four</strong> <strong>be good</strong> хадзіць 
+Proverbs 30:30 (18557) <strong>lion</strong> мужны|моцны у|[Тв.с.] [арт.] звяры і не вяртацца з твар цэлы|увесь 
+Proverbs 30:31 (18558) <strong>[uncertain]</strong> <strong>hips</strong> ці <strong>he-goat</strong> і цар <strong>[uncertain]</strong> з 
+Proverbs 30:32 (18559) калі[зл.] <strong>wither</strong> у|[Тв.с.] падняць і калі[зл.] <strong>ponder</strong> рука да|[Д.с.] рот 
+Proverbs 30:33 (18560) бо|што <strong>squeezing</strong> <strong>milk</strong> выйсці <strong>butter</strong> і <strong>squeezing</strong> <strong>nose</strong> выйсці <strong>blood</strong> і <strong>squeezing</strong> <strong>nose</strong> выйсці <strong>law-case</strong> פ
+Proverbs 31:1 (18561) слова|рэч <strong>Lemuel</strong> цар <strong>utterance</strong> які <strong>admonish</strong> маці 
+Proverbs 31:2 (18562) што <strong>son</strong> і што <strong>son</strong> <strong>belly</strong> і што <strong>son</strong> <strong>vow</strong> 
+Proverbs 31:3 (18563) не [+заг.лад] даць да|[Д.с.] [арт.] жанчына моц і шлях да|[Д.с.] <strong>wipe</strong> цар 
+Proverbs 31:4 (18564) не [+заг.лад] да|[Д.с.] [арт.] цар <strong>Lemuel</strong> не [+заг.лад] да|[Д.с.] [арт.] цар піць віно і да|[Д.с.] <strong>be weighty</strong> <strong>where</strong> <strong>strong drink</strong> 
+Proverbs 31:5 (18565) <strong>lest</strong> піць і забыць <strong>engrave</strong> і <strong>change</strong> <strong>claim</strong> цэлы|увесь сын <strong>poverty</strong> 
+Proverbs 31:6 (18566) даць <strong>strong drink</strong> да|[Д.с.] загінуць і віно да|[Д.с.] горкі душа 
+Proverbs 31:7 (18567) піць і забыць <strong>poverty</strong> і <strong>labour</strong> не помніць яшчэ 
+Proverbs 31:8 (18568) <strong>open</strong> рот да|[Д.с.] <strong>speechless</strong> да <strong>claim</strong> цэлы|увесь сын <strong>[uncertain]</strong> 
+Proverbs 31:9 (18569) <strong>open</strong> рот судзіць <strong>justice</strong> і <strong>judge</strong> <strong>humble</strong> і <strong>poor</strong> פ
+Proverbs 31:10 (18570) жанчына моц хто знайсці і далёкі з <strong>corals</strong> <strong>price</strong> 
+Proverbs 31:11 (18571) <strong>trust</strong> у|[Тв.с.] сэрца хазяін і <strong>plunder</strong> не <strong>diminish</strong> 
+Proverbs 31:12 (18572) <strong>deal fully</strong> добры і не зло цэлы|увесь дзень <strong>life</strong> 
+Proverbs 31:13 (18573) <strong>inquire</strong> <strong>wool</strong> і <strong>flax</strong> і рабіць у|[Тв.с.] <strong>pleasure</strong> далонь 
+Proverbs 31:14 (18574) быць як <strong>ship</strong> <strong>go about</strong> з <strong>distance</strong> прыйсці хлеб 
+Proverbs 31:15 (18575) і устаць у|[Тв.с.] яшчэ ноч і даць <strong>food</strong> да|[Д.с.] дом і <strong>portion</strong> да|[Д.с.] <strong>girl</strong> 
+Proverbs 31:16 (18576) <strong>ponder</strong> поле і браць з плод далонь <strong>plant</strong> <strong>vineyard</strong> 
+Proverbs 31:17 (18577) <strong>gird</strong> у|[Тв.с.] <strong>power</strong> <strong>hips</strong> і <strong>be strong</strong> <strong>arm</strong> 
+Proverbs 31:18 (18578) <strong>taste</strong> бо|што добры <strong>gain</strong> не <strong>go out</strong> у|[Тв.с.] [арт.] ноч <strong>lamp</strong> 
+Proverbs 31:19 (18579) рука слаць у|[Тв.с.] [арт.] <strong>whorl</strong> і далонь <strong>grasp</strong> <strong>whirl of spindle</strong> 
+Proverbs 31:20 (18580) далонь <strong>spread out</strong> да|[Д.с.] [арт.] <strong>humble</strong> і рука слаць да|[Д.с.] [арт.] <strong>poor</strong> 
+Proverbs 31:21 (18581) не баяцца да|[Д.с.] дом з <strong>snow</strong> бо|што цэлы|увесь дом <strong>clad</strong> <strong>scarlet</strong> 
+Proverbs 31:22 (18582) <strong>coverlets</strong> рабіць да|[Д.с.] <strong>linen</strong> і <strong>purple-wool</strong> <strong>clothing</strong> 
+Proverbs 31:23 (18583) ведаць [+неад.]|займацца сэксам [+адуш.] у|[Тв.с.] [арт.] брама хазяін у|[Тв.с.] сядзець з старадаўні зямля 
+Proverbs 31:24 (18584) <strong>wrapper</strong> рабіць і <strong>sell</strong> і <strong>girdle</strong> даць да|[Д.с.] [арт.] канаанец 
+Proverbs 31:25 (18585) <strong>power</strong> і <strong>ornament</strong> <strong>clothing</strong> і смяяцца да|[Д.с.] дзень апошні 
+Proverbs 31:26 (18586) рот <strong>open</strong> у|[Тв.с.] разумнасць і <strong>instruction</strong> <strong>loyalty</strong> на язык 
+Proverbs 31:27 (18587) <strong>look out</strong> <strong>walk</strong> дом і хлеб <strong>sluggishness</strong> не есці 
+Proverbs 31:28 (18588) устаць сын і <strong>be happy</strong> хазяін і <strong>praise</strong> 
+Proverbs 31:29 (18589) шматлікі дачка рабіць моц і <strong>you</strong> падымацца на цэлы|увесь 
+Proverbs 31:30 (18590) <strong>lie</strong> [арт.] ласка і подых [арт.] <strong>beauty</strong> жанчына <strong>afraid</strong> Існы яна <strong>praise</strong> 
+Proverbs 31:31 (18591) даць да|[Д.с.] з плод рука і <strong>praise</strong> у|[Тв.с.] [арт.] брама учынак|справа 

@@ -20,7 +20,7 @@ groupedbybook=joinedtable.groupby("book")["generatedtext"].apply("\n".join)
 for b  in range(len(books)):
     print("Book ",b,"\r",end="")    
    
-    with open("Trans"+books[b]+".txt","w+") as fout:
+    with open("void/Trans"+books[b]+".txt","w+") as fout:
         fout.write(groupedbybook.iloc[b])
 
 

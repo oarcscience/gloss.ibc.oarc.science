@@ -1,167 +1,167 @@
-1:1 (20240) 
-1:2 (20241) 
-1:3 (20242) 
-1:4 (20243) 
-1:5 (20244) 
-1:6 (20245) 
-1:7 (20246) 
-1:8 (20247) 
-1:9 (20248) ס
-1:10 (20249) 
-1:11 (20250) 
-1:12 (20251) 
-1:13 (20252) 
-1:14 (20253) 
-1:15 (20254) ס
-1:16 (20255) 
-1:17 (20256) 
-1:18 (20257) 
-1:19 (20258) 
-1:20 (20259) 
-1:21 (20260) 
-1:22 (20261) פ
-2:1 (20262) 
-2:2 (20263) 
-2:3 (20264) 
-2:4 (20265) ס
-2:5 (20266) 
-2:6 (20267) 
-2:7 (20268) 
-2:8 (20269) 
-2:9 (20270) 
-2:10 (20271) 
-2:11 (20272) 
-2:12 (20273) 
-2:13 (20274) 
-2:14 (20275) 
-2:15 (20276) 
-2:16 (20277) 
-2:17 (20278) 
-2:18 (20279) 
-2:19 (20280) 
-2:20 (20281) ס
-2:21 (20282) 
-2:22 (20283) 
-2:23 (20284) פ
-3:1 (20285) 
-3:2 (20286) 
-3:3 (20287) 
-3:4 (20288) 
-3:5 (20289) 
-3:6 (20290) 
-3:7 (20291) ס
-3:8 (20292) 
-3:9 (20293) 
-3:10 (20294) 
-3:11 (20295) 
-3:12 (20296) 
-3:13 (20297) 
-3:14 (20298) 
-3:15 (20299) פ
-4:1 (20300) 
-4:2 (20301) 
-4:3 (20302) 
-4:4 (20303) 
-4:5 (20304) 
-4:6 (20305) 
-4:7 (20306) 
-4:8 (20307) 
-4:9 (20308) 
-4:10 (20309) 
-4:11 (20310) 
-4:12 (20311) פ
-4:13 (20312) 
-4:14 (20313) 
-4:15 (20314) 
-4:16 (20315) 
-4:17 (20316) ס
-5:1 (20317) 
-5:2 (20318) ס
-5:3 (20319) 
-5:4 (20320) 
-5:5 (20321) 
-5:6 (20322) 
-5:7 (20323) 
-5:8 (20324) 
-5:9 (20325) 
-5:10 (20326) 
-5:11 (20327) 
-5:12 (20328) 
-5:13 (20329) 
-5:14 (20330) פ
-6:1 (20331) 
-6:2 (20332) 
-6:3 (20333) 
-6:4 (20334) 
-6:5 (20335) 
-6:6 (20336) 
-6:7 (20337) 
-6:8 (20338) 
-6:9 (20339) 
-6:10 (20340) 
-6:11 (20341) 
-6:12 (20342) 
-6:13 (20343) 
-6:14 (20344) 
-7:1 (20345) 
-7:2 (20346) 
-7:3 (20347) 
-7:4 (20348) ס
-7:5 (20349) 
-7:6 (20350) 
-7:7 (20351) 
-7:8 (20352) ס
-7:9 (20353) 
-7:10 (20354) פ
-8:1 (20355) 
-8:2 (20356) פ
-8:3 (20357) 
-8:4 (20358) 
-8:5 (20359) 
-8:6 (20360) ס
-8:7 (20361) 
-8:8 (20362) 
-8:9 (20363) 
-8:10 (20364) 
-8:11 (20365) 
-8:12 (20366) 
-8:13 (20367) 
-8:14 (20368) פ
-8:15 (20369) 
-8:16 (20370) 
-8:17 (20371) 
-9:1 (20372) 
-9:2 (20373) 
-9:3 (20374) 
-9:4 (20375) פ
-9:5 (20376) 
-9:6 (20377) 
-9:7 (20378) 
-9:8 (20379) 
-9:9 (20380) 
-9:10 (20381) 
-9:11 (20382) ס
-9:12 (20383) 
-9:13 (20384) 
-9:14 (20385) 
-9:15 (20386) 
-9:16 (20387) 
-9:17 (20388) 
-9:18 (20389) 
-9:19 (20390) פ
-9:20 (20391) 
-9:21 (20392) 
-9:22 (20393) 
-9:23 (20394) 
-9:24 (20395) 
-9:25 (20396) 
-9:26 (20397) 
-9:27 (20398) 
-9:28 (20399) ס
-9:29 (20400) 
-9:30 (20401) 
-9:31 (20402) 
-9:32 (20403) פ
-10:1 (20404) 
-10:2 (20405) 
-10:3 (20406) 
+Esther 1:1 (20240) і быць у|[Тв.с.] дзень <strong>Ahasuerus</strong> ён <strong>Ahasuerus</strong> [арт.] цараваць з <strong>India</strong> і (ажно) да <strong>Cush</strong> сем і <strong>twenty</strong> і сотня <strong>district</strong> 
+Esther 1:2 (20241) у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] як сядзець [арт.] цар <strong>Ahasuerus</strong> на <strong>seat</strong> царства які у|[Тв.с.] <strong>Susa</strong> [арт.] <strong>citadel</strong> 
+Esther 1:3 (20242) у|[Тв.с.] год <strong>three</strong> да|[Д.с.] цараваць рабіць <strong>drinking</strong> да|[Д.с.] цэлы|увесь кіраўнік|міністр і слуга моц <strong>Persia</strong> і <strong>Media</strong> [арт.] <strong>nobles</strong> і кіраўнік|міністр [арт.] <strong>district</strong> да|[Д.с.] твар 
+Esther 1:4 (20243) у|[Тв.с.] бачыць [В.с.] <strong>riches</strong> вага царства і [В.с.] <strong>preciousness</strong> <strong>splendour</strong> <strong>greatness</strong> дзень шматлікі восем і сотня дзень 
+Esther 1:5 (20244) і у|[Тв.с.] поўніцца [арт.] дзень [арт.] гэтыя рабіць [арт.] цар да|[Д.с.] цэлы|увесь [арт.] народ [арт.] знайсці у|[Тв.с.] <strong>Susa</strong> [арт.] <strong>citadel</strong> да|[Д.с.] з вялікі і (ажно) да <strong>small</strong> <strong>drinking</strong> сем дзень у|[Тв.с.] <strong>court</strong> сад <strong>palace</strong> [арт.] цар 
+Esther 1:6 (20245) <strong>linen</strong> <strong>linen</strong> і <strong>purple wool</strong> <strong>seize</strong> у|[Тв.с.] <strong>cord</strong> <strong>byssus</strong> і <strong>purple-wool</strong> на <strong>pivot</strong> срэбра і <strong>pillar</strong> <strong>alabaster</strong> <strong>couch</strong> золата і срэбра на <strong>pavement</strong> <strong>[uncertain]</strong> і <strong>alabaster</strong> і <strong>pavement</strong> і <strong>pavement</strong> 
+Esther 1:7 (20246) і <strong>give drink</strong> у|[Тв.с.] прылада золата і прылада з прылада <strong>change</strong> і віно царства шматлікі як рука [арт.] цар 
+Esther 1:8 (20247) і [арт.] <strong>drinking</strong> як [арт.] <strong>orders</strong> няма <strong>compel</strong> бо|што так <strong>found</strong> [арт.] цар на цэлы|увесь <strong>chief</strong> дом да|[Д.с.] рабіць як <strong>pleasure</strong> чалавек (1) і чалавек (1) 
+Esther 1:9 (20248) таксама|нават <strong>Vashti</strong> [арт.] <strong>queen</strong> рабіць <strong>drinking</strong> жанчына дом [арт.] царства які да|[Д.с.] [арт.] цар <strong>Ahasuerus</strong> ס
+Esther 1:10 (20249) у|[Тв.с.] [арт.] дзень [арт.] <strong>seventh</strong> як <strong>be good</strong> сэрца [арт.] цар у|[Тв.с.] [арт.] віно казаць да|[Д.с.] <strong>Mehuman</strong> <strong>Biztha</strong> <strong>Harbona</strong> <strong>Bigtha</strong> і <strong>Abagtha</strong> <strong>Zethar</strong> і <strong>Carcas</strong> сем [арт.] <strong>official</strong> [арт.] <strong>serve</strong> разам з твар [арт.] цар <strong>Ahasuerus</strong> 
+Esther 1:11 (20250) да|[Д.с.] прыйсці [В.с.] <strong>Vashti</strong> [арт.] <strong>queen</strong> да|[Д.с.] твар [арт.] цар у|[Тв.с.] <strong>headdress</strong> царства да|[Д.с.] бачыць [арт.] народ і [арт.] кіраўнік|міністр [В.с.] <strong>beauty</strong> бо|што добры <strong>sight</strong> яна 
+Esther 1:12 (20251) і <strong>refuse</strong> [арт.] <strong>queen</strong> <strong>Vashti</strong> да|[Д.с.] прыйсці у|[Тв.с.] слова|рэч [арт.] цар які у|[Тв.с.] рука [арт.] <strong>official</strong> і <strong>be angry</strong> [арт.] цар вельмі і <strong>heat</strong> <strong>burn</strong> у|[Тв.с.] 
+Esther 1:13 (20252) і казаць [арт.] цар да|[Д.с.] [арт.] разумны ведаць [+неад.]|займацца сэксам [+адуш.] [арт.] момант бо|што так слова|рэч [арт.] цар да|[Д.с.] твар цэлы|увесь ведаць [+неад.]|займацца сэксам [+адуш.] <strong>orders</strong> і <strong>claim</strong> 
+Esther 1:14 (20253) і [арт.] блізкі да <strong>Carshena</strong> <strong>Shethar</strong> <strong>Admatha</strong> <strong>Tarshish</strong> <strong>Meres</strong> <strong>Marsena</strong> <strong>Memucan</strong> сем кіраўнік|міністр <strong>Persia</strong> і <strong>Media</strong> бачыць твар [арт.] цар [арт.] сядзець першы у|[Тв.с.] [арт.] царства 
+Esther 1:15 (20254) як <strong>orders</strong> што да|[Д.с.] рабіць у|[Тв.с.] [арт.] <strong>queen</strong> <strong>Vashti</strong> на які не рабіць [В.с.] <strong>word</strong> [арт.] цар <strong>Ahasuerus</strong> у|[Тв.с.] рука [арт.] <strong>official</strong> ס
+Esther 1:16 (20255) і казаць <strong>Memucan</strong> да|[Д.с.] твар [арт.] цар і [арт.] кіраўнік|міністр не на [арт.] цар да|[Д.с.] частка <strong>do wrong</strong> <strong>Vashti</strong> [арт.] <strong>queen</strong> бо|што на цэлы|увесь [арт.] кіраўнік|міністр і на цэлы|увесь [арт.] народ які у|[Тв.с.] цэлы|увесь <strong>district</strong> [арт.] цар <strong>Ahasuerus</strong> 
+Esther 1:17 (20256) бо|што выйсці слова|рэч [арт.] <strong>queen</strong> на цэлы|увесь [арт.] жанчына да|[Д.с.] грэбаваць хазяін у|[Тв.с.] вока у|[Тв.с.] казаць [арт.] цар <strong>Ahasuerus</strong> казаць да|[Д.с.] прыйсці [В.с.] <strong>Vashti</strong> [арт.] <strong>queen</strong> да|[Д.с.] твар і не прыйсці 
+Esther 1:18 (20257) і [арт.] дзень [арт.] гэты казаць <strong>mistress</strong> <strong>Persia</strong> і <strong>Media</strong> які чуць [В.с.] слова|рэч [арт.] <strong>queen</strong> да|[Д.с.] цэлы|увесь кіраўнік|міністр [арт.] цар і як дастатковасць <strong>contempt</strong> і <strong>anger</strong> 
+Esther 1:19 (20258) калі[зл.] на [арт.] цар добры выйсці слова|рэч царства з да|[Д.с.] твар і пісанне у|[Тв.с.] <strong>orders</strong> <strong>Persia</strong> і <strong>Media</strong> і не перайсці які не прыйсці <strong>Vashti</strong> да|[Д.с.] твар [арт.] цар <strong>Ahasuerus</strong> і царства даць [арт.] цар да|[Д.с.] <strong>female companion</strong> [арт.] добры з 
+Esther 1:20 (20259) і чуць <strong>decision</strong> [арт.] цар які рабіць у|[Тв.с.] цэлы|увесь царства бо|што шматлікі яна і цэлы|увесь [арт.] жанчына даць <strong>preciousness</strong> да|[Д.с.] хазяін да|[Д.с.] з вялікі і (ажно) да <strong>small</strong> 
+Esther 1:21 (20260) і <strong>be good</strong> [арт.] слова|рэч у|[Тв.с.] вока [арт.] цар і [арт.] кіраўнік|міністр і рабіць [арт.] цар як слова|рэч <strong>Memucan</strong> 
+Esther 1:22 (20261) і слаць ліст да цэлы|увесь <strong>district</strong> [арт.] цар да <strong>district</strong> і <strong>district</strong> як <strong>writing</strong> і да народ і народ як язык да|[Д.с.] быць цэлы|увесь чалавек (1) <strong>rule</strong> у|[Тв.с.] дом і гаварыць як язык народ פ
+Esther 2:1 (20262) пасля [арт.] слова|рэч [арт.] гэтыя як <strong>go down</strong> <strong>heat</strong> [арт.] цар <strong>Ahasuerus</strong> помніць [В.с.] <strong>Vashti</strong> і [В.с.] які рабіць і [В.с.] які <strong>cut</strong> на 
+Esther 2:2 (20263) і казаць хлапчук [арт.] цар <strong>serve</strong> шукаць да|[Д.с.] [арт.] цар <strong>girl</strong> <strong>virgin</strong> добры <strong>sight</strong> 
+Esther 2:3 (20264) і <strong>miss</strong> [арт.] цар <strong>officer</strong> у|[Тв.с.] цэлы|увесь <strong>district</strong> царства і <strong>collect</strong> [В.с.] цэлы|увесь <strong>girl</strong> <strong>virgin</strong> добры <strong>sight</strong> да <strong>Susa</strong> [арт.] <strong>citadel</strong> да дом [арт.] жанчына да рука <strong>Hegai</strong> <strong>official</strong> [арт.] цар захоўваць [арт.] жанчына і даць <strong>massage</strong> 
+Esther 2:4 (20265) і [арт.] <strong>girl</strong> які <strong>be good</strong> у|[Тв.с.] вока [арт.] цар цараваць пад <strong>Vashti</strong> і <strong>be good</strong> [арт.] слова|рэч у|[Тв.с.] вока [арт.] цар і рабіць так ס
+Esther 2:5 (20266) чалавек (1) <strong>Jewish</strong> быць у|[Тв.с.] <strong>Susa</strong> [арт.] <strong>citadel</strong> і імя <strong>Mordecai</strong> сын <strong>Jair</strong> сын <strong>Shimei</strong> сын <strong>Kish</strong> чалавек (1) <strong>Benjaminite</strong> 
+Esther 2:6 (20267) які <strong>uncover</strong> з Ерусалім з [арт.] <strong>exile</strong> які <strong>uncover</strong> з <strong>Jehoiachin</strong> цар Егуда які <strong>uncover</strong> <strong>Nebuchadnezzar</strong> цар <strong>Babel</strong> 
+Esther 2:7 (20268) і быць <strong>be firm</strong> [В.с.] <strong>Hadassah</strong> яна <strong>Esther</strong> дачка <strong>beloved one</strong> бо|што няма да|[Д.с.] бацька і маці і [арт.] <strong>girl</strong> прыгожы <strong>form</strong> і добры <strong>sight</strong> і у|[Тв.с.] смерць бацька і маці браць <strong>Mordecai</strong> да|[Д.с.] да|[Д.с.] дачка 
+Esther 2:8 (20269) і быць у|[Тв.с.] чуць слова|рэч [арт.] цар і <strong>orders</strong> і у|[Тв.с.] <strong>collect</strong> <strong>girl</strong> шматлікі да <strong>Susa</strong> [арт.] <strong>citadel</strong> да рука <strong>Hegai</strong> і браць <strong>Esther</strong> да дом [арт.] цар да рука <strong>Hegai</strong> захоўваць [арт.] жанчына 
+Esther 2:9 (20270) і <strong>be good</strong> [арт.] <strong>girl</strong> у|[Тв.с.] вока і падняць <strong>loyalty</strong> да|[Д.с.] твар і <strong>disturb</strong> [В.с.] <strong>massage</strong> і [В.с.] <strong>portion</strong> да|[Д.с.] даць да|[Д.с.] і [В.с.] сем [арт.] <strong>girl</strong> [арт.] бачыць да|[Д.с.] даць да|[Д.с.] з дом [арт.] цар і <strong>change</strong> і [В.с.] <strong>girl</strong> да|[Д.с.] добры дом [арт.] жанчына 
+Esther 2:10 (20271) не абвяшчаць <strong>Esther</strong> [В.с.] народ і [В.с.] <strong>offspring</strong> бо|што <strong>Mordecai</strong> <strong>command</strong> на які не абвяшчаць 
+Esther 2:11 (20272) і у|[Тв.с.] цэлы|увесь дзень і дзень <strong>Mordecai</strong> хадзіць да|[Д.с.] твар <strong>court</strong> дом [арт.] жанчына да|[Д.с.] ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] згода <strong>Esther</strong> і што рабіць у|[Тв.с.] 
+Esther 2:12 (20273) і у|[Тв.с.] <strong>touch</strong> <strong>turn</strong> <strong>girl</strong> і <strong>girl</strong> да|[Д.с.] прыйсці да [арт.] цар <strong>Ahasuerus</strong> з <strong>end</strong> быць да|[Д.с.] як <strong>orders</strong> [арт.] жанчына два <strong>-teen</strong> <strong>month</strong> бо|што так поўніцца дзень <strong>massage</strong> <strong>six</strong> <strong>month</strong> у|[Тв.с.] алей [арт.] <strong>myrrh</strong> і <strong>six</strong> <strong>month</strong> у|[Тв.с.] [арт.] <strong>balsam-tree</strong> і у|[Тв.с.] <strong>massage</strong> [арт.] жанчына 
+Esther 2:13 (20274) і у|[Тв.с.] гэты [арт.] <strong>girl</strong> прыйсці да [арт.] цар [В.с.] цэлы|увесь які казаць даць да|[Д.с.] да|[Д.с.] прыйсці з з дом [арт.] жанчына (ажно) да дом [арт.] цар 
+Esther 2:14 (20275) у|[Тв.с.] [арт.] вечар яна прыйсці і у|[Тв.с.] [арт.] раніца яна вяртацца да дом [арт.] жанчына другі да рука <strong>Shaashgaz</strong> <strong>official</strong> [арт.] цар захоўваць [арт.] <strong>concubine</strong> не прыйсці яшчэ да [арт.] цар бо|што калі[зл.] <strong>desire</strong> у|[Тв.с.] [арт.] цар і зваць у|[Тв.с.] імя 
+Esther 2:15 (20276) і у|[Тв.с.] <strong>touch</strong> <strong>turn</strong> <strong>Esther</strong> дачка <strong>Abihail</strong> <strong>beloved one</strong> <strong>Mordecai</strong> які браць да|[Д.с.] да|[Д.с.] дачка да|[Д.с.] прыйсці да [арт.] цар не шукаць слова|рэч бо|што калі[зл.] [В.с.] які казаць <strong>Hegai</strong> <strong>official</strong> [арт.] цар захоўваць [арт.] жанчына і быць <strong>Esther</strong> падняць ласка у|[Тв.с.] вока цэлы|увесь бачыць 
+Esther 2:16 (20277) і браць <strong>Esther</strong> да [арт.] цар <strong>Ahasuerus</strong> да дом царства у|[Тв.с.] [арт.] <strong>month</strong> [арт.] <strong>tenth</strong> ён <strong>month</strong> <strong>Tebeth</strong> у|[Тв.с.] год сем да|[Д.с.] царства 
+Esther 2:17 (20278) і любіць|кахаць [арт.] цар [В.с.] <strong>Esther</strong> з цэлы|увесь [арт.] жанчына і падняць ласка і <strong>loyalty</strong> да|[Д.с.] твар з цэлы|увесь [арт.] <strong>virgin</strong> і класці|ставіць <strong>headdress</strong> царства у|[Тв.с.] галава і цараваць пад <strong>Vashti</strong> 
+Esther 2:18 (20279) і рабіць [арт.] цар <strong>drinking</strong> вялікі да|[Д.с.] цэлы|увесь кіраўнік|міністр і слуга [В.с.] <strong>drinking</strong> <strong>Esther</strong> і <strong>release</strong> да|[Д.с.] [арт.] <strong>district</strong> рабіць і даць <strong>lifting up</strong> як рука [арт.] цар 
+Esther 2:19 (20280) і у|[Тв.с.] <strong>collect</strong> <strong>virgin</strong> другі і <strong>Mordecai</strong> сядзець у|[Тв.с.] брама [арт.] цар 
+Esther 2:20 (20281) няма <strong>Esther</strong> абвяшчаць <strong>offspring</strong> і [В.с.] народ як які <strong>command</strong> на <strong>Mordecai</strong> і [В.с.] <strong>word</strong> <strong>Mordecai</strong> <strong>Esther</strong> рабіць як які быць у|[Тв.с.] <strong>care</strong> разам з ס
+Esther 2:21 (20282) у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] і <strong>Mordecai</strong> сядзець у|[Тв.с.] брама [арт.] цар <strong>be angry</strong> <strong>Bigthana</strong> і <strong>Teresh</strong> два <strong>official</strong> [арт.] цар з захоўваць [арт.] <strong>threshold</strong> і шукаць да|[Д.с.] слаць рука у|[Тв.с.] [арт.] цар <strong>Ahasuerus</strong> 
+Esther 2:22 (20283) і ведаць [+неад.]|займацца сэксам [+адуш.] [арт.] слова|рэч да|[Д.с.] <strong>Mordecai</strong> і абвяшчаць да|[Д.с.] <strong>Esther</strong> [арт.] <strong>queen</strong> і казаць <strong>Esther</strong> да|[Д.с.] [арт.] цар у|[Тв.с.] імя <strong>Mordecai</strong> 
+Esther 2:23 (20284) і шукаць [арт.] слова|рэч і знайсці і <strong>hang</strong> два на дрэва і пісанне у|[Тв.с.] ліст слова|рэч [арт.] дзень да|[Д.с.] твар [арт.] цар פ
+Esther 3:1 (20285) пасля [арт.] слова|рэч [арт.] гэтыя узвялічваць [арт.] цар <strong>Ahasuerus</strong> [В.с.] <strong>Haman</strong> сын <strong>Hammedatha</strong> [арт.] <strong>Agagite</strong> і падняць і класці|ставіць [В.с.] <strong>seat</strong> з на цэлы|увесь [арт.] кіраўнік|міністр які разам з 
+Esther 3:2 (20286) і цэлы|увесь слуга [арт.] цар які у|[Тв.с.] брама [арт.] цар <strong>kneel</strong> і <strong>bow down</strong> да|[Д.с.] <strong>Haman</strong> бо|што так <strong>command</strong> да|[Д.с.] [арт.] цар і <strong>Mordecai</strong> не <strong>kneel</strong> і не <strong>bow down</strong> 
+Esther 3:3 (20287) і казаць слуга [арт.] цар які у|[Тв.с.] брама [арт.] цар да|[Д.с.] <strong>Mordecai</strong> <strong>why</strong> ты[м.] перайсці [В.с.] <strong>commandment</strong> [арт.] цар 
+Esther 3:4 (20288) і быць як казаць да дзень і дзень і не чуць да і абвяшчаць да|[Д.с.] <strong>Haman</strong> да|[Д.с.] бачыць ці стаяць слова|рэч <strong>Mordecai</strong> бо|што абвяшчаць да|[Д.с.] які ён <strong>Jewish</strong> 
+Esther 3:5 (20289) і бачыць <strong>Haman</strong> бо|што няма <strong>Mordecai</strong> <strong>kneel</strong> і <strong>bow down</strong> да|[Д.с.] і поўніцца <strong>Haman</strong> <strong>heat</strong> 
+Esther 3:6 (20290) і грэбаваць у|[Тв.с.] вока да|[Д.с.] слаць рука у|[Тв.с.] <strong>Mordecai</strong> да|[Д.с.] частка бо|што абвяшчаць да|[Д.с.] [В.с.] народ <strong>Mordecai</strong> і шукаць <strong>Haman</strong> да|[Д.с.] <strong>destroy</strong> [В.с.] цэлы|увесь [арт.] <strong>Jewish</strong> які у|[Тв.с.] цэлы|увесь царства <strong>Ahasuerus</strong> народ <strong>Mordecai</strong> 
+Esther 3:7 (20291) у|[Тв.с.] [арт.] <strong>month</strong> [арт.] першы ён <strong>month</strong> <strong>Nissan</strong> у|[Тв.с.] год два <strong>-teen</strong> да|[Д.с.] [арт.] цар <strong>Ahasuerus</strong> падаць <strong>lot</strong> ён [арт.] лёс|доля да|[Д.с.] твар <strong>Haman</strong> з дзень да|[Д.с.] дзень і з <strong>month</strong> да|[Д.с.] <strong>month</strong> два <strong>-teen</strong> ён <strong>month</strong> <strong>Adar</strong> ס
+Esther 3:8 (20292) і казаць <strong>Haman</strong> да|[Д.с.] [арт.] цар <strong>Ahasuerus</strong> ёсць народ адзін <strong>scatter</strong> і <strong>divide</strong> між [арт.] народ у|[Тв.с.] цэлы|увесь <strong>district</strong> царства і <strong>orders</strong> <strong>change</strong> з цэлы|увесь народ і [В.с.] <strong>orders</strong> [арт.] цар няма рабіць і да|[Д.с.] [арт.] цар няма <strong>be like</strong> да|[Д.с.] асесць 
+Esther 3:9 (20293) калі[зл.] на [арт.] цар добры пісанне да|[Д.с.] загінуць і дзесяць тысяча <strong>disk</strong> срэбра <strong>weigh</strong> на рука рабіць [арт.] <strong>work</strong> да|[Д.с.] прыйсці да <strong>treasury</strong> [арт.] цар 
+Esther 3:10 (20294) і збочыць [арт.] цар [В.с.] <strong>sealing ring</strong> з на рука і даць да|[Д.с.] <strong>Haman</strong> сын <strong>Hammedatha</strong> [арт.] <strong>Agagite</strong> <strong>be hostile</strong> [арт.] <strong>Jewish</strong> 
+Esther 3:11 (20295) і казаць [арт.] цар да|[Д.с.] <strong>Haman</strong> [арт.] срэбра даць да|[Д.с.] і [арт.] народ да|[Д.с.] рабіць у|[Тв.с.] як [арт.] добры у|[Тв.с.] вока 
+Esther 3:12 (20296) і зваць <strong>scribe</strong> [арт.] цар у|[Тв.с.] [арт.] <strong>month</strong> [арт.] першы у|[Тв.с.] <strong>three</strong> <strong>-teen</strong> дзень у|[Тв.с.] і пісанне як цэлы|увесь які <strong>command</strong> <strong>Haman</strong> да <strong>satrap</strong> [арт.] цар і да [арт.] <strong>governor</strong> які на <strong>district</strong> і <strong>district</strong> і да кіраўнік|міністр народ і народ <strong>district</strong> і <strong>district</strong> як <strong>writing</strong> і народ і народ як язык у|[Тв.с.] імя [арт.] цар <strong>Ahasuerus</strong> пісанне і <strong>seal</strong> у|[Тв.с.] <strong>sealing ring</strong> [арт.] цар 
+Esther 3:13 (20297) і слаць ліст у|[Тв.с.] рука [арт.] бяжаць да цэлы|увесь <strong>district</strong> [арт.] цар да|[Д.с.] <strong>destroy</strong> да|[Д.с.] <strong>kill</strong> і да|[Д.с.] загінуць [В.с.] цэлы|увесь [арт.] <strong>Jewish</strong> з хлапчук і (ажно) да старадаўні <strong>[those unable to march]</strong> і жанчына у|[Тв.с.] дзень адзін у|[Тв.с.] <strong>three</strong> <strong>-teen</strong> да|[Д.с.] <strong>month</strong> два <strong>-teen</strong> ён <strong>month</strong> <strong>Adar</strong> і <strong>plunder</strong> да|[Д.с.] <strong>spoil</strong> 
+Esther 3:14 (20298) <strong>copy</strong> [арт.] <strong>writing</strong> да|[Д.с.] даць <strong>orders</strong> у|[Тв.с.] цэлы|увесь <strong>district</strong> і <strong>district</strong> <strong>uncover</strong> да|[Д.с.] цэлы|увесь [арт.] народ да|[Д.с.] быць <strong>ready</strong> да|[Д.с.] [арт.] дзень [арт.] гэты 
+Esther 3:15 (20299) [арт.] бяжаць выйсці <strong>hurry</strong> у|[Тв.с.] слова|рэч [арт.] цар і [арт.] <strong>orders</strong> даць у|[Тв.с.] <strong>Susa</strong> [арт.] <strong>citadel</strong> і [арт.] цар і <strong>Haman</strong> сядзець да|[Д.с.] піць і [арт.] горад <strong>Susa</strong> <strong>confuse</strong> פ
+Esther 4:1 (20300) і <strong>Mordecai</strong> ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] цэлы|увесь які рабіць і <strong>tear</strong> <strong>Mordecai</strong> [В.с.] адзежа і <strong>cloth</strong> <strong>sack</strong> і <strong>dust</strong> і выйсці у|[Тв.с.] <strong>midst</strong> [арт.] горад і <strong>cry</strong> <strong>cry</strong> вялікі і горкі 
+Esther 4:2 (20301) і прыйсці (ажно) да да|[Д.с.] твар брама [арт.] цар бо|што няма да|[Д.с.] прыйсці да брама [арт.] цар у|[Тв.с.] <strong>clothing</strong> <strong>sack</strong> 
+Esther 4:3 (20302) і у|[Тв.с.] цэлы|увесь <strong>district</strong> і <strong>district</strong> месца які слова|рэч [арт.] цар і <strong>orders</strong> <strong>touch</strong> <strong>mourning rites</strong> вялікі да|[Д.с.] [арт.] <strong>Jewish</strong> і <strong>fasting</strong> і <strong>weeping</strong> і <strong>wailing</strong> <strong>sack</strong> і <strong>dust</strong> <strong>spread out</strong> да|[Д.с.] [арт.] шматлікі 
+Esther 4:4 (20303) і прыйсці <strong>girl</strong> <strong>Esther</strong> і <strong>official</strong> і абвяшчаць да|[Д.с.] і <strong>have labour pain, to cry</strong> [арт.] <strong>queen</strong> вельмі і слаць адзежа да|[Д.с.] <strong>cloth</strong> [В.с.] <strong>Mordecai</strong> і да|[Д.с.] збочыць <strong>sack</strong> з на і не <strong>take</strong> 
+Esther 4:5 (20304) і зваць <strong>Esther</strong> да|[Д.с.] <strong>Hathach</strong> з <strong>official</strong> [арт.] цар які стаяць да|[Д.с.] твар і <strong>command</strong> на <strong>Mordecai</strong> да|[Д.с.] ведаць [+неад.]|займацца сэксам [+адуш.] што гэты і на што гэты 
+Esther 4:6 (20305) і выйсці <strong>Hathach</strong> да <strong>Mordecai</strong> да <strong>open place</strong> [арт.] горад які да|[Д.с.] твар брама [арт.] цар 
+Esther 4:7 (20306) і абвяшчаць да|[Д.с.] <strong>Mordecai</strong> [В.с.] цэлы|увесь які <strong>meet</strong> і [В.с.] <strong>statement</strong> [арт.] срэбра які казаць <strong>Haman</strong> да|[Д.с.] <strong>weigh</strong> на <strong>treasury</strong> [арт.] цар у|[Тв.с.] [арт.] <strong>Jewish</strong> да|[Д.с.] загінуць 
+Esther 4:8 (20307) і [В.с.] <strong>copy</strong> <strong>writing</strong> [арт.] <strong>orders</strong> які даць у|[Тв.с.] <strong>Susa</strong> да|[Д.с.] <strong>destroy</strong> даць да|[Д.с.] да|[Д.с.] бачыць [В.с.] <strong>Esther</strong> і да|[Д.с.] абвяшчаць да|[Д.с.] і да|[Д.с.] <strong>command</strong> на да|[Д.с.] прыйсці да [арт.] цар да|[Д.с.] <strong>favour</strong> да|[Д.с.] і да|[Д.с.] шукаць з да|[Д.с.] твар на народ 
+Esther 4:9 (20308) і прыйсці <strong>Hathach</strong> і абвяшчаць да|[Д.с.] <strong>Esther</strong> [В.с.] слова|рэч <strong>Mordecai</strong> 
+Esther 4:10 (20309) і казаць <strong>Esther</strong> да|[Д.с.] <strong>Hathach</strong> і <strong>command</strong> да <strong>Mordecai</strong> 
+Esther 4:11 (20310) цэлы|увесь слуга [арт.] цар і народ <strong>district</strong> [арт.] цар ведаць [+неад.]|займацца сэксам [+адуш.] які цэлы|увесь чалавек (1) і жанчына які прыйсці да [арт.] цар да [арт.] <strong>court</strong> [арт.] <strong>inner</strong> які не зваць адзін <strong>orders</strong> да|[Д.с.] паміраць да|[Д.с.] частка з які <strong>hold</strong> да|[Д.с.] [арт.] цар [В.с.] <strong>staff</strong> [арт.] золата і жыць і я не зваць да|[Д.с.] прыйсці да [арт.] цар гэты <strong>three</strong> дзень 
+Esther 4:12 (20311) і абвяшчаць да|[Д.с.] <strong>Mordecai</strong> [В.с.] слова|рэч <strong>Esther</strong> פ
+Esther 4:13 (20312) і казаць <strong>Mordecai</strong> да|[Д.с.] вяртацца да <strong>Esther</strong> не [+заг.лад] <strong>be like</strong> у|[Тв.с.] душа да|[Д.с.] <strong>escape</strong> дом [арт.] цар з цэлы|увесь [арт.] <strong>Jewish</strong> 
+Esther 4:14 (20313) бо|што калі[зл.] <strong>be deaf</strong> <strong>be deaf</strong> у|[Тв.с.] [арт.] момант [арт.] <strong>this</strong> <strong>space</strong> і <strong>deliverance</strong> стаяць да|[Д.с.] [арт.] <strong>Jewish</strong> з месца іншы і <strong>you</strong> і дом бацька загінуць і хто ведаць [+неад.]|займацца сэксам [+адуш.] калі[зл.] да|[Д.с.] момант як <strong>this</strong> <strong>touch</strong> да|[Д.с.] [арт.] царства 
+Esther 4:15 (20314) і казаць <strong>Esther</strong> да|[Д.с.] вяртацца да <strong>Mordecai</strong> 
+Esther 4:16 (20315) хадзіць <strong>gather</strong> [В.с.] цэлы|увесь [арт.] <strong>Jewish</strong> [арт.] знайсці у|[Тв.с.] <strong>Susa</strong> і <strong>fast</strong> на і не [+заг.лад] есці і не [+заг.лад] піць <strong>three</strong> дзень ноч і дзень таксама|нават я і <strong>girl</strong> <strong>fast</strong> так і у|[Тв.с.] так прыйсці да [арт.] цар які не як [арт.] <strong>orders</strong> і як які загінуць загінуць 
+Esther 4:17 (20316) і перайсці <strong>Mordecai</strong> і рабіць як цэлы|увесь які <strong>command</strong> на <strong>Esther</strong> ס
+Esther 5:1 (20317) і быць у|[Тв.с.] [арт.] дзень [арт.] <strong>third</strong> і <strong>cloth</strong> <strong>Esther</strong> царства і стаяць у|[Тв.с.] <strong>court</strong> дом [арт.] цар [арт.] <strong>inner</strong> <strong>straightness</strong> дом [арт.] цар і [арт.] цар сядзець на <strong>seat</strong> царства у|[Тв.с.] дом [арт.] царства <strong>straightness</strong> <strong>opening</strong> [арт.] дом 
+Esther 5:2 (20318) і быць як бачыць [арт.] цар [В.с.] <strong>Esther</strong> [арт.] <strong>queen</strong> стаяць у|[Тв.с.] [арт.] <strong>court</strong> падняць ласка у|[Тв.с.] вока і <strong>hold</strong> [арт.] цар да|[Д.с.] <strong>Esther</strong> [В.с.] <strong>staff</strong> [арт.] золата які у|[Тв.с.] рука і набліжацца <strong>Esther</strong> і <strong>touch</strong> у|[Тв.с.] галава [арт.] <strong>staff</strong> ס
+Esther 5:3 (20319) і казаць да|[Д.с.] [арт.] цар што да|[Д.с.] <strong>Esther</strong> [арт.] <strong>queen</strong> і што <strong>request</strong> (ажно) да <strong>half</strong> [арт.] царства і даць да|[Д.с.] 
+Esther 5:4 (20320) і казаць <strong>Esther</strong> калі[зл.] на [арт.] цар добры прыйсці [арт.] цар і <strong>Haman</strong> [арт.] дзень да [арт.] <strong>drinking</strong> які рабіць да|[Д.с.] 
+Esther 5:5 (20321) і казаць [арт.] цар спяшацца|хутка [як прысл.] [В.с.] <strong>Haman</strong> да|[Д.с.] рабіць [В.с.] слова|рэч <strong>Esther</strong> і прыйсці [арт.] цар і <strong>Haman</strong> да [арт.] <strong>drinking</strong> які рабіць <strong>Esther</strong> 
+Esther 5:6 (20322) і казаць [арт.] цар да|[Д.с.] <strong>Esther</strong> у|[Тв.с.] <strong>drinking</strong> [арт.] віно што <strong>request</strong> і даць да|[Д.с.] і што <strong>request</strong> (ажно) да <strong>half</strong> [арт.] царства і рабіць 
+Esther 5:7 (20323) і адказаць <strong>Esther</strong> і казаць <strong>request</strong> і <strong>request</strong> 
+Esther 5:8 (20324) калі[зл.] знайсці ласка у|[Тв.с.] вока [арт.] цар і калі[зл.] на [арт.] цар добры да|[Д.с.] даць [В.с.] <strong>request</strong> і да|[Д.с.] рабіць [В.с.] <strong>request</strong> прыйсці [арт.] цар і <strong>Haman</strong> да [арт.] <strong>drinking</strong> які рабіць да|[Д.с.] і <strong>next day</strong> рабіць як слова|рэч [арт.] цар 
+Esther 5:9 (20325) і выйсці <strong>Haman</strong> у|[Тв.с.] [арт.] дзень [арт.] ён <strong>joyful</strong> і добры сэрца і як бачыць <strong>Haman</strong> [В.с.] <strong>Mordecai</strong> у|[Тв.с.] брама [арт.] цар і не устаць і не <strong>tremble</strong> з і поўніцца <strong>Haman</strong> на <strong>Mordecai</strong> <strong>heat</strong> 
+Esther 5:10 (20326) і <strong>be strong</strong> <strong>Haman</strong> і прыйсці да дом і слаць і прыйсці [В.с.] любіць|кахаць і [В.с.] <strong>Zeresh</strong> жанчына 
+Esther 5:11 (20327) і <strong>count</strong> да|[Д.с.] <strong>Haman</strong> [В.с.] вага <strong>riches</strong> і шматлікасць сын і [В.с.] цэлы|увесь які узвялічваць [арт.] цар і [В.с.] які падняць на [арт.] кіраўнік|міністр і слуга [арт.] цар 
+Esther 5:12 (20328) і казаць <strong>Haman</strong> нават не прыйсці <strong>Esther</strong> [арт.] <strong>queen</strong> з [арт.] цар да [арт.] <strong>drinking</strong> які рабіць бо|што калі[зл.] [В.с.] і таксама|нават да|[Д.с.] <strong>next day</strong> я зваць да|[Д.с.] з [арт.] цар 
+Esther 5:13 (20329) і цэлы|увесь гэты няма <strong>be like</strong> да|[Д.с.] у|[Тв.с.] цэлы|увесь момант які я бачыць [В.с.] <strong>Mordecai</strong> [арт.] <strong>Jewish</strong> сядзець у|[Тв.с.] брама [арт.] цар 
+Esther 5:14 (20330) і казаць да|[Д.с.] <strong>Zeresh</strong> жанчына і цэлы|увесь любіць|кахаць рабіць дрэва высокі <strong>five</strong> <strong>cubit</strong> і у|[Тв.с.] [арт.] раніца казаць да|[Д.с.] [арт.] цар і <strong>hang</strong> [В.с.] <strong>Mordecai</strong> на і прыйсці з [арт.] цар да [арт.] <strong>drinking</strong> <strong>joyful</strong> і <strong>be good</strong> [арт.] слова|рэч да|[Д.с.] твар <strong>Haman</strong> і рабіць [арт.] дрэва פ
+Esther 6:1 (20331) у|[Тв.с.] [арт.] ноч [арт.] ён <strong>flee</strong> <strong>sleep</strong> [арт.] цар і казаць да|[Д.с.] прыйсці [В.с.] ліст [арт.] <strong>remembrance</strong> слова|рэч [арт.] дзень і быць зваць да|[Д.с.] твар [арт.] цар 
+Esther 6:2 (20332) і знайсці пісанне які абвяшчаць <strong>Mordecai</strong> на <strong>Bigthana</strong> і <strong>Teresh</strong> два <strong>official</strong> [арт.] цар з захоўваць [арт.] <strong>threshold</strong> які шукаць да|[Д.с.] слаць рука у|[Тв.с.] [арт.] цар <strong>Ahasuerus</strong> 
+Esther 6:3 (20333) і казаць [арт.] цар што рабіць <strong>preciousness</strong> і <strong>greatness</strong> да|[Д.с.] <strong>Mordecai</strong> на гэты і казаць хлапчук [арт.] цар <strong>serve</strong> не рабіць з слова|рэч 
+Esther 6:4 (20334) і казаць [арт.] цар хто у|[Тв.с.] [арт.] <strong>court</strong> і <strong>Haman</strong> прыйсці да|[Д.с.] <strong>court</strong> дом [арт.] цар [арт.] <strong>external</strong> да|[Д.с.] казаць да|[Д.с.] [арт.] цар да|[Д.с.] <strong>hang</strong> [В.с.] <strong>Mordecai</strong> на [арт.] дрэва які <strong>be firm</strong> да|[Д.с.] 
+Esther 6:5 (20335) і казаць хлапчук [арт.] цар да вось <strong>Haman</strong> стаяць у|[Тв.с.] [арт.] <strong>court</strong> і казаць [арт.] цар прыйсці 
+Esther 6:6 (20336) і прыйсці <strong>Haman</strong> і казаць да|[Д.с.] [арт.] цар што да|[Д.с.] рабіць у|[Тв.с.] [арт.] чалавек (1) які [арт.] цар <strong>desire</strong> у|[Тв.с.] <strong>preciousness</strong> і казаць <strong>Haman</strong> у|[Тв.с.] сэрца да|[Д.с.] хто <strong>desire</strong> [арт.] цар да|[Д.с.] рабіць <strong>preciousness</strong> рэшта з 
+Esther 6:7 (20337) і казаць <strong>Haman</strong> да [арт.] цар чалавек (1) які [арт.] цар <strong>desire</strong> у|[Тв.с.] <strong>preciousness</strong> 
+Esther 6:8 (20338) прыйсці <strong>clothing</strong> царства які <strong>cloth</strong> у|[Тв.с.] [арт.] цар і конь які <strong>ride</strong> на [арт.] цар і які даць <strong>headdress</strong> царства у|[Тв.с.] галава 
+Esther 6:9 (20339) і даць [арт.] <strong>clothing</strong> і [арт.] конь на рука чалавек (1) з кіраўнік|міністр [арт.] цар [арт.] <strong>nobles</strong> і <strong>cloth</strong> [В.с.] [арт.] чалавек (1) які [арт.] цар <strong>desire</strong> у|[Тв.с.] <strong>preciousness</strong> і <strong>ride</strong> на [арт.] конь у|[Тв.с.] <strong>open place</strong> [арт.] горад і зваць да|[Д.с.] твар такім чынам рабіць да|[Д.с.] [арт.] чалавек (1) які [арт.] цар <strong>desire</strong> у|[Тв.с.] <strong>preciousness</strong> 
+Esther 6:10 (20340) і казаць [арт.] цар да|[Д.с.] <strong>Haman</strong> спяшацца|хутка [як прысл.] браць [В.с.] [арт.] <strong>clothing</strong> і [В.с.] [арт.] конь як які гаварыць і рабіць так да|[Д.с.] <strong>Mordecai</strong> [арт.] <strong>Jewish</strong> [арт.] сядзець у|[Тв.с.] брама [арт.] цар не [+заг.лад] падаць слова|рэч з цэлы|увесь які гаварыць 
+Esther 6:11 (20341) і браць <strong>Haman</strong> [В.с.] [арт.] <strong>clothing</strong> і [В.с.] [арт.] конь і <strong>cloth</strong> [В.с.] <strong>Mordecai</strong> і <strong>ride</strong> у|[Тв.с.] <strong>open place</strong> [арт.] горад і зваць да|[Д.с.] твар такім чынам рабіць да|[Д.с.] [арт.] чалавек (1) які [арт.] цар <strong>desire</strong> у|[Тв.с.] <strong>preciousness</strong> 
+Esther 6:12 (20342) і вяртацца <strong>Mordecai</strong> да брама [арт.] цар і <strong>Haman</strong> <strong>hurry</strong> да дом <strong>mourning</strong> і <strong>cover</strong> галава 
+Esther 6:13 (20343) і <strong>count</strong> <strong>Haman</strong> да|[Д.с.] <strong>Zeresh</strong> жанчына і да|[Д.с.] цэлы|увесь любіць|кахаць [В.с.] цэлы|увесь які <strong>meet</strong> і казаць да|[Д.с.] разумны і <strong>Zeresh</strong> жанчына калі[зл.] з семя [арт.] <strong>Jewish</strong> <strong>Mordecai</strong> які <strong>defile</strong> да|[Д.с.] падаць да|[Д.с.] твар не магчы да|[Д.с.] бо|што падаць падаць да|[Д.с.] твар 
+Esther 6:14 (20344) яшчэ гаварыць з і <strong>official</strong> [арт.] цар <strong>touch</strong> і <strong>disturb</strong> да|[Д.с.] прыйсці [В.с.] <strong>Haman</strong> да [арт.] <strong>drinking</strong> які рабіць <strong>Esther</strong> 
+Esther 7:1 (20345) і прыйсці [арт.] цар і <strong>Haman</strong> да|[Д.с.] піць з <strong>Esther</strong> [арт.] <strong>queen</strong> 
+Esther 7:2 (20346) і казаць [арт.] цар да|[Д.с.] <strong>Esther</strong> таксама|нават у|[Тв.с.] [арт.] дзень [арт.] другі у|[Тв.с.] <strong>drinking</strong> [арт.] віно што <strong>request</strong> <strong>Esther</strong> [арт.] <strong>queen</strong> і даць да|[Д.с.] і што <strong>request</strong> (ажно) да <strong>half</strong> [арт.] царства і рабіць 
+Esther 7:3 (20347) і адказаць <strong>Esther</strong> [арт.] <strong>queen</strong> і казаць калі[зл.] знайсці ласка у|[Тв.с.] вока [арт.] цар і калі[зл.] на [арт.] цар добры даць да|[Д.с.] душа у|[Тв.с.] <strong>request</strong> і народ у|[Тв.с.] <strong>request</strong> 
+Esther 7:4 (20348) бо|што <strong>sell</strong> я і народ да|[Д.с.] <strong>destroy</strong> да|[Д.с.] <strong>kill</strong> і да|[Д.с.] загінуць і ці ж да|[Д.с.] слуга і да|[Д.с.] <strong>maidservant</strong> <strong>sell</strong> <strong>be deaf</strong> бо|што няма [арт.] <strong>adversary</strong> <strong>be like</strong> у|[Тв.с.] <strong>damage</strong> [арт.] цар ס
+Esther 7:5 (20349) і казаць [арт.] цар <strong>Ahasuerus</strong> і казаць да|[Д.с.] <strong>Esther</strong> [арт.] <strong>queen</strong> хто ён гэты і <strong>where</strong> гэты ён які поўніцца сэрца да|[Д.с.] рабіць так 
+Esther 7:6 (20350) і казаць <strong>Esther</strong> чалавек (1) <strong>adversary</strong> і <strong>be hostile</strong> <strong>Haman</strong> [арт.] зло [арт.] гэты і <strong>Haman</strong> <strong>terrify</strong> з да|[Д.с.] твар [арт.] цар і [арт.] <strong>queen</strong> 
+Esther 7:7 (20351) і [арт.] цар устаць у|[Тв.с.] <strong>heat</strong> з <strong>drinking</strong> [арт.] віно да сад [арт.] <strong>palace</strong> і <strong>Haman</strong> стаяць да|[Д.с.] шукаць на душа з <strong>Esther</strong> [арт.] <strong>queen</strong> бо|што бачыць бо|што <strong>be complete</strong> да [арт.] дрэнны з разам з [арт.] цар 
+Esther 7:8 (20352) і [арт.] цар вяртацца з сад [арт.] <strong>palace</strong> да дом <strong>drinking</strong> [арт.] віно і <strong>Haman</strong> падаць на [арт.] <strong>couch</strong> які <strong>Esther</strong> на і казаць [арт.] цар ці таксама|нават да|[Д.с.] <strong>subdue</strong> [В.с.] [арт.] <strong>queen</strong> з у|[Тв.с.] [арт.] дом [арт.] слова|рэч выйсці з рот [арт.] цар і твар <strong>Haman</strong> <strong>cover</strong> ס
+Esther 7:9 (20353) і казаць <strong>Harbona</strong> адзін з [арт.] <strong>official</strong> да|[Д.с.] твар [арт.] цар таксама|нават вось [арт.] дрэва які рабіць <strong>Haman</strong> да|[Д.с.] <strong>Mordecai</strong> які гаварыць добры на [арт.] цар стаяць у|[Тв.с.] дом <strong>Haman</strong> высокі <strong>five</strong> <strong>cubit</strong> і казаць [арт.] цар <strong>hang</strong> на 
+Esther 7:10 (20354) і <strong>hang</strong> [В.с.] <strong>Haman</strong> на [арт.] дрэва які <strong>be firm</strong> да|[Д.с.] <strong>Mordecai</strong> і <strong>heat</strong> [арт.] цар <strong>go down</strong> פ
+Esther 8:1 (20355) у|[Тв.с.] [арт.] дзень [арт.] ён даць [арт.] цар <strong>Ahasuerus</strong> да|[Д.с.] <strong>Esther</strong> [арт.] <strong>queen</strong> [В.с.] дом <strong>Haman</strong> <strong>be hostile</strong> [арт.] <strong>Jewish</strong> і <strong>Mordecai</strong> прыйсці да|[Д.с.] твар [арт.] цар бо|што абвяшчаць <strong>Esther</strong> што ён да|[Д.с.] 
+Esther 8:2 (20356) і збочыць [арт.] цар [В.с.] <strong>sealing ring</strong> які перайсці з <strong>Haman</strong> і даць да|[Д.с.] <strong>Mordecai</strong> і класці|ставіць <strong>Esther</strong> [В.с.] <strong>Mordecai</strong> на дом <strong>Haman</strong> פ
+Esther 8:3 (20357) і дадаць <strong>Esther</strong> і гаварыць да|[Д.с.] твар [арт.] цар і падаць да|[Д.с.] твар нага і плакаць і <strong>favour</strong> да|[Д.с.] да|[Д.с.] перайсці [В.с.] дрэнны <strong>Haman</strong> [арт.] <strong>Agagite</strong> і [В.с.] <strong>plan</strong> які <strong>account</strong> на [арт.] <strong>Jewish</strong> 
+Esther 8:4 (20358) і <strong>hold</strong> [арт.] цар да|[Д.с.] <strong>Esther</strong> [В.с.] <strong>staff</strong> [арт.] золата і устаць <strong>Esther</strong> і стаяць да|[Д.с.] твар [арт.] цар 
+Esther 8:5 (20359) і казаць калі[зл.] на [арт.] цар добры і калі[зл.] знайсці ласка да|[Д.с.] твар і <strong>succeed</strong> [арт.] слова|рэч да|[Д.с.] твар [арт.] цар і добры я у|[Тв.с.] вока пісанне да|[Д.с.] вяртацца [В.с.] [арт.] ліст <strong>plan</strong> <strong>Haman</strong> сын <strong>Hammedatha</strong> [арт.] <strong>Agagite</strong> які пісанне да|[Д.с.] загінуць [В.с.] [арт.] <strong>Jewish</strong> які у|[Тв.с.] цэлы|увесь <strong>district</strong> [арт.] цар 
+Esther 8:6 (20360) бо|што <strong>how</strong> магчы і бачыць у|[Тв.с.] [арт.] дрэнны які знайсці [В.с.] народ і <strong>how</strong> магчы і бачыць у|[Тв.с.] <strong>destruction</strong> <strong>offspring</strong> ס
+Esther 8:7 (20361) і казаць [арт.] цар <strong>Ahasuerus</strong> да|[Д.с.] <strong>Esther</strong> [арт.] <strong>queen</strong> і да|[Д.с.] <strong>Mordecai</strong> [арт.] <strong>Jewish</strong> вось дом <strong>Haman</strong> даць да|[Д.с.] <strong>Esther</strong> і [В.с.] <strong>hang</strong> на [арт.] дрэва на які слаць рука у|[Тв.с.] [арт.] <strong>Jewish</strong> 
+Esther 8:8 (20362) і <strong>you</strong> пісанне на [арт.] <strong>Jewish</strong> як [арт.] добры у|[Тв.с.] вока у|[Тв.с.] імя [арт.] цар і <strong>seal</strong> у|[Тв.с.] <strong>sealing ring</strong> [арт.] цар бо|што <strong>writing</strong> які пісанне у|[Тв.с.] імя [арт.] цар і <strong>seal</strong> у|[Тв.с.] <strong>sealing ring</strong> [арт.] цар няма да|[Д.с.] вяртацца 
+Esther 8:9 (20363) і зваць <strong>scribe</strong> [арт.] цар у|[Тв.с.] [арт.] момант [арт.] яна у|[Тв.с.] [арт.] <strong>month</strong> [арт.] <strong>third</strong> ён <strong>month</strong> <strong>Siwan</strong> у|[Тв.с.] <strong>three</strong> і <strong>twenty</strong> у|[Тв.с.] і пісанне як цэлы|увесь які <strong>command</strong> <strong>Mordecai</strong> да [арт.] <strong>Jewish</strong> і да [арт.] <strong>satrap</strong> і [арт.] <strong>governor</strong> і кіраўнік|міністр [арт.] <strong>district</strong> які з <strong>India</strong> і (ажно) да <strong>Cush</strong> сем і <strong>twenty</strong> і сотня <strong>district</strong> <strong>district</strong> і <strong>district</strong> як <strong>writing</strong> і народ і народ як язык і да [арт.] <strong>Jewish</strong> як <strong>writing</strong> і як язык 
+Esther 8:10 (20364) і пісанне у|[Тв.с.] імя [арт.] цар <strong>Ahasuerus</strong> і <strong>seal</strong> у|[Тв.с.] <strong>sealing ring</strong> [арт.] цар і слаць ліст у|[Тв.с.] рука [арт.] бяжаць у|[Тв.с.] [арт.] конь <strong>ride</strong> [арт.] <strong>span</strong> [арт.] <strong>royal</strong> сын [арт.] <strong>mare</strong> 
+Esther 8:11 (20365) які даць [арт.] цар да|[Д.с.] [арт.] <strong>Jewish</strong> які у|[Тв.с.] цэлы|увесь горад і горад да|[Д.с.] <strong>assemble</strong> і да|[Д.с.] стаяць на душа да|[Д.с.] <strong>destroy</strong> і да|[Д.с.] <strong>kill</strong> і да|[Д.с.] загінуць [В.с.] цэлы|увесь моц народ і <strong>district</strong> [арт.] <strong>damage</strong> [В.с.] <strong>[those unable to march]</strong> і жанчына і <strong>plunder</strong> да|[Д.с.] <strong>spoil</strong> 
+Esther 8:12 (20366) у|[Тв.с.] дзень адзін у|[Тв.с.] цэлы|увесь <strong>district</strong> [арт.] цар <strong>Ahasuerus</strong> у|[Тв.с.] <strong>three</strong> <strong>-teen</strong> да|[Д.с.] <strong>month</strong> два <strong>-teen</strong> ён <strong>month</strong> <strong>Adar</strong> 
+Esther 8:13 (20367) <strong>copy</strong> [арт.] <strong>writing</strong> да|[Д.с.] даць <strong>orders</strong> у|[Тв.с.] цэлы|увесь <strong>district</strong> і <strong>district</strong> <strong>uncover</strong> да|[Д.с.] цэлы|увесь [арт.] народ і да|[Д.с.] быць [арт.] <strong>Jewish</strong> <strong>ready</strong> да|[Д.с.] [арт.] дзень [арт.] гэты да|[Д.с.] <strong>avenge</strong> з <strong>be hostile</strong> 
+Esther 8:14 (20368) [арт.] бяжаць <strong>ride</strong> [арт.] <strong>span</strong> [арт.] <strong>royal</strong> выйсці <strong>disturb</strong> і <strong>hurry</strong> у|[Тв.с.] слова|рэч [арт.] цар і [арт.] <strong>orders</strong> даць у|[Тв.с.] <strong>Susa</strong> [арт.] <strong>citadel</strong> פ
+Esther 8:15 (20369) і <strong>Mordecai</strong> выйсці з да|[Д.с.] твар [арт.] цар у|[Тв.с.] <strong>clothing</strong> царства <strong>purple wool</strong> і <strong>linen</strong> і <strong>wreath</strong> золата вялікі і <strong>robe</strong> <strong>byssus</strong> і <strong>purple-wool</strong> і [арт.] горад <strong>Susa</strong> <strong>cry</strong> і узрадавацца 
+Esther 8:16 (20370) да|[Д.с.] [арт.] <strong>Jewish</strong> быць <strong>light</strong> і радасць і <strong>rejoicing</strong> і <strong>preciousness</strong> 
+Esther 8:17 (20371) і у|[Тв.с.] цэлы|увесь <strong>district</strong> і <strong>district</strong> і у|[Тв.с.] цэлы|увесь горад і горад месца які слова|рэч [арт.] цар і <strong>orders</strong> <strong>touch</strong> радасць і <strong>rejoicing</strong> да|[Д.с.] [арт.] <strong>Jewish</strong> <strong>drinking</strong> і дзень добры і шматлікі з народ [арт.] зямля <strong>be jew</strong> бо|што падаць <strong>trembling</strong> [арт.] <strong>Jewish</strong> на 
+Esther 9:1 (20372) і у|[Тв.с.] два <strong>-teen</strong> <strong>month</strong> ён <strong>month</strong> <strong>Adar</strong> у|[Тв.с.] <strong>three</strong> <strong>-teen</strong> дзень у|[Тв.с.] які <strong>touch</strong> слова|рэч [арт.] цар і <strong>orders</strong> да|[Д.с.] рабіць у|[Тв.с.] [арт.] дзень які <strong>examine</strong> <strong>be hostile</strong> [арт.] <strong>Jewish</strong> да|[Д.с.] <strong>dominate</strong> у|[Тв.с.] і <strong>turn</strong> ён які <strong>dominate</strong> [арт.] <strong>Jewish</strong> яны у|[Тв.с.] ненавідзець 
+Esther 9:2 (20373) <strong>assemble</strong> [арт.] <strong>Jewish</strong> у|[Тв.с.] горад у|[Тв.с.] цэлы|увесь <strong>district</strong> [арт.] цар <strong>Ahasuerus</strong> да|[Д.с.] слаць рука у|[Тв.с.] шукаць дрэнны і чалавек (1) не стаяць да|[Д.с.] твар бо|што падаць <strong>trembling</strong> на цэлы|увесь [арт.] народ 
+Esther 9:3 (20374) і цэлы|увесь кіраўнік|міністр [арт.] <strong>district</strong> і [арт.] <strong>satrap</strong> і [арт.] <strong>governor</strong> і рабіць [арт.] <strong>work</strong> які да|[Д.с.] [арт.] цар падняць [В.с.] [арт.] <strong>Jewish</strong> бо|што падаць <strong>trembling</strong> <strong>Mordecai</strong> на 
+Esther 9:4 (20375) бо|што вялікі <strong>Mordecai</strong> у|[Тв.с.] дом [арт.] цар і <strong>rumour</strong> хадзіць у|[Тв.с.] цэлы|увесь [арт.] <strong>district</strong> бо|што [арт.] чалавек (1) <strong>Mordecai</strong> хадзіць і вялікі פ
+Esther 9:5 (20376) і <strong>strike</strong> [арт.] <strong>Jewish</strong> у|[Тв.с.] цэлы|увесь <strong>be hostile</strong> <strong>blow</strong> <strong>dagger</strong> і <strong>slaughter</strong> і <strong>destruction</strong> і рабіць у|[Тв.с.] ненавідзець як <strong>pleasure</strong> 
+Esther 9:6 (20377) і у|[Тв.с.] <strong>Susa</strong> [арт.] <strong>citadel</strong> <strong>kill</strong> [арт.] <strong>Jewish</strong> і загінуць <strong>five</strong> сотня чалавек (1) 
+Esther 9:7 (20378) і [В.с.] <strong>Parshandatha</strong> і [В.с.] <strong>Dalphon</strong> і [В.с.] <strong>Aspatha</strong> 
+Esther 9:8 (20379) і [В.с.] <strong>Poratha</strong> і [В.с.] <strong>Adalia</strong> і [В.с.] <strong>Aridatha</strong> 
+Esther 9:9 (20380) і [В.с.] <strong>Parmashta</strong> і [В.с.] <strong>Arisai</strong> і [В.с.] <strong>Aridai</strong> і [В.с.] <strong>Vaizatha</strong> 
+Esther 9:10 (20381) дзесяць сын <strong>Haman</strong> сын <strong>Hammedatha</strong> <strong>be hostile</strong> [арт.] <strong>Jewish</strong> <strong>kill</strong> і у|[Тв.с.] [арт.] <strong>spoil</strong> не слаць [В.с.] рука 
+Esther 9:11 (20382) у|[Тв.с.] [арт.] дзень [арт.] ён прыйсці лік [арт.] <strong>kill</strong> у|[Тв.с.] <strong>Susa</strong> [арт.] <strong>citadel</strong> да|[Д.с.] твар [арт.] цар ס
+Esther 9:12 (20383) і казаць [арт.] цар да|[Д.с.] <strong>Esther</strong> [арт.] <strong>queen</strong> у|[Тв.с.] <strong>Susa</strong> [арт.] <strong>citadel</strong> <strong>kill</strong> [арт.] <strong>Jewish</strong> і загінуць <strong>five</strong> сотня чалавек (1) і [В.с.] дзесяць сын <strong>Haman</strong> у|[Тв.с.] <strong>rest</strong> <strong>district</strong> [арт.] цар што рабіць і што <strong>request</strong> і даць да|[Д.с.] і што <strong>request</strong> яшчэ і рабіць 
+Esther 9:13 (20384) і казаць <strong>Esther</strong> калі[зл.] на [арт.] цар добры даць таксама|нават <strong>next day</strong> да|[Д.с.] [арт.] <strong>Jewish</strong> які у|[Тв.с.] <strong>Susa</strong> да|[Д.с.] рабіць як <strong>orders</strong> [арт.] дзень і [В.с.] дзесяць сын <strong>Haman</strong> <strong>hang</strong> на [арт.] дрэва 
+Esther 9:14 (20385) і казаць [арт.] цар да|[Д.с.] рабіць так і даць <strong>orders</strong> у|[Тв.с.] <strong>Susa</strong> і [В.с.] дзесяць сын <strong>Haman</strong> <strong>hang</strong> 
+Esther 9:15 (20386) і <strong>assemble</strong> [арт.] <strong>Jewish</strong> які у|[Тв.с.] <strong>Susa</strong> таксама|нават у|[Тв.с.] дзень <strong>four</strong> <strong>-teen</strong> да|[Д.с.] <strong>month</strong> <strong>Adar</strong> і <strong>kill</strong> у|[Тв.с.] <strong>Susa</strong> <strong>three</strong> сотня чалавек (1) і у|[Тв.с.] [арт.] <strong>spoil</strong> не слаць [В.с.] рука 
+Esther 9:16 (20387) і <strong>rest</strong> [арт.] <strong>Jewish</strong> які у|[Тв.с.] <strong>district</strong> [арт.] цар <strong>assemble</strong> і стаяць на душа і асесць з <strong>be hostile</strong> і <strong>kill</strong> у|[Тв.с.] ненавідзець <strong>five</strong> і сем тысяча і у|[Тв.с.] [арт.] <strong>spoil</strong> не слаць [В.с.] рука 
+Esther 9:17 (20388) у|[Тв.с.] дзень <strong>three</strong> <strong>-teen</strong> да|[Д.с.] <strong>month</strong> <strong>Adar</strong> і асесць у|[Тв.с.] <strong>four</strong> <strong>-teen</strong> у|[Тв.с.] і рабіць [В.с.] дзень <strong>drinking</strong> і радасць 
+Esther 9:18 (20389) і [арт.] <strong>Jewish</strong> які у|[Тв.с.] <strong>Susa</strong> <strong>assemble</strong> у|[Тв.с.] <strong>three</strong> <strong>-teen</strong> у|[Тв.с.] і у|[Тв.с.] <strong>four</strong> <strong>-teen</strong> у|[Тв.с.] і асесць у|[Тв.с.] <strong>five</strong> <strong>-teen</strong> у|[Тв.с.] і рабіць [В.с.] дзень <strong>drinking</strong> і радасць 
+Esther 9:19 (20390) на так [арт.] <strong>Jewish</strong> [арт.] <strong>open country</strong> [арт.] сядзець у|[Тв.с.] горад [арт.] <strong>village</strong> рабіць [В.с.] дзень <strong>four</strong> <strong>-teen</strong> да|[Д.с.] <strong>month</strong> <strong>Adar</strong> радасць і <strong>drinking</strong> і дзень добры і <strong>sending</strong> <strong>portion</strong> чалавек (1) да|[Д.с.] <strong>fellow</strong> פ
+Esther 9:20 (20391) і пісанне <strong>Mordecai</strong> [В.с.] [арт.] слова|рэч [арт.] гэтыя і слаць ліст да цэлы|увесь [арт.] <strong>Jewish</strong> які у|[Тв.с.] цэлы|увесь <strong>district</strong> [арт.] цар <strong>Ahasuerus</strong> [арт.] блізкі і [арт.] далёкі 
+Esther 9:21 (20392) да|[Д.с.] устаць на да|[Д.с.] быць рабіць [В.с.] дзень <strong>four</strong> <strong>-teen</strong> да|[Д.с.] <strong>month</strong> <strong>Adar</strong> і [В.с.] дзень <strong>five</strong> <strong>-teen</strong> у|[Тв.с.] у|[Тв.с.] цэлы|увесь год і год 
+Esther 9:22 (20393) як [арт.] дзень які асесць у|[Тв.с.] [арт.] <strong>Jewish</strong> з <strong>be hostile</strong> і [арт.] <strong>month</strong> які <strong>turn</strong> да|[Д.с.] з <strong>grief</strong> да|[Д.с.] радасць і з <strong>mourning rites</strong> да|[Д.с.] дзень добры да|[Д.с.] рабіць [В.с.] дзень <strong>drinking</strong> і радасць і <strong>sending</strong> <strong>portion</strong> чалавек (1) да|[Д.с.] <strong>fellow</strong> і <strong>present</strong> да|[Д.с.] [арт.] <strong>poor</strong> 
+Esther 9:23 (20394) і <strong>take</strong> [арт.] <strong>Jewish</strong> [В.с.] які <strong>defile</strong> да|[Д.с.] рабіць і [В.с.] які пісанне <strong>Mordecai</strong> да 
+Esther 9:24 (20395) бо|што <strong>Haman</strong> сын <strong>Hammedatha</strong> [арт.] <strong>Agagite</strong> <strong>be hostile</strong> цэлы|увесь [арт.] <strong>Jewish</strong> <strong>account</strong> на [арт.] <strong>Jewish</strong> да|[Д.с.] загінуць і падаць <strong>lot</strong> ён [арт.] лёс|доля да|[Д.с.] <strong>confuse</strong> і да|[Д.с.] загінуць 
+Esther 9:25 (20396) і у|[Тв.с.] прыйсці да|[Д.с.] твар [арт.] цар казаць з [арт.] ліст вяртацца <strong>plan</strong> [арт.] зло які <strong>account</strong> на [арт.] <strong>Jewish</strong> на галава і <strong>hang</strong> [В.с.] і [В.с.] сын на [арт.] дрэва 
+Esther 9:26 (20397) на так зваць да|[Д.с.] [арт.] дзень [арт.] гэтыя <strong>lot</strong> на імя [арт.] <strong>lot</strong> на так на цэлы|увесь слова|рэч [арт.] <strong>letter</strong> [арт.] <strong>this</strong> і што бачыць на такім чынам і што <strong>touch</strong> да 
+Esther 9:27 (20398) устаць і <strong>take</strong> [арт.] <strong>Jewish</strong> на і на семя і на цэлы|увесь [арт.] <strong>accompany</strong> на і не перайсці да|[Д.с.] быць рабіць [В.с.] два [арт.] дзень [арт.] гэтыя як <strong>writing</strong> і як час|пара у|[Тв.с.] цэлы|увесь год і год 
+Esther 9:28 (20399) і [арт.] дзень [арт.] гэтыя помніць і рабіць у|[Тв.с.] цэлы|увесь <strong>generation</strong> і <strong>generation</strong> <strong>clan</strong> і <strong>clan</strong> <strong>district</strong> і <strong>district</strong> і горад і горад і дзень [арт.] <strong>lot</strong> [арт.] гэтыя не перайсці з <strong>midst</strong> [арт.] <strong>Jewish</strong> і <strong>mention</strong> не <strong>end</strong> з семя ס
+Esther 9:29 (20400) і пісанне <strong>Esther</strong> [арт.] <strong>queen</strong> дачка <strong>Abihail</strong> і <strong>Mordecai</strong> [арт.] <strong>Jewish</strong> [В.с.] цэлы|увесь <strong>power</strong> да|[Д.с.] устаць [В.с.] <strong>letter</strong> [арт.] <strong>lot</strong> [арт.] <strong>this</strong> [арт.] другі 
+Esther 9:30 (20401) і слаць ліст да цэлы|увесь [арт.] <strong>Jewish</strong> да сем і <strong>twenty</strong> і сотня <strong>district</strong> царства <strong>Ahasuerus</strong> слова|рэч згода і праўда 
+Esther 9:31 (20402) да|[Д.с.] устаць [В.с.] дзень [арт.] <strong>lot</strong> [арт.] гэтыя у|[Тв.с.] час|пара як які устаць на <strong>Mordecai</strong> [арт.] <strong>Jewish</strong> і <strong>Esther</strong> [арт.] <strong>queen</strong> і як які устаць на душа і на семя слова|рэч [арт.] <strong>fasting</strong> і <strong>cry</strong> 
+Esther 9:32 (20403) і <strong>word</strong> <strong>Esther</strong> устаць слова|рэч [арт.] <strong>lot</strong> [арт.] гэтыя і пісанне у|[Тв.с.] [арт.] ліст פ
+Esther 10:1 (20404) і класці|ставіць [арт.] цар <strong>Ahasuerus</strong> <strong>forced labour</strong> на [арт.] зямля і <strong>coast, island</strong> [арт.] мора 
+Esther 10:2 (20405) і цэлы|увесь учынак|справа <strong>power</strong> і мужнасць і <strong>statement</strong> <strong>greatness</strong> <strong>Mordecai</strong> які узвялічваць [арт.] цар ці не яны [ж.] пісанне на ліст слова|рэч [арт.] дзень да|[Д.с.] цар <strong>Media</strong> і <strong>Persia</strong> 
+Esther 10:3 (20406) бо|што <strong>Mordecai</strong> [арт.] <strong>Jewish</strong> <strong>second</strong> да|[Д.с.] [арт.] цар <strong>Ahasuerus</strong> і вялікі да|[Д.с.] [арт.] <strong>Jewish</strong> і <strong>like</strong> да|[Д.с.] шматлікасць брат <strong>inquire</strong> добры да|[Д.с.] народ і гаварыць згода да|[Д.с.] цэлы|увесь семя 

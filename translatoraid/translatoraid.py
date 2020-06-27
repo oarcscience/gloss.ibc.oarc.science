@@ -39,6 +39,7 @@ glosstr0["lexiconfetched"]=glosstr0["lexemeID"].apply(lambda x: map(lexicon.get,
 print(10)
 
 
+
 glosstr0["morphologyfetched"]=glosstr0["morphology"].apply(lambda x: map(mdic.get, x)).apply(list)
 glosstr0["H"]=glosstr0["lexemeID"].apply(lambda x: map(EtoH.get, x)).apply(list)
 		
@@ -137,9 +138,28 @@ print(21)
 for b  in range(len(books)):
     print("Book ",b,"\r",end="")    
    
-    with open(books[b]+".html","w+") as fout:
+    with open(books[b].replace(" ","")+".html","w+") as fout:
+        fout.write(groupedbybook.iloc[b])
+
+print("Generating gloss translation file...")
+
+fullGlossTr = pd.concat([ixv["book"], ixv["chapter"], ixv["verse"],  ixv["number"],  glosstr0["lexiconfetched"].apply(" ".join), separator["one"].apply(lambda x: x if x!=" " else "")],  axis=1)
+
+stingrecurr="""{} {}:{} ({}) {} {}"""
+
+verseformat = lambda x: stingrecurr.format(books[x["book"]-1], x["chapter"], x["verse"], x["number"], x["lexiconfetched"], x["one"])
+fullGlossTr["generatedtext"]=fullGlossTr.apply(verseformat, axis=1)
+
+groupedbybook=fullGlossTr.groupby("book")["generatedtext"].apply("\n".join)
+
+
+for b  in range(len(books)):
+    print("Book ",b,"\r",end="")    
+   
+    with open("Trans"+books[b]+".txt","w+") as fout:
         fout.write(groupedbybook.iloc[b])
 
 
 
 
+print("Done.")

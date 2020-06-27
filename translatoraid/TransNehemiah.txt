@@ -1,405 +1,405 @@
-1:1 (21044) 
-1:2 (21045) 
-1:3 (21046) 
-1:4 (21047) 
-1:5 (21048) 
-1:6 (21049) 
-1:7 (21050) 
-1:8 (21051) 
-1:9 (21052) 
-1:10 (21053) 
-1:11 (21054) פ
-2:1 (21055) 
-2:2 (21056) 
-2:3 (21057) ס
-2:4 (21058) 
-2:5 (21059) 
-2:6 (21060) 
-2:7 (21061) 
-2:8 (21062) 
-2:9 (21063) פ
-2:10 (21064) 
-2:11 (21065) 
-2:12 (21066) 
-2:13 (21067) 
-2:14 (21068) 
-2:15 (21069) 
-2:16 (21070) 
-2:17 (21071) 
-2:18 (21072) פ
-2:19 (21073) 
-2:20 (21074) 
-3:1 (21075) ס
-3:2 (21076) ס
-3:3 (21077) ס
-3:4 (21078) ס
-3:5 (21079) ס
-3:6 (21080) ס
-3:7 (21081) ס
-3:8 (21082) ס
-3:9 (21083) ס
-3:10 (21084) 
-3:11 (21085) ס
-3:12 (21086) ס
-3:13 (21087) 
-3:14 (21088) ס
-3:15 (21089) ס
-3:16 (21090) ס
-3:17 (21091) ס
-3:18 (21092) ס
-3:19 (21093) ס
-3:20 (21094) ס
-3:21 (21095) ס
-3:22 (21096) 
-3:23 (21097) ס
-3:24 (21098) 
-3:25 (21099) ס
-3:26 (21100) ס
-3:27 (21101) 
-3:28 (21102) ס
-3:29 (21103) ס
-3:30 (21104) ס
-3:31 (21105) 
-3:32 (21106) פ
-3:33 (21107) 
-3:34 (21108) 
-3:35 (21109) פ
-3:36 (21110) 
-3:37 (21111) 
-3:38 (21112) פ
-4:1 (21113) 
-4:2 (21114) 
-4:3 (21115) 
-4:4 (21116) 
-4:5 (21117) 
-4:6 (21118) 
-4:7 (21119) 
-4:8 (21120) פ
-4:9 (21121) 
-4:10 (21122) 
-4:11 (21123) 
-4:12 (21124) 
-4:13 (21125) 
-4:14 (21126) 
-4:15 (21127) 
-4:16 (21128) 
-4:17 (21129) ס
-5:1 (21130) 
-5:2 (21131) 
-5:3 (21132) 
-5:4 (21133) 
-5:5 (21134) 
-5:6 (21135) 
-5:7 (21136) 
-5:8 (21137) ס
-5:9 (21138) 
-5:10 (21139) 
-5:11 (21140) 
-5:12 (21141) 
-5:13 (21142) 
-5:14 (21143) 
-5:15 (21144) 
-5:16 (21145) 
-5:17 (21146) 
-5:18 (21147) 
-5:19 (21148) פ
-6:1 (21149) 
-6:2 (21150) 
-6:3 (21151) 
-6:4 (21152) ס
-6:5 (21153) 
-6:6 (21154) 
-6:7 (21155) ס
-6:8 (21156) 
-6:9 (21157) 
-6:10 (21158) 
-6:11 (21159) 
-6:12 (21160) 
-6:13 (21161) פ
-6:14 (21162) 
-6:15 (21163) פ
-6:16 (21164) 
-6:17 (21165) 
-6:18 (21166) 
-6:19 (21167) 
-7:1 (21168) 
-7:2 (21169) 
-7:3 (21170) 
-7:4 (21171) 
-7:5 (21172) פ
-7:6 (21173) 
-7:7 (21174) ס
-7:8 (21175) ס
-7:9 (21176) ס
-7:10 (21177) ס
-7:11 (21178) ס
-7:12 (21179) ס
-7:13 (21180) ס
-7:14 (21181) ס
-7:15 (21182) ס
-7:16 (21183) ס
-7:17 (21184) ס
-7:18 (21185) ס
-7:19 (21186) ס
-7:20 (21187) ס
-7:21 (21188) ס
-7:22 (21189) ס
-7:23 (21190) ס
-7:24 (21191) ס
-7:25 (21192) ס
-7:26 (21193) ס
-7:27 (21194) ס
-7:28 (21195) ס
-7:29 (21196) ס
-7:30 (21197) ס
-7:31 (21198) ס
-7:32 (21199) ס
-7:33 (21200) ס
-7:34 (21201) ס
-7:35 (21202) ס
-7:36 (21203) ס
-7:37 (21204) ס
-7:38 (21205) פ
-7:39 (21206) ס
-7:40 (21207) ס
-7:41 (21208) ס
-7:42 (21209) פ
-7:43 (21210) ס
-7:44 (21211) ס
-7:45 (21212) ס
-7:46 (21213) 
-7:47 (21214) 
-7:48 (21215) 
-7:49 (21216) 
-7:50 (21217) 
-7:51 (21218) 
-7:52 (21219) 
-7:53 (21220) 
-7:54 (21221) 
-7:55 (21222) 
-7:56 (21223) 
-7:57 (21224) 
-7:58 (21225) 
-7:59 (21226) 
-7:60 (21227) פ
-7:61 (21228) 
-7:62 (21229) ס
-7:63 (21230) 
-7:64 (21231) 
-7:65 (21232) 
-7:66 (21233) 
-7:67 (21234) ס
-7:68 (21235) 
-7:69 (21236) 
-7:70 (21237) 
-7:71 (21238) פ
-7:72 (21239) 
-8:1 (21240) 
-8:2 (21241) 
-8:3 (21242) 
-8:4 (21243) פ
-8:5 (21244) 
-8:6 (21245) 
-8:7 (21246) 
-8:8 (21247) ס
-8:9 (21248) 
-8:10 (21249) 
-8:11 (21250) 
-8:12 (21251) ס
-8:13 (21252) 
-8:14 (21253) 
-8:15 (21254) פ
-8:16 (21255) 
-8:17 (21256) 
-8:18 (21257) פ
-9:1 (21258) 
-9:2 (21259) 
-9:3 (21260) פ
-9:4 (21261) 
-9:5 (21262) 
-9:6 (21263) 
-9:7 (21264) 
-9:8 (21265) 
-9:9 (21266) 
-9:10 (21267) 
-9:11 (21268) 
-9:12 (21269) 
-9:13 (21270) 
-9:14 (21271) 
-9:15 (21272) 
-9:16 (21273) 
-9:17 (21274) 
-9:18 (21275) 
-9:19 (21276) 
-9:20 (21277) 
-9:21 (21278) 
-9:22 (21279) 
-9:23 (21280) 
-9:24 (21281) 
-9:25 (21282) 
-9:26 (21283) 
-9:27 (21284) 
-9:28 (21285) 
-9:29 (21286) 
-9:30 (21287) 
-9:31 (21288) 
-9:32 (21289) 
-9:33 (21290) 
-9:34 (21291) 
-9:35 (21292) 
-9:36 (21293) 
-9:37 (21294) פ
-10:1 (21295) 
-10:2 (21296) 
-10:3 (21297) 
-10:4 (21298) 
-10:5 (21299) 
-10:6 (21300) 
-10:7 (21301) 
-10:8 (21302) 
-10:9 (21303) ס
-10:10 (21304) 
-10:11 (21305) 
-10:12 (21306) 
-10:13 (21307) 
-10:14 (21308) ס
-10:15 (21309) 
-10:16 (21310) 
-10:17 (21311) 
-10:18 (21312) 
-10:19 (21313) 
-10:20 (21314) 
-10:21 (21315) 
-10:22 (21316) 
-10:23 (21317) 
-10:24 (21318) 
-10:25 (21319) 
-10:26 (21320) 
-10:27 (21321) 
-10:28 (21322) 
-10:29 (21323) 
-10:30 (21324) 
-10:31 (21325) 
-10:32 (21326) 
-10:33 (21327) 
-10:34 (21328) ס
-10:35 (21329) 
-10:36 (21330) 
-10:37 (21331) 
-10:38 (21332) 
-10:39 (21333) 
-10:40 (21334) 
-11:1 (21335) 
-11:2 (21336) פ
-11:3 (21337) 
-11:4 (21338) 
-11:5 (21339) 
-11:6 (21340) ס
-11:7 (21341) 
-11:8 (21342) 
-11:9 (21343) פ
-11:10 (21344) 
-11:11 (21345) 
-11:12 (21346) 
-11:13 (21347) 
-11:14 (21348) ס
-11:15 (21349) 
-11:16 (21350) 
-11:17 (21351) 
-11:18 (21352) פ
-11:19 (21353) 
-11:20 (21354) 
-11:21 (21355) פ
-11:22 (21356) 
-11:23 (21357) 
-11:24 (21358) 
-11:25 (21359) 
-11:26 (21360) 
-11:27 (21361) 
-11:28 (21362) 
-11:29 (21363) 
-11:30 (21364) 
-11:31 (21365) 
-11:32 (21366) 
-11:33 (21367) 
-11:34 (21368) 
-11:35 (21369) 
-11:36 (21370) פ
-12:1 (21371) 
-12:2 (21372) 
-12:3 (21373) 
-12:4 (21374) 
-12:5 (21375) 
-12:6 (21376) 
-12:7 (21377) פ
-12:8 (21378) 
-12:9 (21379) 
-12:10 (21380) 
-12:11 (21381) 
-12:12 (21382) 
-12:13 (21383) 
-12:14 (21384) 
-12:15 (21385) 
-12:16 (21386) 
-12:17 (21387) 
-12:18 (21388) 
-12:19 (21389) 
-12:20 (21390) 
-12:21 (21391) 
-12:22 (21392) פ
-12:23 (21393) 
-12:24 (21394) 
-12:25 (21395) 
-12:26 (21396) פ
-12:27 (21397) 
-12:28 (21398) 
-12:29 (21399) 
-12:30 (21400) 
-12:31 (21401) 
-12:32 (21402) 
-12:33 (21403) 
-12:34 (21404) ס
-12:35 (21405) 
-12:36 (21406) 
-12:37 (21407) 
-12:38 (21408) 
-12:39 (21409) 
-12:40 (21410) 
-12:41 (21411) 
-12:42 (21412) 
-12:43 (21413) 
-12:44 (21414) 
-12:45 (21415) 
-12:46 (21416) 
-12:47 (21417) פ
-13:1 (21418) 
-13:2 (21419) 
-13:3 (21420) 
-13:4 (21421) 
-13:5 (21422) 
-13:6 (21423) 
-13:7 (21424) 
-13:8 (21425) 
-13:9 (21426) פ
-13:10 (21427) 
-13:11 (21428) 
-13:12 (21429) 
-13:13 (21430) פ
-13:14 (21431) 
-13:15 (21432) 
-13:16 (21433) 
-13:17 (21434) 
-13:18 (21435) פ
-13:19 (21436) 
-13:20 (21437) 
-13:21 (21438) ס
-13:22 (21439) פ
-13:23 (21440) 
-13:24 (21441) 
-13:25 (21442) 
-13:26 (21443) 
-13:27 (21444) 
-13:28 (21445) 
-13:29 (21446) 
-13:30 (21447) 
-13:31 (21448) 
+Nehemiah 1:1 (21044) слова|рэч <strong>Nehemiah</strong> сын <strong>Hacaliah</strong> і быць у|[Тв.с.] <strong>month</strong> <strong>Kislev</strong> год <strong>twenty</strong> і я быць у|[Тв.с.] <strong>Susa</strong> [арт.] <strong>citadel</strong> 
+Nehemiah 1:2 (21045) і прыйсці <strong>Hanani</strong> адзін з брат ён і чалавек (1) з Егуда і пытацца на [арт.] <strong>Jewish</strong> [арт.] збаўленне які пакідаць з [арт.] <strong>captive</strong> і на Ерусалім 
+Nehemiah 1:3 (21046) і казаць да|[Д.с.] [арт.] пакідаць які пакідаць з [арт.] <strong>captive</strong> там у|[Тв.с.] [арт.] <strong>district</strong> у|[Тв.с.] дрэнны вялікі і у|[Тв.с.] <strong>reproach</strong> і <strong>wall</strong> Ерусалім <strong>break</strong> і брама <strong>kindle</strong> у|[Тв.с.] [арт.] агонь 
+Nehemiah 1:4 (21047) і быць як чуць [В.с.] [арт.] слова|рэч [арт.] гэтыя сядзець і плакаць і <strong>mourn</strong> дзень і быць <strong>fast</strong> і <strong>pray</strong> да|[Д.с.] твар Бог [арт.] неба 
+Nehemiah 1:5 (21048) і казаць <strong>pray</strong> Існы Бог [арт.] неба [арт.] <strong>god</strong> [арт.] вялікі і [арт.] баяцца захоўваць [арт.] дамова і <strong>loyalty</strong> да|[Д.с.] любіць|кахаць і да|[Д.с.] захоўваць <strong>commandment</strong> 
+Nehemiah 1:6 (21049) быць ж, -ка [узмацн.] вуха <strong>attentive</strong> і вока <strong>open</strong> да|[Д.с.] чуць да <strong>prayer</strong> слуга які <strong>i</strong> <strong>pray</strong> да|[Д.с.] твар [арт.] дзень <strong>by day</strong> і ноч на сын Ісраэль слуга і <strong>praise</strong> на <strong>sin</strong> сын Ісраэль які заблудзіць да|[Д.с.] і я і дом бацька заблудзіць 
+Nehemiah 1:7 (21050) <strong>be corrupt</strong> <strong>be corrupt</strong> да|[Д.с.] і не захоўваць [В.с.] [арт.] <strong>commandment</strong> і [В.с.] [арт.] <strong>portion</strong> і [В.с.] [арт.] правасуддзе які <strong>command</strong> [В.с.] Майсей слуга 
+Nehemiah 1:8 (21051) помніць ж, -ка [узмацн.] [В.с.] [арт.] слова|рэч які <strong>command</strong> [В.с.] Майсей слуга да|[Д.с.] казаць <strong>you</strong> <strong>be unfaithful</strong> я <strong>disperse</strong> [В.с.] у|[Тв.с.] [арт.] народ 
+Nehemiah 1:9 (21052) і вяртацца да і захоўваць <strong>commandment</strong> і рабіць [В.с.] калі[зл.] быць <strong>wield</strong> у|[Тв.с.] <strong>end</strong> [арт.] неба з там <strong>collect</strong> і прыйсці да [арт.] месца які <strong>examine</strong> да|[Д.с.] насяляць [В.с.] імя там 
+Nehemiah 1:10 (21053) і яны [ж.] слуга і народ які <strong>buy off</strong> у|[Тв.с.] сіла [арт.] вялікі і у|[Тв.с.] рука [арт.] <strong>strong</strong> 
+Nehemiah 1:11 (21054) <strong>pray</strong> валадар быць ж, -ка [узмацн.] вуха <strong>attentive</strong> да <strong>prayer</strong> слуга і да <strong>prayer</strong> слуга [арт.] <strong>delighting</strong> да|[Д.с.] баяцца [В.с.] імя і <strong>be strong</strong> ж, -ка [узмацн.] да|[Д.с.] слуга [арт.] дзень і даць да|[Д.с.] <strong>compassion</strong> да|[Д.с.] твар [арт.] чалавек (1) [арт.] гэты і я быць <strong>butler, irrigated, drink</strong> да|[Д.с.] [арт.] цар פ
+Nehemiah 2:1 (21055) і быць у|[Тв.с.] <strong>month</strong> <strong>Nissan</strong> год <strong>twenty</strong> да|[Д.с.] <strong>Artaxerxes</strong> [арт.] цар віно да|[Д.с.] твар і падняць [В.с.] [арт.] віно і даць да|[Д.с.] [арт.] цар і не быць зло да|[Д.с.] твар 
+Nehemiah 2:2 (21056) і казаць да|[Д.с.] [арт.] цар <strong>why</strong> твар зло і ты[м.] няма <strong>become weak</strong> няма гэты бо|што калі[зл.] <strong>wickedness</strong> сэрца і баяцца шмат вельмі 
+Nehemiah 2:3 (21057) і казаць да|[Д.с.] [арт.] цар [арт.] цар да|[Д.с.] свет|вечнасць жыць <strong>why</strong> не <strong>be evil</strong> твар які [арт.] горад дом <strong>grave</strong> бацька <strong>dry</strong> і брама есці у|[Тв.с.] [арт.] агонь ס
+Nehemiah 2:4 (21058) і казаць да|[Д.с.] [арт.] цар на што гэты ты[м.] шукаць і <strong>pray</strong> да Бог [арт.] неба 
+Nehemiah 2:5 (21059) і казаць да|[Д.с.] [арт.] цар калі[зл.] на [арт.] цар добры і калі[зл.] <strong>be good</strong> слуга да|[Д.с.] твар які слаць да Егуда да горад <strong>grave</strong> бацька і будаваць 
+Nehemiah 2:6 (21060) і казаць да|[Д.с.] [арт.] цар і [арт.] <strong>queen</strong> сядзець <strong>side</strong> (ажно) да <strong>when</strong> быць <strong>passage</strong> і <strong>when</strong> вяртацца і <strong>be good</strong> да|[Д.с.] твар [арт.] цар і слаць і даць да|[Д.с.] час|пара 
+Nehemiah 2:7 (21061) і казаць да|[Д.с.] [арт.] цар калі[зл.] на [арт.] цар добры <strong>letter</strong> даць да|[Д.с.] на <strong>governor</strong> <strong>opposite</strong> [арт.] <strong>stream</strong> які перайсці (ажно) да які прыйсці да Егуда 
+Nehemiah 2:8 (21062) і <strong>letter</strong> да <strong>Asaph</strong> захоўваць [арт.] <strong>park</strong> які да|[Д.с.] [арт.] цар які даць да|[Д.с.] дрэва да|[Д.с.] <strong>meet</strong> [В.с.] брама [арт.] <strong>citadel</strong> які да|[Д.с.] [арт.] дом і да|[Д.с.] <strong>wall</strong> [арт.] горад і да|[Д.с.] [арт.] дом які прыйсці да і даць да|[Д.с.] [арт.] цар як рука Бог [арт.] добры на 
+Nehemiah 2:9 (21063) і прыйсці да <strong>governor</strong> <strong>opposite</strong> [арт.] <strong>stream</strong> і даць да|[Д.с.] [В.с.] <strong>letter</strong> [арт.] цар і слаць з [арт.] цар кіраўнік|міністр моц і <strong>horseman</strong> פ
+Nehemiah 2:10 (21064) і чуць <strong>Sanballat</strong> [арт.] <strong>Horonite</strong> і <strong>Tobijah</strong> [арт.] слуга [арт.] <strong>Ammonite</strong> і <strong>be evil</strong> да|[Д.с.] дрэнны вялікі які прыйсці чалавек (від) да|[Д.с.] шукаць <strong>what is good</strong> да|[Д.с.] сын Ісраэль 
+Nehemiah 2:11 (21065) і прыйсці да Ерусалім і быць там дзень <strong>three</strong> 
+Nehemiah 2:12 (21066) і устаць ноч я і чалавек (1) <strong>little</strong> з і не абвяшчаць да|[Д.с.] чалавек (від) што Бог даць да сэрца да|[Д.с.] рабіць да|[Д.с.] Ерусалім і звяры няма з бо|што калі[зл.] [арт.] звяры які я <strong>ride</strong> у|[Тв.с.] 
+Nehemiah 2:13 (21067) і выйсці у|[Тв.с.] брама [арт.] <strong>valley</strong> ноч і да твар <strong>the Jackal Well</strong> і да брама [арт.] <strong>ash pit</strong> і быць <strong>examine</strong> у|[Тв.с.] <strong>wall</strong> Ерусалім які яны [ж.] <strong>break</strong> і брама есці у|[Тв.с.] [арт.] агонь 
+Nehemiah 2:14 (21068) і перайсці да брама [арт.] вока і да <strong>pool</strong> [арт.] цар і няма месца да|[Д.с.] [арт.] звяры да|[Д.с.] перайсці пад 
+Nehemiah 2:15 (21069) і быць падымацца у|[Тв.с.] [арт.] <strong>wadi</strong> ноч і быць <strong>examine</strong> у|[Тв.с.] [арт.] <strong>wall</strong> і вяртацца і прыйсці у|[Тв.с.] брама [арт.] <strong>valley</strong> і вяртацца 
+Nehemiah 2:16 (21070) і [арт.] <strong>prefect</strong> не ведаць [+неад.]|займацца сэксам [+адуш.] <strong>whither</strong> хадзіць і што я рабіць і да|[Д.с.] [арт.] <strong>Jewish</strong> і да|[Д.с.] [арт.] <strong>priest</strong> і да|[Д.с.] [арт.] <strong>noble one</strong> і да|[Д.с.] [арт.] <strong>prefect</strong> і да|[Д.с.] <strong>remainder</strong> рабіць [арт.] <strong>work</strong> (ажно) да так не абвяшчаць 
+Nehemiah 2:17 (21071) і казаць да <strong>you</strong> бачыць [арт.] дрэнны які <strong>we</strong> у|[Тв.с.] які Ерусалім <strong>dry</strong> і брама <strong>kindle</strong> у|[Тв.с.] [арт.] агонь хадзіць і будаваць [В.с.] <strong>wall</strong> Ерусалім і не быць яшчэ <strong>reproach</strong> 
+Nehemiah 2:18 (21072) і абвяшчаць да|[Д.с.] [В.с.] рука Бог які яна добры на і нават слова|рэч [арт.] цар які казаць да|[Д.с.] і казаць устаць і будаваць і <strong>be strong</strong> рука да|[Д.с.] [арт.] <strong>what is good</strong> פ
+Nehemiah 2:19 (21073) і чуць <strong>Sanballat</strong> [арт.] <strong>Horonite</strong> і <strong>Tobijah</strong> [арт.] слуга [арт.] <strong>Ammonite</strong> і <strong>Geshem</strong> [арт.] <strong>Arab</strong> і <strong>mock</strong> да|[Д.с.] і грэбаваць на і казаць што [арт.] слова|рэч [арт.] гэты які <strong>you</strong> рабіць ці на [арт.] цар <strong>you</strong> <strong>rebel</strong> 
+Nehemiah 2:20 (21074) і вяртацца [В.с.] слова|рэч і казаць да|[Д.с.] Бог [арт.] неба ён <strong>be strong</strong> да|[Д.с.] і <strong>we</strong> слуга устаць і будаваць і да|[Д.с.] няма частка і <strong>justice</strong> і <strong>remembrance</strong> у|[Тв.с.] Ерусалім 
+Nehemiah 3:1 (21075) і устаць <strong>Eliashib</strong> [арт.] <strong>priest</strong> [арт.] вялікі і брат [арт.] <strong>priest</strong> і будаваць [В.с.] брама [арт.] скаціна яны <strong>be holy</strong> і стаяць дзверы і (ажно) да <strong>tower</strong> [арт.] <strong>the Hundred</strong> <strong>be holy</strong> (ажно) да <strong>tower</strong> <strong>Hananel</strong> ס
+Nehemiah 3:2 (21076) і на рука будаваць чалавек (1) <strong>Jericho</strong> і на рука будаваць <strong>Zaccur</strong> сын <strong>Imri</strong> ס
+Nehemiah 3:3 (21077) і [В.с.] брама [арт.] рыба будаваць сын [арт.] <strong>Senaah</strong> яны <strong>meet</strong> і стаяць дзверы <strong>lock</strong> і <strong>bar</strong> ס
+Nehemiah 3:4 (21078) і на рука <strong>be strong</strong> <strong>Meremoth</strong> сын <strong>Uriah</strong> сын [арт.] <strong>Koz</strong> і на рука <strong>be strong</strong> <strong>Meshullam</strong> сын <strong>Berekiah</strong> сын <strong>Meshezabel</strong> і на рука <strong>be strong</strong> <strong>Zadok</strong> сын <strong>Baana</strong> ס
+Nehemiah 3:5 (21079) і на рука <strong>be strong</strong> [арт.] <strong>Tekoite</strong> і <strong>mighty</strong> не прыйсці <strong>neck</strong> у|[Тв.с.] <strong>work</strong> <strong>lord</strong> ס
+Nehemiah 3:6 (21080) і [В.с.] брама [арт.] <strong>old</strong> <strong>be strong</strong> <strong>Joiada</strong> сын <strong>Paseah</strong> і <strong>Meshullam</strong> сын <strong>Besodeiah</strong> яны <strong>meet</strong> і стаяць дзверы і <strong>lock</strong> і <strong>bar</strong> ס
+Nehemiah 3:7 (21081) і на рука <strong>be strong</strong> <strong>Melatiah</strong> [арт.] <strong>Gibeonite</strong> і <strong>Jadon</strong> [арт.] <strong>Meronothite</strong> чалавек (1) <strong>Gibeon</strong> і [арт.] <strong>Mizpah</strong> да|[Д.с.] <strong>seat</strong> <strong>governor</strong> <strong>opposite</strong> [арт.] <strong>stream</strong> ס
+Nehemiah 3:8 (21082) на рука <strong>be strong</strong> <strong>Uzziel</strong> сын <strong>Harhaiah</strong> <strong>melt</strong> і на рука <strong>be strong</strong> <strong>Hananiah</strong> сын [арт.] <strong>ointment mixer</strong> і <strong>flag</strong> Ерусалім (ажно) да [арт.] <strong>wall</strong> [арт.] <strong>wide</strong> ס
+Nehemiah 3:9 (21083) і на рука <strong>be strong</strong> <strong>Rephaiah</strong> сын <strong>Hur</strong> кіраўнік|міністр <strong>half</strong> <strong>district</strong> Ерусалім ס
+Nehemiah 3:10 (21084) і на рука <strong>be strong</strong> <strong>Jedaiah</strong> сын <strong>Harumaph</strong> і перад дом і на рука <strong>be strong</strong> <strong>Hattush</strong> сын <strong>Hashabneiah</strong> 
+Nehemiah 3:11 (21085) <strong>measured stretch</strong> другі <strong>be strong</strong> <strong>Malkijah</strong> сын <strong>Harim</strong> і <strong>Hasshub</strong> сын <strong>Pahath-Moab</strong> і [В.с.] <strong>tower</strong> [арт.] <strong>furnace</strong> ס
+Nehemiah 3:12 (21086) і на рука <strong>be strong</strong> <strong>Shallum</strong> сын [арт.] <strong>Hallohesh</strong> кіраўнік|міністр <strong>half</strong> <strong>district</strong> Ерусалім ён і дачка ס
+Nehemiah 3:13 (21087) [В.с.] брама [арт.] <strong>valley</strong> <strong>be strong</strong> <strong>Hanun</strong> і сядзець <strong>Zanoah</strong> яны будаваць і стаяць дзверы <strong>lock</strong> і <strong>bar</strong> і тысяча <strong>cubit</strong> у|[Тв.с.] [арт.] <strong>wall</strong> (ажно) да брама [арт.] <strong>ash pit</strong> 
+Nehemiah 3:14 (21088) і [В.с.] брама [арт.] <strong>ash pit</strong> <strong>be strong</strong> <strong>Malkijah</strong> сын <strong>Recab</strong> кіраўнік|міністр <strong>district</strong> <strong>Beth Hakkerem</strong> ён будаваць і стаяць дзверы <strong>lock</strong> і <strong>bar</strong> ס
+Nehemiah 3:15 (21089) і [В.с.] брама [арт.] вока <strong>be strong</strong> <strong>Shallun</strong> сын <strong>Col-Hozeh</strong> кіраўнік|міністр <strong>district</strong> [арт.] <strong>Mizpah</strong> ён будаваць і <strong>cover</strong> і стаяць дзверы <strong>lock</strong> і <strong>bar</strong> і [В.с.] <strong>wall</strong> <strong>pool</strong> [арт.] <strong>water-conduit</strong> да|[Д.с.] <strong>garden</strong> [арт.] цар і (ажно) да [арт.] <strong>ascent</strong> [арт.] апускацца з горад Давыд ס
+Nehemiah 3:16 (21090) пасля <strong>be strong</strong> <strong>Nehemiah</strong> сын <strong>Azbuk</strong> кіраўнік|міністр <strong>half</strong> <strong>district</strong> <strong>Beth Zur</strong> (ажно) да перад <strong>grave</strong> Давыд і (ажно) да [арт.] <strong>pool</strong> [арт.] рабіць і (ажно) да дом [арт.] мужны|моцны ס
+Nehemiah 3:17 (21091) пасля <strong>be strong</strong> [арт.] <strong>Levite</strong> <strong>Rehum</strong> сын <strong>Bani</strong> на рука <strong>be strong</strong> <strong>Hashabiah</strong> кіраўнік|міністр <strong>half</strong> <strong>district</strong> <strong>Keilah</strong> да|[Д.с.] <strong>district</strong> ס
+Nehemiah 3:18 (21092) пасля <strong>be strong</strong> брат <strong>Binnui</strong> сын <strong>Henadad</strong> кіраўнік|міністр <strong>half</strong> <strong>district</strong> <strong>Keilah</strong> ס
+Nehemiah 3:19 (21093) і <strong>be strong</strong> на рука <strong>Ezer</strong> сын <strong>Jeshua</strong> кіраўнік|міністр [арт.] <strong>Mizpah</strong> <strong>measured stretch</strong> другі з перад падымацца [арт.] <strong>equipment</strong> [арт.] <strong>corner post</strong> ס
+Nehemiah 3:20 (21094) пасля <strong>be hot</strong> <strong>be strong</strong> <strong>Baruch</strong> сын <strong>Zaccai</strong> <strong>measured stretch</strong> другі з [арт.] <strong>corner post</strong> (ажно) да <strong>opening</strong> дом <strong>Eliashib</strong> [арт.] <strong>priest</strong> [арт.] вялікі ס
+Nehemiah 3:21 (21095) пасля <strong>be strong</strong> <strong>Meremoth</strong> сын <strong>Uriah</strong> сын [арт.] <strong>Koz</strong> <strong>measured stretch</strong> другі з <strong>opening</strong> дом <strong>Eliashib</strong> і (ажно) да <strong>completeness</strong> дом <strong>Eliashib</strong> ס
+Nehemiah 3:22 (21096) і пасля <strong>be strong</strong> [арт.] <strong>priest</strong> чалавек (1) [арт.] <strong>disk</strong> 
+Nehemiah 3:23 (21097) пасля <strong>be strong</strong> Бін’ямін і <strong>Hasshub</strong> перад дом пасля <strong>be strong</strong> <strong>Azariah</strong> сын <strong>Maaseiah</strong> сын <strong>Ananiah</strong> <strong>side</strong> дом ס
+Nehemiah 3:24 (21098) пасля <strong>be strong</strong> <strong>Binnui</strong> сын <strong>Henadad</strong> <strong>measured stretch</strong> другі з дом <strong>Azariah</strong> (ажно) да [арт.] <strong>corner post</strong> і (ажно) да [арт.] <strong>corner</strong> 
+Nehemiah 3:25 (21099) <strong>Palal</strong> сын <strong>Uzai</strong> з перад [арт.] <strong>corner post</strong> і [арт.] <strong>tower</strong> [арт.] выйсці з дом [арт.] цар [арт.] <strong>upper</strong> які да|[Д.с.] <strong>court</strong> [арт.] <strong>target</strong> пасля <strong>Pedaiah</strong> сын <strong>Parosh</strong> ס
+Nehemiah 3:26 (21100) і [арт.] <strong>temple slave</strong> быць сядзець у|[Тв.с.] [арт.] <strong>Ophel</strong> (ажно) да перад брама [арт.] вада да|[Д.с.] [арт.] <strong>sunrise</strong> і [арт.] <strong>tower</strong> [арт.] выйсці ס
+Nehemiah 3:27 (21101) пасля <strong>be strong</strong> [арт.] <strong>Tekoite</strong> <strong>measured stretch</strong> другі з перад [арт.] <strong>tower</strong> [арт.] вялікі [арт.] выйсці і (ажно) да <strong>wall</strong> [арт.] <strong>Ophel</strong> 
+Nehemiah 3:28 (21102) з на брама [арт.] конь <strong>be strong</strong> [арт.] <strong>priest</strong> чалавек (1) да|[Д.с.] перад дом ס
+Nehemiah 3:29 (21103) пасля <strong>be strong</strong> <strong>Zadok</strong> сын <strong>Immer</strong> перад дом і пасля <strong>be strong</strong> <strong>Shemaiah</strong> сын <strong>Shecaniah</strong> захоўваць брама [арт.] <strong>sunrise</strong> ס
+Nehemiah 3:30 (21104) пасля <strong>be strong</strong> <strong>Hananiah</strong> сын <strong>Shelemiah</strong> і <strong>Hanun</strong> сын <strong>Zalaph</strong> [арт.] <strong>sixth</strong> <strong>measured stretch</strong> другі пасля <strong>be strong</strong> <strong>Meshullam</strong> сын <strong>Berekiah</strong> перад <strong>hall</strong> ס
+Nehemiah 3:31 (21105) пасля <strong>be strong</strong> <strong>Malkijah</strong> сын [арт.] <strong>guild of goldsmiths</strong> (ажно) да дом [арт.] <strong>temple slave</strong> і [арт.] <strong>trade</strong> перад брама [арт.] <strong>order</strong> і (ажно) да <strong>upper room</strong> [арт.] <strong>corner</strong> 
+Nehemiah 3:32 (21106) і між <strong>upper room</strong> [арт.] <strong>corner</strong> да|[Д.с.] брама [арт.] скаціна <strong>be strong</strong> [арт.] <strong>melt</strong> і [арт.] <strong>trade</strong> פ
+Nehemiah 3:33 (21107) і быць як які чуць <strong>Sanballat</strong> бо|што <strong>we</strong> будаваць [В.с.] [арт.] <strong>wall</strong> і <strong>be hot</strong> да|[Д.с.] і <strong>be discontent</strong> шмат і <strong>mock</strong> на [арт.] <strong>Jewish</strong> 
+Nehemiah 3:34 (21108) і казаць да|[Д.с.] твар брат і моц Самарыя і казаць што [арт.] <strong>Jewish</strong> [арт.] <strong>decaying</strong> рабіць ці <strong>flag</strong> да|[Д.с.] ці забіць ці <strong>be complete</strong> у|[Тв.с.] [арт.] дзень ці жыць [В.с.] [арт.] камень з <strong>heap</strong> [арт.] пыл і яны <strong>burn</strong> 
+Nehemiah 3:35 (21109) і <strong>Tobijah</strong> [арт.] <strong>Ammonite</strong> <strong>side</strong> і казаць таксама|нават які яны [ж.] будаваць калі[зл.] падымацца <strong>fox</strong> і <strong>break</strong> <strong>wall</strong> камень פ
+Nehemiah 3:36 (21110) чуць Бог бо|што быць <strong>contempt</strong> і вяртацца <strong>reproach</strong> да галава і даць да|[Д.с.] <strong>spoil</strong> у|[Тв.с.] зямля <strong>captives</strong> 
+Nehemiah 3:37 (21111) і не [+заг.лад] пакрыць на <strong>sin</strong> і <strong>sin</strong> з да|[Д.с.] твар не [+заг.лад] <strong>wipe</strong> бо|што <strong>be discontent</strong> да|[Д.с.] перад [арт.] будаваць 
+Nehemiah 3:38 (21112) і будаваць [В.с.] [арт.] <strong>wall</strong> і <strong>tie</strong> цэлы|увесь [арт.] <strong>wall</strong> (ажно) да <strong>half</strong> і быць сэрца да|[Д.с.] [арт.] народ да|[Д.с.] рабіць פ
+Nehemiah 4:1 (21113) і быць як які чуць <strong>Sanballat</strong> і <strong>Tobijah</strong> і [арт.] <strong>Arab</strong> і [арт.] <strong>Ammonite</strong> і [арт.] <strong>from Ashdod</strong> бо|што падымацца <strong>healing</strong> да|[Д.с.] <strong>wall</strong> Ерусалім бо|што <strong>defile</strong> [арт.] <strong>break</strong> да|[Д.с.] <strong>stop up</strong> і <strong>be hot</strong> да|[Д.с.] вельмі 
+Nehemiah 4:2 (21114) і <strong>tie</strong> цэлы|увесь <strong>together</strong> да|[Д.с.] прыйсці да|[Д.с.] <strong>fight</strong> у|[Тв.с.] Ерусалім і да|[Д.с.] рабіць да|[Д.с.] <strong>confusion</strong> 
+Nehemiah 4:3 (21115) і <strong>pray</strong> да Бог і стаяць <strong>guard</strong> на <strong>by day</strong> і ноч з твар 
+Nehemiah 4:4 (21116) і казаць Егуда <strong>stumble</strong> сіла [арт.] <strong>bearer</strong> і [арт.] пыл шмат і <strong>we</strong> не магчы да|[Д.с.] будаваць у|[Тв.с.] [арт.] <strong>wall</strong> 
+Nehemiah 4:5 (21117) і казаць <strong>adversary</strong> не ведаць [+неад.]|займацца сэксам [+адуш.] і не бачыць (ажно) да які прыйсці да <strong>midst</strong> і <strong>kill</strong> і <strong>cease</strong> [В.с.] [арт.] <strong>work</strong> 
+Nehemiah 4:6 (21118) і быць як які прыйсці [арт.] <strong>Jewish</strong> [арт.] сядзець <strong>side</strong> і казаць да|[Д.с.] <strong>ten</strong> <strong>foot</strong> з цэлы|увесь [арт.] месца які вяртацца на 
+Nehemiah 4:7 (21119) і стаяць з <strong>lower</strong> да|[Д.с.] [арт.] месца з пасля да|[Д.с.] [арт.] <strong>wall</strong> у|[Тв.с.] [арт.] <strong>surface</strong> і стаяць [В.с.] [арт.] народ да|[Д.с.] <strong>clan</strong> з <strong>dagger</strong> <strong>lance</strong> і <strong>bow</strong> 
+Nehemiah 4:8 (21120) і бачыць і устаць і казаць да [арт.] <strong>noble one</strong> і да [арт.] <strong>prefect</strong> і да <strong>remainder</strong> [арт.] народ не [+заг.лад] баяцца з твар [В.с.] валадар [арт.] вялікі і [арт.] баяцца помніць і <strong>fight</strong> на брат сын і дачка жанчына і дом פ
+Nehemiah 4:9 (21121) і быць як які чуць <strong>be hostile</strong> бо|што ведаць [+неад.]|займацца сэксам [+адуш.] да|[Д.с.] і <strong>break</strong> [арт.] Бог [В.с.] <strong>counsel</strong> і вяртацца цэлы|увесь да [арт.] <strong>wall</strong> чалавек (1) да <strong>work</strong> 
+Nehemiah 4:10 (21122) і быць з [арт.] дзень [арт.] ён <strong>half</strong> хлапчук рабіць у|[Тв.с.] [арт.] <strong>work</strong> і <strong>half</strong> <strong>be strong</strong> і [арт.] <strong>lance</strong> [арт.] <strong>shield</strong> і [арт.] <strong>bow</strong> і [арт.] <strong>scaly mail</strong> і [арт.] кіраўнік|міністр пасля цэлы|увесь дом Егуда 
+Nehemiah 4:11 (21123) [арт.] будаваць у|[Тв.с.] [арт.] <strong>wall</strong> і [арт.] падняць у|[Тв.с.] [арт.] <strong>load</strong> <strong>load</strong> у|[Тв.с.] адзін рука рабіць у|[Тв.с.] [арт.] <strong>work</strong> і адзін <strong>be strong</strong> [арт.] <strong>missile</strong> 
+Nehemiah 4:12 (21124) і [арт.] будаваць чалавек (1) <strong>dagger</strong> <strong>bind</strong> на <strong>hips</strong> і будаваць і [арт.] <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> <strong>side</strong> 
+Nehemiah 4:13 (21125) і казаць да [арт.] <strong>noble one</strong> і да [арт.] <strong>prefect</strong> і да <strong>remainder</strong> [арт.] народ [арт.] <strong>work</strong> шмат і <strong>wide</strong> і <strong>we</strong> <strong>divide</strong> на [арт.] <strong>wall</strong> далёкі чалавек (1) з брат 
+Nehemiah 4:14 (21126) у|[Тв.с.] месца які чуць [В.с.] голас [арт.] <strong>horn</strong> там <strong>collect</strong> да Бог <strong>fight</strong> да|[Д.с.] 
+Nehemiah 4:15 (21127) і <strong>we</strong> рабіць у|[Тв.с.] [арт.] <strong>work</strong> і <strong>half</strong> <strong>be strong</strong> у|[Тв.с.] [арт.] <strong>lance</strong> з падымацца [арт.] <strong>dawn</strong> (ажно) да выйсці [арт.] зорка 
+Nehemiah 4:16 (21128) таксама|нават у|[Тв.с.] [арт.] момант [арт.] яна казаць да|[Д.с.] [арт.] народ чалавек (1) і хлапчук <strong>lodge</strong> у|[Тв.с.] <strong>midst</strong> Ерусалім і быць да|[Д.с.] [арт.] ноч <strong>guard</strong> і [арт.] дзень <strong>work</strong> 
+Nehemiah 4:17 (21129) і няма я і брат і хлапчук і чалавек (1) [арт.] <strong>guard</strong> які пасля няма <strong>we</strong> <strong>strip off</strong> адзежа чалавек (1) <strong>missile</strong> [арт.] вада ס
+Nehemiah 5:1 (21130) і быць <strong>cry</strong> [арт.] народ і жанчына вялікі да брат [арт.] <strong>Jewish</strong> 
+Nehemiah 5:2 (21131) і ёсць які казаць сын і дачка <strong>we</strong> шматлікі і браць <strong>corn</strong> і есці і жыць 
+Nehemiah 5:3 (21132) і ёсць які казаць поле і <strong>vineyard</strong> і дом <strong>we</strong> <strong>stand bail</strong> і браць <strong>corn</strong> у|[Тв.с.] [арт.] <strong>hunger</strong> 
+Nehemiah 5:4 (21133) і ёсць які казаць <strong>borrow</strong> срэбра да|[Д.с.] <strong>tribute</strong> [арт.] цар поле і <strong>vineyard</strong> 
+Nehemiah 5:5 (21134) і <strong>now</strong> як мяса|плоць брат мяса|плоць як сын сын і вось <strong>we</strong> <strong>subdue</strong> [В.с.] сын і [В.с.] дачка да|[Д.с.] слуга і ёсць з дачка <strong>subdue</strong> і няма да|[Д.с.] <strong>power</strong> рука і поле і <strong>vineyard</strong> да|[Д.с.] іншы 
+Nehemiah 5:6 (21135) і <strong>be hot</strong> да|[Д.с.] вельмі як які чуць [В.с.] <strong>cry</strong> і [В.с.] [арт.] слова|рэч [арт.] гэтыя 
+Nehemiah 5:7 (21136) і <strong>counsel</strong> сэрца на і <strong>contend</strong> разам з [арт.] <strong>noble one</strong> і [В.с.] [арт.] <strong>prefect</strong> і казаць да|[Д.с.] <strong>claim</strong> чалавек (1) у|[Тв.с.] брат <strong>you</strong> <strong>give loan</strong> і даць на <strong>assembly</strong> вялікі 
+Nehemiah 5:8 (21137) і казаць да|[Д.с.] <strong>we</strong> набыць [В.с.] брат [арт.] <strong>Jewish</strong> [арт.] <strong>sell</strong> да|[Д.с.] [арт.] знешні народ як дастатковасць у|[Тв.с.] і таксама|нават <strong>you</strong> <strong>sell</strong> [В.с.] брат і <strong>sell</strong> да|[Д.с.] і <strong>be deaf</strong> і не знайсці слова|рэч ס
+Nehemiah 5:9 (21138) і казаць не добры [арт.] слова|рэч які <strong>you</strong> рабіць ці не у|[Тв.с.] <strong>fear</strong> Бог хадзіць з <strong>reproach</strong> [арт.] знешні народ <strong>be hostile</strong> 
+Nehemiah 5:10 (21139) і таксама|нават я брат і хлапчук <strong>give loan</strong> у|[Тв.с.] срэбра і <strong>corn</strong> <strong>leave</strong> ж, -ка [узмацн.] [В.с.] [арт.] <strong>claim</strong> [арт.] гэты 
+Nehemiah 5:11 (21140) вяртацца ж, -ка [узмацн.] да|[Д.с.] як [арт.] дзень поле <strong>vineyard</strong> <strong>olive</strong> і дом і сотня [арт.] срэбра і [арт.] <strong>corn</strong> [арт.] <strong>wine</strong> і [арт.] <strong>oil</strong> які <strong>you</strong> <strong>give loan</strong> у|[Тв.с.] 
+Nehemiah 5:12 (21141) і казаць вяртацца і з не шукаць так рабіць як які ты[м.] казаць і зваць [В.с.] [арт.] <strong>priest</strong> і <strong>swear</strong> да|[Д.с.] рабіць як [арт.] слова|рэч [арт.] гэты 
+Nehemiah 5:13 (21142) таксама|нават <strong>bosom</strong> <strong>shake off</strong> і казаць такім чынам <strong>shake off</strong> [арт.] Бог [В.с.] цэлы|увесь [арт.] чалавек (1) які не устаць [В.с.] [арт.] слова|рэч [арт.] гэты з дом і з <strong>toil</strong> і такім чынам быць <strong>shake off</strong> і <strong>empty</strong> і казаць цэлы|увесь [арт.] <strong>assembly</strong> <strong>surely</strong> і <strong>praise</strong> [В.с.] Існы і рабіць [арт.] народ як [арт.] слова|рэч [арт.] гэты 
+Nehemiah 5:14 (21143) таксама|нават з дзень які <strong>command</strong> [В.с.] да|[Д.с.] быць <strong>governor</strong> у|[Тв.с.] зямля Егуда з год <strong>twenty</strong> і (ажно) да год <strong>three</strong> і два да|[Д.с.] <strong>Artaxerxes</strong> [арт.] цар год два <strong>-teen</strong> я і брат хлеб [арт.] <strong>governor</strong> не есці 
+Nehemiah 5:15 (21144) і [арт.] <strong>governor</strong> [арт.] першы які да|[Д.с.] твар <strong>be heavy</strong> на [арт.] народ і браць з у|[Тв.с.] хлеб і віно пасля срэбра <strong>shekel</strong> <strong>four</strong> таксама|нават хлапчук <strong>dominate</strong> на [арт.] народ і я не рабіць так з твар <strong>fear</strong> Бог 
+Nehemiah 5:16 (21145) і таксама|нават у|[Тв.с.] <strong>work</strong> [арт.] <strong>wall</strong> [арт.] <strong>this</strong> <strong>be strong</strong> і поле не набыць і цэлы|увесь хлапчук <strong>collect</strong> там на [арт.] <strong>work</strong> 
+Nehemiah 5:17 (21146) і [арт.] <strong>Jewish</strong> і [арт.] <strong>prefect</strong> сотня і <strong>five</strong> чалавек (1) і [арт.] прыйсці да з [арт.] знешні народ які вакол на <strong>table</strong> 
+Nehemiah 5:18 (21147) і які быць рабіць да|[Д.с.] дзень адзін <strong>bullock</strong> адзін скаціна <strong>six</strong> <strong>purge</strong> і птушка рабіць да|[Д.с.] і між дзесяць дзень у|[Тв.с.] цэлы|увесь віно да|[Д.с.] шмат і з гэты хлеб [арт.] <strong>governor</strong> не шукаць бо|што <strong>be heavy</strong> [арт.] <strong>work</strong> на [арт.] народ [арт.] гэты 
+Nehemiah 5:19 (21148) помніць да|[Д.с.] Бог да|[Д.с.] <strong>what is good</strong> цэлы|увесь які рабіць на [арт.] народ [арт.] гэты פ
+Nehemiah 6:1 (21149) і быць як які чуць да|[Д.с.] <strong>Sanballat</strong> і <strong>Tobijah</strong> і да|[Д.с.] <strong>Geshem</strong> [арт.] <strong>Arab</strong> і да|[Д.с.] <strong>remainder</strong> <strong>be hostile</strong> бо|што будаваць [В.с.] [арт.] <strong>wall</strong> і не <strong>remain</strong> у|[Тв.с.] <strong>breach</strong> таксама|нават (ажно) да [арт.] момант [арт.] яна дзверы не стаяць у|[Тв.с.] [арт.] брама 
+Nehemiah 6:2 (21150) і слаць <strong>Sanballat</strong> і <strong>Geshem</strong> да да|[Д.с.] казаць хадзіць і <strong>appoint</strong> <strong>together</strong> у|[Тв.с.] [арт.] <strong>Kephirim</strong> у|[Тв.с.] <strong>valley</strong> <strong>Ono</strong> і яны <strong>account</strong> да|[Д.с.] рабіць да|[Д.с.] дрэнны 
+Nehemiah 6:3 (21151) і слаць на пасланец да|[Д.с.] казаць <strong>work</strong> вялікі я рабіць і не магчы да|[Д.с.] апускацца чаму <strong>cease</strong> [арт.] <strong>work</strong> як які <strong>be slack</strong> і апускацца да 
+Nehemiah 6:4 (21152) і слаць да як [арт.] слова|рэч [арт.] гэты <strong>four</strong> <strong>foot</strong> і вяртацца [В.с.] як [арт.] слова|рэч [арт.] гэты ס
+Nehemiah 6:5 (21153) і слаць да <strong>Sanballat</strong> як [арт.] слова|рэч [арт.] гэты <strong>foot</strong> <strong>fifth</strong> [В.с.] хлапчук і <strong>letter</strong> <strong>open</strong> у|[Тв.с.] рука 
+Nehemiah 6:6 (21154) пісанне у|[Тв.с.] у|[Тв.с.] [арт.] знешні народ чуць і <strong>Geshem</strong> казаць ты[м.] і [арт.] <strong>Jewish</strong> <strong>account</strong> да|[Д.с.] <strong>rebel</strong> на так ты[м.] будаваць [арт.] <strong>wall</strong> і ты[м.] <strong>become</strong> да|[Д.с.] да|[Д.с.] цар як [арт.] слова|рэч [арт.] гэтыя 
+Nehemiah 6:7 (21155) і таксама|нават <strong>prophet</strong> стаяць да|[Д.с.] зваць на у|[Тв.с.] Ерусалім да|[Д.с.] казаць цар у|[Тв.с.] Егуда і <strong>now</strong> чуць да|[Д.с.] [арт.] цар як [арт.] слова|рэч [арт.] гэтыя і <strong>now</strong> хадзіць і <strong>advise</strong> <strong>together</strong> ס
+Nehemiah 6:8 (21156) і слаць да да|[Д.с.] казаць не быць як [арт.] слова|рэч [арт.] гэтыя які ты[м.] казаць бо|што з сэрца ты[м.] <strong>devise</strong> 
+Nehemiah 6:9 (21157) бо|што цэлы|увесь баяцца [В.с.] да|[Д.с.] казаць <strong>be slack</strong> рука з [арт.] <strong>work</strong> і не рабіць і <strong>now</strong> <strong>be strong</strong> [В.с.] рука 
+Nehemiah 6:10 (21158) і я прыйсці дом <strong>Shemaiah</strong> сын <strong>Delaiah</strong> сын <strong>Mehetabel</strong> і ён <strong>restrain</strong> і казаць <strong>appoint</strong> да дом [арт.] Бог да <strong>midst</strong> [арт.] <strong>palace</strong> і зачыняць дзверы [арт.] <strong>palace</strong> бо|што прыйсці да|[Д.с.] <strong>kill</strong> і ноч прыйсці да|[Д.с.] <strong>kill</strong> 
+Nehemiah 6:11 (21159) і казаць ці чалавек (1) <strong>like</strong> <strong>run away</strong> і хто <strong>like</strong> які прыйсці да [арт.] <strong>palace</strong> і жыць не прыйсці 
+Nehemiah 6:12 (21160) і <strong>recognise</strong> і вось не Бог слаць бо|што [арт.] <strong>prophecy</strong> гаварыць на і <strong>Tobijah</strong> і <strong>Sanballat</strong> <strong>hire</strong> 
+Nehemiah 6:13 (21161) з-за <strong>hire</strong> ён з-за баяцца і рабіць так і заблудзіць і быць да|[Д.с.] да|[Д.с.] імя зло з-за <strong>reproach</strong> פ
+Nehemiah 6:14 (21162) помніць Бог да|[Д.с.] <strong>Tobijah</strong> і да|[Д.с.] <strong>Sanballat</strong> як учынак|справа гэтыя і таксама|нават да|[Д.с.] <strong>Noadiah</strong> [арт.] <strong>prophetess</strong> і да|[Д.с.] <strong>remainder</strong> [арт.] <strong>prophet</strong> які быць баяцца [В.с.] 
+Nehemiah 6:15 (21163) і <strong>be complete</strong> [арт.] <strong>wall</strong> у|[Тв.с.] <strong>twenty</strong> і <strong>five</strong> да|[Д.с.] <strong>Elul</strong> да|[Д.с.] <strong>five</strong> і два дзень פ
+Nehemiah 6:16 (21164) і быць як які чуць цэлы|увесь <strong>be hostile</strong> і баяцца цэлы|увесь [арт.] знешні народ які вакол і падаць вельмі у|[Тв.с.] вока і ведаць [+неад.]|займацца сэксам [+адуш.] бо|што з разам з Бог рабіць [арт.] <strong>work</strong> [арт.] <strong>this</strong> 
+Nehemiah 6:17 (21165) таксама|нават у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] шмат <strong>noble one</strong> Егуда <strong>letter</strong> хадзіць на <strong>Tobijah</strong> і які да|[Д.с.] <strong>Tobijah</strong> прыйсці да 
+Nehemiah 6:18 (21166) бо|што шматлікі у|[Тв.с.] Егуда хазяін <strong>oath</strong> да|[Д.с.] бо|што <strong>son-in-law</strong> ён да|[Д.с.] <strong>Shecaniah</strong> сын <strong>Arah</strong> і <strong>Jehohanan</strong> сын браць [В.с.] дачка <strong>Meshullam</strong> сын <strong>Berekiah</strong> 
+Nehemiah 6:19 (21167) таксама|нават <strong>what is good</strong> быць казаць да|[Д.с.] твар і слова|рэч быць выйсці да|[Д.с.] <strong>letter</strong> слаць <strong>Tobijah</strong> да|[Д.с.] баяцца 
+Nehemiah 7:1 (21168) і быць як які будаваць [арт.] <strong>wall</strong> і стаяць [арт.] дзверы і <strong>miss</strong> [арт.] <strong>porter</strong> і [арт.] <strong>sing</strong> і [арт.] <strong>Levite</strong> 
+Nehemiah 7:2 (21169) і <strong>command</strong> [В.с.] <strong>Hanani</strong> брат і [В.с.] <strong>Hananiah</strong> кіраўнік|міністр [арт.] <strong>citadel</strong> на Ерусалім бо|што ён як чалавек (1) праўда і баяцца [В.с.] [арт.] Бог з шматлікі 
+Nehemiah 7:3 (21170) і казаць да|[Д.с.] не <strong>open</strong> брама Ерусалім (ажно) да быць спякотным [арт.] сонца і (ажно) да яны [ж.] стаяць <strong>shut</strong> [арт.] дзверы і <strong>seize</strong> і стаяць <strong>guard-post</strong> сядзець Ерусалім чалавек (1) у|[Тв.с.] <strong>guard</strong> і чалавек (1) перад дом 
+Nehemiah 7:4 (21171) і [арт.] горад <strong>wide</strong> рука і вялікі і [арт.] народ <strong>little</strong> у|[Тв.с.] <strong>midst</strong> і няма дом будаваць 
+Nehemiah 7:5 (21172) і даць Бог да сэрца і <strong>collect</strong> [В.с.] [арт.] <strong>noble one</strong> і [В.с.] [арт.] <strong>prefect</strong> і [В.с.] [арт.] народ да|[Д.с.] <strong>register</strong> і знайсці ліст [арт.] <strong>book</strong> [арт.] падымацца у|[Тв.с.] [арт.] першы і знайсці пісанне у|[Тв.с.] פ
+Nehemiah 7:6 (21173) гэтыя сын [арт.] <strong>district</strong> [арт.] падымацца з <strong>captive</strong> [арт.] <strong>exile</strong> які <strong>uncover</strong> <strong>Nebuchadnezzar</strong> цар <strong>Babel</strong> і вяртацца да|[Д.с.] Ерусалім і да|[Д.с.] Егуда чалавек (1) да|[Д.с.] горад 
+Nehemiah 7:7 (21174) [арт.] прыйсці з <strong>Zerubbabel</strong> <strong>Jeshua</strong> <strong>Nehemiah</strong> <strong>Azariah</strong> <strong>Raamiah</strong> <strong>Nahamani</strong> <strong>Mordecai</strong> <strong>Bilshan</strong> <strong>Mispereth</strong> <strong>Bigvai</strong> <strong>Nehum</strong> <strong>Baanah</strong> лік чалавек (1) народ Ісраэль ס
+Nehemiah 7:8 (21175) сын <strong>Parosh</strong> тысяча сотня і сем і два ס
+Nehemiah 7:9 (21176) сын <strong>Shephatiah</strong> <strong>three</strong> сотня сем і два ס
+Nehemiah 7:10 (21177) сын <strong>Arah</strong> <strong>six</strong> сотня <strong>five</strong> і два ס
+Nehemiah 7:11 (21178) сын <strong>Pahath-Moab</strong> да|[Д.с.] сын <strong>Jeshua</strong> і <strong>Joab</strong> тысяча і восем сотня восем <strong>-teen</strong> ס
+Nehemiah 7:12 (21179) сын <strong>Elam</strong> тысяча сотня <strong>five</strong> і <strong>four</strong> ס
+Nehemiah 7:13 (21180) сын <strong>Zattu</strong> восем сотня <strong>four</strong> і <strong>five</strong> ס
+Nehemiah 7:14 (21181) сын <strong>Zaccai</strong> сем сотня і <strong>six</strong> ס
+Nehemiah 7:15 (21182) сын <strong>Binnui</strong> <strong>six</strong> сотня <strong>four</strong> і восем ס
+Nehemiah 7:16 (21183) сын <strong>Bebai</strong> <strong>six</strong> сотня <strong>twenty</strong> і восем ס
+Nehemiah 7:17 (21184) сын <strong>Azgad</strong> тысяча <strong>three</strong> сотня <strong>twenty</strong> і два ס
+Nehemiah 7:18 (21185) сын <strong>Adonikam</strong> <strong>six</strong> сотня <strong>six</strong> і сем ס
+Nehemiah 7:19 (21186) сын <strong>Bigvai</strong> тысяча <strong>six</strong> і сем ס
+Nehemiah 7:20 (21187) сын <strong>Adin</strong> <strong>six</strong> сотня <strong>five</strong> і <strong>five</strong> ס
+Nehemiah 7:21 (21188) сын <strong>Ater</strong> да|[Д.с.] <strong>Hizkiah</strong> <strong>nine</strong> і восем ס
+Nehemiah 7:22 (21189) сын <strong>Hashum</strong> <strong>three</strong> сотня <strong>twenty</strong> і восем ס
+Nehemiah 7:23 (21190) сын <strong>Bezai</strong> <strong>three</strong> сотня <strong>twenty</strong> і <strong>four</strong> ס
+Nehemiah 7:24 (21191) сын <strong>Hariph</strong> сотня два <strong>-teen</strong> ס
+Nehemiah 7:25 (21192) сын <strong>Gibeon</strong> <strong>nine</strong> і <strong>five</strong> ס
+Nehemiah 7:26 (21193) чалавек (1) <strong>Bethlehem</strong> і <strong>Netophah</strong> сотня восем і восем ס
+Nehemiah 7:27 (21194) чалавек (1) <strong>[town]</strong> сотня <strong>twenty</strong> і восем ס
+Nehemiah 7:28 (21195) чалавек (1) <strong>Azmaveth</strong> <strong>four</strong> і два ס
+Nehemiah 7:29 (21196) чалавек (1) <strong>Kiriath Jearim</strong> <strong>Kephirah</strong> і <strong>Beeroth</strong> сем сотня <strong>four</strong> і <strong>three</strong> ס
+Nehemiah 7:30 (21197) чалавек (1) [арт.] <strong>Ramah</strong> і <strong>Geba</strong> <strong>six</strong> сотня <strong>twenty</strong> і адзін ס
+Nehemiah 7:31 (21198) чалавек (1) <strong>Micmash</strong> сотня і <strong>twenty</strong> і два ס
+Nehemiah 7:32 (21199) чалавек (1) <strong>Bethel</strong> і [арт.] <strong>Ai</strong> сотня <strong>twenty</strong> і <strong>three</strong> ס
+Nehemiah 7:33 (21200) чалавек (1) <strong>[mountain]</strong> іншы <strong>five</strong> і два ס
+Nehemiah 7:34 (21201) сын <strong>Elam</strong> іншы тысяча сотня <strong>five</strong> і <strong>four</strong> ס
+Nehemiah 7:35 (21202) сын <strong>Harim</strong> <strong>three</strong> сотня і <strong>twenty</strong> ס
+Nehemiah 7:36 (21203) сын <strong>Jericho</strong> <strong>three</strong> сотня <strong>four</strong> і <strong>five</strong> ס
+Nehemiah 7:37 (21204) сын <strong>Lod</strong> <strong>Hadid</strong> і <strong>Ono</strong> сем сотня і <strong>twenty</strong> і адзін ס
+Nehemiah 7:38 (21205) сын <strong>Senaah</strong> <strong>three</strong> тысяча <strong>nine</strong> сотня і <strong>three</strong> פ
+Nehemiah 7:39 (21206) [арт.] <strong>priest</strong> сын <strong>Jedaiah</strong> да|[Д.с.] дом <strong>Jeshua</strong> <strong>nine</strong> сотня сем і <strong>three</strong> ס
+Nehemiah 7:40 (21207) сын <strong>Immer</strong> тысяча <strong>five</strong> і два ס
+Nehemiah 7:41 (21208) сын <strong>Pashhur</strong> тысяча сотня <strong>four</strong> і сем ס
+Nehemiah 7:42 (21209) сын <strong>Harim</strong> тысяча сем <strong>-teen</strong> פ
+Nehemiah 7:43 (21210) [арт.] <strong>Levite</strong> сын <strong>Jeshua</strong> да|[Д.с.] <strong>Kadmiel</strong> да|[Д.с.] сын да|[Д.с.] <strong>Hodaviah</strong> сем і <strong>four</strong> ס
+Nehemiah 7:44 (21211) [арт.] <strong>sing</strong> сын <strong>Asaph</strong> сотня <strong>four</strong> і восем ס
+Nehemiah 7:45 (21212) [арт.] <strong>porter</strong> сын <strong>Shallum</strong> сын <strong>Ater</strong> сын <strong>Talmon</strong> сын <strong>Akkub</strong> сын <strong>Hatita</strong> сын <strong>Shobai</strong> сотня <strong>three</strong> і восем ס
+Nehemiah 7:46 (21213) [арт.] <strong>temple slave</strong> сын <strong>Ziha</strong> сын <strong>Hasupha</strong> сын <strong>Tabbaoth</strong> 
+Nehemiah 7:47 (21214) сын <strong>Keros</strong> сын <strong>Sia</strong> сын <strong>Padon</strong> 
+Nehemiah 7:48 (21215) сын <strong>Lebanah</strong> сын <strong>Hagabah</strong> сын <strong>Shalmai</strong> 
+Nehemiah 7:49 (21216) сын <strong>Hanan</strong> сын <strong>Giddel</strong> сын <strong>Gahar</strong> 
+Nehemiah 7:50 (21217) сын <strong>Reaiah</strong> сын <strong>Rezin</strong> сын <strong>Nekoda</strong> 
+Nehemiah 7:51 (21218) сын <strong>Gazzam</strong> сын <strong>Uzza</strong> сын <strong>Paseah</strong> 
+Nehemiah 7:52 (21219) сын <strong>Besai</strong> сын <strong>Meunites</strong> сын <strong>Nephussim</strong> 
+Nehemiah 7:53 (21220) сын <strong>Bakbuk</strong> сын <strong>Hakupha</strong> сын <strong>Harhur</strong> 
+Nehemiah 7:54 (21221) сын <strong>Bazluth</strong> сын <strong>Mehida</strong> сын <strong>Harsha</strong> 
+Nehemiah 7:55 (21222) сын <strong>Barkos</strong> сын <strong>Sisera</strong> сын <strong>Temah</strong> 
+Nehemiah 7:56 (21223) сын <strong>Neziah</strong> сын <strong>Hatipha</strong> 
+Nehemiah 7:57 (21224) сын слуга <strong>Solomon</strong> сын <strong>Sotai</strong> сын <strong>function of scribe</strong> сын <strong>Perida</strong> 
+Nehemiah 7:58 (21225) сын <strong>Jaala</strong> сын <strong>Darkon</strong> сын <strong>Giddel</strong> 
+Nehemiah 7:59 (21226) сын <strong>Shephatiah</strong> сын <strong>Hattil</strong> сын <strong>Pokereth-Hazzebaim</strong> сын <strong>Amon</strong> 
+Nehemiah 7:60 (21227) цэлы|увесь [арт.] <strong>temple slave</strong> і сын слуга <strong>Solomon</strong> <strong>three</strong> сотня <strong>nine</strong> і два פ
+Nehemiah 7:61 (21228) і гэтыя [арт.] падымацца з <strong>Tel Melah</strong> <strong>Tel Harsha</strong> <strong>Kerub</strong> <strong>Addon</strong> і <strong>Immer</strong> і не магчы да|[Д.с.] абвяшчаць дом бацька і семя калі[зл.] з Ісраэль яны [ж.] 
+Nehemiah 7:62 (21229) сын <strong>Delaiah</strong> сын <strong>Tobijah</strong> сын <strong>Nekoda</strong> <strong>six</strong> сотня і <strong>four</strong> і два ס
+Nehemiah 7:63 (21230) і з [арт.] <strong>priest</strong> сын <strong>Hobaiah</strong> сын [арт.] <strong>Koz</strong> сын <strong>Barzillai</strong> які браць з дачка <strong>Barzillai</strong> [арт.] <strong>Gileadite</strong> жанчына і зваць на імя 
+Nehemiah 7:64 (21231) гэтыя шукаць <strong>writing</strong> [арт.] <strong>register</strong> і не знайсці і <strong>pollute</strong> з [арт.] <strong>priesthood</strong> 
+Nehemiah 7:65 (21232) і казаць [арт.] <strong>governor</strong> да|[Д.с.] які не есці з святасць [арт.] святасць (ажно) да стаяць [арт.] <strong>priest</strong> да|[Д.с.] <strong>[oracle device]</strong> і <strong>tummim</strong> 
+Nehemiah 7:66 (21233) цэлы|увесь [арт.] <strong>assembly</strong> як адзін <strong>four</strong> <strong>ten thousand</strong> тысяча <strong>three</strong> сотня і <strong>six</strong> 
+Nehemiah 7:67 (21234) з да|[Д.с.] частка слуга і <strong>handmaid</strong> гэтыя сем тысяча <strong>three</strong> сотня <strong>three</strong> і сем і да|[Д.с.] <strong>sing</strong> і <strong>sing</strong> сотня і <strong>four</strong> і <strong>five</strong> ס
+Nehemiah 7:68 (21235) <strong>camel</strong> <strong>four</strong> сотня <strong>three</strong> і <strong>five</strong> <strong>he-ass</strong> <strong>six</strong> тысяча сем сотня і <strong>twenty</strong> 
+Nehemiah 7:69 (21236) і з <strong>end</strong> галава [арт.] бацька даць да|[Д.с.] [арт.] <strong>work</strong> [арт.] <strong>governor</strong> даць да|[Д.с.] [арт.] <strong>supply</strong> золата <strong>drachmas</strong> тысяча <strong>bowl</strong> <strong>five</strong> <strong>tunic</strong> <strong>priest</strong> <strong>three</strong> і <strong>five</strong> сотня 
+Nehemiah 7:70 (21237) і з галава [арт.] бацька даць да|[Д.с.] <strong>supply</strong> [арт.] <strong>work</strong> золата <strong>drachmas</strong> два <strong>ten thousand</strong> і срэбра <strong>mineh</strong> тысяча і сотня 
+Nehemiah 7:71 (21238) і які даць <strong>rest</strong> [арт.] народ золата <strong>drachmas</strong> два <strong>ten thousand</strong> і срэбра <strong>mineh</strong> тысяча і <strong>tunic</strong> <strong>priest</strong> <strong>six</strong> і сем פ
+Nehemiah 7:72 (21239) і сядзець [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> і [арт.] <strong>porter</strong> і [арт.] <strong>sing</strong> і з [арт.] народ і [арт.] <strong>temple slave</strong> і цэлы|увесь Ісраэль у|[Тв.с.] горад і <strong>touch</strong> [арт.] <strong>month</strong> [арт.] <strong>seventh</strong> і сын Ісраэль у|[Тв.с.] горад 
+Nehemiah 8:1 (21240) і збіраць цэлы|увесь [арт.] народ як чалавек (1) адзін да [арт.] <strong>open place</strong> які да|[Д.с.] твар брама [арт.] вада і казаць да|[Д.с.] <strong>Ezra</strong> [арт.] <strong>scribe</strong> да|[Д.с.] прыйсці [В.с.] ліст <strong>instruction</strong> Майсей які <strong>command</strong> Існы [В.с.] Ісраэль 
+Nehemiah 8:2 (21241) і прыйсці <strong>Ezra</strong> [арт.] <strong>priest</strong> [В.с.] [арт.] <strong>instruction</strong> да|[Д.с.] твар [арт.] <strong>assembly</strong> з чалавек (1) і (ажно) да жанчына і цэлы|увесь разумець да|[Д.с.] чуць у|[Тв.с.] дзень адзін да|[Д.с.] [арт.] <strong>month</strong> [арт.] <strong>seventh</strong> 
+Nehemiah 8:3 (21242) і зваць у|[Тв.с.] да|[Д.с.] твар [арт.] <strong>open place</strong> які да|[Д.с.] твар брама [арт.] вада з [арт.] святло (ажно) да <strong>half</strong> [арт.] дзень перад [арт.] чалавек (1) і [арт.] жанчына і [арт.] разумець і вуха цэлы|увесь [арт.] народ да ліст [арт.] <strong>instruction</strong> 
+Nehemiah 8:4 (21243) і стаяць <strong>Ezra</strong> [арт.] <strong>scribe</strong> на <strong>tower</strong> дрэва які рабіць да|[Д.с.] [арт.] слова|рэч і стаяць <strong>side</strong> <strong>Mattithiah</strong> і <strong>Shema</strong> і <strong>Anaiah</strong> і <strong>Uriah</strong> і <strong>Hilkiah</strong> і <strong>Maaseiah</strong> на правая частка і з левая частка <strong>Pedaiah</strong> і <strong>Mishael</strong> і <strong>Malkijah</strong> і <strong>Hashum</strong> і <strong>Hashbaddanah</strong> <strong>Zechariah</strong> <strong>Meshullam</strong> פ
+Nehemiah 8:5 (21244) і <strong>open</strong> <strong>Ezra</strong> [арт.] ліст да|[Д.с.] вока цэлы|увесь [арт.] народ бо|што з на цэлы|увесь [арт.] народ быць і як <strong>open</strong> стаяць цэлы|увесь [арт.] народ 
+Nehemiah 8:6 (21245) і <strong>bless</strong> <strong>Ezra</strong> [В.с.] Існы [арт.] Бог [арт.] вялікі і адказаць цэлы|увесь [арт.] народ <strong>surely</strong> <strong>surely</strong> у|[Тв.с.] <strong>lifting</strong> рука і <strong>kneel down</strong> і <strong>bow down</strong> да|[Д.с.] Існы <strong>nose</strong> зямля 
+Nehemiah 8:7 (21246) і <strong>Jeshua</strong> і <strong>Bani</strong> і <strong>Sherebiah</strong> <strong>Jamin</strong> <strong>Akkub</strong> <strong>Shabbethai</strong> <strong>Hodiah</strong> <strong>Maaseiah</strong> <strong>Kelita</strong> <strong>Azariah</strong> <strong>Jozabad</strong> <strong>Hanan</strong> <strong>Pelaiah</strong> і [арт.] <strong>Levite</strong> разумець [В.с.] [арт.] народ да|[Д.с.] [арт.] <strong>instruction</strong> і [арт.] народ на <strong>place</strong> 
+Nehemiah 8:8 (21247) і зваць у|[Тв.с.] [арт.] ліст у|[Тв.с.] <strong>instruction</strong> [арт.] Бог <strong>explain</strong> і класці|ставіць <strong>insight</strong> і разумець у|[Тв.с.] [арт.] <strong>convocation</strong> ס
+Nehemiah 8:9 (21248) і казаць <strong>Nehemiah</strong> ён [арт.] <strong>governor</strong> і <strong>Ezra</strong> [арт.] <strong>priest</strong> [арт.] <strong>scribe</strong> і [арт.] <strong>Levite</strong> [арт.] разумець [В.с.] [арт.] народ да|[Д.с.] цэлы|увесь [арт.] народ [арт.] дзень святы ён да|[Д.с.] Існы Бог не [+заг.лад] <strong>mourn</strong> і не [+заг.лад] плакаць бо|што плакаць цэлы|увесь [арт.] народ як чуць [В.с.] слова|рэч [арт.] <strong>instruction</strong> 
+Nehemiah 8:10 (21249) і казаць да|[Д.с.] хадзіць есці <strong>dishes</strong> і піць <strong>sweetness</strong> і слаць <strong>portion</strong> да|[Д.с.] няма <strong>be firm</strong> да|[Д.с.] бо|што святы [арт.] дзень да|[Д.с.] <strong>lord</strong> і не [+заг.лад] <strong>hurt</strong> бо|што <strong>joy</strong> Існы яна <strong>fort</strong> 
+Nehemiah 8:11 (21250) і [арт.] <strong>Levite</strong> маўчаць да|[Д.с.] цэлы|увесь [арт.] народ да|[Д.с.] казаць <strong>be still</strong> бо|што [арт.] дзень святы і не [+заг.лад] <strong>hurt</strong> 
+Nehemiah 8:12 (21251) і хадзіць цэлы|увесь [арт.] народ да|[Д.с.] есці і да|[Д.с.] піць і да|[Д.с.] слаць <strong>portion</strong> і да|[Д.с.] рабіць радасць вялікі бо|што разумець у|[Тв.с.] [арт.] слова|рэч які ведаць [+неад.]|займацца сэксам [+адуш.] да|[Д.с.] ס
+Nehemiah 8:13 (21252) і у|[Тв.с.] [арт.] дзень [арт.] другі збіраць галава [арт.] бацька да|[Д.с.] цэлы|увесь [арт.] народ [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> да <strong>Ezra</strong> [арт.] <strong>scribe</strong> і да|[Д.с.] <strong>prosper</strong> да слова|рэч [арт.] <strong>instruction</strong> 
+Nehemiah 8:14 (21253) і знайсці пісанне у|[Тв.с.] [арт.] <strong>instruction</strong> які <strong>command</strong> Існы у|[Тв.с.] рука Майсей які сядзець сын Ісраэль у|[Тв.с.] [арт.] <strong>cover of foliage</strong> у|[Тв.с.] [арт.] <strong>festival</strong> у|[Тв.с.] [арт.] <strong>month</strong> [арт.] <strong>seventh</strong> 
+Nehemiah 8:15 (21254) і які чуць і перайсці голас у|[Тв.с.] цэлы|увесь горад і у|[Тв.с.] Ерусалім да|[Д.с.] казаць выйсці [арт.] гара і прыйсці <strong>leafage</strong> <strong>olive</strong> і <strong>leafage</strong> дрэва алей і <strong>leafage</strong> <strong>myrtle</strong> і <strong>leafage</strong> <strong>date-palm</strong> і <strong>leafage</strong> дрэва <strong>branchy</strong> да|[Д.с.] рабіць <strong>cover of foliage</strong> як [арт.] пісанне פ
+Nehemiah 8:16 (21255) і выйсці [арт.] народ і прыйсці і рабіць да|[Д.с.] <strong>cover of foliage</strong> чалавек (1) на <strong>roof</strong> і у|[Тв.с.] <strong>court</strong> і у|[Тв.с.] <strong>court</strong> дом [арт.] Бог і у|[Тв.с.] <strong>open place</strong> брама [арт.] вада і у|[Тв.с.] <strong>open place</strong> брама Эфраі́м 
+Nehemiah 8:17 (21256) і рабіць цэлы|увесь [арт.] <strong>assembly</strong> [арт.] вяртацца з [арт.] <strong>captive</strong> <strong>cover of foliage</strong> і сядзець у|[Тв.с.] [арт.] <strong>cover of foliage</strong> бо|што не рабіць з дзень <strong>Jeshua</strong> сын <strong>Nun</strong> так сын Ісраэль (ажно) да [арт.] дзень [арт.] ён і быць радасць вялікі вельмі 
+Nehemiah 8:18 (21257) і зваць у|[Тв.с.] ліст <strong>instruction</strong> [арт.] Бог дзень у|[Тв.с.] дзень з [арт.] дзень [арт.] першы (ажно) да [арт.] дзень [арт.] апошні і рабіць <strong>festival</strong> сем дзень і у|[Тв.с.] [арт.] дзень [арт.] <strong>eighth</strong> <strong>assembly</strong> як [арт.] правасуддзе פ
+Nehemiah 9:1 (21258) і у|[Тв.с.] дзень <strong>twenty</strong> і <strong>four</strong> да|[Д.с.] [арт.] <strong>month</strong> [арт.] гэты збіраць сын Ісраэль у|[Тв.с.] <strong>fasting</strong> і у|[Тв.с.] <strong>sack</strong> і <strong>soil</strong> на 
+Nehemiah 9:2 (21259) і <strong>separate</strong> семя Ісраэль з цэлы|увесь сын <strong>foreigner</strong> і стаяць і <strong>praise</strong> на <strong>sin</strong> і <strong>sin</strong> бацька 
+Nehemiah 9:3 (21260) і устаць на <strong>place</strong> і зваць у|[Тв.с.] ліст <strong>instruction</strong> Існы Бог <strong>fourth</strong> [арт.] дзень і <strong>fourth</strong> <strong>praise</strong> і <strong>bow down</strong> да|[Д.с.] Існы Бог פ
+Nehemiah 9:4 (21261) і устаць на <strong>ascent</strong> [арт.] <strong>Levite</strong> <strong>Jeshua</strong> і <strong>Bani</strong> <strong>Kadmiel</strong> <strong>Shebaniah</strong> <strong>Bunni</strong> <strong>Sherebiah</strong> <strong>Bani</strong> <strong>Kenani</strong> і <strong>cry</strong> у|[Тв.с.] голас вялікі да Існы Бог 
+Nehemiah 9:5 (21262) і казаць [арт.] <strong>Levite</strong> <strong>Jeshua</strong> і <strong>Kadmiel</strong> <strong>Bani</strong> <strong>Hashabneiah</strong> <strong>Sherebiah</strong> <strong>Hodiah</strong> <strong>Shebaniah</strong> <strong>Pethahiah</strong> устаць <strong>bless</strong> [В.с.] Існы Бог з [арт.] свет|вечнасць (ажно) да [арт.] свет|вечнасць і <strong>bless</strong> імя вага і <strong>be high</strong> на цэлы|увесь <strong>blessing</strong> і <strong>praise</strong> 
+Nehemiah 9:6 (21263) ты[м.] ён Існы да|[Д.с.] частка ты[м.] рабіць [В.с.] [арт.] неба неба [арт.] неба і цэлы|увесь <strong>service</strong> [арт.] зямля і цэлы|увесь які на [арт.] мора і цэлы|увесь які у|[Тв.с.] і ты[м.] жыць [В.с.] цэлы|увесь і <strong>service</strong> [арт.] неба да|[Д.с.] <strong>bow down</strong> 
+Nehemiah 9:7 (21264) ты[м.] ён Існы [арт.] Бог які <strong>examine</strong> у|[Тв.с.] <strong>Abram</strong> і выйсці з <strong>[ur of chaldeans]</strong> <strong>Chaldeans</strong> і класці|ставіць імя <strong>Abraham</strong> 
+Nehemiah 9:8 (21265) і знайсці [В.с.] сэрца <strong>be firm</strong> да|[Д.с.] твар і выразаць з [арт.] дамова да|[Д.с.] даць [В.с.] зямля [арт.] канаанец [арт.] <strong>Hittite</strong> [арт.] <strong>Amorite</strong> і [арт.] <strong>Perizzite</strong> і [арт.] <strong>Jebusite</strong> і [арт.] <strong>Girgashite</strong> да|[Д.с.] даць да|[Д.с.] семя і устаць [В.с.] слова|рэч бо|што справядлівы|правільны ты[м.] 
+Nehemiah 9:9 (21266) і бачыць [В.с.] <strong>poverty</strong> бацька у|[Тв.с.] <strong>Egypt</strong> і [В.с.] <strong>cry</strong> чуць на мора <strong>rush</strong> 
+Nehemiah 9:10 (21267) і даць <strong>sign</strong> і <strong>sign</strong> у|[Тв.с.] <strong>pharaoh</strong> і у|[Тв.с.] цэлы|увесь слуга і у|[Тв.с.] цэлы|увесь народ зямля бо|што ведаць [+неад.]|займацца сэксам [+адуш.] бо|што <strong>be presumptuous</strong> на і рабіць да|[Д.с.] імя як [арт.] дзень [арт.] гэты 
+Nehemiah 9:11 (21268) і [арт.] мора <strong>split</strong> да|[Д.с.] твар і перайсці у|[Тв.с.] <strong>midst</strong> [арт.] мора у|[Тв.с.] [арт.] <strong>dry land</strong> і [В.с.] <strong>pursue</strong> кінуць у|[Тв.с.] <strong>depth</strong> <strong>like</strong> камень у|[Тв.с.] вада <strong>strong</strong> 
+Nehemiah 9:12 (21269) і у|[Тв.с.] <strong>pillar</strong> <strong>cloud</strong> <strong>lead</strong> <strong>by day</strong> і у|[Тв.с.] <strong>pillar</strong> агонь ноч да|[Д.с.] <strong>be light</strong> да|[Д.с.] [В.с.] [арт.] шлях які хадзіць у|[Тв.с.] 
+Nehemiah 9:13 (21270) і на гара <strong>Sinai</strong> апускацца і гаварыць з з неба і даць да|[Д.с.] правасуддзе <strong>right</strong> і <strong>instruction</strong> праўда <strong>portion</strong> і <strong>commandment</strong> добры 
+Nehemiah 9:14 (21271) і [В.с.] <strong>sabbath</strong> святасць ведаць [+неад.]|займацца сэксам [+адуш.] да|[Д.с.] і <strong>commandment</strong> і <strong>portion</strong> і <strong>instruction</strong> <strong>command</strong> да|[Д.с.] у|[Тв.с.] рука Майсей слуга 
+Nehemiah 9:15 (21272) і хлеб з неба даць да|[Д.с.] да|[Д.с.] <strong>hunger</strong> і вада з скала выйсці да|[Д.с.] да|[Д.с.] <strong>thirst</strong> і казаць да|[Д.с.] да|[Д.с.] прыйсці да|[Д.с.] заўладаць [В.с.] [арт.] зямля які падняць [В.с.] рука да|[Д.с.] даць да|[Д.с.] 
+Nehemiah 9:16 (21273) і яны [ж.] і бацька <strong>be presumptuous</strong> і <strong>be hard</strong> [В.с.] <strong>neck</strong> і не чуць да <strong>commandment</strong> 
+Nehemiah 9:17 (21274) і <strong>refuse</strong> да|[Д.с.] чуць і не помніць <strong>be miraculous</strong> які рабіць з і <strong>be hard</strong> [В.с.] <strong>neck</strong> і даць галава да|[Д.с.] вяртацца да|[Д.с.] <strong>servitude</strong> у|[Тв.с.] <strong>rebellion</strong> і ты[м.] <strong>god</strong> <strong>forgiveness</strong> <strong>gracious</strong> і <strong>compassionate</strong> доўгі <strong>nose</strong> і шматлікі <strong>loyalty</strong> і не <strong>leave</strong> 
+Nehemiah 9:18 (21275) нават бо|што рабіць да|[Д.с.] <strong>bull</strong> <strong>molten image</strong> і казаць гэты Бог які падымацца з <strong>Egypt</strong> і рабіць <strong>contumely</strong> вялікі 
+Nehemiah 9:19 (21276) і ты[м.] у|[Тв.с.] <strong>compassion</strong> [арт.] шматлікі не <strong>leave</strong> у|[Тв.с.] [арт.] <strong>desert</strong> [В.с.] <strong>pillar</strong> [арт.] <strong>cloud</strong> не збочыць з на у|[Тв.с.] дзень да|[Д.с.] <strong>lead</strong> у|[Тв.с.] [арт.] шлях і [В.с.] <strong>pillar</strong> [арт.] агонь у|[Тв.с.] ноч да|[Д.с.] <strong>be light</strong> да|[Д.с.] і [В.с.] [арт.] шлях які хадзіць у|[Тв.с.] 
+Nehemiah 9:20 (21277) і вецер [арт.] добры даць да|[Д.с.] <strong>prosper</strong> і <strong>manna</strong> не <strong>withhold</strong> з рот і вада даць да|[Д.с.] да|[Д.с.] <strong>thirst</strong> 
+Nehemiah 9:21 (21278) і <strong>four</strong> год <strong>comprehend</strong> у|[Тв.с.] [арт.] <strong>desert</strong> не <strong>diminish</strong> <strong>wrapper</strong> не <strong>be worn out</strong> і нага не <strong>swell</strong> 
+Nehemiah 9:22 (21279) і даць да|[Д.с.] <strong>kingdom</strong> і народ і <strong>divide</strong> да|[Д.с.] <strong>piece</strong> і заўладаць [В.с.] зямля <strong>Sihon</strong> і [В.с.] зямля цар <strong>Heshbon</strong> і [В.с.] зямля <strong>Og</strong> цар [арт.] <strong>Bashan</strong> 
+Nehemiah 9:23 (21280) і сын шмат як зорка [арт.] неба і прыйсці да [арт.] зямля які казаць да|[Д.с.] бацька да|[Д.с.] прыйсці да|[Д.с.] заўладаць 
+Nehemiah 9:24 (21281) і прыйсці [арт.] сын і заўладаць [В.с.] [арт.] зямля і <strong>be humble</strong> да|[Д.с.] твар [В.с.] сядзець [арт.] зямля [арт.] канаанец і даць у|[Тв.с.] рука і [В.с.] цар і [В.с.] народ [арт.] зямля да|[Д.с.] рабіць у|[Тв.с.] як <strong>pleasure</strong> 
+Nehemiah 9:25 (21282) і <strong>seize</strong> горад <strong>fortified</strong> і <strong>soil</strong> <strong>fat</strong> і заўладаць дом поўніцца цэлы|увесь <strong>best</strong> <strong>cistern</strong> <strong>hew</strong> <strong>vineyard</strong> і <strong>olive</strong> і дрэва <strong>food</strong> да|[Д.с.] шматлікасць і есці і <strong>be sated</strong> і <strong>be fat</strong> і <strong>be luxurious</strong> у|[Тв.с.] <strong>best</strong> [арт.] вялікі 
+Nehemiah 9:26 (21283) і <strong>rebel</strong> і <strong>rebel</strong> у|[Тв.с.] і кінуць [В.с.] <strong>instruction</strong> пасля <strong>back</strong> і [В.с.] <strong>prophet</strong> <strong>kill</strong> які <strong>warn, to witness</strong> у|[Тв.с.] да|[Д.с.] вяртацца да і рабіць <strong>contumely</strong> вялікі 
+Nehemiah 9:27 (21284) і даць у|[Тв.с.] рука <strong>adversary</strong> і <strong>wrap, be narrow</strong> да|[Д.с.] і у|[Тв.с.] момант бедства <strong>cry</strong> да і ты[м.] з неба чуць і як <strong>compassion</strong> [арт.] шматлікі даць да|[Д.с.] збавіць і збавіць з рука <strong>adversary</strong> 
+Nehemiah 9:28 (21285) і як асесць да|[Д.с.] вяртацца да|[Д.с.] рабіць зло да|[Д.с.] твар і <strong>leave</strong> у|[Тв.с.] рука <strong>be hostile</strong> і <strong>tread, to rule</strong> у|[Тв.с.] і вяртацца і <strong>cry</strong> і ты[м.] з неба чуць і <strong>deliver</strong> як <strong>compassion</strong> шматлікі момант 
+Nehemiah 9:29 (21286) і <strong>warn, to witness</strong> у|[Тв.с.] да|[Д.с.] вяртацца да <strong>instruction</strong> і яны <strong>be presumptuous</strong> і не чуць да|[Д.с.] <strong>commandment</strong> і у|[Тв.с.] правасуддзе заблудзіць у|[Тв.с.] які рабіць чалавек (від) і жыць у|[Тв.с.] і даць <strong>shoulder</strong> <strong>rebel</strong> і <strong>neck</strong> <strong>be hard</strong> і не чуць 
+Nehemiah 9:30 (21287) і <strong>draw</strong> на год шматлікі і <strong>warn, to witness</strong> у|[Тв.с.] у|[Тв.с.] вецер у|[Тв.с.] рука <strong>prophet</strong> і не <strong>listen</strong> і даць у|[Тв.с.] рука народ [арт.] зямля 
+Nehemiah 9:31 (21288) і у|[Тв.с.] <strong>compassion</strong> [арт.] шматлікі не рабіць <strong>destruction</strong> і не <strong>leave</strong> бо|што <strong>god</strong> <strong>gracious</strong> і <strong>compassionate</strong> ты[м.] 
+Nehemiah 9:32 (21289) і <strong>now</strong> Бог [арт.] <strong>god</strong> [арт.] вялікі [арт.] мужны|моцны і [арт.] баяцца захоўваць [арт.] дамова і [арт.] <strong>loyalty</strong> не [+заг.лад] <strong>be little</strong> да|[Д.с.] твар [В.с.] цэлы|увесь [арт.] <strong>weariness</strong> які знайсці да|[Д.с.] цар да|[Д.с.] кіраўнік|міністр і да|[Д.с.] <strong>priest</strong> і да|[Д.с.] <strong>prophet</strong> і да|[Д.с.] бацька і да|[Д.с.] цэлы|увесь народ з дзень цар <strong>Asshur</strong> (ажно) да [арт.] дзень [арт.] гэты 
+Nehemiah 9:33 (21290) і ты[м.] справядлівы|правільны на цэлы|увесь [арт.] прыйсці на бо|што праўда рабіць і <strong>we</strong> <strong>be guilty</strong> 
+Nehemiah 9:34 (21291) і [В.с.] цар кіраўнік|міністр <strong>priest</strong> і бацька не рабіць <strong>instruction</strong> і не <strong>give attention</strong> да <strong>commandment</strong> і да|[Д.с.] <strong>reminder</strong> які <strong>warn, to witness</strong> у|[Тв.с.] 
+Nehemiah 9:35 (21292) і яны [ж.] у|[Тв.с.] царства і у|[Тв.с.] <strong>best</strong> [арт.] шматлікі які даць да|[Д.с.] і у|[Тв.с.] зямля [арт.] <strong>wide</strong> і [арт.] <strong>fat</strong> які даць да|[Д.с.] твар не працаваць і не вяртацца з <strong>deed</strong> [арт.] зло 
+Nehemiah 9:36 (21293) вось <strong>we</strong> [арт.] дзень слуга і [арт.] зямля які даць да|[Д.с.] бацька да|[Д.с.] есці [В.с.] плод і [В.с.] <strong>best</strong> вось <strong>we</strong> слуга на 
+Nehemiah 9:37 (21294) і <strong>yield</strong> шмат да|[Д.с.] [арт.] цар які даць на у|[Тв.с.] <strong>sin</strong> і на <strong>body</strong> <strong>rule</strong> і у|[Тв.с.] звяры як <strong>pleasure</strong> і у|[Тв.с.] бедства вялікі <strong>we</strong> פ
+Nehemiah 10:1 (21295) і у|[Тв.с.] цэлы|увесь <strong>this</strong> <strong>we</strong> выразаць <strong>trustworthy arrangement</strong> і пісанне і на [арт.] <strong>seal</strong> кіраўнік|міністр <strong>Levite</strong> <strong>priest</strong> 
+Nehemiah 10:2 (21296) і на [арт.] <strong>seal</strong> <strong>Nehemiah</strong> [арт.] <strong>governor</strong> сын <strong>Hacaliah</strong> і <strong>Zedekiah</strong> 
+Nehemiah 10:3 (21297) <strong>Seraiah</strong> <strong>Azariah</strong> <strong>Jeremiah</strong> 
+Nehemiah 10:4 (21298) <strong>Pashhur</strong> <strong>Amariah</strong> <strong>Malkijah</strong> 
+Nehemiah 10:5 (21299) <strong>Hattush</strong> <strong>Shebaniah</strong> <strong>Malluch</strong> 
+Nehemiah 10:6 (21300) <strong>Harim</strong> <strong>Meremoth</strong> Аваддзя 
+Nehemiah 10:7 (21301) <strong>Daniel</strong> <strong>Ginnethon</strong> <strong>Baruch</strong> 
+Nehemiah 10:8 (21302) <strong>Meshullam</strong> <strong>Abijah</strong> <strong>Mijamin</strong> 
+Nehemiah 10:9 (21303) <strong>Maaziah</strong> <strong>Bilgai</strong> <strong>Shemaiah</strong> гэтыя [арт.] <strong>priest</strong> ס
+Nehemiah 10:10 (21304) і [арт.] <strong>Levite</strong> і <strong>Jeshua</strong> сын <strong>Azaniah</strong> <strong>Binnui</strong> з сын <strong>Henadad</strong> <strong>Kadmiel</strong> 
+Nehemiah 10:11 (21305) і брат <strong>Shebaniah</strong> <strong>Hodiah</strong> <strong>Kelita</strong> <strong>Pelaiah</strong> <strong>Hanan</strong> 
+Nehemiah 10:12 (21306) <strong>Mica</strong> <strong>Rehob</strong> <strong>Hashabiah</strong> 
+Nehemiah 10:13 (21307) <strong>Zaccur</strong> <strong>Sherebiah</strong> <strong>Shebaniah</strong> 
+Nehemiah 10:14 (21308) <strong>Hodiah</strong> <strong>Bani</strong> <strong>Beninu</strong> ס
+Nehemiah 10:15 (21309) галава [арт.] народ <strong>Parosh</strong> <strong>Pahath-Moab</strong> <strong>Elam</strong> <strong>Zattu</strong> <strong>Bani</strong> 
+Nehemiah 10:16 (21310) <strong>Bunni</strong> <strong>Azgad</strong> <strong>Bebai</strong> 
+Nehemiah 10:17 (21311) <strong>Adonijah</strong> <strong>Bigvai</strong> <strong>Adin</strong> 
+Nehemiah 10:18 (21312) <strong>Ater</strong> <strong>Hizkiah</strong> <strong>Azzur</strong> 
+Nehemiah 10:19 (21313) <strong>Hodiah</strong> <strong>Hashum</strong> <strong>Bezai</strong> 
+Nehemiah 10:20 (21314) <strong>Hariph</strong> <strong>Anathoth</strong> <strong>Nebai</strong> 
+Nehemiah 10:21 (21315) <strong>Magpiash</strong> <strong>Meshullam</strong> <strong>Hezir</strong> 
+Nehemiah 10:22 (21316) <strong>Meshezabel</strong> <strong>Zadok</strong> <strong>Jaddua</strong> 
+Nehemiah 10:23 (21317) <strong>Pelatiah</strong> <strong>Hanan</strong> <strong>Anaiah</strong> 
+Nehemiah 10:24 (21318) <strong>Hosea</strong> <strong>Hananiah</strong> <strong>Hasshub</strong> 
+Nehemiah 10:25 (21319) [арт.] <strong>Hallohesh</strong> <strong>Pilha</strong> <strong>Shobek</strong> 
+Nehemiah 10:26 (21320) <strong>Rehum</strong> <strong>Hashabnah</strong> <strong>Maaseiah</strong> 
+Nehemiah 10:27 (21321) і <strong>Ahijah</strong> <strong>Hanan</strong> <strong>Anan</strong> 
+Nehemiah 10:28 (21322) <strong>Malluch</strong> <strong>Harim</strong> <strong>Baanah</strong> 
+Nehemiah 10:29 (21323) і <strong>rest</strong> [арт.] народ [арт.] <strong>priest</strong> [арт.] <strong>Levite</strong> [арт.] <strong>porter</strong> [арт.] <strong>sing</strong> [арт.] <strong>temple slave</strong> і цэлы|увесь [арт.] <strong>separate</strong> з народ [арт.] зямля да <strong>instruction</strong> [арт.] Бог жанчына сын і дачка цэлы|увесь ведаць [+неад.]|займацца сэксам [+адуш.] разумець 
+Nehemiah 10:30 (21324) <strong>be strong</strong> на брат <strong>mighty</strong> і прыйсці у|[Тв.с.] <strong>curse</strong> і у|[Тв.с.] <strong>oath</strong> да|[Д.с.] хадзіць у|[Тв.с.] <strong>instruction</strong> [арт.] Бог які даць у|[Тв.с.] рука Майсей слуга [арт.] Бог і да|[Д.с.] захоўваць і да|[Д.с.] рабіць [В.с.] цэлы|увесь <strong>commandment</strong> Існы <strong>lord</strong> і правасуддзе і <strong>portion</strong> 
+Nehemiah 10:31 (21325) і які не даць дачка да|[Д.с.] народ [арт.] зямля і [В.с.] дачка не браць да|[Д.с.] сын 
+Nehemiah 10:32 (21326) і народ [арт.] зямля [арт.] прыйсці [В.с.] [арт.] <strong>wares</strong> і цэлы|увесь <strong>corn</strong> у|[Тв.с.] дзень [арт.] <strong>sabbath</strong> да|[Д.с.] <strong>sell</strong> не браць з у|[Тв.с.] [арт.] <strong>sabbath</strong> і у|[Тв.с.] дзень святасць і <strong>abandon</strong> [В.с.] [арт.] год [арт.] <strong>seventh</strong> і <strong>claim</strong> цэлы|увесь рука 
+Nehemiah 10:33 (21327) і стаяць на <strong>commandment</strong> да|[Д.с.] даць на <strong>third part</strong> [арт.] <strong>shekel</strong> у|[Тв.с.] [арт.] год да|[Д.с.] <strong>work</strong> дом Бог 
+Nehemiah 10:34 (21328) да|[Д.с.] хлеб [арт.] <strong>row</strong> і <strong>present</strong> [арт.] беззаганнасць і да|[Д.с.] <strong>burnt-offering</strong> [арт.] беззаганнасць [арт.] <strong>sabbath</strong> [арт.] <strong>month</strong> да|[Д.с.] [арт.] <strong>appointment</strong> і да|[Д.с.] [арт.] святасць і да|[Д.с.] [арт.] <strong>sin</strong> да|[Д.с.] <strong>cover</strong> на Ісраэль і цэлы|увесь <strong>work</strong> дом Бог ס
+Nehemiah 10:35 (21329) і [арт.] лёс|доля падаць на <strong>supply</strong> [арт.] дрэва [арт.] <strong>priest</strong> [арт.] <strong>Levite</strong> і [арт.] народ да|[Д.с.] прыйсці да|[Д.с.] дом Бог да|[Д.с.] дом бацька да|[Д.с.] момант <strong>appoint</strong> год у|[Тв.с.] год да|[Д.с.] <strong>burn</strong> на <strong>altar</strong> Існы Бог як [арт.] пісанне у|[Тв.с.] [арт.] <strong>instruction</strong> 
+Nehemiah 10:36 (21330) і да|[Д.с.] прыйсці [В.с.] <strong>first fruits</strong> <strong>soil</strong> і <strong>first fruits</strong> цэлы|увесь плод цэлы|увесь дрэва год у|[Тв.с.] год да|[Д.с.] дом Існы 
+Nehemiah 10:37 (21331) і [В.с.] <strong>first-born</strong> сын і звяры як [арт.] пісанне у|[Тв.с.] [арт.] <strong>instruction</strong> і [В.с.] <strong>first-born</strong> быдла і скаціна да|[Д.с.] прыйсці да|[Д.с.] дом Бог да|[Д.с.] [арт.] <strong>priest</strong> [арт.] <strong>serve</strong> у|[Тв.с.] дом Бог 
+Nehemiah 10:38 (21332) і [В.с.] зачын <strong>dough</strong> і <strong>contribution</strong> і плод цэлы|увесь дрэва <strong>wine</strong> і <strong>oil</strong> прыйсці да|[Д.с.] [арт.] <strong>priest</strong> да <strong>hall</strong> дом Бог і <strong>tenth</strong> <strong>soil</strong> да|[Д.с.] [арт.] <strong>Levite</strong> і яны [ж.] [арт.] <strong>Levite</strong> [арт.] <strong>take tenth</strong> у|[Тв.с.] цэлы|увесь горад <strong>work</strong> 
+Nehemiah 10:39 (21333) і быць [арт.] <strong>priest</strong> сын <strong>Aaron</strong> з [арт.] <strong>Levite</strong> у|[Тв.с.] <strong>take tenth</strong> [арт.] <strong>Levite</strong> і [арт.] <strong>Levite</strong> падымацца [В.с.] <strong>tenth</strong> [арт.] <strong>tenth</strong> да|[Д.с.] дом Бог да [арт.] <strong>hall</strong> да|[Д.с.] дом [арт.] <strong>supply</strong> 
+Nehemiah 10:40 (21334) бо|што да [арт.] <strong>hall</strong> прыйсці сын Ісраэль і сын [арт.] <strong>Levite</strong> [В.с.] <strong>contribution</strong> [арт.] <strong>corn</strong> [арт.] <strong>wine</strong> і [арт.] <strong>oil</strong> і там прылада [арт.] <strong>sanctuary</strong> і [арт.] <strong>priest</strong> [арт.] <strong>serve</strong> і [арт.] <strong>porter</strong> і [арт.] <strong>sing</strong> і не <strong>leave</strong> [В.с.] дом Бог 
+Nehemiah 11:1 (21335) і сядзець кіраўнік|міністр [арт.] народ у|[Тв.с.] Ерусалім і <strong>rest</strong> [арт.] народ падаць лёс|доля да|[Д.с.] прыйсці адзін з [арт.] дзесяць да|[Д.с.] сядзець у|[Тв.с.] Ерусалім горад [арт.] святасць і <strong>nine</strong> [арт.] рука у|[Тв.с.] [арт.] горад 
+Nehemiah 11:2 (21336) і <strong>bless</strong> [арт.] народ да|[Д.с.] цэлы|увесь [арт.] чалавек (1) [арт.] <strong>incite</strong> да|[Д.с.] сядзець у|[Тв.с.] Ерусалім פ
+Nehemiah 11:3 (21337) і гэтыя галава [арт.] <strong>district</strong> які сядзець у|[Тв.с.] Ерусалім і у|[Тв.с.] горад Егуда сядзець чалавек (1) у|[Тв.с.] <strong>land property</strong> у|[Тв.с.] горад Ісраэль [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> і [арт.] <strong>temple slave</strong> і сын слуга <strong>Solomon</strong> 
+Nehemiah 11:4 (21338) і у|[Тв.с.] Ерусалім сядзець з сын Егуда і з сын Бін’ямін з сын Егуда <strong>Athaiah</strong> сын <strong>Uzziah</strong> сын <strong>Zechariah</strong> сын <strong>Amariah</strong> сын <strong>Shephatiah</strong> сын <strong>Mahalalel</strong> з сын <strong>Perez</strong> 
+Nehemiah 11:5 (21339) і <strong>Maaseiah</strong> сын <strong>Baruch</strong> сын <strong>Col-Hozeh</strong> сын <strong>Hazaiah</strong> сын <strong>Adaiah</strong> сын <strong>Joiarib</strong> сын <strong>Zechariah</strong> сын [арт.] <strong>Shilonite</strong> 
+Nehemiah 11:6 (21340) цэлы|увесь сын <strong>Perez</strong> [арт.] сядзець у|[Тв.с.] Ерусалім <strong>four</strong> сотня <strong>six</strong> і восем чалавек (1) моц ס
+Nehemiah 11:7 (21341) і гэтыя сын Бін’ямін <strong>Sallu</strong> сын <strong>Meshullam</strong> сын <strong>Joed</strong> сын <strong>Pedaiah</strong> сын <strong>Kolaiah</strong> сын <strong>Maaseiah</strong> сын <strong>Ithiel</strong> сын <strong>Jeshaiah</strong> 
+Nehemiah 11:8 (21342) і пасля <strong>Gabbai</strong> <strong>Sallai</strong> <strong>nine</strong> сотня <strong>twenty</strong> і восем 
+Nehemiah 11:9 (21343) і <strong>Joel</strong> сын <strong>Zicri</strong> <strong>officer</strong> на і Егуда сын [арт.] <strong>Hassenuah</strong> на [арт.] горад <strong>second</strong> פ
+Nehemiah 11:10 (21344) з [арт.] <strong>priest</strong> <strong>Jedaiah</strong> сын <strong>Joiarib</strong> <strong>Jakin</strong> 
+Nehemiah 11:11 (21345) <strong>Seraiah</strong> сын <strong>Hilkiah</strong> сын <strong>Meshullam</strong> сын <strong>Zadok</strong> сын <strong>Meraioth</strong> сын <strong>Ahitub</strong> <strong>chief</strong> дом [арт.] Бог 
+Nehemiah 11:12 (21346) і брат рабіць [арт.] <strong>work</strong> да|[Д.с.] [арт.] дом восем сотня <strong>twenty</strong> і два і <strong>Adaiah</strong> сын <strong>Jeroham</strong> сын <strong>Pelaliah</strong> сын <strong>Amzi</strong> сын <strong>Zechariah</strong> сын <strong>Pashhur</strong> сын <strong>Malkijah</strong> 
+Nehemiah 11:13 (21347) і брат галава да|[Д.с.] бацька сотня <strong>four</strong> і два і <strong>Amashsai</strong> сын <strong>Azarel</strong> сын <strong>Ahzai</strong> сын <strong>Meshillemoth</strong> сын <strong>Immer</strong> 
+Nehemiah 11:14 (21348) і брат мужны|моцны моц сотня <strong>twenty</strong> і восем і <strong>officer</strong> на <strong>Zabdiel</strong> сын [арт.] вялікі ס
+Nehemiah 11:15 (21349) і з [арт.] <strong>Levite</strong> <strong>Shemaiah</strong> сын <strong>Hasshub</strong> сын <strong>Azrikam</strong> сын <strong>Hashabiah</strong> сын <strong>Bunni</strong> 
+Nehemiah 11:16 (21350) і <strong>Shabbethai</strong> і <strong>Jozabad</strong> на [арт.] <strong>work</strong> [арт.] <strong>external</strong> да|[Д.с.] дом [арт.] Бог з галава [арт.] <strong>Levite</strong> 
+Nehemiah 11:17 (21351) і <strong>Mattaniah</strong> сын <strong>Micah</strong> сын <strong>Zabdi</strong> сын <strong>Asaph</strong> галава [арт.] <strong>beginning</strong> <strong>praise</strong> да|[Д.с.] [арт.] <strong>prayer</strong> і <strong>Bakbukiah</strong> <strong>second</strong> з брат і <strong>Abda</strong> сын <strong>Shammua</strong> сын <strong>Galal</strong> сын <strong>Jeduthun</strong> 
+Nehemiah 11:18 (21352) цэлы|увесь [арт.] <strong>Levite</strong> у|[Тв.с.] горад [арт.] святасць сотня восем і <strong>four</strong> פ
+Nehemiah 11:19 (21353) і [арт.] <strong>porter</strong> <strong>Akkub</strong> <strong>Talmon</strong> і брат [арт.] захоўваць у|[Тв.с.] [арт.] брама сотня сем і два 
+Nehemiah 11:20 (21354) і <strong>rest</strong> Ісраэль [арт.] <strong>priest</strong> [арт.] <strong>Levite</strong> у|[Тв.с.] цэлы|увесь горад Егуда чалавек (1) у|[Тв.с.] уласнасць 
+Nehemiah 11:21 (21355) і [арт.] <strong>temple slave</strong> сядзець у|[Тв.с.] [арт.] <strong>Ophel</strong> і <strong>Ziha</strong> і <strong>Gishpa</strong> на [арт.] <strong>temple slave</strong> פ
+Nehemiah 11:22 (21356) і <strong>officer</strong> [арт.] <strong>Levite</strong> у|[Тв.с.] Ерусалім <strong>Uzzi</strong> сын <strong>Bani</strong> сын <strong>Hashabiah</strong> сын <strong>Mattaniah</strong> сын <strong>Mica</strong> з сын <strong>Asaph</strong> [арт.] <strong>sing</strong> да|[Д.с.] перад <strong>work</strong> дом [арт.] Бог 
+Nehemiah 11:23 (21357) бо|што <strong>commandment</strong> [арт.] цар на і <strong>trustworthy arrangement</strong> на [арт.] <strong>sing</strong> слова|рэч дзень у|[Тв.с.] дзень 
+Nehemiah 11:24 (21358) і <strong>Pethahiah</strong> сын <strong>Meshezabel</strong> з сын <strong>Zerah</strong> сын Егуда да|[Д.с.] рука [арт.] цар да|[Д.с.] цэлы|увесь слова|рэч да|[Д.с.] [арт.] народ 
+Nehemiah 11:25 (21359) і да [арт.] <strong>court</strong> у|[Тв.с.] поле з сын Егуда сядзець у|[Тв.с.] <strong>Kiriath Arba</strong> і дачка і у|[Тв.с.] <strong>Dibon</strong> і дачка і у|[Тв.с.] <strong>Jekabzeel</strong> і <strong>court</strong> 
+Nehemiah 11:26 (21360) і у|[Тв.с.] <strong>Jeshua</strong> і у|[Тв.с.] <strong>Moladah</strong> і у|[Тв.с.] <strong>Beth Pelet</strong> 
+Nehemiah 11:27 (21361) і у|[Тв.с.] <strong>Hazar Shual</strong> і у|[Тв.с.] <strong>well</strong> <strong>Sheba</strong> і дачка 
+Nehemiah 11:28 (21362) і у|[Тв.с.] <strong>Ziklag</strong> і у|[Тв.с.] <strong>Meconah</strong> і у|[Тв.с.] дачка 
+Nehemiah 11:29 (21363) і у|[Тв.с.] <strong>En Rimmon</strong> і у|[Тв.с.] <strong>Zorah</strong> і у|[Тв.с.] <strong>Jarmuth</strong> 
+Nehemiah 11:30 (21364) <strong>Zanoah</strong> <strong>Adullam</strong> і <strong>court</strong> <strong>Lachish</strong> і поле <strong>Azekah</strong> і дачка і <strong>encamp</strong> з <strong>well</strong> <strong>Sheba</strong> (ажно) да <strong>valley</strong> <strong>Hinnom</strong> 
+Nehemiah 11:31 (21365) і сын Бін’ямін з <strong>Geba</strong> <strong>Micmash</strong> і <strong>Aiah</strong> і <strong>Bethel</strong> і дачка 
+Nehemiah 11:32 (21366) <strong>[town]</strong> <strong>Nob</strong> <strong>Ananiah</strong> 
+Nehemiah 11:33 (21367) <strong>Hazor</strong> <strong>Ramah</strong> <strong>Gittaim</strong> 
+Nehemiah 11:34 (21368) <strong>Hadid</strong> <strong>Zeboim</strong> <strong>Neballat</strong> 
+Nehemiah 11:35 (21369) <strong>Lod</strong> і <strong>Ono</strong> <strong>valley</strong> [арт.] <strong>craftsman</strong> 
+Nehemiah 11:36 (21370) і з [арт.] <strong>Levite</strong> <strong>division</strong> Егуда да|[Д.с.] Бін’ямін פ
+Nehemiah 12:1 (21371) і гэтыя [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> які падымацца з <strong>Zerubbabel</strong> сын <strong>Shealtiel</strong> і <strong>Jeshua</strong> <strong>Seraiah</strong> <strong>Jeremiah</strong> <strong>Ezra</strong> 
+Nehemiah 12:2 (21372) <strong>Amariah</strong> <strong>Malluch</strong> <strong>Hattush</strong> 
+Nehemiah 12:3 (21373) <strong>Shecaniah</strong> <strong>Rehum</strong> <strong>Meremoth</strong> 
+Nehemiah 12:4 (21374) <strong>Iddo</strong> <strong>Ginnethoi</strong> <strong>Abijah</strong> 
+Nehemiah 12:5 (21375) <strong>Mijamin</strong> <strong>Moadiah</strong> <strong>Bilgah</strong> 
+Nehemiah 12:6 (21376) <strong>Shemaiah</strong> і <strong>Joiarib</strong> <strong>Jedaiah</strong> 
+Nehemiah 12:7 (21377) <strong>Sallai</strong> <strong>Amok</strong> <strong>Hilkiah</strong> <strong>Jedaiah</strong> гэтыя галава [арт.] <strong>priest</strong> і брат у|[Тв.с.] дзень <strong>Jeshua</strong> פ
+Nehemiah 12:8 (21378) і [арт.] <strong>Levite</strong> <strong>Jeshua</strong> <strong>Binnui</strong> <strong>Kadmiel</strong> <strong>Sherebiah</strong> Егуда <strong>Mattaniah</strong> на <strong>[uncertain]</strong> ён і брат 
+Nehemiah 12:9 (21379) і <strong>Bakbukiah</strong> і <strong>Unni</strong> брат да|[Д.с.] перад да|[Д.с.] <strong>guard-post</strong> 
+Nehemiah 12:10 (21380) і <strong>Jeshua</strong> нарадзіць [В.с.] <strong>Joiakim</strong> і <strong>Joiakim</strong> нарадзіць [В.с.] <strong>Eliashib</strong> і <strong>Eliashib</strong> [В.с.] <strong>Joiada</strong> 
+Nehemiah 12:11 (21381) і <strong>Joiada</strong> нарадзіць [В.с.] <strong>Jonathan</strong> і <strong>Jonathan</strong> нарадзіць [В.с.] <strong>Jaddua</strong> 
+Nehemiah 12:12 (21382) і у|[Тв.с.] дзень <strong>Joiakim</strong> быць <strong>priest</strong> галава [арт.] бацька да|[Д.с.] <strong>Seraiah</strong> <strong>Meraiah</strong> да|[Д.с.] <strong>Jeremiah</strong> <strong>Hananiah</strong> 
+Nehemiah 12:13 (21383) да|[Д.с.] <strong>Ezra</strong> <strong>Meshullam</strong> да|[Д.с.] <strong>Amariah</strong> <strong>Jehohanan</strong> 
+Nehemiah 12:14 (21384) да|[Д.с.] <strong>Malluch</strong> <strong>Jonathan</strong> да|[Д.с.] <strong>Shebaniah</strong> Ёсэ́ф 
+Nehemiah 12:15 (21385) да|[Д.с.] <strong>Harim</strong> <strong>Adna</strong> да|[Д.с.] <strong>Meraioth</strong> <strong>Helkai</strong> 
+Nehemiah 12:16 (21386) да|[Д.с.] <strong>Iddo</strong> <strong>Zechariah</strong> да|[Д.с.] <strong>Ginnethon</strong> <strong>Meshullam</strong> 
+Nehemiah 12:17 (21387) да|[Д.с.] <strong>Abijah</strong> <strong>Zicri</strong> да|[Д.с.] <strong>Miniamin</strong> да|[Д.с.] <strong>Moadiah</strong> <strong>Piltai</strong> 
+Nehemiah 12:18 (21388) да|[Д.с.] <strong>Bilgah</strong> <strong>Shammua</strong> да|[Д.с.] <strong>Shemaiah</strong> <strong>Jehonathan</strong> 
+Nehemiah 12:19 (21389) і да|[Д.с.] <strong>Joiarib</strong> <strong>Mattenai</strong> да|[Д.с.] <strong>Jedaiah</strong> <strong>Uzzi</strong> 
+Nehemiah 12:20 (21390) да|[Д.с.] <strong>Sallai</strong> <strong>Kallai</strong> да|[Д.с.] <strong>Amok</strong> <strong>Eber</strong> 
+Nehemiah 12:21 (21391) да|[Д.с.] <strong>Hilkiah</strong> <strong>Hashabiah</strong> да|[Д.с.] <strong>Jedaiah</strong> <strong>Nethanel</strong> 
+Nehemiah 12:22 (21392) [арт.] <strong>Levite</strong> у|[Тв.с.] дзень <strong>Eliashib</strong> <strong>Joiada</strong> і <strong>Johanan</strong> і <strong>Jaddua</strong> пісанне галава бацька і [арт.] <strong>priest</strong> на царства <strong>Darius</strong> [арт.] <strong>Persian</strong> פ
+Nehemiah 12:23 (21393) сын <strong>Levi</strong> галава [арт.] бацька пісанне на ліст слова|рэч [арт.] дзень і (ажно) да дзень <strong>Johanan</strong> сын <strong>Eliashib</strong> 
+Nehemiah 12:24 (21394) і галава [арт.] <strong>Levite</strong> <strong>Hashabiah</strong> <strong>Sherebiah</strong> і <strong>Jeshua</strong> сын <strong>Kadmiel</strong> і брат да|[Д.с.] перад да|[Д.с.] <strong>praise</strong> да|[Д.с.] <strong>praise</strong> у|[Тв.с.] <strong>commandment</strong> Давыд чалавек (1) [арт.] Бог <strong>guard</strong> да|[Д.с.] <strong>side</strong> <strong>guard</strong> 
+Nehemiah 12:25 (21395) <strong>Mattaniah</strong> і <strong>Bakbukiah</strong> Аваддзя <strong>Meshullam</strong> <strong>Talmon</strong> <strong>Akkub</strong> захоўваць <strong>porter</strong> <strong>guard</strong> у|[Тв.с.] <strong>store</strong> [арт.] брама 
+Nehemiah 12:26 (21396) гэтыя у|[Тв.с.] дзень <strong>Joiakim</strong> сын <strong>Jeshua</strong> сын <strong>Jozadak</strong> і у|[Тв.с.] дзень <strong>Nehemiah</strong> [арт.] <strong>governor</strong> і <strong>Ezra</strong> [арт.] <strong>priest</strong> [арт.] <strong>scribe</strong> פ
+Nehemiah 12:27 (21397) і у|[Тв.с.] <strong>dedication</strong> <strong>wall</strong> Ерусалім шукаць [В.с.] [арт.] <strong>Levite</strong> з цэлы|увесь месца да|[Д.с.] прыйсці да|[Д.с.] Ерусалім да|[Д.с.] рабіць <strong>dedication</strong> і радасць і у|[Тв.с.] <strong>thanksgiving</strong> і у|[Тв.с.] песня <strong>cymbals</strong> <strong>harp</strong> і у|[Тв.с.] <strong>cither</strong> 
+Nehemiah 12:28 (21398) і збіраць сын [арт.] <strong>sing</strong> і з [арт.] <strong>disk</strong> вакол Ерусалім і з <strong>court</strong> <strong>Netophathite</strong> 
+Nehemiah 12:29 (21399) і з <strong>Beth Gilgal</strong> і з поле <strong>Geba</strong> і <strong>Azmaveth</strong> бо|што <strong>court</strong> будаваць да|[Д.с.] [арт.] <strong>sing</strong> вакол Ерусалім 
+Nehemiah 12:30 (21400) і <strong>be clean</strong> [арт.] <strong>priest</strong> і [арт.] <strong>Levite</strong> і <strong>be clean</strong> [В.с.] [арт.] народ і [В.с.] [арт.] брама і [В.с.] [арт.] <strong>wall</strong> 
+Nehemiah 12:31 (21401) і падымацца [В.с.] кіраўнік|міністр Егуда з на да|[Д.с.] [арт.] <strong>wall</strong> і стаяць два <strong>thanksgiving</strong> вялікі і <strong>procession</strong> да|[Д.с.] [арт.] правая частка з на да|[Д.с.] [арт.] <strong>wall</strong> да|[Д.с.] брама [арт.] <strong>ash pit</strong> 
+Nehemiah 12:32 (21402) і хадзіць пасля <strong>Hoshaiah</strong> і <strong>half</strong> кіраўнік|міністр Егуда 
+Nehemiah 12:33 (21403) і <strong>Azariah</strong> <strong>Ezra</strong> і <strong>Meshullam</strong> 
+Nehemiah 12:34 (21404) Егуда і Бін’ямін і <strong>Shemaiah</strong> і <strong>Jeremiah</strong> ס
+Nehemiah 12:35 (21405) і з сын [арт.] <strong>priest</strong> у|[Тв.с.] <strong>clarion</strong> <strong>Zechariah</strong> сын <strong>Jonathan</strong> сын <strong>Shemaiah</strong> сын <strong>Mattaniah</strong> сын <strong>Micaiah</strong> сын <strong>Zaccur</strong> сын <strong>Asaph</strong> 
+Nehemiah 12:36 (21406) і брат <strong>Shemaiah</strong> і <strong>Azarel</strong> <strong>Milalai</strong> <strong>Gilalai</strong> <strong>Maai</strong> <strong>Nethanel</strong> і Егуда <strong>Hanani</strong> у|[Тв.с.] прылада песня Давыд чалавек (1) [арт.] Бог і <strong>Ezra</strong> [арт.] <strong>scribe</strong> да|[Д.с.] твар 
+Nehemiah 12:37 (21407) і на брама [арт.] вока і перад падымацца на <strong>ascent</strong> горад Давыд у|[Тв.с.] [арт.] <strong>ascent</strong> да|[Д.с.] [арт.] <strong>wall</strong> з на да|[Д.с.] дом Давыд і (ажно) да брама [арт.] вада <strong>sunrise</strong> 
+Nehemiah 12:38 (21408) і [арт.] <strong>thanksgiving</strong> [арт.] другі [арт.] хадзіць да|[Д.с.] <strong>front</strong> і я пасля і <strong>half</strong> [арт.] народ з на да|[Д.с.] [арт.] <strong>wall</strong> з на да|[Д.с.] <strong>tower</strong> [арт.] <strong>furnace</strong> і (ажно) да [арт.] <strong>wall</strong> [арт.] <strong>wide</strong> 
+Nehemiah 12:39 (21409) і з на да|[Д.с.] брама Эфраі́м і на брама [арт.] <strong>old</strong> і на брама [арт.] рыба і <strong>tower</strong> <strong>Hananel</strong> і <strong>tower</strong> [арт.] <strong>the Hundred</strong> і (ажно) да брама [арт.] скаціна і стаяць у|[Тв.с.] брама [арт.] <strong>target</strong> 
+Nehemiah 12:40 (21410) і стаяць два [арт.] <strong>thanksgiving</strong> у|[Тв.с.] дом [арт.] Бог і я і <strong>half</strong> [арт.] <strong>prefect</strong> з 
+Nehemiah 12:41 (21411) і [арт.] <strong>priest</strong> <strong>Eliakim</strong> <strong>Maaseiah</strong> <strong>Miniamin</strong> <strong>Micaiah</strong> <strong>Elioenai</strong> <strong>Zechariah</strong> <strong>Hananiah</strong> у|[Тв.с.] <strong>clarion</strong> 
+Nehemiah 12:42 (21412) і <strong>Maaseiah</strong> і <strong>Shemaiah</strong> і <strong>Eleazar</strong> і <strong>Uzzi</strong> і <strong>Jehohanan</strong> і <strong>Malkijah</strong> і <strong>Elam</strong> і <strong>Ezer</strong> і чуць [арт.] <strong>sing</strong> і <strong>Izrahiah</strong> [арт.] <strong>officer</strong> 
+Nehemiah 12:43 (21413) і забіць у|[Тв.с.] [арт.] дзень [арт.] ён <strong>sacrifice</strong> вялікі і узрадавацца бо|што [арт.] Бог узрадавацца радасць вялікі і таксама|нават [арт.] жанчына і [арт.] дзіця [м.] узрадавацца і чуць радасць Ерусалім з далёкі 
+Nehemiah 12:44 (21414) і <strong>miss</strong> у|[Тв.с.] [арт.] дзень [арт.] ён чалавек (1) на [арт.] <strong>hall</strong> да|[Д.с.] [арт.] <strong>supply</strong> да|[Д.с.] [арт.] <strong>contribution</strong> да|[Д.с.] [арт.] зачын і да|[Д.с.] [арт.] <strong>tenth</strong> да|[Д.с.] <strong>gather</strong> у|[Тв.с.] да|[Д.с.] поле [арт.] горад <strong>portion</strong> [арт.] <strong>instruction</strong> да|[Д.с.] [арт.] <strong>priest</strong> і да|[Д.с.] [арт.] <strong>Levite</strong> бо|што радасць Егуда на [арт.] <strong>priest</strong> і на [арт.] <strong>Levite</strong> [арт.] стаяць 
+Nehemiah 12:45 (21415) і захоўваць <strong>guard-post</strong> Бог і <strong>guard-post</strong> [арт.] <strong>purification</strong> і [арт.] <strong>sing</strong> і [арт.] <strong>porter</strong> як <strong>commandment</strong> Давыд <strong>Solomon</strong> сын 
+Nehemiah 12:46 (21416) бо|што у|[Тв.с.] дзень Давыд і <strong>Asaph</strong> з <strong>front</strong> галава [арт.] <strong>sing</strong> і песня <strong>praise</strong> і <strong>praise</strong> да|[Д.с.] Бог 
+Nehemiah 12:47 (21417) і цэлы|увесь Ісраэль у|[Тв.с.] дзень <strong>Zerubbabel</strong> і у|[Тв.с.] дзень <strong>Nehemiah</strong> даць <strong>portion</strong> [арт.] <strong>sing</strong> і [арт.] <strong>porter</strong> слова|рэч дзень у|[Тв.с.] дзень і <strong>be holy</strong> да|[Д.с.] [арт.] <strong>Levite</strong> і [арт.] <strong>Levite</strong> <strong>be holy</strong> да|[Д.с.] сын <strong>Aaron</strong> פ
+Nehemiah 13:1 (21418) у|[Тв.с.] [арт.] дзень [арт.] ён зваць у|[Тв.с.] ліст Майсей у|[Тв.с.] вуха [арт.] народ і знайсці пісанне у|[Тв.с.] які не прыйсці <strong>Ammonite</strong> і <strong>Moabite</strong> у|[Тв.с.] <strong>assembly</strong> [арт.] Бог (ажно) да свет|вечнасць 
+Nehemiah 13:2 (21419) бо|што не <strong>be in front</strong> [В.с.] сын Ісраэль у|[Тв.с.] [арт.] хлеб і у|[Тв.с.] [арт.] вада і <strong>hire</strong> на [В.с.] <strong>[prophet]</strong> да|[Д.с.] <strong>be slight</strong> і <strong>turn</strong> Бог [арт.] <strong>curse</strong> да|[Д.с.] <strong>blessing</strong> 
+Nehemiah 13:3 (21420) і быць як чуць [В.с.] [арт.] <strong>instruction</strong> і <strong>separate</strong> цэлы|увесь <strong>mixture</strong> з Ісраэль 
+Nehemiah 13:4 (21421) і да|[Д.с.] твар з гэты <strong>Eliashib</strong> [арт.] <strong>priest</strong> даць у|[Тв.с.] <strong>hall</strong> дом Бог блізкі да|[Д.с.] <strong>Tobijah</strong> 
+Nehemiah 13:5 (21422) і рабіць да|[Д.с.] <strong>hall</strong> вялікі і там быць да|[Д.с.] твар даць [В.с.] [арт.] <strong>present</strong> [арт.] <strong>incense</strong> і [арт.] прылада і <strong>tenth</strong> [арт.] <strong>corn</strong> [арт.] <strong>wine</strong> і [арт.] <strong>oil</strong> <strong>commandment</strong> [арт.] <strong>Levite</strong> і [арт.] <strong>sing</strong> і [арт.] <strong>porter</strong> і <strong>contribution</strong> [арт.] <strong>priest</strong> 
+Nehemiah 13:6 (21423) і у|[Тв.с.] цэлы|увесь гэты не быць у|[Тв.с.] Ерусалім бо|што у|[Тв.с.] год <strong>three</strong> і два да|[Д.с.] <strong>Artaxerxes</strong> цар <strong>Babel</strong> прыйсці да [арт.] цар і да|[Д.с.] <strong>end</strong> дзень пытацца з [арт.] цар 
+Nehemiah 13:7 (21424) і прыйсці да|[Д.с.] Ерусалім і разумець у|[Тв.с.] [арт.] дрэнны які рабіць <strong>Eliashib</strong> да|[Д.с.] <strong>Tobijah</strong> да|[Д.с.] рабіць да|[Д.с.] <strong>hall</strong> у|[Тв.с.] <strong>court</strong> дом [арт.] Бог 
+Nehemiah 13:8 (21425) і <strong>be evil</strong> да|[Д.с.] вельмі і кінуць [В.с.] цэлы|увесь прылада дом <strong>Tobijah</strong> [арт.] <strong>outside</strong> з [арт.] <strong>hall</strong> 
+Nehemiah 13:9 (21426) і казаць і <strong>be clean</strong> [арт.] <strong>hall</strong> і вяртацца там прылада дом [арт.] Бог [В.с.] [арт.] <strong>present</strong> і [арт.] <strong>incense</strong> פ
+Nehemiah 13:10 (21427) і ведаць [+неад.]|займацца сэксам [+адуш.] бо|што <strong>portion</strong> [арт.] <strong>Levite</strong> не даць і <strong>run away</strong> чалавек (1) да|[Д.с.] поле [арт.] <strong>Levite</strong> і [арт.] <strong>sing</strong> рабіць [арт.] <strong>work</strong> 
+Nehemiah 13:11 (21428) і <strong>contend</strong> разам з [арт.] <strong>prefect</strong> і казаць <strong>why</strong> <strong>leave</strong> дом [арт.] Бог і <strong>collect</strong> і стаяць на <strong>place</strong> 
+Nehemiah 13:12 (21429) і цэлы|увесь Егуда прыйсці <strong>tenth</strong> [арт.] <strong>corn</strong> і [арт.] <strong>wine</strong> і [арт.] <strong>oil</strong> да|[Д.с.] [арт.] <strong>supply</strong> 
+Nehemiah 13:13 (21430) і <strong>store</strong> на <strong>supply</strong> <strong>Shelemiah</strong> [арт.] <strong>priest</strong> і <strong>Zadok</strong> [арт.] <strong>scribe</strong> і <strong>Pedaiah</strong> з [арт.] <strong>Levite</strong> і на рука <strong>Hanan</strong> сын <strong>Zaccur</strong> сын <strong>Mattaniah</strong> бо|што <strong>be firm</strong> <strong>account</strong> і на да|[Д.с.] <strong>divide</strong> да|[Д.с.] брат פ
+Nehemiah 13:14 (21431) помніць да|[Д.с.] Бог на <strong>this</strong> і не [+заг.лад] <strong>wipe</strong> <strong>loyalty</strong> які рабіць у|[Тв.с.] дом Бог і у|[Тв.с.] <strong>guard</strong> 
+Nehemiah 13:15 (21432) у|[Тв.с.] [арт.] дзень [арт.] яны бачыць у|[Тв.с.] Егуда <strong>tread</strong> <strong>wine-press</strong> у|[Тв.с.] [арт.] <strong>sabbath</strong> і прыйсці [арт.] <strong>heap</strong> і <strong>load</strong> на [арт.] <strong>he-ass</strong> і нават віно <strong>grape</strong> і <strong>fig</strong> і цэлы|увесь <strong>burden</strong> і прыйсці Ерусалім у|[Тв.с.] дзень [арт.] <strong>sabbath</strong> і <strong>warn, to witness</strong> у|[Тв.с.] дзень <strong>sell</strong> <strong>provision</strong> 
+Nehemiah 13:16 (21433) і [арт.] <strong>Tyrian</strong> сядзець у|[Тв.с.] прыйсці рыба і цэлы|увесь <strong>price</strong> і <strong>sell</strong> у|[Тв.с.] [арт.] <strong>sabbath</strong> да|[Д.с.] сын Егуда і у|[Тв.с.] Ерусалім 
+Nehemiah 13:17 (21434) і <strong>contend</strong> разам з <strong>noble one</strong> Егуда і казаць да|[Д.с.] што [арт.] слова|рэч [арт.] зло [арт.] гэты які <strong>you</strong> рабіць і <strong>defile</strong> [В.с.] дзень [арт.] <strong>sabbath</strong> 
+Nehemiah 13:18 (21435) ці не такім чынам рабіць бацька і прыйсці Бог на [В.с.] цэлы|увесь [арт.] дрэнны [арт.] <strong>this</strong> і на [арт.] горад [арт.] <strong>this</strong> і <strong>you</strong> дадаць <strong>anger</strong> на Ісраэль да|[Д.с.] <strong>defile</strong> [В.с.] [арт.] <strong>sabbath</strong> פ
+Nehemiah 13:19 (21436) і быць як які <strong>grow dark</strong> брама Ерусалім да|[Д.с.] твар [арт.] <strong>sabbath</strong> і казаць і зачыняць [арт.] дзверы і казаць які не <strong>open</strong> (ажно) да пасля [арт.] <strong>sabbath</strong> і з хлапчук стаяць на [арт.] брама не прыйсці <strong>burden</strong> у|[Тв.с.] дзень [арт.] <strong>sabbath</strong> 
+Nehemiah 13:20 (21437) і <strong>lodge</strong> [арт.] <strong>trade</strong> і <strong>sell</strong> цэлы|увесь <strong>what is sold</strong> з <strong>outside</strong> да|[Д.с.] Ерусалім <strong>foot</strong> і два 
+Nehemiah 13:21 (21438) і <strong>warn, to witness</strong> у|[Тв.с.] і казаць да <strong>why</strong> <strong>you</strong> <strong>spending night</strong> перад [арт.] <strong>wall</strong> калі[зл.] <strong>change</strong> рука слаць у|[Тв.с.] з [арт.] момант [арт.] яна не прыйсці у|[Тв.с.] [арт.] <strong>sabbath</strong> ס
+Nehemiah 13:22 (21439) і казаць да|[Д.с.] [арт.] <strong>Levite</strong> які быць <strong>be clean</strong> і прыйсці захоўваць [арт.] брама да|[Д.с.] <strong>be holy</strong> [В.с.] дзень [арт.] <strong>sabbath</strong> таксама|нават <strong>this</strong> помніць да|[Д.с.] Бог і <strong>pity</strong> на як шматлікасць <strong>loyalty</strong> פ
+Nehemiah 13:23 (21440) таксама|нават у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] бачыць [В.с.] [арт.] <strong>Jewish</strong> сядзець жанчына <strong>from Ashdod</strong> <strong>Ammonite</strong> <strong>Moabite</strong> 
+Nehemiah 13:24 (21441) і сын <strong>half</strong> гаварыць <strong>from Ashdod</strong> і няма <strong>recognise</strong> да|[Д.с.] гаварыць <strong>Jewish</strong> і як язык народ і народ 
+Nehemiah 13:25 (21442) і <strong>contend</strong> з і <strong>be slight</strong> і <strong>strike</strong> з чалавек (1) і <strong>pull off</strong> і <strong>swear</strong> у|[Тв.с.] Бог калі[зл.] даць дачка да|[Д.с.] сын і калі[зл.] падняць з дачка да|[Д.с.] сын і да|[Д.с.] 
+Nehemiah 13:26 (21443) ці не на гэтыя заблудзіць <strong>Solomon</strong> цар Ісраэль і у|[Тв.с.] [арт.] знешні народ [арт.] шматлікі не быць цар <strong>like</strong> і любіць|кахаць да|[Д.с.] Бог быць і даць Бог цар на цэлы|увесь Ісраэль таксама|нават [В.с.] заблудзіць [арт.] жанчына [арт.] чужынскі 
+Nehemiah 13:27 (21444) і да|[Д.с.] ці чуць да|[Д.с.] рабіць [В.с.] цэлы|увесь [арт.] дрэнны [арт.] вялікі [арт.] <strong>this</strong> да|[Д.с.] <strong>be unfaithful</strong> у|[Тв.с.] Бог да|[Д.с.] сядзець жанчына чужынскі 
+Nehemiah 13:28 (21445) і з сын <strong>Joiada</strong> сын <strong>Eliashib</strong> [арт.] <strong>priest</strong> [арт.] вялікі <strong>son-in-law</strong> да|[Д.с.] <strong>Sanballat</strong> [арт.] <strong>Horonite</strong> і <strong>run away</strong> з на 
+Nehemiah 13:29 (21446) помніць да|[Д.с.] Бог на <strong>defilement</strong> [арт.] <strong>priesthood</strong> і дамова [арт.] <strong>priesthood</strong> і [арт.] <strong>Levite</strong> 
+Nehemiah 13:30 (21447) і <strong>be clean</strong> з цэлы|увесь <strong>foreigner</strong> і стаяць <strong>guard-post</strong> да|[Д.с.] [арт.] <strong>priest</strong> і да|[Д.с.] [арт.] <strong>Levite</strong> чалавек (1) у|[Тв.с.] <strong>work</strong> 
+Nehemiah 13:31 (21448) і да|[Д.с.] <strong>supply</strong> [арт.] дрэва у|[Тв.с.] момант <strong>appoint</strong> і да|[Д.с.] [арт.] <strong>first fruits</strong> помніць да|[Д.с.] Бог да|[Д.с.] <strong>what is good</strong> 

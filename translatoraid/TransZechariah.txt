@@ -1,211 +1,211 @@
-1:1 (14884) 
-1:2 (14885) 
-1:3 (14886) 
-1:4 (14887) 
-1:5 (14888) 
-1:6 (14889) ס
-1:7 (14890) 
-1:8 (14891) 
-1:9 (14892) 
-1:10 (14893) 
-1:11 (14894) 
-1:12 (14895) 
-1:13 (14896) 
-1:14 (14897) 
-1:15 (14898) 
-1:16 (14899) 
-1:17 (14900) ס
-2:1 (14901) 
-2:2 (14902) ס
-2:3 (14903) 
-2:4 (14904) ס
-2:5 (14905) 
-2:6 (14906) 
-2:7 (14907) 
-2:8 (14908) 
-2:9 (14909) פ
-2:10 (14910) 
-2:11 (14911) ס
-2:12 (14912) 
-2:13 (14913) ס
-2:14 (14914) 
-2:15 (14915) 
-2:16 (14916) 
-2:17 (14917) ס
-3:1 (14918) 
-3:2 (14919) 
-3:3 (14920) 
-3:4 (14921) 
-3:5 (14922) 
-3:6 (14923) 
-3:7 (14924) 
-3:8 (14925) 
-3:9 (14926) 
-3:10 (14927) 
-4:1 (14928) 
-4:2 (14929) 
-4:3 (14930) 
-4:4 (14931) 
-4:5 (14932) 
-4:6 (14933) 
-4:7 (14934) פ
-4:8 (14935) 
-4:9 (14936) 
-4:10 (14937) 
-4:11 (14938) 
-4:12 (14939) 
-4:13 (14940) 
-4:14 (14941) 
-5:1 (14942) 
-5:2 (14943) 
-5:3 (14944) 
-5:4 (14945) 
-5:5 (14946) 
-5:6 (14947) 
-5:7 (14948) 
-5:8 (14949) ס
-5:9 (14950) 
-5:10 (14951) 
-5:11 (14952) ס
-6:1 (14953) 
-6:2 (14954) 
-6:3 (14955) 
-6:4 (14956) 
-6:5 (14957) 
-6:6 (14958) 
-6:7 (14959) 
-6:8 (14960) ס
-6:9 (14961) 
-6:10 (14962) 
-6:11 (14963) 
-6:12 (14964) 
-6:13 (14965) 
-6:14 (14966) 
-6:15 (14967) ס
-7:1 (14968) 
-7:2 (14969) 
-7:3 (14970) פ
-7:4 (14971) 
-7:5 (14972) 
-7:6 (14973) 
-7:7 (14974) פ
-7:8 (14975) 
-7:9 (14976) 
-7:10 (14977) 
-7:11 (14978) 
-7:12 (14979) 
-7:13 (14980) 
-7:14 (14981) פ
-8:1 (14982) 
-8:2 (14983) 
-8:3 (14984) ס
-8:4 (14985) 
-8:5 (14986) ס
-8:6 (14987) פ
-8:7 (14988) 
-8:8 (14989) ס
-8:9 (14990) 
-8:10 (14991) 
-8:11 (14992) 
-8:12 (14993) 
-8:13 (14994) ס
-8:14 (14995) 
-8:15 (14996) 
-8:16 (14997) 
-8:17 (14998) ס
-8:18 (14999) 
-8:19 (15000) פ
-8:20 (15001) 
-8:21 (15002) 
-8:22 (15003) ס
-8:23 (15004) ס
-9:1 (15005) 
-9:2 (15006) 
-9:3 (15007) 
-9:4 (15008) 
-9:5 (15009) 
-9:6 (15010) 
-9:7 (15011) 
-9:8 (15012) ס
-9:9 (15013) 
-9:10 (15014) 
-9:11 (15015) 
-9:12 (15016) 
-9:13 (15017) 
-9:14 (15018) 
-9:15 (15019) 
-9:16 (15020) 
-9:17 (15021) 
-10:1 (15022) 
-10:2 (15023) פ
-10:3 (15024) 
-10:4 (15025) 
-10:5 (15026) 
-10:6 (15027) 
-10:7 (15028) 
-10:8 (15029) 
-10:9 (15030) 
-10:10 (15031) 
-10:11 (15032) 
-10:12 (15033) ס
-11:1 (15034) 
-11:2 (15035) 
-11:3 (15036) ס
-11:4 (15037) 
-11:5 (15038) 
-11:6 (15039) 
-11:7 (15040) 
-11:8 (15041) 
-11:9 (15042) 
-11:10 (15043) 
-11:11 (15044) 
-11:12 (15045) 
-11:13 (15046) 
-11:14 (15047) ס
-11:15 (15048) 
-11:16 (15049) ס
-11:17 (15050) ס
-12:1 (15051) פ
-12:2 (15052) 
-12:3 (15053) 
-12:4 (15054) 
-12:5 (15055) 
-12:6 (15056) פ
-12:7 (15057) 
-12:8 (15058) 
-12:9 (15059) 
-12:10 (15060) 
-12:11 (15061) 
-12:12 (15062) 
-12:13 (15063) 
-12:14 (15064) ס
-13:1 (15065) 
-13:2 (15066) 
-13:3 (15067) 
-13:4 (15068) 
-13:5 (15069) 
-13:6 (15070) ס
-13:7 (15071) 
-13:8 (15072) 
-13:9 (15073) ס
-14:1 (15074) 
-14:2 (15075) 
-14:3 (15076) 
-14:4 (15077) 
-14:5 (15078) 
-14:6 (15079) 
-14:7 (15080) 
-14:8 (15081) 
-14:9 (15082) 
-14:10 (15083) 
-14:11 (15084) 
-14:12 (15085) 
-14:13 (15086) 
-14:14 (15087) 
-14:15 (15088) 
-14:16 (15089) 
-14:17 (15090) 
-14:18 (15091) 
-14:19 (15092) 
-14:20 (15093) 
-14:21 (15094) 
+Zechariah 1:1 (14884) у|[Тв.с.] [арт.] <strong>month</strong> [арт.] <strong>eighth</strong> у|[Тв.с.] год два да|[Д.с.] <strong>Darius</strong> быць слова|рэч Існы да <strong>Zechariah</strong> сын <strong>Berekiah</strong> сын <strong>Iddo</strong> [арт.] <strong>prophet</strong> да|[Д.с.] казаць 
+Zechariah 1:2 (14885) <strong>be angry</strong> Існы на бацька <strong>anger</strong> 
+Zechariah 1:3 (14886) і казаць да такім чынам казаць Існы <strong>service</strong> вяртацца да прароцтва Існы <strong>service</strong> і вяртацца да казаць Існы <strong>service</strong> 
+Zechariah 1:4 (14887) не [+заг.лад] быць як бацька які зваць да [арт.] <strong>prophet</strong> [арт.] першы да|[Д.с.] казаць такім чынам казаць Існы <strong>service</strong> вяртацца ж, -ка [узмацн.] з шлях [арт.] зло і <strong>deed</strong> [арт.] зло і не чуць і не <strong>give attention</strong> да прароцтва Існы 
+Zechariah 1:5 (14888) бацька <strong>where</strong> яны [ж.] і [арт.] <strong>prophet</strong> ці да|[Д.с.] свет|вечнасць жыць 
+Zechariah 1:6 (14889) <strong>only</strong> слова|рэч і <strong>portion</strong> які <strong>command</strong> [В.с.] слуга [арт.] <strong>prophet</strong> ці не <strong>overtake</strong> бацька і вяртацца і казаць як які <strong>ponder</strong> Існы <strong>service</strong> да|[Д.с.] рабіць да|[Д.с.] як шлях і як <strong>deed</strong> так рабіць разам з ס
+Zechariah 1:7 (14890) у|[Тв.с.] дзень <strong>twenty</strong> і <strong>four</strong> да|[Д.с.] <strong>eleven</strong> <strong>-teen</strong> <strong>month</strong> ён <strong>month</strong> <strong>Shebat</strong> у|[Тв.с.] год два да|[Д.с.] <strong>Darius</strong> быць слова|рэч Існы да <strong>Zechariah</strong> сын <strong>Berekiah</strong> сын <strong>Iddo</strong> [арт.] <strong>prophet</strong> да|[Д.с.] казаць 
+Zechariah 1:8 (14891) бачыць [арт.] ноч і вось чалавек (1) <strong>ride</strong> на конь <strong>red</strong> і ён стаяць між [арт.] <strong>myrtle</strong> які у|[Тв.с.] [арт.] <strong>depth</strong> і пасля конь <strong>red</strong> <strong>bright red</strong> і белы 
+Zechariah 1:9 (14892) і казаць што гэтыя <strong>lord</strong> і казаць да [арт.] пасланец [арт.] гаварыць у|[Тв.с.] я бачыць што яны гэтыя 
+Zechariah 1:10 (14893) і адказаць [арт.] чалавек (1) [арт.] стаяць між [арт.] <strong>myrtle</strong> і казаць гэтыя які слаць Існы да|[Д.с.] хадзіць у|[Тв.с.] [арт.] зямля 
+Zechariah 1:11 (14894) і адказаць [В.с.] пасланец Існы [арт.] стаяць між [арт.] <strong>myrtle</strong> і казаць хадзіць у|[Тв.с.] [арт.] зямля і вось цэлы|увесь [арт.] зямля сядзець і <strong>be at peace</strong> 
+Zechariah 1:12 (14895) і адказаць пасланец Існы і казаць Існы <strong>service</strong> (ажно) да <strong>when</strong> ты[м.] не <strong>have compassion</strong> [В.с.] Ерусалім і [В.с.] горад Егуда які <strong>curse</strong> гэты сем год 
+Zechariah 1:13 (14896) і адказаць Існы [В.с.] [арт.] пасланец [арт.] гаварыць у|[Тв.с.] слова|рэч добры слова|рэч <strong>comfort</strong> 
+Zechariah 1:14 (14897) і казаць да [арт.] пасланец [арт.] гаварыць у|[Тв.с.] зваць да|[Д.с.] казаць такім чынам казаць Існы <strong>service</strong> <strong>be jealous</strong> да|[Д.с.] Ерусалім і да|[Д.с.] Цыё́н <strong>jealousy</strong> вялікі 
+Zechariah 1:15 (14898) і <strong>anger</strong> вялікі я <strong>be angry</strong> на [арт.] знешні народ [арт.] <strong>at ease</strong> які я <strong>be angry</strong> <strong>little</strong> і яны <strong>help</strong> да|[Д.с.] дрэнны 
+Zechariah 1:16 (14899) <strong>therefore</strong> такім чынам казаць Існы вяртацца да|[Д.с.] Ерусалім у|[Тв.с.] <strong>compassion</strong> дом будаваць у|[Тв.с.] прароцтва Існы <strong>service</strong> і <strong>line</strong> <strong>extend</strong> на Ерусалім 
+Zechariah 1:17 (14900) яшчэ зваць да|[Д.с.] казаць такім чынам казаць Існы <strong>service</strong> яшчэ <strong>disperse</strong> горад з добры і <strong>repent, console</strong> Існы яшчэ [В.с.] Цыё́н і <strong>examine</strong> яшчэ у|[Тв.с.] Ерусалім ס
+Zechariah 2:1 (14901) і падняць [В.с.] вока і бачыць і вось <strong>four</strong> <strong>horn</strong> 
+Zechariah 2:2 (14902) і казаць да [арт.] пасланец [арт.] гаварыць у|[Тв.с.] што гэтыя і казаць да гэтыя [арт.] <strong>horn</strong> які <strong>scatter</strong> [В.с.] Егуда [В.с.] Ісраэль і Ерусалім ס
+Zechariah 2:3 (14903) і бачыць Існы <strong>four</strong> <strong>artisan</strong> 
+Zechariah 2:4 (14904) і казаць што гэтыя прыйсці да|[Д.с.] рабіць і казаць да|[Д.с.] казаць гэтыя [арт.] <strong>horn</strong> які <strong>scatter</strong> [В.с.] Егуда як рот чалавек (1) не падняць галава і прыйсці гэтыя да|[Д.с.] <strong>tremble</strong> [В.с.] да|[Д.с.] <strong>shoot</strong> [В.с.] <strong>horn</strong> [арт.] знешні народ [арт.] падняць <strong>horn</strong> да зямля Егуда да|[Д.с.] <strong>scatter</strong> ס
+Zechariah 2:5 (14905) і падняць вока і бачыць і вось чалавек (1) і у|[Тв.с.] рука <strong>cord</strong> <strong>measured stretch</strong> 
+Zechariah 2:6 (14906) і казаць <strong>whither</strong> ты[м.] хадзіць і казаць да да|[Д.с.] <strong>measure</strong> [В.с.] Ерусалім да|[Д.с.] бачыць як што <strong>breadth</strong> і як што <strong>length</strong> 
+Zechariah 2:7 (14907) і вось [арт.] пасланец [арт.] гаварыць у|[Тв.с.] выйсці і пасланец іншы выйсці да|[Д.с.] <strong>encounter</strong> 
+Zechariah 2:8 (14908) і казаць да бяжаць гаварыць да [арт.] хлапчук [арт.] <strong>this there</strong> да|[Д.с.] казаць <strong>village</strong> сядзець Ерусалім з шматлікасць чалавек (від) і звяры у|[Тв.с.] <strong>midst</strong> 
+Zechariah 2:9 (14909) і я быць да|[Д.с.] прароцтва Існы <strong>wall</strong> агонь вакол і да|[Д.с.] вага быць у|[Тв.с.] <strong>midst</strong> פ
+Zechariah 2:10 (14910) <strong>alas</strong> <strong>alas</strong> і <strong>flee</strong> з зямля поўнач прароцтва Існы бо|што як <strong>four</strong> вецер [арт.] неба <strong>spread out</strong> [В.с.] прароцтва Існы 
+Zechariah 2:11 (14911) <strong>alas</strong> Цыё́н <strong>escape</strong> сядзець дачка <strong>Babel</strong> ס
+Zechariah 2:12 (14912) бо|што такім чынам казаць Існы <strong>service</strong> пасля вага слаць да [арт.] знешні народ [арт.] <strong>plunder</strong> [В.с.] бо|што [арт.] <strong>touch</strong> у|[Тв.с.] <strong>touch</strong> у|[Тв.с.] <strong>eyeball</strong> вока 
+Zechariah 2:13 (14913) бо|што вось <strong>swing</strong> [В.с.] рука на і быць <strong>plunder</strong> да|[Д.с.] слуга і ведаць [+неад.]|займацца сэксам [+адуш.] бо|што Існы <strong>service</strong> слаць ס
+Zechariah 2:14 (14914) <strong>cry of joy</strong> і узрадавацца дачка Цыё́н бо|што вось прыйсці і насяляць у|[Тв.с.] <strong>midst</strong> прароцтва Існы 
+Zechariah 2:15 (14915) і <strong>accompany</strong> знешні народ шматлікі да Існы у|[Тв.с.] [арт.] дзень [арт.] ён і быць да|[Д.с.] да|[Д.с.] народ і насяляць у|[Тв.с.] <strong>midst</strong> і ведаць [+неад.]|займацца сэксам [+адуш.] бо|што Існы <strong>service</strong> слаць да 
+Zechariah 2:16 (14916) і <strong>take possession</strong> Існы [В.с.] Егуда частка на <strong>soil</strong> [арт.] святасць і <strong>examine</strong> яшчэ у|[Тв.с.] Ерусалім 
+Zechariah 2:17 (14917) <strong>be still</strong> цэлы|увесь мяса|плоць з твар Існы бо|што <strong>be awake</strong> з <strong>dwelling</strong> святасць ס
+Zechariah 3:1 (14918) і бачыць [В.с.] <strong>Joshua</strong> [арт.] <strong>priest</strong> [арт.] вялікі стаяць да|[Д.с.] твар пасланец Існы і [арт.] <strong>adversary</strong> стаяць на правая частка да|[Д.с.] <strong>bear grudge</strong> 
+Zechariah 3:2 (14919) і казаць Існы да [арт.] <strong>adversary</strong> <strong>rebuke</strong> Існы у|[Тв.с.] [арт.] <strong>adversary</strong> і <strong>rebuke</strong> Існы у|[Тв.с.] [арт.] <strong>examine</strong> у|[Тв.с.] Ерусалім ці не гэты <strong>log</strong> <strong>deliver</strong> з агонь 
+Zechariah 3:3 (14920) і <strong>Joshua</strong> быць <strong>clad</strong> адзежа <strong>filthy</strong> і стаяць да|[Д.с.] твар [арт.] пасланец 
+Zechariah 3:4 (14921) і адказаць і казаць да [арт.] стаяць да|[Д.с.] твар да|[Д.с.] казаць збочыць [арт.] адзежа [арт.] <strong>filthy</strong> з на і казаць да бачыць перайсці з на <strong>sin</strong> і <strong>cloth</strong> [В.с.] <strong>robes</strong> 
+Zechariah 3:5 (14922) і казаць класці|ставіць <strong>turban</strong> <strong>pure</strong> на галава і класці|ставіць [арт.] <strong>turban</strong> [арт.] <strong>pure</strong> на галава і <strong>cloth</strong> адзежа і пасланец Існы стаяць 
+Zechariah 3:6 (14923) і <strong>warn, to witness</strong> пасланец Існы у|[Тв.с.] <strong>Joshua</strong> да|[Д.с.] казаць 
+Zechariah 3:7 (14924) такім чынам казаць Існы <strong>service</strong> калі[зл.] у|[Тв.с.] шлях хадзіць і калі[зл.] [В.с.] <strong>guard-post</strong> захоўваць і таксама|нават ты[м.] <strong>judge</strong> [В.с.] дом і таксама|нават захоўваць [В.с.] <strong>court</strong> і даць да|[Д.с.] <strong>passage</strong> між [арт.] стаяць [арт.] гэтыя 
+Zechariah 3:8 (14925) чуць ж, -ка [узмацн.] <strong>Joshua</strong> [арт.] <strong>priest</strong> [арт.] вялікі ты[м.] і <strong>fellow</strong> [арт.] сядзець да|[Д.с.] твар бо|што чалавек (1) <strong>sign</strong> яны бо|што вось прыйсці [В.с.] слуга <strong>sprout</strong> 
+Zechariah 3:9 (14926) бо|што вось [арт.] камень які даць да|[Д.с.] твар <strong>Joshua</strong> на камень адзін сем вока вось <strong>engrave</strong> <strong>engraving</strong> прароцтва Існы <strong>service</strong> і <strong>depart</strong> [В.с.] <strong>sin</strong> [арт.] зямля [арт.] яна у|[Тв.с.] дзень адзін 
+Zechariah 3:10 (14927) у|[Тв.с.] [арт.] дзень [арт.] ён прароцтва Існы <strong>service</strong> зваць чалавек (1) да|[Д.с.] <strong>fellow</strong> да пад <strong>vine</strong> і да пад <strong>fig</strong> 
+Zechariah 4:1 (14928) і вяртацца [арт.] пасланец [арт.] гаварыць у|[Тв.с.] і <strong>be awake</strong> як чалавек (1) які <strong>be awake</strong> з <strong>sleep</strong> 
+Zechariah 4:2 (14929) і казаць да што ты[м.] бачыць і казаць бачыць і вось <strong>lamp stand</strong> золата цэлы|увесь і <strong>basin</strong> на галава і сем <strong>lamp</strong> на сем і сем <strong>casting</strong> да|[Д.с.] [арт.] <strong>lamp</strong> які на галава 
+Zechariah 4:3 (14930) і два <strong>olive</strong> на адзін з правая частка [арт.] <strong>basin</strong> і адзін на левая частка 
+Zechariah 4:4 (14931) і адказаць і казаць да [арт.] пасланец [арт.] гаварыць у|[Тв.с.] да|[Д.с.] казаць што гэтыя <strong>lord</strong> 
+Zechariah 4:5 (14932) і адказаць [арт.] пасланец [арт.] гаварыць у|[Тв.с.] і казаць да ці не ведаць [+неад.]|займацца сэксам [+адуш.] што яны гэтыя і казаць не <strong>lord</strong> 
+Zechariah 4:6 (14933) і адказаць і казаць да да|[Д.с.] казаць гэты слова|рэч Існы да <strong>Zerubbabel</strong> да|[Д.с.] казаць не у|[Тв.с.] моц і не у|[Тв.с.] сіла бо|што калі[зл.] у|[Тв.с.] вецер казаць Існы <strong>service</strong> 
+Zechariah 4:7 (14934) хто ты[м.] гара [арт.] вялікі да|[Д.с.] твар <strong>Zerubbabel</strong> да|[Д.с.] <strong>fairness</strong> і выйсці [В.с.] [арт.] камень [арт.] <strong>upper</strong> <strong>shouting</strong> ласка ласка да|[Д.с.] פ
+Zechariah 4:8 (14935) і быць слова|рэч Існы да да|[Д.с.] казаць 
+Zechariah 4:9 (14936) рука <strong>Zerubbabel</strong> <strong>found</strong> [арт.] дом [арт.] гэты і рука <strong>cut off</strong> і ведаць [+неад.]|займацца сэксам [+адуш.] бо|што Існы <strong>service</strong> слаць да 
+Zechariah 4:10 (14937) бо|што хто <strong>despise</strong> да|[Д.с.] дзень <strong>small</strong> і узрадавацца і бачыць [В.с.] [арт.] камень [арт.] <strong>tin</strong> у|[Тв.с.] рука <strong>Zerubbabel</strong> сем гэтыя вока Існы яны <strong>rove about</strong> у|[Тв.с.] цэлы|увесь [арт.] зямля 
+Zechariah 4:11 (14938) і адказаць і казаць да што два [арт.] <strong>olive</strong> [арт.] гэтыя на правая частка [арт.] <strong>lamp stand</strong> і на левая частка 
+Zechariah 4:12 (14939) і адказаць другі і казаць да што два <strong>grain</strong> [арт.] <strong>olive</strong> які у|[Тв.с.] рука два <strong>pipes</strong> [арт.] золата [арт.] <strong>be empty</strong> з на [арт.] золата 
+Zechariah 4:13 (14940) і казаць да да|[Д.с.] казаць ці не ведаць [+неад.]|займацца сэксам [+адуш.] што гэтыя і казаць не <strong>lord</strong> 
+Zechariah 4:14 (14941) і казаць гэтыя два сын [арт.] <strong>oil</strong> [арт.] стаяць на <strong>lord</strong> цэлы|увесь [арт.] зямля 
+Zechariah 5:1 (14942) і вяртацца і падняць вока і бачыць і вось <strong>roll</strong> <strong>fly</strong> 
+Zechariah 5:2 (14943) і казаць да што ты[м.] бачыць і казаць я бачыць <strong>roll</strong> <strong>fly</strong> <strong>length</strong> <strong>twenty</strong> у|[Тв.с.] [арт.] <strong>cubit</strong> і <strong>breadth</strong> <strong>ten</strong> у|[Тв.с.] [арт.] <strong>cubit</strong> 
+Zechariah 5:3 (14944) і казаць да <strong>this</strong> [арт.] <strong>curse</strong> [арт.] выйсці на твар цэлы|увесь [арт.] зямля бо|што цэлы|увесь [арт.] красці з гэты <strong>like</strong> <strong>be clean</strong> і цэлы|увесь [арт.] <strong>swear</strong> з гэты <strong>like</strong> <strong>be clean</strong> 
+Zechariah 5:4 (14945) выйсці прароцтва Існы <strong>service</strong> і прыйсці да дом [арт.] злодзей і да дом [арт.] <strong>swear</strong> у|[Тв.с.] імя да|[Д.с.] [арт.] <strong>lie</strong> і <strong>lodge</strong> у|[Тв.с.] <strong>midst</strong> дом і <strong>be complete</strong> і [В.с.] дрэва і [В.с.] камень 
+Zechariah 5:5 (14946) і выйсці [арт.] пасланец [арт.] гаварыць у|[Тв.с.] і казаць да падняць ж, -ка [узмацн.] вока і бачыць што [арт.] выйсці [арт.] <strong>this</strong> 
+Zechariah 5:6 (14947) і казаць што яна і казаць <strong>this</strong> [арт.] <strong>ephah</strong> [арт.] выйсці і казаць <strong>this</strong> вока у|[Тв.с.] цэлы|увесь [арт.] зямля 
+Zechariah 5:7 (14948) і вось <strong>disk</strong> <strong>lead</strong> падняць і <strong>this</strong> жанчына адзін сядзець у|[Тв.с.] <strong>midst</strong> [арт.] <strong>ephah</strong> 
+Zechariah 5:8 (14949) і казаць <strong>this</strong> [арт.] <strong>guilt</strong> і кінуць [В.с.] да <strong>midst</strong> [арт.] <strong>ephah</strong> і кінуць [В.с.] камень [арт.] <strong>lead</strong> да рот ס
+Zechariah 5:9 (14950) і падняць вока і бачыць і вось два жанчына выйсці і вецер у|[Тв.с.] крыло і да|[Д.с.] <strong>they</strong> крыло як крыло [арт.] <strong>heron</strong> і падняць [В.с.] [арт.] <strong>ephah</strong> між [арт.] зямля і між [арт.] неба 
+Zechariah 5:10 (14951) і казаць да [арт.] пасланец [арт.] гаварыць у|[Тв.с.] <strong>whither</strong> яны хадзіць [В.с.] [арт.] <strong>ephah</strong> 
+Zechariah 5:11 (14952) і казаць да да|[Д.с.] будаваць да|[Д.с.] дом у|[Тв.с.] зямля <strong>Shinar</strong> і <strong>be firm</strong> і асесць там на <strong>place</strong> ס
+Zechariah 6:1 (14953) і вяртацца і падняць вока і бачыць і вось <strong>four</strong> <strong>chariot</strong> выйсці з між два [арт.] гара і [арт.] гара гара <strong>bronze</strong> 
+Zechariah 6:2 (14954) у|[Тв.с.] [арт.] <strong>chariot</strong> [арт.] першы конь <strong>red</strong> і у|[Тв.с.] [арт.] <strong>chariot</strong> [арт.] другі конь <strong>black</strong> 
+Zechariah 6:3 (14955) і у|[Тв.с.] [арт.] <strong>chariot</strong> [арт.] <strong>third</strong> конь белы і у|[Тв.с.] [арт.] <strong>chariot</strong> [арт.] <strong>fourth</strong> конь <strong>speckled</strong> <strong>piebald</strong> 
+Zechariah 6:4 (14956) і адказаць і казаць да [арт.] пасланец [арт.] гаварыць у|[Тв.с.] што гэтыя <strong>lord</strong> 
+Zechariah 6:5 (14957) і адказаць [арт.] пасланец і казаць да гэтыя <strong>four</strong> вецер [арт.] неба выйсці з <strong>stand</strong> на <strong>lord</strong> цэлы|увесь [арт.] зямля 
+Zechariah 6:6 (14958) які у|[Тв.с.] [арт.] конь [арт.] <strong>black</strong> выйсці да зямля поўнач і [арт.] белы выйсці да пасля і [арт.] <strong>speckled</strong> выйсці да зямля [арт.] <strong>south</strong> 
+Zechariah 6:7 (14959) і [арт.] <strong>piebald</strong> выйсці і шукаць да|[Д.с.] хадзіць да|[Д.с.] хадзіць у|[Тв.с.] [арт.] зямля і казаць хадзіць хадзіць у|[Тв.с.] [арт.] зямля і хадзіць у|[Тв.с.] [арт.] зямля 
+Zechariah 6:8 (14960) і <strong>cry</strong> [В.с.] і гаварыць да да|[Д.с.] казаць бачыць [арт.] выйсці да зямля поўнач асесць [В.с.] вецер у|[Тв.с.] зямля поўнач ס
+Zechariah 6:9 (14961) і быць слова|рэч Існы да да|[Д.с.] казаць 
+Zechariah 6:10 (14962) браць з разам з [арт.] <strong>exile</strong> з <strong>Heldai</strong> і з разам з <strong>Tobijah</strong> і з разам з <strong>Jedaiah</strong> і прыйсці ты[м.] у|[Тв.с.] [арт.] дзень [арт.] ён і прыйсці дом <strong>Josiah</strong> сын <strong>Zephaniah</strong> які прыйсці з <strong>Babel</strong> 
+Zechariah 6:11 (14963) і браць срэбра і золата і рабіць <strong>wreath</strong> і класці|ставіць у|[Тв.с.] галава <strong>Joshua</strong> сын <strong>Jehozadak</strong> [арт.] <strong>priest</strong> [арт.] вялікі 
+Zechariah 6:12 (14964) і казаць да да|[Д.с.] казаць такім чынам казаць Існы <strong>service</strong> да|[Д.с.] казаць вось чалавек (1) <strong>sprout</strong> імя і з пад <strong>sprout</strong> і будаваць [В.с.] <strong>palace</strong> Існы 
+Zechariah 6:13 (14965) і ён будаваць [В.с.] <strong>palace</strong> Існы і ён падняць <strong>splendour</strong> і сядзець і <strong>rule</strong> на <strong>seat</strong> і быць <strong>priest</strong> на <strong>seat</strong> і <strong>counsel</strong> згода быць між два 
+Zechariah 6:14 (14966) і [арт.] <strong>wreath</strong> быць да|[Д.с.] <strong>Heldai</strong> і да|[Д.с.] <strong>Tobijah</strong> і да|[Д.с.] <strong>Jedaiah</strong> і да|[Д.с.] <strong>Hen</strong> сын <strong>Zephaniah</strong> да|[Д.с.] <strong>remembrance</strong> у|[Тв.с.] <strong>palace</strong> Існы 
+Zechariah 6:15 (14967) і далёкі прыйсці і будаваць у|[Тв.с.] <strong>palace</strong> Існы і ведаць [+неад.]|займацца сэксам [+адуш.] бо|што Існы <strong>service</strong> слаць да і быць калі[зл.] чуць чуць у|[Тв.с.] голас Існы Бог ס
+Zechariah 7:1 (14968) і быць у|[Тв.с.] год <strong>four</strong> да|[Д.с.] <strong>Darius</strong> [арт.] цар быць слова|рэч Існы да <strong>Zechariah</strong> у|[Тв.с.] <strong>four</strong> да|[Д.с.] [арт.] <strong>month</strong> [арт.] <strong>ninth</strong> у|[Тв.с.] <strong>Kislev</strong> 
+Zechariah 7:2 (14969) і слаць <strong>Bethel</strong> <strong>Sharezer</strong> і <strong>Regem-Melech</strong> і чалавек (1) да|[Д.с.] <strong>become weak</strong> [В.с.] твар Існы 
+Zechariah 7:3 (14970) да|[Д.с.] казаць да [арт.] <strong>priest</strong> які да|[Д.с.] дом Існы <strong>service</strong> і да [арт.] <strong>prophet</strong> да|[Д.с.] казаць ці плакаць у|[Тв.с.] [арт.] <strong>month</strong> [арт.] <strong>fifth</strong> <strong>dedicate</strong> як які рабіць гэты як што год פ
+Zechariah 7:4 (14971) і быць слова|рэч Існы <strong>service</strong> да да|[Д.с.] казаць 
+Zechariah 7:5 (14972) казаць да цэлы|увесь народ [арт.] зямля і да [арт.] <strong>priest</strong> да|[Д.с.] казаць бо|што <strong>fast</strong> і <strong>lament</strong> у|[Тв.с.] [арт.] <strong>fifth</strong> і у|[Тв.с.] [арт.] <strong>seventh</strong> і гэты сем год ці <strong>fast</strong> <strong>fast</strong> я 
+Zechariah 7:6 (14973) і бо|што есці і бо|што піць ці не <strong>you</strong> [арт.] есці і <strong>you</strong> [арт.] піць 
+Zechariah 7:7 (14974) ці не [В.с.] [арт.] слова|рэч які зваць Існы у|[Тв.с.] рука [арт.] <strong>prophet</strong> [арт.] першы у|[Тв.с.] быць Ерусалім сядзець і <strong>quiet</strong> і горад вакол і [арт.] поўдзеь і [арт.] нізіна сядзець פ
+Zechariah 7:8 (14975) і быць слова|рэч Існы да <strong>Zechariah</strong> да|[Д.с.] казаць 
+Zechariah 7:9 (14976) такім чынам казаць Існы <strong>service</strong> да|[Д.с.] казаць правасуддзе праўда судзіць і <strong>loyalty</strong> і <strong>compassion</strong> рабіць чалавек (1) разам з брат 
+Zechariah 7:10 (14977) і <strong>widow</strong> і <strong>orphan</strong> <strong>sojourner</strong> і <strong>humble</strong> не [+заг.лад] <strong>oppress</strong> і дрэнны чалавек (1) брат не [+заг.лад] <strong>account</strong> у|[Тв.с.] сэрца 
+Zechariah 7:11 (14978) і <strong>refuse</strong> да|[Д.с.] <strong>give attention</strong> і даць <strong>shoulder</strong> <strong>rebel</strong> і вуха <strong>be heavy</strong> з чуць 
+Zechariah 7:12 (14979) і сэрца класці|ставіць <strong>diamond</strong> з чуць [В.с.] [арт.] <strong>instruction</strong> і [В.с.] [арт.] слова|рэч які слаць Існы <strong>service</strong> у|[Тв.с.] вецер у|[Тв.с.] рука [арт.] <strong>prophet</strong> [арт.] першы і быць <strong>anger</strong> вялікі з разам з Існы <strong>service</strong> 
+Zechariah 7:13 (14980) і быць як які зваць і не чуць так зваць і не чуць казаць Існы <strong>service</strong> 
+Zechariah 7:14 (14981) і <strong>be stormy</strong> на цэлы|увесь [арт.] знешні народ які не ведаць [+неад.]|займацца сэксам [+адуш.] і [арт.] зямля <strong>be desolate</strong> пасля з перайсці і з вяртацца і класці|ставіць зямля <strong>what is desirable</strong> да|[Д.с.] <strong>destruction</strong> פ
+Zechariah 8:1 (14982) і быць слова|рэч Існы <strong>service</strong> да|[Д.с.] казаць 
+Zechariah 8:2 (14983) такім чынам казаць Існы <strong>service</strong> <strong>be jealous</strong> да|[Д.с.] Цыё́н <strong>jealousy</strong> вялікі і <strong>heat</strong> вялікі <strong>be jealous</strong> да|[Д.с.] 
+Zechariah 8:3 (14984) такім чынам казаць Існы вяртацца да Цыё́н і насяляць у|[Тв.с.] <strong>midst</strong> Ерусалім і зваць Ерусалім горад [арт.] праўда і гара Існы <strong>service</strong> гара [арт.] святасць ס
+Zechariah 8:4 (14985) такім чынам казаць Існы <strong>service</strong> яшчэ сядзець старадаўні і старадаўні у|[Тв.с.] <strong>open place</strong> Ерусалім і чалавек (1) <strong>support</strong> у|[Тв.с.] рука з шматлікасць дзень 
+Zechariah 8:5 (14986) і <strong>open place</strong> [арт.] горад поўніцца дзіця [м.] і <strong>girl</strong> смяяцца у|[Тв.с.] <strong>open place</strong> ס
+Zechariah 8:6 (14987) такім чынам казаць Існы <strong>service</strong> бо|што <strong>be miraculous</strong> у|[Тв.с.] вока <strong>rest</strong> [арт.] народ [арт.] гэты у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] таксама|нават у|[Тв.с.] вока <strong>be miraculous</strong> прароцтва Існы <strong>service</strong> פ
+Zechariah 8:7 (14988) такім чынам казаць Існы <strong>service</strong> вось збавіць [В.с.] народ з зямля <strong>sunrise</strong> і з зямля <strong>entrance</strong> [арт.] сонца 
+Zechariah 8:8 (14989) і прыйсці [В.с.] і насяляць у|[Тв.с.] <strong>midst</strong> Ерусалім і быць да|[Д.с.] да|[Д.с.] народ і я быць да|[Д.с.] да|[Д.с.] Бог у|[Тв.с.] праўда і у|[Тв.с.] <strong>justice</strong> ס
+Zechariah 8:9 (14990) такім чынам казаць Існы <strong>service</strong> <strong>be strong</strong> рука [арт.] чуць у|[Тв.с.] [арт.] дзень [арт.] гэтыя [В.с.] [арт.] слова|рэч [арт.] гэтыя з рот [арт.] <strong>prophet</strong> які у|[Тв.с.] дзень <strong>found</strong> дом Існы <strong>service</strong> [арт.] <strong>palace</strong> да|[Д.с.] будаваць 
+Zechariah 8:10 (14991) бо|што да|[Д.с.] твар [арт.] дзень [арт.] яны [ж.] <strong>hire</strong> [арт.] чалавек (від) не быць і <strong>hire</strong> [арт.] звяры няма і да|[Д.с.] [арт.] выйсці і да|[Д.с.] [арт.] прыйсці няма згода з [арт.] <strong>adversary</strong> і слаць [В.с.] цэлы|увесь [арт.] чалавек (від) чалавек (1) у|[Тв.с.] <strong>fellow</strong> 
+Zechariah 8:11 (14992) і <strong>now</strong> не як [арт.] дзень [арт.] першы я да|[Д.с.] <strong>rest</strong> [арт.] народ [арт.] гэты прароцтва Існы <strong>service</strong> 
+Zechariah 8:12 (14993) бо|што семя [арт.] згода [арт.] <strong>vine</strong> даць плод і [арт.] зямля даць [В.с.] <strong>produce</strong> і [арт.] неба даць <strong>dew</strong> і <strong>take possession</strong> [В.с.] <strong>rest</strong> [арт.] народ [арт.] гэты [В.с.] цэлы|увесь гэтыя 
+Zechariah 8:13 (14994) і быць як які быць <strong>curse</strong> у|[Тв.с.] [арт.] знешні народ дом Егуда і дом Ісраэль так збавіць [В.с.] і быць <strong>blessing</strong> не [+заг.лад] баяцца <strong>be strong</strong> рука ס
+Zechariah 8:14 (14995) бо|што такім чынам казаць Існы <strong>service</strong> як які <strong>ponder</strong> да|[Д.с.] <strong>be evil</strong> да|[Д.с.] у|[Тв.с.] <strong>be angry</strong> бацька [В.с.] казаць Існы <strong>service</strong> і не <strong>repent, console</strong> 
+Zechariah 8:15 (14996) так вяртацца <strong>ponder</strong> у|[Тв.с.] [арт.] дзень [арт.] гэтыя да|[Д.с.] <strong>be good</strong> [В.с.] Ерусалім і [В.с.] дом Егуда не [+заг.лад] баяцца 
+Zechariah 8:16 (14997) гэтыя [арт.] слова|рэч які рабіць гаварыць праўда чалавек (1) разам з <strong>fellow</strong> праўда і правасуддзе згода судзіць у|[Тв.с.] брама 
+Zechariah 8:17 (14998) і чалавек (1) [В.с.] дрэнны <strong>fellow</strong> не [+заг.лад] <strong>account</strong> у|[Тв.с.] сэрца і <strong>oath</strong> <strong>lie</strong> не [+заг.лад] любіць|кахаць бо|што [В.с.] цэлы|увесь гэтыя які ненавідзець прароцтва Існы ס
+Zechariah 8:18 (14999) і быць слова|рэч Існы <strong>service</strong> да да|[Д.с.] казаць 
+Zechariah 8:19 (15000) такім чынам казаць Існы <strong>service</strong> <strong>fasting</strong> [арт.] <strong>fourth</strong> і <strong>fasting</strong> [арт.] <strong>fifth</strong> і <strong>fasting</strong> [арт.] <strong>seventh</strong> і <strong>fasting</strong> [арт.] <strong>tenth</strong> быць да|[Д.с.] дом Егуда да|[Д.с.] <strong>rejoicing</strong> і да|[Д.с.] радасць і да|[Д.с.] <strong>appointment</strong> добры і [арт.] праўда і [арт.] згода любіць|кахаць פ
+Zechariah 8:20 (15001) такім чынам казаць Існы <strong>service</strong> яшчэ які прыйсці народ і сядзець горад шматлікі 
+Zechariah 8:21 (15002) і хадзіць сядзець адзін да адзін да|[Д.с.] казаць хадзіць хадзіць да|[Д.с.] <strong>become weak</strong> [В.с.] твар Існы і да|[Д.с.] шукаць [В.с.] Існы <strong>service</strong> хадзіць таксама|нават я 
+Zechariah 8:22 (15003) і прыйсці народ шматлікі і знешні народ <strong>mighty</strong> да|[Д.с.] шукаць [В.с.] Існы <strong>service</strong> у|[Тв.с.] Ерусалім і да|[Д.с.] <strong>become weak</strong> [В.с.] твар Існы ס
+Zechariah 8:23 (15004) такім чынам казаць Існы <strong>service</strong> у|[Тв.с.] [арт.] дзень [арт.] яны які <strong>be strong</strong> дзесяць чалавек (1) з цэлы|увесь язык [арт.] знешні народ і <strong>be strong</strong> у|[Тв.с.] крыло чалавек (1) <strong>Jewish</strong> да|[Д.с.] казаць хадзіць з бо|што чуць Бог з ס
+Zechariah 9:1 (15005) <strong>utterance</strong> слова|рэч Існы у|[Тв.с.] зямля <strong>Hadrach</strong> і <strong>Damascus</strong> <strong>resting place</strong> бо|што да|[Д.с.] Існы вока чалавек (від) і цэлы|увесь <strong>rod</strong> Ісраэль 
+Zechariah 9:2 (15006) і таксама|нават <strong>Hamath</strong> <strong>set border</strong> у|[Тв.с.] <strong>Tyrus</strong> і <strong>Sidon</strong> бо|што баць разумным вельмі 
+Zechariah 9:3 (15007) і будаваць <strong>Tyrus</strong> <strong>siege</strong> да|[Д.с.] і <strong>heap</strong> срэбра як [арт.] пыл і <strong>gold</strong> як <strong>clay</strong> <strong>outside</strong> 
+Zechariah 9:4 (15008) вось валадар заўладаць і <strong>strike</strong> у|[Тв.с.] [арт.] мора вал|знешняе ўмацаванне і яна у|[Тв.с.] [арт.] агонь есці 
+Zechariah 9:5 (15009) бачыць <strong>Ashkelon</strong> і баяцца і <strong>Gaza</strong> і <strong>have labour pain, to cry</strong> вельмі і <strong>Ekron</strong> бо|што <strong>be dry</strong> <strong>hope</strong> і загінуць цар з <strong>Gaza</strong> і <strong>Ashkelon</strong> не сядзець 
+Zechariah 9:6 (15010) і сядзець <strong>bastard</strong> у|[Тв.с.] <strong>Ashdod</strong> і выразаць <strong>height</strong> філістынец 
+Zechariah 9:7 (15011) і збочыць <strong>blood</strong> з рот і <strong>idol</strong> з між <strong>tooth</strong> і пакідаць таксама|нават ён да|[Д.с.] Бог і быць як <strong>chief</strong> у|[Тв.с.] Егуда і <strong>Ekron</strong> як <strong>Jebusite</strong> 
+Zechariah 9:8 (15012) і <strong>encamp</strong> да|[Д.с.] дом з <strong>service</strong> з перайсці і з вяртацца і не перайсці на яшчэ <strong>drive</strong> бо|што <strong>now</strong> бачыць у|[Тв.с.] вока ס
+Zechariah 9:9 (15013) <strong>rejoice</strong> вельмі дачка Цыё́н <strong>shout</strong> дачка Ерусалім вось цар прыйсці да|[Д.с.] справядлівы|правільны і збавіць ён <strong>humble</strong> і <strong>ride</strong> на <strong>he-ass</strong> і на <strong>steed</strong> сын <strong>she-ass</strong> 
+Zechariah 9:10 (15014) і выразаць <strong>chariot</strong> з Эфраі́м і конь з Ерусалім і выразаць <strong>bow</strong> вайна і гаварыць згода да|[Д.с.] [арт.] знешні народ і <strong>dominion</strong> з мора (ажно) да мора і з <strong>stream</strong> (ажно) да <strong>end</strong> зямля 
+Zechariah 9:11 (15015) таксама|нават <strong>you</strong> у|[Тв.с.] <strong>blood</strong> дамова слаць <strong>prisoner</strong> з <strong>cistern</strong> няма вада у|[Тв.с.] 
+Zechariah 9:12 (15016) вяртацца да|[Д.с.] <strong>[uncertain]</strong> <strong>prisoner</strong> [арт.] <strong>hope</strong> таксама|нават [арт.] дзень абвяшчаць <strong>second</strong> вяртацца да|[Д.с.] 
+Zechariah 9:13 (15017) бо|што <strong>tread</strong> да|[Д.с.] Егуда <strong>bow</strong> поўніцца Эфраі́м і <strong>be awake</strong> сын Цыё́н на сын <strong>[jawan, Greece]</strong> і класці|ставіць як <strong>dagger</strong> мужны|моцны 
+Zechariah 9:14 (15018) і Існы на бачыць і выйсці як [арт.] <strong>lightning</strong> <strong>arrow</strong> і валадар Існы у|[Тв.с.] [арт.] <strong>horn</strong> <strong>blow</strong> і хадзіць у|[Тв.с.] <strong>storm</strong> <strong>south</strong> 
+Zechariah 9:15 (15019) Існы <strong>service</strong> <strong>enclose</strong> на і есці і <strong>subdue</strong> камень <strong>sling</strong> і піць <strong>make noise</strong> <strong>like</strong> віно і поўніцца як [арт.] <strong>bowl</strong> як <strong>corner</strong> <strong>altar</strong> 
+Zechariah 9:16 (15020) і збавіць Існы Бог у|[Тв.с.] [арт.] дзень [арт.] ён як скаціна народ бо|што камень <strong>consecration</strong> <strong>falter</strong> на <strong>soil</strong> 
+Zechariah 9:17 (15021) бо|што што <strong>best</strong> і што <strong>beauty</strong> <strong>corn</strong> хлопец і <strong>wine</strong> <strong>thrive</strong> <strong>virgin</strong> 
+Zechariah 10:1 (15022) пытацца з Існы <strong>rain</strong> у|[Тв.с.] момант <strong>spring-rain</strong> Існы рабіць <strong>storm-cloud</strong> і <strong>rain</strong> дождж даць да|[Д.с.] да|[Д.с.] чалавек (1) <strong>herb</strong> у|[Тв.с.] [арт.] поле 
+Zechariah 10:2 (15023) бо|што [арт.] <strong>teraphim</strong> гаварыць <strong>wickedness</strong> і [арт.] <strong>practice divination</strong> <strong>see</strong> <strong>lie</strong> і мара|сон [арт.] <strong>vanity</strong> гаварыць подых <strong>repent, console</strong> на так выцягнуць <strong>like</strong> скаціна <strong>be lowly</strong> бо|што няма <strong>pasture</strong> פ
+Zechariah 10:3 (15024) на [арт.] <strong>pasture</strong> <strong>be hot</strong> <strong>nose</strong> і на [арт.] <strong>ram</strong> <strong>miss</strong> бо|што <strong>miss</strong> Існы <strong>service</strong> [В.с.] <strong>flock</strong> [В.с.] дом Егуда і класці|ставіць [В.с.] як конь <strong>splendour</strong> у|[Тв.с.] [арт.] вайна 
+Zechariah 10:4 (15025) з <strong>corner</strong> з <strong>peg</strong> з <strong>bow</strong> вайна з выйсці цэлы|увесь <strong>drive</strong> <strong>together</strong> 
+Zechariah 10:5 (15026) і быць як мужны|моцны <strong>tread down</strong> у|[Тв.с.] <strong>clay</strong> <strong>outside</strong> у|[Тв.с.] [арт.] вайна і <strong>fight</strong> бо|што Існы з і <strong>be dry</strong> <strong>ride</strong> конь 
+Zechariah 10:6 (15027) і <strong>be superior</strong> [В.с.] дом Егуда і [В.с.] дом Ёсэ́ф збавіць і сядзець бо|што <strong>have compassion</strong> і быць як які не <strong>reject</strong> бо|што я Існы Бог і адказаць 
+Zechariah 10:7 (15028) і быць як мужны|моцны Эфраі́м і узрадавацца сэрца <strong>like</strong> віно і сын бачыць і узрадавацца <strong>rejoice</strong> сэрца у|[Тв.с.] Існы 
+Zechariah 10:8 (15029) <strong>whistle</strong> да|[Д.с.] і <strong>collect</strong> бо|што <strong>buy off</strong> і шмат <strong>like</strong> шмат 
+Zechariah 10:9 (15030) і <strong>sow</strong> у|[Тв.с.] [арт.] народ і у|[Тв.с.] [арт.] <strong>distance</strong> помніць і жыць разам з сын і вяртацца 
+Zechariah 10:10 (15031) і вяртацца з зямля <strong>Egypt</strong> і з <strong>Asshur</strong> <strong>collect</strong> і да зямля Гіл’ад і <strong>Lebanon</strong> прыйсці і не знайсці да|[Д.с.] 
+Zechariah 10:11 (15032) і перайсці у|[Тв.с.] [арт.] мора бедства і <strong>strike</strong> у|[Тв.с.] [арт.] мора <strong>wave</strong> і <strong>be dry</strong> цэлы|увесь <strong>depth</strong> <strong>Nile</strong> і апускацца <strong>height</strong> <strong>Asshur</strong> і <strong>rod</strong> <strong>Egypt</strong> збочыць 
+Zechariah 10:12 (15033) і <strong>be superior</strong> у|[Тв.с.] Існы і у|[Тв.с.] імя хадзіць прароцтва Існы ס
+Zechariah 11:1 (15034) <strong>open</strong> <strong>Lebanon</strong> дзверы і есці агонь у|[Тв.с.] <strong>cedar</strong> 
+Zechariah 11:2 (15035) <strong>howl</strong> <strong>juniper</strong> бо|што падаць <strong>cedar</strong> які <strong>mighty</strong> быць спустошаным <strong>howl</strong> <strong>big tree</strong> <strong>Bashan</strong> бо|што апускацца <strong>wood</strong> [арт.] <strong>forest</strong> 
+Zechariah 11:3 (15036) голас <strong>howling</strong> [арт.] <strong>pasture</strong> бо|што быць спустошаным <strong>splendour</strong> голас <strong>roaring</strong> <strong>young lion</strong> бо|што быць спустошаным <strong>height</strong> [арт.] <strong>Jordan</strong> ס
+Zechariah 11:4 (15037) такім чынам казаць Існы Бог <strong>pasture</strong> [В.с.] скаціна [арт.] <strong>slaughter</strong> 
+Zechariah 11:5 (15038) які набыць <strong>kill</strong> і не <strong>do wrong</strong> і <strong>sell</strong> казаць <strong>bless</strong> Існы і <strong>become rich</strong> і <strong>pasture</strong> не <strong>have compassion</strong> на 
+Zechariah 11:6 (15039) бо|што не <strong>have compassion</strong> яшчэ на сядзець [арт.] зямля прароцтва Існы і вось <strong>i</strong> знайсці [В.с.] [арт.] чалавек (від) чалавек (1) у|[Тв.с.] рука <strong>fellow</strong> і у|[Тв.с.] рука цар і <strong>crush</strong> [В.с.] [арт.] зямля і не <strong>deliver</strong> з рука 
+Zechariah 11:7 (15040) і <strong>pasture</strong> [В.с.] скаціна [арт.] <strong>slaughter</strong> <strong>therefore</strong> <strong>humble</strong> [арт.] скаціна і браць да|[Д.с.] два <strong>rod</strong> да|[Д.с.] адзін зваць <strong>kindness</strong> і да|[Д.с.] адзін зваць <strong>union</strong> і <strong>pasture</strong> [В.с.] [арт.] скаціна 
+Zechariah 11:8 (15041) і <strong>hide</strong> [В.с.] <strong>three</strong> [арт.] <strong>pasture</strong> у|[Тв.с.] <strong>month</strong> адзін і <strong>be short</strong> душа у|[Тв.с.] і таксама|нават душа <strong>[uncertain]</strong> у|[Тв.с.] 
+Zechariah 11:9 (15042) і казаць не <strong>pasture</strong> [В.с.] [арт.] паміраць паміраць і [арт.] <strong>hide</strong> <strong>hide</strong> і [арт.] пакідаць есці жанчына [В.с.] мяса|плоць <strong>female companion</strong> 
+Zechariah 11:10 (15043) і браць [В.с.] <strong>rod</strong> [В.с.] <strong>kindness</strong> і <strong>cut off</strong> [В.с.] да|[Д.с.] <strong>break</strong> [В.с.] дамова які выразаць [В.с.] цэлы|увесь [арт.] народ 
+Zechariah 11:11 (15044) і <strong>break</strong> у|[Тв.с.] [арт.] дзень [арт.] ён і ведаць [+неад.]|займацца сэксам [+адуш.] так <strong>humble</strong> [арт.] скаціна [арт.] захоўваць [В.с.] бо|што слова|рэч Існы ён 
+Zechariah 11:12 (15045) і казаць да калі[зл.] <strong>be good</strong> у|[Тв.с.] вока <strong>give</strong> <strong>hire</strong> і калі[зл.] не <strong>cease</strong> і <strong>weigh</strong> [В.с.] <strong>hire</strong> <strong>three</strong> срэбра 
+Zechariah 11:13 (15046) і казаць Існы да кінуць да [арт.] <strong>potter</strong> <strong>might</strong> [арт.] <strong>preciousness</strong> які <strong>be precious</strong> з на і браць <strong>three</strong> [арт.] срэбра і кінуць [В.с.] дом Існы да [арт.] <strong>potter</strong> 
+Zechariah 11:14 (15047) і <strong>cut off</strong> [В.с.] <strong>rod</strong> [арт.] другі [В.с.] [арт.] <strong>union</strong> да|[Д.с.] <strong>break</strong> [В.с.] [арт.] <strong>brotherhood</strong> між Егуда і між Ісраэль ס
+Zechariah 11:15 (15048) і казаць Існы да яшчэ браць да|[Д.с.] прылада <strong>pasture</strong> <strong>awkward</strong> 
+Zechariah 11:16 (15049) бо|што вось <strong>i</strong> устаць <strong>pasture</strong> у|[Тв.с.] [арт.] зямля [арт.] <strong>hide</strong> не <strong>miss</strong> [арт.] хлапчук не шукаць і [арт.] разбіць не <strong>heal</strong> [арт.] <strong>stand</strong> не <strong>comprehend</strong> і мяса|плоць [арт.] <strong>fat</strong> есці і <strong>hoof</strong> <strong>tear away</strong> ס
+Zechariah 11:17 (15050) <strong>alas</strong> <strong>pasture</strong> [арт.] <strong>god</strong> <strong>leave</strong> [арт.] скаціна <strong>dagger</strong> на <strong>arm</strong> і на вока правая частка <strong>arm</strong> <strong>be dry</strong> <strong>be dry</strong> і вока правая частка <strong>grow dim</strong> <strong>grow dim</strong> ס
+Zechariah 12:1 (15051) <strong>utterance</strong> слова|рэч Існы на Ісраэль прароцтва Існы <strong>extend</strong> неба і <strong>found</strong> зямля і <strong>shape</strong> вецер чалавек (від) у|[Тв.с.] <strong>interior</strong> פ
+Zechariah 12:2 (15052) вось <strong>i</strong> класці|ставіць [В.с.] Ерусалім <strong>basin</strong> <strong>reeling</strong> да|[Д.с.] цэлы|увесь [арт.] народ вакол і таксама|нават на Егуда быць у|[Тв.с.] [арт.] <strong>siege</strong> на Ерусалім 
+Zechariah 12:3 (15053) і быць у|[Тв.с.] [арт.] дзень [арт.] ён класці|ставіць [В.с.] Ерусалім камень <strong>heavy stone</strong> да|[Д.с.] цэлы|увесь [арт.] народ цэлы|увесь <strong>load</strong> <strong>tattoo</strong> <strong>tattoo</strong> і збіраць на цэлы|увесь знешні народ [арт.] зямля 
+Zechariah 12:4 (15054) у|[Тв.с.] [арт.] дзень [арт.] ён прароцтва Існы <strong>strike</strong> цэлы|увесь конь у|[Тв.с.] [арт.] <strong>bewilderment</strong> і <strong>ride</strong> у|[Тв.с.] [арт.] <strong>madness</strong> і на дом Егуда <strong>open</strong> [В.с.] вока і цэлы|увесь конь [арт.] народ <strong>strike</strong> у|[Тв.с.] [арт.] <strong>blindness</strong> 
+Zechariah 12:5 (15055) і казаць <strong>chief</strong> Егуда у|[Тв.с.] сэрца <strong>strength</strong> да|[Д.с.] сядзець Ерусалім у|[Тв.с.] Існы <strong>service</strong> Бог 
+Zechariah 12:6 (15056) у|[Тв.с.] [арт.] дзень [арт.] ён класці|ставіць [В.с.] <strong>chief</strong> Егуда як <strong>basin</strong> агонь у|[Тв.с.] дрэва і як <strong>torch</strong> агонь у|[Тв.с.] <strong>grass</strong> і есці на правая частка і на левая частка [В.с.] цэлы|увесь [арт.] народ вакол і сядзець Ерусалім яшчэ пад у|[Тв.с.] Ерусалім פ
+Zechariah 12:7 (15057) і збавіць Існы [В.с.] <strong>tent</strong> Егуда у|[Тв.с.] [арт.] першы з-за не узвялічваць <strong>splendour</strong> дом Давыд і <strong>splendour</strong> сядзець Ерусалім на Егуда 
+Zechariah 12:8 (15058) у|[Тв.с.] [арт.] дзень [арт.] ён <strong>enclose</strong> Існы <strong>distance</strong> сядзець Ерусалім і быць [арт.] <strong>stumble</strong> у|[Тв.с.] у|[Тв.с.] [арт.] дзень [арт.] ён як Давыд і дом Давыд як Бог як пасланец Існы да|[Д.с.] твар 
+Zechariah 12:9 (15059) і быць у|[Тв.с.] [арт.] дзень [арт.] ён шукаць да|[Д.с.] <strong>destroy</strong> [В.с.] цэлы|увесь [арт.] знешні народ [арт.] прыйсці на Ерусалім 
+Zechariah 12:10 (15060) і <strong>pour</strong> на дом Давыд і на сядзець Ерусалім вецер ласка і <strong>supplication</strong> і <strong>look at</strong> да [В.с.] які <strong>pierce</strong> і <strong>lament</strong> на як <strong>wailing</strong> на [арт.] <strong>only one</strong> і <strong>be bitter</strong> на як <strong>be bitter</strong> на [арт.] <strong>first-born</strong> 
+Zechariah 12:11 (15061) у|[Тв.с.] [арт.] дзень [арт.] ён узвялічваць [арт.] <strong>wailing</strong> у|[Тв.с.] Ерусалім як <strong>wailing</strong> <strong>Hadad Rimmon</strong> у|[Тв.с.] <strong>valley</strong> <strong>Megiddo</strong> 
+Zechariah 12:12 (15062) і <strong>lament</strong> [арт.] зямля <strong>clan</strong> <strong>clan</strong> да|[Д.с.] частка <strong>clan</strong> дом Давыд да|[Д.с.] частка і жанчына да|[Д.с.] частка <strong>clan</strong> дом <strong>Nathan</strong> да|[Д.с.] частка і жанчына да|[Д.с.] частка 
+Zechariah 12:13 (15063) <strong>clan</strong> дом <strong>Levi</strong> да|[Д.с.] частка і жанчына да|[Д.с.] частка <strong>clan</strong> [арт.] <strong>Shimeite</strong> да|[Д.с.] частка і жанчына да|[Д.с.] частка 
+Zechariah 12:14 (15064) цэлы|увесь [арт.] <strong>clan</strong> [арт.] пакідаць <strong>clan</strong> <strong>clan</strong> да|[Д.с.] частка і жанчына да|[Д.с.] частка ס
+Zechariah 13:1 (15065) у|[Тв.с.] [арт.] дзень [арт.] ён быць <strong>well</strong> <strong>open</strong> да|[Д.с.] дом Давыд і да|[Д.с.] сядзець Ерусалім да|[Д.с.] <strong>sin</strong> і да|[Д.с.] <strong>menstruation</strong> 
+Zechariah 13:2 (15066) і быць у|[Тв.с.] [арт.] дзень [арт.] ён прароцтва Існы <strong>service</strong> выразаць [В.с.] імя [арт.] <strong>image</strong> з [арт.] зямля і не помніць яшчэ і таксама|нават [В.с.] [арт.] <strong>prophet</strong> і [В.с.] вецер [арт.] <strong>uncleanness</strong> перайсці з [арт.] зямля 
+Zechariah 13:3 (15067) і быць бо|што <strong>speak as prophet</strong> чалавек (1) яшчэ і казаць да бацька і маці нарадзіць не жыць бо|што <strong>lie</strong> гаварыць у|[Тв.с.] імя Існы і <strong>pierce</strong> бацька і маці нарадзіць у|[Тв.с.] <strong>speak as prophet</strong> 
+Zechariah 13:4 (15068) і быць у|[Тв.с.] [арт.] дзень [арт.] ён <strong>be ashamed</strong> [арт.] <strong>prophet</strong> чалавек (1) з <strong>vision</strong> у|[Тв.с.] <strong>speak as prophet</strong> і не <strong>cloth</strong> <strong>splendour</strong> <strong>hair</strong> з-за <strong>grow lean</strong> 
+Zechariah 13:5 (15069) і казаць не <strong>prophet</strong> <strong>i</strong> чалавек (1) працаваць <strong>soil</strong> <strong>i</strong> бо|што чалавек (від) набыць з <strong>youth</strong> 
+Zechariah 13:6 (15070) і казаць да што [арт.] <strong>blow</strong> [арт.] гэтыя між рука і казаць які <strong>strike</strong> дом любіць|кахаць ס
+Zechariah 13:7 (15071) <strong>dagger</strong> <strong>be awake</strong> на <strong>pasture</strong> і на <strong>vigorous man</strong> <strong>fellow</strong> прароцтва Існы <strong>service</strong> <strong>strike</strong> [В.с.] [арт.] <strong>pasture</strong> і <strong>disperse</strong> [арт.] скаціна і вяртацца рука на [арт.] <strong>be small</strong> 
+Zechariah 13:8 (15072) і быць у|[Тв.с.] цэлы|увесь [арт.] зямля прароцтва Існы рот два у|[Тв.с.] выразаць <strong>expire</strong> і [арт.] <strong>third part</strong> <strong>remain</strong> у|[Тв.с.] 
+Zechariah 13:9 (15073) і прыйсці [В.с.] [арт.] <strong>third part</strong> у|[Тв.с.] [арт.] агонь і <strong>melt</strong> як <strong>melt</strong> [В.с.] [арт.] срэбра і <strong>examine</strong> як <strong>examine</strong> [В.с.] [арт.] золата ён зваць у|[Тв.с.] імя і я адказаць [В.с.] казаць народ ён і ён казаць Існы Бог ס
+Zechariah 14:1 (15074) вось дзень прыйсці да|[Д.с.] Існы і <strong>divide</strong> <strong>plunder</strong> у|[Тв.с.] <strong>interior</strong> 
+Zechariah 14:2 (15075) і збіраць [В.с.] цэлы|увесь [арт.] знешні народ да Ерусалім да|[Д.с.] [арт.] вайна і <strong>seize</strong> [арт.] горад і <strong>plunder</strong> [арт.] дом і [арт.] жанчына ляжаць і выйсці <strong>half</strong> [арт.] горад у|[Тв.с.] [арт.] <strong>exile</strong> і <strong>remainder</strong> [арт.] народ не выразаць з [арт.] горад 
+Zechariah 14:3 (15076) і выйсці Існы і <strong>fight</strong> у|[Тв.с.] [арт.] знешні народ [арт.] яны [ж.] як дзень <strong>fight</strong> у|[Тв.с.] дзень бойка 
+Zechariah 14:4 (15077) і стаяць нага у|[Тв.с.] [арт.] дзень [арт.] ён на гара [арт.] <strong>olive</strong> які на твар Ерусалім з <strong>front</strong> і <strong>split</strong> гара [арт.] <strong>olive</strong> з <strong>half</strong> <strong>sunrise</strong> і мора <strong>valley</strong> вялікі вельмі і <strong>depart</strong> <strong>half</strong> [арт.] гара поўнач і <strong>half</strong> поўдзеь 
+Zechariah 14:5 (15078) і <strong>flee</strong> <strong>valley</strong> гара бо|што <strong>touch</strong> <strong>valley</strong> гара да <strong>Azel</strong> і <strong>flee</strong> як які <strong>flee</strong> з твар [арт.] <strong>quaking</strong> у|[Тв.с.] дзень <strong>Uzziah</strong> цар Егуда і прыйсці Існы Бог цэлы|увесь святы з 
+Zechariah 14:6 (15079) і быць у|[Тв.с.] [арт.] дзень [арт.] ён не быць святло <strong>rare</strong> і <strong>frost</strong> 
+Zechariah 14:7 (15080) і быць дзень адзін ён ведаць [+неад.]|займацца сэксам [+адуш.] да|[Д.с.] Існы не дзень і не ноч і быць да|[Д.с.] момант вечар быць святло 
+Zechariah 14:8 (15081) і быць у|[Тв.с.] [арт.] дзень [арт.] ён выйсці вада жывы з Ерусалім <strong>half</strong> да [арт.] мора [арт.] <strong>eastern</strong> і <strong>half</strong> да [арт.] мора [арт.] апошні у|[Тв.с.] [арт.] <strong>summer</strong> і у|[Тв.с.] [арт.] <strong>autumn</strong> быць 
+Zechariah 14:9 (15082) і быць Існы да|[Д.с.] цар на цэлы|увесь [арт.] зямля у|[Тв.с.] [арт.] дзень [арт.] ён быць Існы адзін і імя адзін 
+Zechariah 14:10 (15083) <strong>turn</strong> цэлы|увесь [арт.] зямля як [арт.] <strong>desert</strong> з <strong>Geba</strong> да|[Д.с.] <strong>Rimmon</strong> поўдзеь Ерусалім і <strong>rise</strong> і сядзець пад да|[Д.с.] з брама Бін’ямін (ажно) да месца брама [арт.] першы (ажно) да брама [арт.] <strong>corner</strong> і <strong>tower</strong> <strong>Hananel</strong> (ажно) да <strong>pit</strong> [арт.] цар 
+Zechariah 14:11 (15084) і сядзець у|[Тв.с.] і <strong>ban</strong> не быць яшчэ і сядзець Ерусалім да|[Д.с.] <strong>trust</strong> 
+Zechariah 14:12 (15085) і <strong>this</strong> быць [арт.] <strong>blow</strong> які <strong>hurt</strong> Існы [В.с.] цэлы|увесь [арт.] народ які <strong>serve</strong> на Ерусалім <strong>putrefy</strong> мяса|плоць і ён стаяць на нага і вока <strong>putrefy</strong> у|[Тв.с.] <strong>hole</strong> і язык <strong>putrefy</strong> у|[Тв.с.] рот 
+Zechariah 14:13 (15086) і быць у|[Тв.с.] [арт.] дзень [арт.] ён быць <strong>discomfiture</strong> Існы шматлікі у|[Тв.с.] і <strong>be strong</strong> чалавек (1) рука <strong>fellow</strong> і падымацца рука на рука <strong>fellow</strong> 
+Zechariah 14:14 (15087) і таксама|нават Егуда <strong>fight</strong> у|[Тв.с.] Ерусалім і збіраць моц цэлы|увесь [арт.] знешні народ вакол золата і срэбра і адзежа да|[Д.с.] шматлікасць вельмі 
+Zechariah 14:15 (15088) і так быць <strong>blow</strong> [арт.] конь [арт.] <strong>mule</strong> [арт.] <strong>camel</strong> і [арт.] <strong>he-ass</strong> і цэлы|увесь [арт.] звяры які быць у|[Тв.с.] [арт.] <strong>camp</strong> [арт.] яны як [арт.] <strong>blow</strong> [арт.] <strong>this</strong> 
+Zechariah 14:16 (15089) і быць цэлы|увесь [арт.] <strong>remain</strong> з цэлы|увесь [арт.] знешні народ [арт.] прыйсці на Ерусалім і падымацца з дастатковасць год у|[Тв.с.] год да|[Д.с.] <strong>bow down</strong> да|[Д.с.] цар Існы <strong>service</strong> і да|[Д.с.] <strong>jump</strong> [В.с.] <strong>festival</strong> [арт.] <strong>cover of foliage</strong> 
+Zechariah 14:17 (15090) і быць які не падымацца з разам з <strong>clan</strong> [арт.] зямля да Ерусалім да|[Д.с.] <strong>bow down</strong> да|[Д.с.] цар Існы <strong>service</strong> і не на быць [арт.] дождж 
+Zechariah 14:18 (15091) і калі[зл.] <strong>clan</strong> <strong>Egypt</strong> не падымацца і не прыйсці і не на быць [арт.] <strong>blow</strong> які <strong>hurt</strong> Існы [В.с.] [арт.] знешні народ які не падымацца да|[Д.с.] <strong>jump</strong> [В.с.] <strong>festival</strong> [арт.] <strong>cover of foliage</strong> 
+Zechariah 14:19 (15092) <strong>this</strong> быць <strong>sin</strong> <strong>Egypt</strong> і <strong>sin</strong> цэлы|увесь [арт.] знешні народ які не падымацца да|[Д.с.] <strong>jump</strong> [В.с.] <strong>festival</strong> [арт.] <strong>cover of foliage</strong> 
+Zechariah 14:20 (15093) у|[Тв.с.] [арт.] дзень [арт.] ён быць на <strong>bell</strong> [арт.] конь святасць да|[Д.с.] Існы і быць [арт.] <strong>pot</strong> у|[Тв.с.] дом Існы як [арт.] <strong>bowl</strong> да|[Д.с.] твар [арт.] <strong>altar</strong> 
+Zechariah 14:21 (15094) і быць цэлы|увесь <strong>pot</strong> у|[Тв.с.] Ерусалім і у|[Тв.с.] Егуда святасць да|[Д.с.] Існы <strong>service</strong> і прыйсці цэлы|увесь [арт.] забіць і браць з і <strong>boil</strong> у|[Тв.с.] і не быць канаанец яшчэ у|[Тв.с.] дом Існы <strong>service</strong> у|[Тв.с.] [арт.] дзень [арт.] ён 

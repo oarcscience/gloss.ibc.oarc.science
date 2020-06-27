@@ -1,618 +1,618 @@
-1:1 (6512) 
-1:2 (6513) 
-1:3 (6514) 
-1:4 (6515) 
-1:5 (6516) 
-1:6 (6517) 
-1:7 (6518) פ
-1:8 (6519) 
-1:9 (6520) 
-1:10 (6521) 
-1:11 (6522) 
-1:12 (6523) 
-1:13 (6524) 
-1:14 (6525) 
-1:15 (6526) פ
-1:16 (6527) 
-1:17 (6528) 
-1:18 (6529) 
-1:19 (6530) 
-1:20 (6531) 
-1:21 (6532) ס
-1:22 (6533) 
-1:23 (6534) 
-1:24 (6535) 
-1:25 (6536) 
-1:26 (6537) פ
-1:27 (6538) 
-1:28 (6539) ס
-1:29 (6540) פ
-1:30 (6541) ס
-1:31 (6542) 
-1:32 (6543) ס
-1:33 (6544) ס
-1:34 (6545) 
-1:35 (6546) 
-1:36 (6547) פ
-2:1 (6548) 
-2:2 (6549) 
-2:3 (6550) 
-2:4 (6551) 
-2:5 (6552) פ
-2:6 (6553) 
-2:7 (6554) 
-2:8 (6555) 
-2:9 (6556) 
-2:10 (6557) ס
-2:11 (6558) 
-2:12 (6559) 
-2:13 (6560) 
-2:14 (6561) 
-2:15 (6562) 
-2:16 (6563) 
-2:17 (6564) 
-2:18 (6565) 
-2:19 (6566) 
-2:20 (6567) 
-2:21 (6568) 
-2:22 (6569) 
-2:23 (6570) פ
-3:1 (6571) 
-3:2 (6572) 
-3:3 (6573) 
-3:4 (6574) 
-3:5 (6575) 
-3:6 (6576) פ
-3:7 (6577) 
-3:8 (6578) 
-3:9 (6579) 
-3:10 (6580) 
-3:11 (6581) פ
-3:12 (6582) 
-3:13 (6583) 
-3:14 (6584) ס
-3:15 (6585) 
-3:16 (6586) 
-3:17 (6587) 
-3:18 (6588) 
-3:19 (6589) 
-3:20 (6590) 
-3:21 (6591) 
-3:22 (6592) 
-3:23 (6593) 
-3:24 (6594) 
-3:25 (6595) 
-3:26 (6596) 
-3:27 (6597) 
-3:28 (6598) 
-3:29 (6599) 
-3:30 (6600) ס
-3:31 (6601) ס
-4:1 (6602) 
-4:2 (6603) 
-4:3 (6604) ס
-4:4 (6605) 
-4:5 (6606) 
-4:6 (6607) 
-4:7 (6608) 
-4:8 (6609) 
-4:9 (6610) 
-4:10 (6611) 
-4:11 (6612) 
-4:12 (6613) ס
-4:13 (6614) 
-4:14 (6615) 
-4:15 (6616) 
-4:16 (6617) 
-4:17 (6618) 
-4:18 (6619) 
-4:19 (6620) 
-4:20 (6621) 
-4:21 (6622) 
-4:22 (6623) 
-4:23 (6624) 
-4:24 (6625) פ
-5:1 (6626) 
-5:2 (6627) 
-5:3 (6628) 
-5:4 (6629) 
-5:5 (6630) 
-5:6 (6631) 
-5:7 (6632) 
-5:8 (6633) 
-5:9 (6634) 
-5:10 (6635) 
-5:11 (6636) 
-5:12 (6637) 
-5:13 (6638) 
-5:14 (6639) 
-5:15 (6640) 
-5:16 (6641) 
-5:17 (6642) 
-5:18 (6643) 
-5:19 (6644) 
-5:20 (6645) 
-5:21 (6646) 
-5:22 (6647) 
-5:23 (6648) 
-5:24 (6649) 
-5:25 (6650) 
-5:26 (6651) 
-5:27 (6652) 
-5:28 (6653) 
-5:29 (6654) 
-5:30 (6655) 
-5:31 (6656) פ
-6:1 (6657) 
-6:2 (6658) 
-6:3 (6659) 
-6:4 (6660) 
-6:5 (6661) 
-6:6 (6662) פ
-6:7 (6663) 
-6:8 (6664) 
-6:9 (6665) 
-6:10 (6666) פ
-6:11 (6667) 
-6:12 (6668) 
-6:13 (6669) 
-6:14 (6670) 
-6:15 (6671) 
-6:16 (6672) 
-6:17 (6673) 
-6:18 (6674) 
-6:19 (6675) ס
-6:20 (6676) 
-6:21 (6677) 
-6:22 (6678) 
-6:23 (6679) 
-6:24 (6680) פ
-6:25 (6681) 
-6:26 (6682) 
-6:27 (6683) 
-6:28 (6684) 
-6:29 (6685) 
-6:30 (6686) 
-6:31 (6687) 
-6:32 (6688) פ
-6:33 (6689) 
-6:34 (6690) 
-6:35 (6691) 
-6:36 (6692) 
-6:37 (6693) 
-6:38 (6694) 
-6:39 (6695) 
-6:40 (6696) פ
-7:1 (6697) 
-7:2 (6698) 
-7:3 (6699) ס
-7:4 (6700) 
-7:5 (6701) 
-7:6 (6702) ס
-7:7 (6703) 
-7:8 (6704) פ
-7:9 (6705) 
-7:10 (6706) 
-7:11 (6707) 
-7:12 (6708) 
-7:13 (6709) 
-7:14 (6710) פ
-7:15 (6711) 
-7:16 (6712) 
-7:17 (6713) 
-7:18 (6714) פ
-7:19 (6715) 
-7:20 (6716) 
-7:21 (6717) 
-7:22 (6718) 
-7:23 (6719) 
-7:24 (6720) 
-7:25 (6721) 
-8:1 (6722) 
-8:2 (6723) 
-8:3 (6724) 
-8:4 (6725) 
-8:5 (6726) 
-8:6 (6727) 
-8:7 (6728) 
-8:8 (6729) 
-8:9 (6730) פ
-8:10 (6731) 
-8:11 (6732) 
-8:12 (6733) 
-8:13 (6734) 
-8:14 (6735) 
-8:15 (6736) 
-8:16 (6737) 
-8:17 (6738) 
-8:18 (6739) 
-8:19 (6740) 
-8:20 (6741) 
-8:21 (6742) 
-8:22 (6743) 
-8:23 (6744) 
-8:24 (6745) 
-8:25 (6746) 
-8:26 (6747) 
-8:27 (6748) 
-8:28 (6749) פ
-8:29 (6750) 
-8:30 (6751) 
-8:31 (6752) 
-8:32 (6753) פ
-8:33 (6754) 
-8:34 (6755) 
-8:35 (6756) פ
-9:1 (6757) 
-9:2 (6758) 
-9:3 (6759) 
-9:4 (6760) 
-9:5 (6761) ס
-9:6 (6762) 
-9:7 (6763) 
-9:8 (6764) 
-9:9 (6765) 
-9:10 (6766) 
-9:11 (6767) 
-9:12 (6768) 
-9:13 (6769) 
-9:14 (6770) 
-9:15 (6771) 
-9:16 (6772) 
-9:17 (6773) 
-9:18 (6774) 
-9:19 (6775) 
-9:20 (6776) 
-9:21 (6777) פ
-9:22 (6778) 
-9:23 (6779) 
-9:24 (6780) 
-9:25 (6781) פ
-9:26 (6782) 
-9:27 (6783) 
-9:28 (6784) 
-9:29 (6785) 
-9:30 (6786) 
-9:31 (6787) 
-9:32 (6788) 
-9:33 (6789) ס
-9:34 (6790) 
-9:35 (6791) 
-9:36 (6792) ס
-9:37 (6793) 
-9:38 (6794) ס
-9:39 (6795) 
-9:40 (6796) 
-9:41 (6797) 
-9:42 (6798) 
-9:43 (6799) 
-9:44 (6800) 
-9:45 (6801) פ
-9:46 (6802) 
-9:47 (6803) 
-9:48 (6804) 
-9:49 (6805) פ
-9:50 (6806) 
-9:51 (6807) 
-9:52 (6808) 
-9:53 (6809) 
-9:54 (6810) 
-9:55 (6811) 
-9:56 (6812) 
-9:57 (6813) פ
-10:1 (6814) 
-10:2 (6815) פ
-10:3 (6816) 
-10:4 (6817) 
-10:5 (6818) פ
-10:6 (6819) 
-10:7 (6820) 
-10:8 (6821) 
-10:9 (6822) 
-10:10 (6823) פ
-10:11 (6824) 
-10:12 (6825) 
-10:13 (6826) 
-10:14 (6827) 
-10:15 (6828) 
-10:16 (6829) פ
-10:17 (6830) 
-10:18 (6831) פ
-11:1 (6832) 
-11:2 (6833) 
-11:3 (6834) פ
-11:4 (6835) 
-11:5 (6836) 
-11:6 (6837) 
-11:7 (6838) 
-11:8 (6839) 
-11:9 (6840) 
-11:10 (6841) 
-11:11 (6842) פ
-11:12 (6843) 
-11:13 (6844) 
-11:14 (6845) 
-11:15 (6846) 
-11:16 (6847) 
-11:17 (6848) 
-11:18 (6849) 
-11:19 (6850) 
-11:20 (6851) 
-11:21 (6852) 
-11:22 (6853) 
-11:23 (6854) 
-11:24 (6855) 
-11:25 (6856) 
-11:26 (6857) 
-11:27 (6858) 
-11:28 (6859) פ
-11:29 (6860) 
-11:30 (6861) 
-11:31 (6862) פ
-11:32 (6863) 
-11:33 (6864) פ
-11:34 (6865) 
-11:35 (6866) 
-11:36 (6867) 
-11:37 (6868) 
-11:38 (6869) 
-11:39 (6870) 
-11:40 (6871) ס
-12:1 (6872) 
-12:2 (6873) 
-12:3 (6874) 
-12:4 (6875) 
-12:5 (6876) 
-12:6 (6877) 
-12:7 (6878) פ
-12:8 (6879) 
-12:9 (6880) 
-12:10 (6881) פ
-12:11 (6882) 
-12:12 (6883) פ
-12:13 (6884) 
-12:14 (6885) 
-12:15 (6886) פ
-13:1 (6887) פ
-13:2 (6888) 
-13:3 (6889) 
-13:4 (6890) 
-13:5 (6891) 
-13:6 (6892) 
-13:7 (6893) פ
-13:8 (6894) 
-13:9 (6895) 
-13:10 (6896) 
-13:11 (6897) 
-13:12 (6898) 
-13:13 (6899) 
-13:14 (6900) 
-13:15 (6901) 
-13:16 (6902) 
-13:17 (6903) 
-13:18 (6904) ס
-13:19 (6905) 
-13:20 (6906) 
-13:21 (6907) 
-13:22 (6908) 
-13:23 (6909) 
-13:24 (6910) 
-13:25 (6911) פ
-14:1 (6912) 
-14:2 (6913) 
-14:3 (6914) 
-14:4 (6915) פ
-14:5 (6916) 
-14:6 (6917) 
-14:7 (6918) 
-14:8 (6919) 
-14:9 (6920) 
-14:10 (6921) 
-14:11 (6922) 
-14:12 (6923) 
-14:13 (6924) 
-14:14 (6925) 
-14:15 (6926) 
-14:16 (6927) 
-14:17 (6928) 
-14:18 (6929) 
-14:19 (6930) פ
-14:20 (6931) 
-15:1 (6932) 
-15:2 (6933) 
-15:3 (6934) 
-15:4 (6935) 
-15:5 (6936) 
-15:6 (6937) 
-15:7 (6938) 
-15:8 (6939) ס
-15:9 (6940) 
-15:10 (6941) 
-15:11 (6942) 
-15:12 (6943) 
-15:13 (6944) 
-15:14 (6945) 
-15:15 (6946) 
-15:16 (6947) 
-15:17 (6948) 
-15:18 (6949) 
-15:19 (6950) 
-15:20 (6951) פ
-16:1 (6952) 
-16:2 (6953) 
-16:3 (6954) פ
-16:4 (6955) 
-16:5 (6956) 
-16:6 (6957) 
-16:7 (6958) 
-16:8 (6959) 
-16:9 (6960) 
-16:10 (6961) 
-16:11 (6962) 
-16:12 (6963) 
-16:13 (6964) 
-16:14 (6965) 
-16:15 (6966) 
-16:16 (6967) 
-16:17 (6968) 
-16:18 (6969) 
-16:19 (6970) 
-16:20 (6971) 
-16:21 (6972) 
-16:22 (6973) פ
-16:23 (6974) 
-16:24 (6975) 
-16:25 (6976) 
-16:26 (6977) 
-16:27 (6978) 
-16:28 (6979) 
-16:29 (6980) 
-16:30 (6981) 
-16:31 (6982) פ
-17:1 (6983) 
-17:2 (6984) 
-17:3 (6985) 
-17:4 (6986) 
-17:5 (6987) 
-17:6 (6988) פ
-17:7 (6989) 
-17:8 (6990) 
-17:9 (6991) 
-17:10 (6992) 
-17:11 (6993) 
-17:12 (6994) 
-17:13 (6995) 
-18:1 (6996) ס
-18:2 (6997) 
-18:3 (6998) 
-18:4 (6999) 
-18:5 (7000) 
-18:6 (7001) פ
-18:7 (7002) 
-18:8 (7003) 
-18:9 (7004) 
-18:10 (7005) 
-18:11 (7006) 
-18:12 (7007) 
-18:13 (7008) 
-18:14 (7009) 
-18:15 (7010) 
-18:16 (7011) 
-18:17 (7012) 
-18:18 (7013) 
-18:19 (7014) 
-18:20 (7015) 
-18:21 (7016) 
-18:22 (7017) 
-18:23 (7018) 
-18:24 (7019) 
-18:25 (7020) 
-18:26 (7021) 
-18:27 (7022) 
-18:28 (7023) 
-18:29 (7024) 
-18:30 (7025) 
-18:31 (7026) פ
-19:1 (7027) 
-19:2 (7028) 
-19:3 (7029) 
-19:4 (7030) 
-19:5 (7031) 
-19:6 (7032) 
-19:7 (7033) 
-19:8 (7034) 
-19:9 (7035) 
-19:10 (7036) 
-19:11 (7037) 
-19:12 (7038) 
-19:13 (7039) 
-19:14 (7040) 
-19:15 (7041) 
-19:16 (7042) 
-19:17 (7043) 
-19:18 (7044) 
-19:19 (7045) 
-19:20 (7046) 
-19:21 (7047) 
-19:22 (7048) 
-19:23 (7049) 
-19:24 (7050) 
-19:25 (7051) 
-19:26 (7052) 
-19:27 (7053) 
-19:28 (7054) 
-19:29 (7055) 
-19:30 (7056) פ
-20:1 (7057) 
-20:2 (7058) פ
-20:3 (7059) 
-20:4 (7060) 
-20:5 (7061) 
-20:6 (7062) 
-20:7 (7063) 
-20:8 (7064) 
-20:9 (7065) 
-20:10 (7066) 
-20:11 (7067) פ
-20:12 (7068) 
-20:13 (7069) 
-20:14 (7070) 
-20:15 (7071) 
-20:16 (7072) פ
-20:17 (7073) 
-20:18 (7074) 
-20:19 (7075) פ
-20:20 (7076) 
-20:21 (7077) 
-20:22 (7078) 
-20:23 (7079) פ
-20:24 (7080) 
-20:25 (7081) 
-20:26 (7082) 
-20:27 (7083) 
-20:28 (7084) 
-20:29 (7085) פ
-20:30 (7086) 
-20:31 (7087) 
-20:32 (7088) 
-20:33 (7089) 
-20:34 (7090) פ
-20:35 (7091) 
-20:36 (7092) 
-20:37 (7093) 
-20:38 (7094) 
-20:39 (7095) 
-20:40 (7096) 
-20:41 (7097) 
-20:42 (7098) 
-20:43 (7099) 
-20:44 (7100) 
-20:45 (7101) 
-20:46 (7102) 
-20:47 (7103) 
-20:48 (7104) פ
-21:1 (7105) 
-21:2 (7106) 
-21:3 (7107) 
-21:4 (7108) פ
-21:5 (7109) 
-21:6 (7110) 
-21:7 (7111) 
-21:8 (7112) 
-21:9 (7113) 
-21:10 (7114) 
-21:11 (7115) 
-21:12 (7116) ס
-21:13 (7117) 
-21:14 (7118) 
-21:15 (7119) 
-21:16 (7120) 
-21:17 (7121) 
-21:18 (7122) ס
-21:19 (7123) 
-21:20 (7124) 
-21:21 (7125) 
-21:22 (7126) ס
-21:23 (7127) 
-21:24 (7128) 
-21:25 (7129) 
+Judges 1:1 (6512) і быць пасля смерць <strong>Joshua</strong> і пытацца сын Ісраэль у|[Тв.с.] Існы да|[Д.с.] казаць хто падымацца да|[Д.с.] да [арт.] канаанец у|[Тв.с.] [арт.] <strong>beginning</strong> да|[Д.с.] <strong>fight</strong> у|[Тв.с.] 
+Judges 1:2 (6513) і казаць Існы Егуда падымацца вось даць [В.с.] [арт.] зямля у|[Тв.с.] рука 
+Judges 1:3 (6514) і казаць Егуда да|[Д.с.] <strong>Simeon</strong> брат падымацца разам з у|[Тв.с.] лёс|доля і <strong>fight</strong> у|[Тв.с.] [арт.] канаанец і хадзіць таксама|нават я разам з у|[Тв.с.] лёс|доля і хадзіць разам з <strong>Simeon</strong> 
+Judges 1:4 (6515) і падымацца Егуда і даць Існы [В.с.] [арт.] канаанец і [арт.] <strong>Perizzite</strong> у|[Тв.с.] рука і <strong>strike</strong> у|[Тв.с.] <strong>Bezek</strong> дзесяць тысяча чалавек (1) 
+Judges 1:5 (6516) і знайсці [В.с.] <strong>Adoni-Bezek</strong> у|[Тв.с.] <strong>Bezek</strong> і <strong>fight</strong> у|[Тв.с.] і <strong>strike</strong> [В.с.] [арт.] канаанец і [В.с.] [арт.] <strong>Perizzite</strong> 
+Judges 1:6 (6517) і <strong>flee</strong> <strong>Adoni-Bezek</strong> і <strong>pursue</strong> пасля і <strong>seize</strong> [В.с.] і <strong>cut</strong> [В.с.] <strong>thumb</strong> рука і нага 
+Judges 1:7 (6518) і казаць <strong>Adoni-Bezek</strong> сем цар <strong>thumb</strong> рука і нага <strong>cut</strong> быць <strong>gather</strong> пад <strong>table</strong> як які рабіць так <strong>be complete</strong> да|[Д.с.] Бог і прыйсці Ерусалім і паміраць там פ
+Judges 1:8 (6519) і <strong>fight</strong> сын Егуда у|[Тв.с.] Ерусалім і <strong>seize</strong> [В.с.] і <strong>strike</strong> да|[Д.с.] рот <strong>dagger</strong> і [В.с.] [арт.] горад слаць у|[Тв.с.] [арт.] агонь 
+Judges 1:9 (6520) і пасля апускацца сын Егуда да|[Д.с.] <strong>fight</strong> у|[Тв.с.] [арт.] канаанец сядзець [арт.] гара і [арт.] поўдзеь і [арт.] нізіна 
+Judges 1:10 (6521) і хадзіць Егуда да [арт.] канаанец [арт.] сядзець у|[Тв.с.] <strong>Hebron</strong> і імя <strong>Hebron</strong> да|[Д.с.] твар <strong>Kiriath Arba</strong> і <strong>strike</strong> [В.с.] <strong>Sheshai</strong> і [В.с.] <strong>Ahiman</strong> і [В.с.] <strong>Talmai</strong> 
+Judges 1:11 (6522) і хадзіць з там да сядзець <strong>Debir</strong> і імя <strong>Debir</strong> да|[Д.с.] твар <strong>Kiriath Sepher</strong> 
+Judges 1:12 (6523) і казаць <strong>Caleb</strong> які <strong>strike</strong> [В.с.] <strong>Kiriath Sepher</strong> і <strong>seize</strong> і даць да|[Д.с.] [В.с.] <strong>Acsah</strong> дачка да|[Д.с.] жанчына 
+Judges 1:13 (6524) і <strong>seize</strong> <strong>Othniel</strong> сын <strong>Kenaz</strong> брат <strong>Caleb</strong> [арт.] малы|дробны з і даць да|[Д.с.] [В.с.] <strong>Acsah</strong> дачка да|[Д.с.] жанчына 
+Judges 1:14 (6525) і быць у|[Тв.с.] прыйсці і <strong>incite</strong> да|[Д.с.] пытацца з разам з бацька [арт.] поле і <strong>clap one's hand</strong> з на [арт.] <strong>he-ass</strong> і казаць да|[Д.с.] <strong>Caleb</strong> што да|[Д.с.] 
+Judges 1:15 (6526) і казаць да|[Д.с.] <strong>give</strong> да|[Д.с.] <strong>blessing</strong> бо|што зямля [арт.] поўдзеь даць і даць да|[Д.с.] <strong>basin</strong> вада і даць да|[Д.с.] <strong>Caleb</strong> [В.с.] <strong>basin</strong> <strong>upper</strong> і [В.с.] <strong>basin</strong> <strong>lower</strong> פ
+Judges 1:16 (6527) і сын <strong>Kenite</strong> <strong>be father-in-law</strong> Майсей падымацца з горад [арт.] <strong>date-palm</strong> разам з сын Егуда <strong>desert</strong> Егуда які у|[Тв.с.] поўдзеь <strong>Arad</strong> і хадзіць і сядзець разам з [арт.] народ 
+Judges 1:17 (6528) і хадзіць Егуда разам з <strong>Simeon</strong> брат і <strong>strike</strong> [В.с.] [арт.] канаанец сядзець <strong>Zephath</strong> і <strong>consecrate</strong> [В.с.] і зваць [В.с.] імя [арт.] горад <strong>Hormah</strong> 
+Judges 1:18 (6529) і <strong>seize</strong> Егуда [В.с.] <strong>Gaza</strong> і [В.с.] мяжа і [В.с.] <strong>Ashkelon</strong> і [В.с.] мяжа і [В.с.] <strong>Ekron</strong> і [В.с.] мяжа 
+Judges 1:19 (6530) і быць Існы разам з Егуда і заўладаць [В.с.] [арт.] гара бо|што не да|[Д.с.] заўладаць [В.с.] сядзець [арт.] <strong>valley</strong> бо|што <strong>chariot</strong> жалеза да|[Д.с.] 
+Judges 1:20 (6531) і даць да|[Д.с.] <strong>Caleb</strong> [В.с.] <strong>Hebron</strong> як які гаварыць Майсей і заўладаць з там [В.с.] <strong>three</strong> сын [арт.] <strong>neck</strong> 
+Judges 1:21 (6532) і [В.с.] [арт.] <strong>Jebusite</strong> сядзець Ерусалім не заўладаць сын Бін’ямін і сядзець [арт.] <strong>Jebusite</strong> разам з сын Бін’ямін у|[Тв.с.] Ерусалім (ажно) да [арт.] дзень [арт.] гэты ס
+Judges 1:22 (6533) і падымацца дом Ёсэ́ф таксама|нават яны [ж.] <strong>Bethel</strong> і Існы з 
+Judges 1:23 (6534) і <strong>spy</strong> дом Ёсэ́ф у|[Тв.с.] <strong>Bethel</strong> і імя [арт.] горад да|[Д.с.] твар <strong>Luz</strong> 
+Judges 1:24 (6535) і бачыць [арт.] захоўваць чалавек (1) выйсці з [арт.] горад і казаць да|[Д.с.] бачыць ж, -ка [узмацн.] [В.с.] <strong>entrance</strong> [арт.] горад і рабіць з <strong>loyalty</strong> 
+Judges 1:25 (6536) і бачыць [В.с.] <strong>entrance</strong> [арт.] горад і <strong>strike</strong> [В.с.] [арт.] горад да|[Д.с.] рот <strong>dagger</strong> і [В.с.] [арт.] чалавек (1) і [В.с.] цэлы|увесь <strong>clan</strong> слаць 
+Judges 1:26 (6537) і хадзіць [арт.] чалавек (1) зямля [арт.] <strong>Hittite</strong> і будаваць горад і зваць імя <strong>Luz</strong> ён імя (ажно) да [арт.] дзень [арт.] гэты פ
+Judges 1:27 (6538) і не заўладаць <strong>Manasseh</strong> [В.с.] <strong>Beth Shan</strong> і [В.с.] дачка і [В.с.] <strong>Taanach</strong> і [В.с.] дачка і [В.с.] сядзець <strong>Dor</strong> і [В.с.] дачка і [В.с.] сядзець <strong>Ibleam</strong> і [В.с.] дачка і [В.с.] сядзець <strong>Megiddo</strong> і [В.с.] дачка і <strong>begin</strong> [арт.] канаанец да|[Д.с.] сядзець у|[Тв.с.] [арт.] зямля [арт.] <strong>this</strong> 
+Judges 1:28 (6539) і быць бо|што <strong>be strong</strong> Ісраэль і класці|ставіць [В.с.] [арт.] канаанец да|[Д.с.] <strong>forced labour</strong> і заўладаць не заўладаць ס
+Judges 1:29 (6540) і Эфраі́м не заўладаць [В.с.] [арт.] канаанец [арт.] сядзець у|[Тв.с.] <strong>Gezer</strong> і сядзець [арт.] канаанец у|[Тв.с.] <strong>interior</strong> у|[Тв.с.] <strong>Gezer</strong> פ
+Judges 1:30 (6541) <strong>Zebulun</strong> не заўладаць [В.с.] сядзець <strong>Kitron</strong> і [В.с.] сядзець <strong>Nahalol</strong> і сядзець [арт.] канаанец у|[Тв.с.] <strong>interior</strong> і быць да|[Д.с.] <strong>forced labour</strong> ס
+Judges 1:31 (6542) <strong>Asher</strong> не заўладаць [В.с.] сядзець <strong>Acco</strong> і [В.с.] сядзець <strong>Sidon</strong> і [В.с.] <strong>Ahlab</strong> і [В.с.] <strong>Aczib</strong> і [В.с.] <strong>Helbah</strong> і [В.с.] <strong>Aphek</strong> і [В.с.] <strong>Rehob</strong> 
+Judges 1:32 (6543) і сядзець [арт.] <strong>from Asher</strong> у|[Тв.с.] <strong>interior</strong> [арт.] канаанец сядзець [арт.] зямля бо|што не заўладаць ס
+Judges 1:33 (6544) <strong>Naphtali</strong> не заўладаць [В.с.] сядзець <strong>Beth Shemesh</strong> і [В.с.] сядзець <strong>Beth Anath</strong> і сядзець у|[Тв.с.] <strong>interior</strong> [арт.] канаанец сядзець [арт.] зямля і сядзець <strong>Beth Shemesh</strong> і <strong>Beth Anath</strong> быць да|[Д.с.] да|[Д.с.] <strong>forced labour</strong> ס
+Judges 1:34 (6545) і <strong>press</strong> [арт.] <strong>Amorite</strong> [В.с.] сын <strong>Dan</strong> [арт.] гара бо|што не даць да|[Д.с.] апускацца да|[Д.с.] [арт.] <strong>valley</strong> 
+Judges 1:35 (6546) і <strong>begin</strong> [арт.] <strong>Amorite</strong> да|[Д.с.] сядзець у|[Тв.с.] <strong>Mount Heres</strong> у|[Тв.с.] <strong>Aijalon</strong> і у|[Тв.с.] <strong>Shaalbim</strong> і <strong>be heavy</strong> рука дом Ёсэ́ф і быць да|[Д.с.] <strong>forced labour</strong> 
+Judges 1:36 (6547) і мяжа [арт.] <strong>Amorite</strong> з <strong>Scorpion Pass</strong> з [арт.] <strong>Sela</strong> і верх פ
+Judges 2:1 (6548) і падымацца пасланец Існы з [арт.] <strong>Gilgal</strong> да [арт.] <strong>Bokim</strong> і казаць падымацца [В.с.] з <strong>Egypt</strong> і прыйсці [В.с.] да [арт.] зямля які <strong>swear</strong> да|[Д.с.] бацька і казаць не <strong>break</strong> дамова разам з да|[Д.с.] свет|вечнасць 
+Judges 2:2 (6549) і <strong>you</strong> не выразаць дамова да|[Д.с.] сядзець [арт.] зямля [арт.] <strong>this</strong> <strong>altar</strong> <strong>break</strong> і не чуць у|[Тв.с.] голас што <strong>this</strong> рабіць 
+Judges 2:3 (6550) і таксама|нават казаць не <strong>drive out</strong> [В.с.] з твар і быць да|[Д.с.] да|[Д.с.] <strong>snare</strong> і Бог быць да|[Д.с.] да|[Д.с.] <strong>bait</strong> 
+Judges 2:4 (6551) і быць як гаварыць пасланец Існы [В.с.] [арт.] слова|рэч [арт.] гэтыя да цэлы|увесь сын Ісраэль і падняць [арт.] народ [В.с.] голас і плакаць 
+Judges 2:5 (6552) і зваць імя [арт.] месца [арт.] ён <strong>Bokim</strong> і забіць там да|[Д.с.] Існы פ
+Judges 2:6 (6553) і слаць <strong>Joshua</strong> [В.с.] [арт.] народ і хадзіць сын Ісраэль чалавек (1) да|[Д.с.] уласнасць да|[Д.с.] заўладаць [В.с.] [арт.] зямля 
+Judges 2:7 (6554) і працаваць [арт.] народ [В.с.] Існы цэлы|увесь дзень <strong>Joshua</strong> і цэлы|увесь дзень [арт.] старадаўні які <strong>be long</strong> дзень пасля <strong>Joshua</strong> які бачыць [В.с.] цэлы|увесь учынак|справа Існы [арт.] вялікі які рабіць да|[Д.с.] Ісраэль 
+Judges 2:8 (6555) і паміраць <strong>Joshua</strong> сын <strong>Nun</strong> слуга Існы сын сотня і <strong>ten</strong> год 
+Judges 2:9 (6556) і пахаваць [В.с.] у|[Тв.с.] мяжа уласнасць у|[Тв.с.] <strong>Timnath Heres</strong> у|[Тв.с.] гара Эфраі́м з поўнач да|[Д.с.] гара <strong>Gaash</strong> 
+Judges 2:10 (6557) і таксама|нават цэлы|увесь [арт.] <strong>generation</strong> [арт.] ён збіраць да бацька і устаць <strong>generation</strong> іншы пасля які не ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] Існы і таксама|нават [В.с.] [арт.] учынак|справа які рабіць да|[Д.с.] Ісраэль ס
+Judges 2:11 (6558) і рабіць сын Ісраэль [В.с.] [арт.] зло у|[Тв.с.] вока Існы і працаваць [В.с.] [арт.] хазяін 
+Judges 2:12 (6559) і <strong>leave</strong> [В.с.] Існы Бог бацька [арт.] выйсці [В.с.] з зямля <strong>Egypt</strong> і хадзіць пасля Бог іншы з Бог [арт.] народ які вакол і <strong>bow down</strong> да|[Д.с.] і <strong>be discontent</strong> [В.с.] Існы 
+Judges 2:13 (6560) і <strong>leave</strong> [В.с.] Існы і працаваць да|[Д.с.] [арт.] хазяін і да|[Д.с.] [арт.] <strong>idol</strong> 
+Judges 2:14 (6561) і <strong>be hot</strong> <strong>nose</strong> Існы у|[Тв.с.] Ісраэль і даць у|[Тв.с.] рука <strong>spoil</strong> і <strong>plunder</strong> [В.с.] і <strong>sell</strong> у|[Тв.с.] рука <strong>be hostile</strong> з вакол і не магчы яшчэ да|[Д.с.] стаяць да|[Д.с.] твар <strong>be hostile</strong> 
+Judges 2:15 (6562) у|[Тв.с.] цэлы|увесь які выйсці рука Існы быць у|[Тв.с.] да|[Д.с.] дрэнны як які гаварыць Існы і як які <strong>swear</strong> Існы да|[Д.с.] і <strong>wrap, be narrow</strong> да|[Д.с.] вельмі 
+Judges 2:16 (6563) і устаць Існы судзіць і збавіць з рука <strong>spoil</strong> 
+Judges 2:17 (6564) і таксама|нават да судзіць не чуць бо|што <strong>fornicate</strong> пасля Бог іншы і <strong>bow down</strong> да|[Д.с.] збочыць спяшацца|хутка [як прысл.] з [арт.] шлях які хадзіць бацька да|[Д.с.] чуць <strong>commandment</strong> Існы не рабіць так 
+Judges 2:18 (6565) і бо|што устаць Існы да|[Д.с.] судзіць і быць Існы з [арт.] судзіць і збавіць з рука <strong>be hostile</strong> цэлы|увесь дзень [арт.] судзіць бо|што <strong>repent, console</strong> Існы з <strong>groaning</strong> з твар <strong>press</strong> і <strong>urge</strong> 
+Judges 2:19 (6566) і быць у|[Тв.с.] смерць [арт.] судзіць вяртацца і <strong>destroy</strong> з бацька да|[Д.с.] хадзіць пасля Бог іншы да|[Д.с.] працаваць і да|[Д.с.] <strong>bow down</strong> да|[Д.с.] не падаць з <strong>deed</strong> і з шлях [арт.] <strong>hard</strong> 
+Judges 2:20 (6567) і <strong>be hot</strong> <strong>nose</strong> Існы у|[Тв.с.] Ісраэль і казаць <strong>motive</strong> які перайсці [арт.] знешні народ [арт.] гэты [В.с.] дамова які <strong>command</strong> [В.с.] бацька і не чуць да|[Д.с.] голас 
+Judges 2:21 (6568) таксама|нават я не дадаць да|[Д.с.] заўладаць чалавек (1) з твар з [арт.] знешні народ які <strong>leave</strong> <strong>Joshua</strong> і паміраць 
+Judges 2:22 (6569) з-за <strong>try</strong> у|[Тв.с.] [В.с.] Ісраэль ці захоўваць яны [ж.] [В.с.] шлях Існы да|[Д.с.] хадзіць у|[Тв.с.] як які захоўваць бацька калі[зл.] не 
+Judges 2:23 (6570) і асесць Існы [В.с.] [арт.] знешні народ [арт.] гэтыя да|[Д.с.] <strong>failure</strong> заўладаць спяшацца|хутка [як прысл.] і не даць у|[Тв.с.] рука <strong>Joshua</strong> פ
+Judges 3:1 (6571) і гэтыя [арт.] знешні народ які асесць Існы да|[Д.с.] <strong>try</strong> у|[Тв.с.] [В.с.] Ісраэль [В.с.] цэлы|увесь які не ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] цэлы|увесь вайна <strong>Canaan</strong> 
+Judges 3:2 (6572) <strong>only</strong> з-за ведаць [+неад.]|займацца сэксам [+адуш.] <strong>generation</strong> сын Ісраэль да|[Д.с.] <strong>learn</strong> вайна <strong>only</strong> які да|[Д.с.] твар не ведаць [+неад.]|займацца сэксам [+адуш.] 
+Judges 3:3 (6573) <strong>five</strong> <strong>lords</strong> філістынец і цэлы|увесь [арт.] канаанец і [арт.] <strong>Sidonian</strong> і [арт.] <strong>Hivite</strong> сядзець гара [арт.] <strong>Lebanon</strong> з гара <strong>Baal Hermon</strong> (ажно) да да|[Д.с.] прыйсці <strong>Hamath</strong> 
+Judges 3:4 (6574) і быць да|[Д.с.] <strong>try</strong> у|[Тв.с.] [В.с.] Ісраэль да|[Д.с.] ведаць [+неад.]|займацца сэксам [+адуш.] ці чуць [В.с.] <strong>commandment</strong> Існы які <strong>command</strong> [В.с.] бацька у|[Тв.с.] рука Майсей 
+Judges 3:5 (6575) і сын Ісраэль сядзець у|[Тв.с.] <strong>interior</strong> [арт.] канаанец [арт.] <strong>Hittite</strong> і [арт.] <strong>Amorite</strong> і [арт.] <strong>Perizzite</strong> і [арт.] <strong>Hivite</strong> і [арт.] <strong>Jebusite</strong> 
+Judges 3:6 (6576) і браць [В.с.] дачка да|[Д.с.] да|[Д.с.] жанчына і [В.с.] дачка даць да|[Д.с.] сын і працаваць [В.с.] Бог פ
+Judges 3:7 (6577) і рабіць сын Ісраэль [В.с.] [арт.] зло у|[Тв.с.] вока Існы і забыць [В.с.] Існы Бог і працаваць [В.с.] [арт.] хазяін і [В.с.] [арт.] <strong>asherah</strong> 
+Judges 3:8 (6578) і <strong>be hot</strong> <strong>nose</strong> Існы у|[Тв.с.] Ісраэль і <strong>sell</strong> у|[Тв.с.] рука <strong>Cushan-Rishathaim</strong> цар <strong>Mesopotamia</strong> і працаваць сын Ісраэль [В.с.] <strong>Cushan-Rishathaim</strong> восем год 
+Judges 3:9 (6579) і <strong>cry</strong> сын Ісраэль да Існы і устаць Існы збавіць да|[Д.с.] сын Ісраэль і збавіць [В.с.] <strong>Othniel</strong> сын <strong>Kenaz</strong> брат <strong>Caleb</strong> [арт.] малы|дробны з 
+Judges 3:10 (6580) і быць на вецер Існы і судзіць [В.с.] Ісраэль і выйсці да|[Д.с.] [арт.] вайна і даць Існы у|[Тв.с.] рука [В.с.] <strong>Cushan-Rishathaim</strong> цар <strong>Aram</strong> і <strong>be strong</strong> рука на <strong>Cushan-Rishathaim</strong> 
+Judges 3:11 (6581) і <strong>be at peace</strong> [арт.] зямля <strong>four</strong> год і паміраць <strong>Othniel</strong> сын <strong>Kenaz</strong> פ
+Judges 3:12 (6582) і дадаць сын Ісраэль да|[Д.с.] рабіць [арт.] зло у|[Тв.с.] вока Існы і <strong>be strong</strong> Існы [В.с.] <strong>Eglon</strong> цар <strong>Moab</strong> на Ісраэль на бо|што рабіць [В.с.] [арт.] зло у|[Тв.с.] вока Існы 
+Judges 3:13 (6583) і збіраць да [В.с.] сын <strong>Ammon</strong> і <strong>Amalek</strong> і хадзіць і <strong>strike</strong> [В.с.] Ісраэль і заўладаць [В.с.] горад [арт.] <strong>date-palm</strong> 
+Judges 3:14 (6584) і працаваць сын Ісраэль [В.с.] <strong>Eglon</strong> цар <strong>Moab</strong> восем <strong>-teen</strong> год ס
+Judges 3:15 (6585) і <strong>cry</strong> сын Ісраэль да Існы і устаць Існы да|[Д.с.] збавіць [В.с.] <strong>Ehud</strong> сын <strong>Gera</strong> сын [арт.] <strong>Benjaminite</strong> чалавек (1) <strong>left-handed</strong> рука правая частка і слаць сын Ісраэль у|[Тв.с.] рука <strong>present</strong> да|[Д.с.] <strong>Eglon</strong> цар <strong>Moab</strong> 
+Judges 3:16 (6586) і рабіць да|[Д.с.] <strong>Ehud</strong> <strong>dagger</strong> і да|[Д.с.] два рот <strong>cubit</strong> <strong>length</strong> і <strong>gird</strong> [В.с.] з пад да|[Д.с.] <strong>cloth</strong> на <strong>upper thigh</strong> правая частка 
+Judges 3:17 (6587) і набліжацца [В.с.] [арт.] <strong>present</strong> да|[Д.с.] <strong>Eglon</strong> цар <strong>Moab</strong> і <strong>Eglon</strong> чалавек (1) <strong>fat</strong> вельмі 
+Judges 3:18 (6588) і быць як які <strong>be complete</strong> да|[Д.с.] набліжацца [В.с.] [арт.] <strong>present</strong> і слаць [В.с.] [арт.] народ падняць [арт.] <strong>present</strong> 
+Judges 3:19 (6589) і ён вяртацца з [арт.] <strong>idol</strong> які разам з [арт.] <strong>Gilgal</strong> і казаць слова|рэч <strong>hiding place</strong> да|[Д.с.] да [арт.] цар і казаць <strong>be still</strong> і выйсці з на цэлы|увесь [арт.] стаяць на 
+Judges 3:20 (6590) і <strong>Ehud</strong> прыйсці да і ён сядзець у|[Тв.с.] <strong>upper room</strong> [арт.] <strong>coolness</strong> які да|[Д.с.] да|[Д.с.] частка і казаць <strong>Ehud</strong> слова|рэч Бог да|[Д.с.] да і устаць з на [арт.] <strong>seat</strong> 
+Judges 3:21 (6591) і слаць <strong>Ehud</strong> [В.с.] рука левая частка і браць [В.с.] [арт.] <strong>dagger</strong> з на <strong>upper thigh</strong> правая частка і <strong>blow</strong> у|[Тв.с.] <strong>belly</strong> 
+Judges 3:22 (6592) і прыйсці таксама|нават [арт.] <strong>handle</strong> пасля [арт.] <strong>flame</strong> і зачыняць [арт.] <strong>fat</strong> <strong>distance</strong> [арт.] <strong>flame</strong> бо|што не <strong>draw</strong> [арт.] <strong>dagger</strong> з <strong>belly</strong> і выйсці [арт.] <strong>hole</strong> 
+Judges 3:23 (6593) і выйсці <strong>Ehud</strong> [арт.] <strong>[uncertain]</strong> і зачыняць дзверы [арт.] <strong>upper room</strong> <strong>distance</strong> і <strong>lock</strong> 
+Judges 3:24 (6594) і ён выйсці і слуга прыйсці і бачыць і вось дзверы [арт.] <strong>upper room</strong> <strong>lock</strong> і казаць <strong>only</strong> <strong>block</strong> ён [В.с.] нага у|[Тв.с.] пакой [арт.] <strong>coolness</strong> 
+Judges 3:25 (6595) і <strong>wait</strong> (ажно) да <strong>be ashamed</strong> і вось няма <strong>open</strong> дзверы [арт.] <strong>upper room</strong> і браць [В.с.] [арт.] <strong>key</strong> і <strong>open</strong> і вось <strong>lord</strong> падаць зямля паміраць 
+Judges 3:26 (6596) і <strong>Ehud</strong> <strong>escape</strong> (ажно) да <strong>tarry</strong> і ён перайсці [В.с.] [арт.] <strong>idol</strong> і <strong>escape</strong> [арт.] <strong>Seirah</strong> 
+Judges 3:27 (6597) і быць у|[Тв.с.] прыйсці і <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> у|[Тв.с.] гара Эфраі́м і апускацца з сын Ісраэль з [арт.] гара і ён да|[Д.с.] твар 
+Judges 3:28 (6598) і казаць да <strong>pursue</strong> пасля бо|што даць Існы [В.с.] <strong>be hostile</strong> [В.с.] <strong>Moab</strong> у|[Тв.с.] рука і апускацца пасля і <strong>seize</strong> [В.с.] <strong>ford</strong> [арт.] <strong>Jordan</strong> да|[Д.с.] <strong>Moab</strong> і не даць чалавек (1) да|[Д.с.] перайсці 
+Judges 3:29 (6599) і <strong>strike</strong> [В.с.] <strong>Moab</strong> у|[Тв.с.] [арт.] момант [арт.] яна як дзесяць тысяча чалавек (1) цэлы|увесь <strong>fat</strong> і цэлы|увесь чалавек (1) моц і не <strong>escape</strong> чалавек (1) 
+Judges 3:30 (6600) і <strong>be humble</strong> <strong>Moab</strong> у|[Тв.с.] [арт.] дзень [арт.] ён пад рука Ісраэль і <strong>be at peace</strong> [арт.] зямля восем год ס
+Judges 3:31 (6601) і пасля быць <strong>Shamgar</strong> сын <strong>Anath</strong> і <strong>strike</strong> [В.с.] філістынец <strong>six</strong> сотня чалавек (1) у|[Тв.с.] <strong>ox-goad</strong> [арт.] быдла і збавіць таксама|нават ён [В.с.] Ісраэль ס
+Judges 4:1 (6602) і дадаць сын Ісраэль да|[Д.с.] рабіць [арт.] зло у|[Тв.с.] вока Існы і <strong>Ehud</strong> паміраць 
+Judges 4:2 (6603) і <strong>sell</strong> Існы у|[Тв.с.] рука <strong>Jabin</strong> цар <strong>Canaan</strong> які цараваць у|[Тв.с.] <strong>Hazor</strong> і кіраўнік|міністр <strong>service</strong> <strong>Sisera</strong> і ён сядзець у|[Тв.с.] <strong>Harosheth Haggoyim</strong> 
+Judges 4:3 (6604) і <strong>cry</strong> сын Ісраэль да Існы бо|што <strong>nine</strong> сотня <strong>chariot</strong> жалеза да|[Д.с.] і ён <strong>press</strong> [В.с.] сын Ісраэль у|[Тв.с.] <strong>strength</strong> <strong>twenty</strong> год ס
+Judges 4:4 (6605) і <strong>Deborah</strong> жанчына <strong>prophetess</strong> жанчына <strong>Lappidoth</strong> яна судзіць [В.с.] Ісраэль у|[Тв.с.] [арт.] момант [арт.] яна 
+Judges 4:5 (6606) і яна сядзець пад <strong>date-palm</strong> <strong>Deborah</strong> між [арт.] <strong>Ramah</strong> і між <strong>Bethel</strong> у|[Тв.с.] гара Эфраі́м і падымацца да сын Ісраэль да|[Д.с.] [арт.] правасуддзе 
+Judges 4:6 (6607) і слаць і зваць да|[Д.с.] <strong>Barak</strong> сын <strong>Abinoam</strong> з <strong>Kedesh</strong> <strong>Naphtali</strong> і казаць да ці не <strong>command</strong> Існы Бог Ісраэль хадзіць і <strong>draw</strong> у|[Тв.с.] гара <strong>Tabor</strong> і браць з дзесяць тысяча чалавек (1) з сын <strong>Naphtali</strong> і з сын <strong>Zebulun</strong> 
+Judges 4:7 (6608) і <strong>draw</strong> да да <strong>wadi</strong> <strong>Kishon</strong> [В.с.] <strong>Sisera</strong> кіраўнік|міністр <strong>service</strong> <strong>Jabin</strong> і [В.с.] <strong>chariot</strong> і [В.с.] <strong>commotion</strong> і даць у|[Тв.с.] рука 
+Judges 4:8 (6609) і казаць да <strong>Barak</strong> калі[зл.] хадзіць з і хадзіць і калі[зл.] не хадзіць з не хадзіць 
+Judges 4:9 (6610) і казаць хадзіць хадзіць з <strong>end</strong> бо|што не быць <strong>splendour</strong> на [арт.] шлях які ты[м.] хадзіць бо|што у|[Тв.с.] рука жанчына <strong>sell</strong> Існы [В.с.] <strong>Sisera</strong> і устаць <strong>Deborah</strong> і хадзіць з <strong>Barak</strong> <strong>Kedesh</strong> 
+Judges 4:10 (6611) і <strong>cry</strong> <strong>Barak</strong> [В.с.] <strong>Zebulun</strong> і [В.с.] <strong>Naphtali</strong> <strong>Kedesh</strong> і падымацца у|[Тв.с.] нага дзесяць тысяча чалавек (1) і падымацца з <strong>Deborah</strong> 
+Judges 4:11 (6612) і <strong>Heber</strong> [арт.] <strong>Kenite</strong> <strong>divide</strong> з <strong>Kain</strong> з сын <strong>Hobab</strong> <strong>be father-in-law</strong> Майсей і <strong>extend</strong> <strong>tent</strong> (ажно) да <strong>big tree</strong> у|[Тв.с.] <strong>Zaanannim</strong> які разам з <strong>Kedesh</strong> 
+Judges 4:12 (6613) і абвяшчаць да|[Д.с.] <strong>Sisera</strong> бо|што падымацца <strong>Barak</strong> сын <strong>Abinoam</strong> гара <strong>Tabor</strong> ס
+Judges 4:13 (6614) і <strong>cry</strong> <strong>Sisera</strong> [В.с.] цэлы|увесь <strong>chariot</strong> <strong>nine</strong> сотня <strong>chariot</strong> жалеза і [В.с.] цэлы|увесь [арт.] народ які разам з з <strong>Harosheth Haggoyim</strong> да <strong>wadi</strong> <strong>Kishon</strong> 
+Judges 4:14 (6615) і казаць <strong>Deborah</strong> да <strong>Barak</strong> устаць бо|што гэты [арт.] дзень які даць Існы [В.с.] <strong>Sisera</strong> у|[Тв.с.] рука ці не Існы выйсці да|[Д.с.] твар і апускацца <strong>Barak</strong> з гара <strong>Tabor</strong> і дзесяць тысяча чалавек (1) пасля 
+Judges 4:15 (6616) і <strong>confuse</strong> Існы [В.с.] <strong>Sisera</strong> і [В.с.] цэлы|увесь [арт.] <strong>chariot</strong> і [В.с.] цэлы|увесь [арт.] <strong>camp</strong> да|[Д.с.] рот <strong>dagger</strong> да|[Д.с.] твар <strong>Barak</strong> і апускацца <strong>Sisera</strong> з на [арт.] <strong>chariot</strong> і <strong>flee</strong> у|[Тв.с.] нага 
+Judges 4:16 (6617) і <strong>Barak</strong> <strong>pursue</strong> пасля [арт.] <strong>chariot</strong> і пасля [арт.] <strong>camp</strong> (ажно) да <strong>Harosheth Haggoyim</strong> і падаць цэлы|увесь <strong>camp</strong> <strong>Sisera</strong> да|[Д.с.] рот <strong>dagger</strong> не пакідаць (ажно) да адзін 
+Judges 4:17 (6618) і <strong>Sisera</strong> <strong>flee</strong> у|[Тв.с.] нага да <strong>tent</strong> <strong>Jael</strong> жанчына <strong>Heber</strong> [арт.] <strong>Kenite</strong> бо|што згода між <strong>Jabin</strong> цар <strong>Hazor</strong> і між дом <strong>Heber</strong> [арт.] <strong>Kenite</strong> 
+Judges 4:18 (6619) і выйсці <strong>Jael</strong> да|[Д.с.] <strong>encounter</strong> <strong>Sisera</strong> і казаць да збочыць <strong>lord</strong> збочыць да не [+заг.лад] баяцца і збочыць да [арт.] <strong>tent</strong> і пакрыць у|[Тв.с.] [арт.] <strong>curtain</strong> 
+Judges 4:19 (6620) і казаць да <strong>give drink</strong> ж, -ка [узмацн.] <strong>little</strong> вада бо|што <strong>be thirsty</strong> і <strong>open</strong> [В.с.] <strong>skin-bottle</strong> [арт.] <strong>milk</strong> і <strong>give drink</strong> і пакрыць 
+Judges 4:20 (6621) і казаць да стаяць <strong>opening</strong> [арт.] <strong>tent</strong> і быць калі[зл.] чалавек (1) прыйсці і пытацца і казаць ці ёсць <strong>here</strong> чалавек (1) і казаць няма 
+Judges 4:21 (6622) і браць <strong>Jael</strong> жанчына <strong>Heber</strong> [В.с.] <strong>peg</strong> [арт.] <strong>tent</strong> і класці|ставіць [В.с.] [арт.] <strong>hammer</strong> у|[Тв.с.] рука і прыйсці да у|[Тв.с.] [арт.] <strong>secrecy</strong> і <strong>blow</strong> [В.с.] [арт.] <strong>peg</strong> у|[Тв.с.] <strong>temple</strong> і <strong>clap one's hand</strong> у|[Тв.с.] [арт.] зямля і ён <strong>sleep</strong> і <strong>be faint</strong> і паміраць 
+Judges 4:22 (6623) і вось <strong>Barak</strong> <strong>pursue</strong> [В.с.] <strong>Sisera</strong> і выйсці <strong>Jael</strong> да|[Д.с.] <strong>encounter</strong> і казаць да|[Д.с.] хадзіць і бачыць [В.с.] [арт.] чалавек (1) які ты[м.] шукаць і прыйсці да і вось <strong>Sisera</strong> падаць паміраць і [арт.] <strong>peg</strong> у|[Тв.с.] <strong>temple</strong> 
+Judges 4:23 (6624) і <strong>be humble</strong> Бог у|[Тв.с.] [арт.] дзень [арт.] ён [В.с.] <strong>Jabin</strong> цар <strong>Canaan</strong> да|[Д.с.] твар сын Ісраэль 
+Judges 4:24 (6625) і хадзіць рука сын Ісраэль хадзіць і <strong>hard</strong> на <strong>Jabin</strong> цар <strong>Canaan</strong> (ажно) да які выразаць [В.с.] <strong>Jabin</strong> цар <strong>Canaan</strong> פ
+Judges 5:1 (6626) і <strong>sing</strong> <strong>Deborah</strong> і <strong>Barak</strong> сын <strong>Abinoam</strong> у|[Тв.с.] [арт.] дзень [арт.] ён да|[Д.с.] казаць 
+Judges 5:2 (6627) у|[Тв.с.] <strong>let loose</strong> <strong>loose hair</strong> у|[Тв.с.] Ісраэль у|[Тв.с.] <strong>incite</strong> народ <strong>bless</strong> Існы 
+Judges 5:3 (6628) чуць цар <strong>listen</strong> <strong>be weighty</strong> <strong>i</strong> да|[Д.с.] Існы <strong>i</strong> <strong>sing</strong> <strong>sing</strong> да|[Д.с.] Існы Бог Ісраэль 
+Judges 5:4 (6629) Існы у|[Тв.с.] выйсці з <strong>Seir</strong> у|[Тв.с.] <strong>march</strong> з поле Эдом зямля <strong>quake</strong> таксама|нават неба <strong>drop</strong> таксама|нават воблака|хмара <strong>drop</strong> вада 
+Judges 5:5 (6630) гара <strong>be lavish</strong> з твар Існы гэты <strong>Sinai</strong> з твар Існы Бог Ісраэль 
+Judges 5:6 (6631) у|[Тв.с.] дзень <strong>Shamgar</strong> сын <strong>Anath</strong> у|[Тв.с.] дзень <strong>Jael</strong> <strong>cease</strong> <strong>path</strong> і хадзіць <strong>path</strong> хадзіць <strong>path</strong> <strong>crooked</strong> 
+Judges 5:7 (6632) <strong>cease</strong> <strong>countrymen</strong> у|[Тв.с.] Ісраэль <strong>cease</strong> (ажно) да што устаць <strong>Deborah</strong> што устаць маці у|[Тв.с.] Ісраэль 
+Judges 5:8 (6633) <strong>examine</strong> Бог новы тады <strong>[uncertain]</strong> брама <strong>shield</strong> калі[зл.] бачыць і <strong>lance</strong> у|[Тв.с.] <strong>four</strong> тысяча у|[Тв.с.] Ісраэль 
+Judges 5:9 (6634) сэрца да|[Д.с.] <strong>engrave</strong> Ісраэль [арт.] <strong>incite</strong> у|[Тв.с.] [арт.] народ <strong>bless</strong> Існы 
+Judges 5:10 (6635) <strong>ride</strong> <strong>she-ass</strong> <strong>yellowish red</strong> сядзець на <strong>cloth</strong> і хадзіць на шлях <strong>be concerned with</strong> 
+Judges 5:11 (6636) з голас <strong>divide</strong> між <strong>watering-channel</strong> там <strong>recount</strong> <strong>justice</strong> Існы <strong>justice</strong> <strong>countrymen</strong> у|[Тв.с.] Ісраэль тады апускацца да|[Д.с.] [арт.] брама народ Існы 
+Judges 5:12 (6637) <strong>be awake</strong> <strong>be awake</strong> <strong>Deborah</strong> <strong>be awake</strong> <strong>be awake</strong> гаварыць песня устаць <strong>Barak</strong> і браць у палон <strong>captive</strong> сын <strong>Abinoam</strong> 
+Judges 5:13 (6638) тады <strong>tread, to rule</strong> выжыўшы да|[Д.с.] <strong>mighty</strong> народ Існы <strong>tread, to rule</strong> да|[Д.с.] у|[Тв.с.] [арт.] мужны|моцны 
+Judges 5:14 (6639) з Эфраі́м <strong>root</strong> у|[Тв.с.] <strong>Amalek</strong> пасля Бін’ямін у|[Тв.с.] народ з <strong>Makir</strong> апускацца <strong>engrave</strong> і з <strong>Zebulun</strong> <strong>draw</strong> у|[Тв.с.] <strong>rod</strong> <strong>scribe</strong> 
+Judges 5:15 (6640) і кіраўнік|міністр у|[Тв.с.] <strong>Issachar</strong> з <strong>Deborah</strong> і <strong>Issachar</strong> так <strong>Barak</strong> у|[Тв.с.] [арт.] <strong>valley</strong> слаць у|[Тв.с.] нага у|[Тв.с.] <strong>division</strong> <strong>Reuben</strong> вялікі <strong>portion</strong> сэрца 
+Judges 5:16 (6641) чаму сядзець між [арт.] <strong>saddle-bags</strong> да|[Д.с.] чуць <strong>whistling</strong> <strong>flock</strong> да|[Д.с.] <strong>division</strong> <strong>Reuben</strong> вялікі <strong>exploration</strong> сэрца 
+Judges 5:17 (6642) Гіл’ад у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> насяляць і <strong>Dan</strong> чаму <strong>dwell</strong> <strong>ship</strong> <strong>Asher</strong> сядзець да|[Д.с.] <strong>shore</strong> мора і на <strong>landing place</strong> насяляць 
+Judges 5:18 (6643) <strong>Zebulun</strong> народ <strong>reproach</strong> душа да|[Д.с.] паміраць і <strong>Naphtali</strong> на узвышанасць поле 
+Judges 5:19 (6644) прыйсці цар <strong>fight</strong> тады <strong>fight</strong> цар <strong>Canaan</strong> у|[Тв.с.] <strong>Taanach</strong> на вада <strong>Megiddo</strong> <strong>profit</strong> срэбра не браць 
+Judges 5:20 (6645) з неба <strong>fight</strong> [арт.] зорка з <strong>highway</strong> <strong>fight</strong> з <strong>Sisera</strong> 
+Judges 5:21 (6646) <strong>wadi</strong> <strong>Kishon</strong> <strong>wash away</strong> <strong>wadi</strong> <strong>[uncertain]</strong> <strong>wadi</strong> <strong>Kishon</strong> <strong>tread</strong> душа <strong>power</strong> 
+Judges 5:22 (6647) тады <strong>strike</strong> <strong>heel</strong> конь з <strong>dashing</strong> <strong>dashing</strong> <strong>strong</strong> 
+Judges 5:23 (6648) <strong>curse</strong> <strong>Meroz</strong> казаць пасланец Існы <strong>curse</strong> <strong>curse</strong> сядзець бо|што не прыйсці да|[Д.с.] <strong>help</strong> Існы да|[Д.с.] <strong>help</strong> Існы у|[Тв.с.] [арт.] мужны|моцны 
+Judges 5:24 (6649) <strong>bless</strong> з жанчына <strong>Jael</strong> жанчына <strong>Heber</strong> [арт.] <strong>Kenite</strong> з жанчына у|[Тв.с.] [арт.] <strong>tent</strong> <strong>bless</strong> 
+Judges 5:25 (6650) вада пытацца <strong>milk</strong> даць у|[Тв.с.] <strong>bowl</strong> <strong>mighty</strong> набліжацца <strong>butter</strong> 
+Judges 5:26 (6651) рука да|[Д.с.] [арт.] <strong>peg</strong> слаць і правая частка да|[Д.с.] <strong>hammer</strong> працоўны і <strong>strike</strong> <strong>Sisera</strong> <strong>skin</strong> галава і <strong>break</strong> і <strong>cut</strong> <strong>temple</strong> 
+Judges 5:27 (6652) між нага <strong>kneel</strong> падаць ляжаць між нага <strong>kneel</strong> падаць у|[Тв.с.] які <strong>kneel</strong> там падаць быць спустошаным 
+Judges 5:28 (6653) <strong>distance</strong> [арт.] <strong>window</strong> <strong>look</strong> і <strong>lament</strong> маці <strong>Sisera</strong> <strong>distance</strong> [арт.] <strong>window</strong> <strong>why</strong> <strong>be ashamed</strong> <strong>chariot</strong> да|[Д.с.] прыйсці <strong>why</strong> <strong>be behind</strong> <strong>foot</strong> <strong>chariot</strong> 
+Judges 5:29 (6654) разумны <strong>mistress</strong> адказаць нават яна вяртацца <strong>word</strong> да|[Д.с.] 
+Judges 5:30 (6655) ці не знайсці <strong>divide</strong> <strong>plunder</strong> <strong>womb</strong> <strong>womb</strong> да|[Д.с.] галава <strong>vigorous man</strong> <strong>plunder</strong> <strong>stuff</strong> да|[Д.с.] <strong>Sisera</strong> <strong>plunder</strong> <strong>stuff</strong> <strong>woven stuff</strong> <strong>stuff</strong> <strong>woven stuff</strong> да|[Д.с.] <strong>neck</strong> <strong>plunder</strong> 
+Judges 5:31 (6656) так загінуць цэлы|увесь <strong>be hostile</strong> Існы і любіць|кахаць як выйсці [арт.] сонца у|[Тв.с.] мужнасць і <strong>be at peace</strong> [арт.] зямля <strong>four</strong> год פ
+Judges 6:1 (6657) і рабіць сын Ісраэль [арт.] зло у|[Тв.с.] вока Існы і даць Існы у|[Тв.с.] рука <strong>Midian</strong> сем год 
+Judges 6:2 (6658) і <strong>be strong</strong> рука <strong>Midian</strong> на Ісраэль з твар <strong>Midian</strong> рабіць да|[Д.с.] сын Ісраэль [В.с.] [арт.] <strong>store</strong> які у|[Тв.с.] [арт.] гара і [В.с.] [арт.] <strong>cave</strong> і [В.с.] [арт.] <strong>unapproachable</strong> 
+Judges 6:3 (6659) і быць калі[зл.] <strong>sow</strong> Ісраэль і падымацца <strong>Midian</strong> і <strong>Amalek</strong> і сын <strong>front</strong> і падымацца на 
+Judges 6:4 (6660) і <strong>encamp</strong> на і <strong>destroy</strong> [В.с.] <strong>produce</strong> [арт.] зямля (ажно) да прыйсці <strong>Gaza</strong> і не пакідаць <strong>life preservation</strong> у|[Тв.с.] Ісраэль і <strong>lamb</strong> і <strong>bullock</strong> і <strong>he-ass</strong> 
+Judges 6:5 (6661) бо|што яны [ж.] і набыццё падымацца і <strong>tent</strong> і прыйсці як дастатковасць <strong>locust</strong> да|[Д.с.] шматлікасць і да|[Д.с.] і да|[Д.с.] <strong>camel</strong> няма лік і прыйсці у|[Тв.с.] [арт.] зямля да|[Д.с.] <strong>destroy</strong> 
+Judges 6:6 (6662) і <strong>belittle</strong> Ісраэль вельмі з твар <strong>Midian</strong> і <strong>cry</strong> сын Ісраэль да Існы פ
+Judges 6:7 (6663) і быць бо|што <strong>cry</strong> сын Ісраэль да Існы на <strong>inducement</strong> <strong>Midian</strong> 
+Judges 6:8 (6664) і слаць Існы чалавек (1) <strong>prophet</strong> да сын Ісраэль і казаць да|[Д.с.] такім чынам казаць Існы Бог Ісраэль <strong>i</strong> падымацца [В.с.] з <strong>Egypt</strong> і выйсці [В.с.] з дом слуга 
+Judges 6:9 (6665) і <strong>deliver</strong> [В.с.] з рука <strong>Egypt</strong> і з рука цэлы|увесь <strong>press</strong> і <strong>drive out</strong> [В.с.] з твар і даць да|[Д.с.] [В.с.] зямля 
+Judges 6:10 (6666) і казаць да|[Д.с.] я Існы Бог не баяцца [В.с.] Бог [арт.] <strong>Amorite</strong> які <strong>you</strong> сядзець у|[Тв.с.] зямля і не чуць у|[Тв.с.] голас פ
+Judges 6:11 (6667) і прыйсці пасланец Існы і сядзець пад [арт.] <strong>big tree</strong> які у|[Тв.с.] <strong>Ophrah</strong> які да|[Д.с.] <strong>Joash</strong> бацька [арт.] <strong>-ezrite</strong> і <strong>Gideon</strong> сын <strong>beat off</strong> <strong>wheat</strong> у|[Тв.с.] [арт.] <strong>wine-press</strong> да|[Д.с.] <strong>flee</strong> з твар <strong>Midian</strong> 
+Judges 6:12 (6668) і бачыць да пасланец Існы і казаць да Існы з мужны|моцны [арт.] моц 
+Judges 6:13 (6669) і казаць да <strong>Gideon</strong> <strong>upon me</strong> <strong>lord</strong> і ёсць Існы з і чаму знайсці цэлы|увесь <strong>this</strong> і <strong>where</strong> цэлы|увесь <strong>be miraculous</strong> які <strong>count</strong> да|[Д.с.] бацька да|[Д.с.] казаць ці не з <strong>Egypt</strong> падымацца Існы і <strong>now</strong> <strong>abandon</strong> Існы і даць у|[Тв.с.] далонь <strong>Midian</strong> 
+Judges 6:14 (6670) і <strong>turn</strong> да Існы і казаць хадзіць у|[Тв.с.] сіла гэты і збавіць [В.с.] Ісраэль з далонь <strong>Midian</strong> ці не слаць 
+Judges 6:15 (6671) і казаць да <strong>upon me</strong> валадар у|[Тв.с.] што збавіць [В.с.] Ісраэль вось <strong>group of thousand</strong> [арт.] <strong>poor</strong> у|[Тв.с.] <strong>Manasseh</strong> і <strong>i</strong> [арт.] <strong>little</strong> у|[Тв.с.] дом бацька 
+Judges 6:16 (6672) і казаць да Існы бо|што быць з і <strong>strike</strong> [В.с.] <strong>Midian</strong> як чалавек (1) адзін 
+Judges 6:17 (6673) і казаць да калі[зл.] ж, -ка [узмацн.] знайсці ласка у|[Тв.с.] вока і рабіць да|[Д.с.] <strong>sign</strong> што ты[м.] гаварыць з 
+Judges 6:18 (6674) не [+заг.лад] ж, -ка [узмацн.] <strong>depart</strong> з гэты (ажно) да прыйсці да і выйсці [В.с.] <strong>present</strong> і асесць да|[Д.с.] твар і казаць <strong>i</strong> сядзець (ажно) да вяртацца 
+Judges 6:19 (6675) і <strong>Gideon</strong> прыйсці і рабіць <strong>goat</strong> <strong>goat</strong> і <strong>ephah</strong> <strong>flour</strong> <strong>matzah</strong> [арт.] мяса|плоць класці|ставіць у|[Тв.с.] [арт.] <strong>basket</strong> і [арт.] <strong>juice</strong> класці|ставіць у|[Тв.с.] [арт.] <strong>cooking pot</strong> і выйсці да да пад [арт.] <strong>big tree</strong> і <strong>approach</strong> ס
+Judges 6:20 (6676) і казаць да пасланец [арт.] Бог браць [В.с.] [арт.] мяса|плоць і [В.с.] [арт.] <strong>matzah</strong> і асесць да [арт.] скала [арт.] <strong>this there</strong> і [В.с.] [арт.] <strong>juice</strong> <strong>pour</strong> і рабіць так 
+Judges 6:21 (6677) і слаць пасланец Існы [В.с.] <strong>end</strong> [арт.] <strong>support</strong> які у|[Тв.с.] рука і <strong>touch</strong> у|[Тв.с.] [арт.] мяса|плоць і у|[Тв.с.] [арт.] <strong>matzah</strong> і падымацца [арт.] агонь з [арт.] <strong>rock</strong> і есці [В.с.] [арт.] мяса|плоць і [В.с.] [арт.] <strong>matzah</strong> і пасланец Існы хадзіць з вока 
+Judges 6:22 (6678) і бачыць <strong>Gideon</strong> бо|што пасланец Існы ён і казаць <strong>Gideon</strong> <strong>alas</strong> валадар Існы бо|што на так бачыць пасланец Існы твар да твар 
+Judges 6:23 (6679) і казаць да|[Д.с.] Існы згода да|[Д.с.] не [+заг.лад] баяцца не паміраць 
+Judges 6:24 (6680) і будаваць там <strong>Gideon</strong> <strong>altar</strong> да|[Д.с.] Існы і зваць да|[Д.с.] Існы згода (ажно) да [арт.] дзень [арт.] гэты яшчэ у|[Тв.с.] <strong>Ophrah</strong> бацька [арт.] <strong>-ezrite</strong> פ
+Judges 6:25 (6681) і быць у|[Тв.с.] [арт.] ноч [арт.] ён і казаць да|[Д.с.] Існы браць [В.с.] <strong>young bull</strong> [арт.] <strong>bullock</strong> які да|[Д.с.] бацька і <strong>young bull</strong> [арт.] другі сем год і <strong>tear down</strong> [В.с.] <strong>altar</strong> [арт.] хазяін які да|[Д.с.] бацька і [В.с.] [арт.] <strong>asherah</strong> які на выразаць 
+Judges 6:26 (6682) і будаваць <strong>altar</strong> да|[Д.с.] Існы Бог на галава [арт.] <strong>fort</strong> [арт.] гэты у|[Тв.с.] [арт.] <strong>row</strong> і браць [В.с.] [арт.] <strong>young bull</strong> [арт.] другі і падымацца <strong>burnt-offering</strong> у|[Тв.с.] дрэва [арт.] <strong>asherah</strong> які выразаць 
+Judges 6:27 (6683) і браць <strong>Gideon</strong> дзесяць чалавек (1) з слуга і рабіць як які гаварыць да Існы і быць як які баяцца [В.с.] дом бацька і [В.с.] чалавек (1) [арт.] горад з рабіць <strong>by day</strong> і рабіць ноч 
+Judges 6:28 (6684) і <strong>rise early</strong> чалавек (1) [арт.] горад у|[Тв.с.] [арт.] раніца і вось <strong>break</strong> <strong>altar</strong> [арт.] хазяін і [арт.] <strong>asherah</strong> які на выразаць і [В.с.] [арт.] <strong>young bull</strong> [арт.] другі падымацца на [арт.] <strong>altar</strong> [арт.] будаваць 
+Judges 6:29 (6685) і казаць чалавек (1) да <strong>fellow</strong> хто рабіць [арт.] слова|рэч [арт.] гэты і <strong>inquire</strong> і шукаць і казаць <strong>Gideon</strong> сын <strong>Joash</strong> рабіць [арт.] слова|рэч [арт.] гэты 
+Judges 6:30 (6686) і казаць чалавек (1) [арт.] горад да <strong>Joash</strong> выйсці [В.с.] сын і паміраць бо|што <strong>break</strong> [В.с.] <strong>altar</strong> [арт.] хазяін і бо|што выразаць [арт.] <strong>asherah</strong> які на 
+Judges 6:31 (6687) і казаць <strong>Joash</strong> да|[Д.с.] цэлы|увесь які стаяць на ці <strong>you</strong> <strong>contend</strong> да|[Д.с.] [арт.] хазяін калі[зл.] <strong>you</strong> збавіць [В.с.] які <strong>contend</strong> да|[Д.с.] паміраць (ажно) да [арт.] раніца калі[зл.] Бог ён <strong>contend</strong> да|[Д.с.] бо|што <strong>break</strong> [В.с.] <strong>altar</strong> 
+Judges 6:32 (6688) і зваць да|[Д.с.] у|[Тв.с.] [арт.] дзень [арт.] ён <strong>Jerub-Baal</strong> да|[Д.с.] казаць <strong>contend</strong> у|[Тв.с.] [арт.] хазяін бо|што <strong>break</strong> [В.с.] <strong>altar</strong> פ
+Judges 6:33 (6689) і цэлы|увесь <strong>Midian</strong> і <strong>Amalek</strong> і сын <strong>front</strong> збіраць <strong>together</strong> і перайсці і <strong>encamp</strong> у|[Тв.с.] <strong>valley</strong> <strong>[town]</strong> 
+Judges 6:34 (6690) і вецер Існы <strong>cloth</strong> [В.с.] <strong>Gideon</strong> і <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> і <strong>cry</strong> <strong>Abiezer</strong> пасля 
+Judges 6:35 (6691) і пасланец слаць у|[Тв.с.] цэлы|увесь <strong>Manasseh</strong> і <strong>cry</strong> таксама|нават ён пасля і пасланец слаць у|[Тв.с.] <strong>Asher</strong> і у|[Тв.с.] <strong>Zebulun</strong> і у|[Тв.с.] <strong>Naphtali</strong> і падымацца да|[Д.с.] <strong>encounter</strong> 
+Judges 6:36 (6692) і казаць <strong>Gideon</strong> да [арт.] Бог калі[зл.] ёсць збавіць у|[Тв.с.] рука [В.с.] Ісраэль як які гаварыць 
+Judges 6:37 (6693) вось <strong>i</strong> <strong>set</strong> [В.с.] <strong>fleece</strong> [арт.] <strong>wool</strong> у|[Тв.с.] [арт.] <strong>threshing-floor</strong> калі[зл.] <strong>dew</strong> быць на [арт.] <strong>fleece</strong> да|[Д.с.] частка і на цэлы|увесь [арт.] зямля <strong>dryness</strong> і ведаць [+неад.]|займацца сэксам [+адуш.] бо|што збавіць у|[Тв.с.] рука [В.с.] Ісраэль як які гаварыць 
+Judges 6:38 (6694) і быць так і <strong>rise early</strong> з <strong>next day</strong> і <strong>press</strong> [В.с.] [арт.] <strong>fleece</strong> і <strong>drain</strong> <strong>dew</strong> з [арт.] <strong>fleece</strong> поўнасць [арт.] <strong>bowl</strong> вада 
+Judges 6:39 (6695) і казаць <strong>Gideon</strong> да [арт.] Бог не [+заг.лад] <strong>be hot</strong> <strong>nose</strong> у|[Тв.с.] і гаварыць <strong>only</strong> [арт.] <strong>foot</strong> <strong>try</strong> ж, -ка [узмацн.] <strong>only</strong> [арт.] <strong>foot</strong> у|[Тв.с.] [арт.] <strong>fleece</strong> быць ж, -ка [узмацн.] <strong>dryness</strong> да [арт.] <strong>fleece</strong> да|[Д.с.] частка і на цэлы|увесь [арт.] зямля быць <strong>dew</strong> 
+Judges 6:40 (6696) і рабіць Бог так у|[Тв.с.] [арт.] ноч [арт.] ён і быць <strong>dryness</strong> да [арт.] <strong>fleece</strong> да|[Д.с.] частка і на цэлы|увесь [арт.] зямля быць <strong>dew</strong> פ
+Judges 7:1 (6697) і <strong>rise early</strong> <strong>Jerub-Baal</strong> ён <strong>Gideon</strong> і цэлы|увесь [арт.] народ які разам з і <strong>encamp</strong> на <strong>the spring of Harod</strong> і <strong>camp</strong> <strong>Midian</strong> быць да|[Д.с.] з поўнач з <strong>hill</strong> [арт.] <strong>Moreh</strong> у|[Тв.с.] [арт.] <strong>valley</strong> 
+Judges 7:2 (6698) і казаць Існы да <strong>Gideon</strong> шматлікі [арт.] народ які разам з з даць [В.с.] <strong>Midian</strong> у|[Тв.с.] рука <strong>lest</strong> <strong>glorify</strong> на Ісраэль да|[Д.с.] казаць рука збавіць да|[Д.с.] 
+Judges 7:3 (6699) і <strong>now</strong> зваць ж, -ка [узмацн.] у|[Тв.с.] вуха [арт.] народ да|[Д.с.] казаць хто <strong>afraid</strong> і <strong>trembling</strong> вяртацца і <strong>[uncertain]</strong> з гара [арт.] Гіл’ад і вяртацца з [арт.] народ <strong>twenty</strong> і два тысяча і дзесяць тысяча пакідаць ס
+Judges 7:4 (6700) і казаць Існы да <strong>Gideon</strong> яшчэ [арт.] народ шматлікі апускацца [В.с.] да [арт.] вада і <strong>melt</strong> да|[Д.с.] там і быць які казаць да гэты хадзіць разам з ён хадзіць разам з і цэлы|увесь які казаць да гэты не хадзіць з ён не хадзіць 
+Judges 7:5 (6701) і апускацца [В.с.] [арт.] народ да [арт.] вада і казаць Існы да <strong>Gideon</strong> цэлы|увесь які <strong>lick</strong> у|[Тв.с.] язык з [арт.] вада як які <strong>lick</strong> [арт.] сабака <strong>set</strong> [В.с.] да|[Д.с.] частка і цэлы|увесь які <strong>kneel</strong> на <strong>knee</strong> да|[Д.с.] піць 
+Judges 7:6 (6702) і быць лік [арт.] <strong>lick</strong> у|[Тв.с.] рука да рот <strong>three</strong> сотня чалавек (1) і цэлы|увесь <strong>remainder</strong> [арт.] народ <strong>kneel</strong> на <strong>knee</strong> да|[Д.с.] піць вада ס
+Judges 7:7 (6703) і казаць Існы да <strong>Gideon</strong> у|[Тв.с.] <strong>three</strong> сотня [арт.] чалавек (1) [арт.] <strong>lick</strong> збавіць [В.с.] і даць [В.с.] <strong>Midian</strong> у|[Тв.с.] рука і цэлы|увесь [арт.] народ хадзіць чалавек (1) да|[Д.с.] месца 
+Judges 7:8 (6704) і браць [В.с.] <strong>provision</strong> [арт.] народ у|[Тв.с.] рука і [В.с.] <strong>horn</strong> і [В.с.] цэлы|увесь чалавек (1) Ісраэль слаць чалавек (1) да|[Д.с.] <strong>tent</strong> і у|[Тв.с.] <strong>three</strong> сотня [арт.] чалавек (1) <strong>be strong</strong> і <strong>camp</strong> <strong>Midian</strong> быць да|[Д.с.] з пад у|[Тв.с.] [арт.] <strong>valley</strong> פ
+Judges 7:9 (6705) і быць у|[Тв.с.] [арт.] ноч [арт.] ён і казаць да Існы устаць апускацца у|[Тв.с.] [арт.] <strong>camp</strong> бо|што даць у|[Тв.с.] рука 
+Judges 7:10 (6706) і калі[зл.] <strong>afraid</strong> ты[м.] да|[Д.с.] апускацца апускацца ты[м.] і <strong>Purah</strong> хлапчук да [арт.] <strong>camp</strong> 
+Judges 7:11 (6707) і чуць што гаварыць і пасля <strong>be strong</strong> рука і апускацца у|[Тв.с.] [арт.] <strong>camp</strong> і апускацца ён і <strong>Purah</strong> хлапчук да <strong>end</strong> [арт.] <strong>array</strong> які у|[Тв.с.] [арт.] <strong>camp</strong> 
+Judges 7:12 (6708) і <strong>Midian</strong> і <strong>Amalek</strong> і цэлы|увесь сын <strong>front</strong> падаць у|[Тв.с.] [арт.] <strong>valley</strong> як [арт.] <strong>locust</strong> да|[Д.с.] шматлікасць і да|[Д.с.] <strong>camel</strong> няма лік як [арт.] <strong>sand</strong> што на губа [арт.] мора да|[Д.с.] шматлікасць 
+Judges 7:13 (6709) і прыйсці <strong>Gideon</strong> і вось чалавек (1) <strong>count</strong> да|[Д.с.] <strong>fellow</strong> мара|сон і казаць вось мара|сон <strong>dream</strong> і вось <strong>[uncertain]</strong> хлеб <strong>barley</strong> <strong>turn</strong> у|[Тв.с.] <strong>camp</strong> <strong>Midian</strong> і прыйсці (ажно) да [арт.] <strong>tent</strong> і <strong>strike</strong> і падаць і <strong>turn</strong> да|[Д.с.] верх і падаць [арт.] <strong>tent</strong> 
+Judges 7:14 (6710) і адказаць <strong>fellow</strong> і казаць няма <strong>this</strong> <strong>failure</strong> калі[зл.] <strong>dagger</strong> <strong>Gideon</strong> сын <strong>Joash</strong> чалавек (1) Ісраэль даць [арт.] Бог у|[Тв.с.] рука [В.с.] <strong>Midian</strong> і [В.с.] цэлы|увесь [арт.] <strong>camp</strong> פ
+Judges 7:15 (6711) і быць як чуць <strong>Gideon</strong> [В.с.] лік [арт.] мара|сон і [В.с.] <strong>interpretation</strong> і <strong>bow down</strong> і вяртацца да <strong>camp</strong> Ісраэль і казаць устаць бо|што даць Існы у|[Тв.с.] рука [В.с.] <strong>camp</strong> <strong>Midian</strong> 
+Judges 7:16 (6712) і <strong>divide</strong> [В.с.] <strong>three</strong> сотня [арт.] чалавек (1) <strong>three</strong> галава і даць <strong>horn</strong> у|[Тв.с.] рука цэлы|увесь і <strong>pitcher</strong> <strong>empty</strong> і <strong>torch</strong> у|[Тв.с.] <strong>midst</strong> [арт.] <strong>pitcher</strong> 
+Judges 7:17 (6713) і казаць да з бачыць і так рабіць і вось <strong>i</strong> прыйсці у|[Тв.с.] <strong>end</strong> [арт.] <strong>camp</strong> і быць як які рабіць так рабіць 
+Judges 7:18 (6714) і <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> <strong>i</strong> і цэлы|увесь які разам з і <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> таксама|нават <strong>you</strong> вакол цэлы|увесь [арт.] <strong>camp</strong> і казаць да|[Д.с.] Існы і да|[Д.с.] <strong>Gideon</strong> פ
+Judges 7:19 (6715) і прыйсці <strong>Gideon</strong> і сотня чалавек (1) які разам з у|[Тв.с.] <strong>end</strong> [арт.] <strong>camp</strong> галава [арт.] <strong>night watch</strong> [арт.] <strong>middle</strong> <strong>only</strong> устаць устаць [В.с.] [арт.] захоўваць і <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> і <strong>shatter</strong> [арт.] <strong>pitcher</strong> які у|[Тв.с.] рука 
+Judges 7:20 (6716) і <strong>blow</strong> <strong>three</strong> [арт.] галава у|[Тв.с.] [арт.] <strong>horn</strong> і разбіць [арт.] <strong>pitcher</strong> і <strong>be strong</strong> у|[Тв.с.] рука левая частка у|[Тв.с.] [арт.] <strong>torch</strong> і у|[Тв.с.] рука правая частка [арт.] <strong>horn</strong> да|[Д.с.] <strong>blow</strong> і зваць <strong>dagger</strong> да|[Д.с.] Існы і да|[Д.с.] <strong>Gideon</strong> 
+Judges 7:21 (6717) і стаяць чалавек (1) пад вакол да|[Д.с.] [арт.] <strong>camp</strong> і бяжаць цэлы|увесь [арт.] <strong>camp</strong> і <strong>shout</strong> і <strong>flee</strong> 
+Judges 7:22 (6718) і <strong>blow</strong> <strong>three</strong> сотня [арт.] <strong>horn</strong> і класці|ставіць Існы [В.с.] <strong>dagger</strong> чалавек (1) у|[Тв.с.] <strong>fellow</strong> і у|[Тв.с.] цэлы|увесь [арт.] <strong>camp</strong> і <strong>flee</strong> [арт.] <strong>camp</strong> (ажно) да <strong>Beth Shittah</strong> <strong>Zererah</strong> (ажно) да губа <strong>Abel Meholah</strong> на <strong>Tabbath</strong> 
+Judges 7:23 (6719) і <strong>cry</strong> чалавек (1) Ісраэль з <strong>Naphtali</strong> і з <strong>Asher</strong> і з цэлы|увесь <strong>Manasseh</strong> і <strong>pursue</strong> пасля <strong>Midian</strong> 
+Judges 7:24 (6720) і пасланец слаць <strong>Gideon</strong> у|[Тв.с.] цэлы|увесь гара Эфраі́м да|[Д.с.] казаць апускацца да|[Д.с.] <strong>encounter</strong> <strong>Midian</strong> і <strong>seize</strong> да|[Д.с.] [В.с.] [арт.] вада (ажно) да <strong>Beth Barah</strong> і [В.с.] [арт.] <strong>Jordan</strong> і <strong>cry</strong> цэлы|увесь чалавек (1) Эфраі́м і <strong>seize</strong> [В.с.] [арт.] вада (ажно) да <strong>Beth Barah</strong> і [В.с.] [арт.] <strong>Jordan</strong> 
+Judges 7:25 (6721) і <strong>seize</strong> два кіраўнік|міністр <strong>Midian</strong> [В.с.] <strong>Oreb</strong> і [В.с.] <strong>Zeeb</strong> і <strong>kill</strong> [В.с.] <strong>Oreb</strong> у|[Тв.с.] <strong>rock</strong> <strong>Oreb</strong> і [В.с.] <strong>Zeeb</strong> <strong>kill</strong> у|[Тв.с.] <strong>pit</strong> <strong>Zeeb</strong> і <strong>pursue</strong> да <strong>Midian</strong> і галава <strong>Oreb</strong> і <strong>Zeeb</strong> прыйсці да <strong>Gideon</strong> з <strong>opposite</strong> да|[Д.с.] [арт.] <strong>Jordan</strong> 
+Judges 8:1 (6722) і казаць да чалавек (1) Эфраі́м што [арт.] слова|рэч [арт.] гэты рабіць да|[Д.с.] да|[Д.с.] <strong>failure</strong> зваць да|[Д.с.] бо|што хадзіць да|[Д.с.] <strong>fight</strong> у|[Тв.с.] <strong>Midian</strong> і <strong>contend</strong> разам з у|[Тв.с.] <strong>strength</strong> 
+Judges 8:2 (6723) і казаць да што рабіць <strong>now</strong> як ці не добры збіранне|абіранне Эфраі́м з <strong>vintage</strong> <strong>Abiezer</strong> 
+Judges 8:3 (6724) у|[Тв.с.] рука даць Бог [В.с.] кіраўнік|міністр <strong>Midian</strong> [В.с.] <strong>Oreb</strong> і [В.с.] <strong>Zeeb</strong> і што магчы рабіць як тады <strong>be slack</strong> вецер з на у|[Тв.с.] гаварыць [арт.] слова|рэч [арт.] гэты 
+Judges 8:4 (6725) і прыйсці <strong>Gideon</strong> [арт.] <strong>Jordan</strong> перайсці ён і <strong>three</strong> сотня [арт.] чалавек (1) які разам з <strong>faint</strong> і <strong>pursue</strong> 
+Judges 8:5 (6726) і казаць да|[Д.с.] чалавек (1) <strong>Succoth</strong> даць ж, -ка [узмацн.] <strong>disk</strong> хлеб да|[Д.с.] [арт.] народ які у|[Тв.с.] нага бо|што <strong>faint</strong> яны [ж.] і <strong>i</strong> <strong>pursue</strong> пасля <strong>Zebah</strong> і <strong>Zalmunna</strong> цар <strong>Midian</strong> 
+Judges 8:6 (6727) і казаць кіраўнік|міністр <strong>Succoth</strong> ці далонь <strong>Zebah</strong> і <strong>Zalmunna</strong> <strong>now</strong> у|[Тв.с.] рука бо|што даць да|[Д.с.] <strong>service</strong> хлеб 
+Judges 8:7 (6728) і казаць <strong>Gideon</strong> <strong>therefore</strong> у|[Тв.с.] даць Існы [В.с.] <strong>Zebah</strong> і [В.с.] <strong>Zalmunna</strong> у|[Тв.с.] рука і <strong>tread on</strong> [В.с.] мяса|плоць разам з <strong>thorn-bush</strong> [арт.] <strong>desert</strong> і разам з [арт.] <strong>[uncertain]</strong> 
+Judges 8:8 (6729) і падымацца з там <strong>[locality]</strong> і гаварыць да як <strong>this</strong> і адказаць [В.с.] чалавек (1) <strong>[locality]</strong> як які адказаць чалавек (1) <strong>Succoth</strong> 
+Judges 8:9 (6730) і казаць таксама|нават да|[Д.с.] чалавек (1) <strong>[locality]</strong> да|[Д.с.] казаць у|[Тв.с.] вяртацца у|[Тв.с.] згода <strong>break</strong> [В.с.] [арт.] <strong>tower</strong> [арт.] гэты פ
+Judges 8:10 (6731) і <strong>Zebah</strong> і <strong>Zalmunna</strong> у|[Тв.с.] [арт.] <strong>Karkor</strong> і <strong>camp</strong> з як <strong>five</strong> <strong>-teen</strong> тысяча цэлы|увесь [арт.] <strong>remain</strong> з цэлы|увесь <strong>camp</strong> сын <strong>front</strong> і [арт.] падаць сотня і <strong>twenty</strong> тысяча чалавек (1) <strong>draw</strong> <strong>dagger</strong> 
+Judges 8:11 (6732) і падымацца <strong>Gideon</strong> шлях [арт.] насяляць у|[Тв.с.] [арт.] <strong>tent</strong> з <strong>front</strong> да|[Д.с.] <strong>Nobah</strong> і <strong>Jogbehah</strong> і <strong>strike</strong> [В.с.] [арт.] <strong>camp</strong> і [арт.] <strong>camp</strong> быць <strong>trust</strong> 
+Judges 8:12 (6733) і <strong>flee</strong> <strong>Zebah</strong> і <strong>Zalmunna</strong> і <strong>pursue</strong> пасля і <strong>seize</strong> [В.с.] два цар <strong>Midian</strong> [В.с.] <strong>Zebah</strong> і [В.с.] <strong>Zalmunna</strong> і цэлы|увесь [арт.] <strong>camp</strong> <strong>tremble</strong> 
+Judges 8:13 (6734) і вяртацца <strong>Gideon</strong> сын <strong>Joash</strong> з [арт.] вайна з да|[Д.с.] <strong>the Pass of Heres</strong> 
+Judges 8:14 (6735) і <strong>seize</strong> хлапчук з чалавек (1) <strong>Succoth</strong> і пытацца і пісанне да [В.с.] кіраўнік|міністр <strong>Succoth</strong> і [В.с.] старадаўні сем і сем чалавек (1) 
+Judges 8:15 (6736) і прыйсці да чалавек (1) <strong>Succoth</strong> і казаць вось <strong>Zebah</strong> і <strong>Zalmunna</strong> які <strong>reproach</strong> [В.с.] да|[Д.с.] казаць ці далонь <strong>Zebah</strong> і <strong>Zalmunna</strong> <strong>now</strong> у|[Тв.с.] рука бо|што даць да|[Д.с.] чалавек (1) [арт.] <strong>weary</strong> хлеб 
+Judges 8:16 (6737) і браць [В.с.] старадаўні [арт.] горад і [В.с.] <strong>thorn-bush</strong> [арт.] <strong>desert</strong> і [В.с.] [арт.] <strong>[uncertain]</strong> і ведаць [+неад.]|займацца сэксам [+адуш.] у|[Тв.с.] [В.с.] чалавек (1) <strong>Succoth</strong> 
+Judges 8:17 (6738) і [В.с.] <strong>tower</strong> <strong>[locality]</strong> <strong>break</strong> і <strong>kill</strong> [В.с.] чалавек (1) [арт.] горад 
+Judges 8:18 (6739) і казаць да <strong>Zebah</strong> і да <strong>Zalmunna</strong> <strong>where</strong> [арт.] чалавек (1) які <strong>kill</strong> у|[Тв.с.] <strong>Tabor</strong> і казаць <strong>like</strong> <strong>like</strong> адзін як <strong>form</strong> сын [арт.] цар 
+Judges 8:19 (6740) і казаць брат сын маці яны [ж.] жывы Існы <strong>if only</strong> жыць [В.с.] не <strong>kill</strong> [В.с.] 
+Judges 8:20 (6741) і казаць да|[Д.с.] <strong>Jether</strong> <strong>first-born</strong> устаць <strong>kill</strong> [В.с.] і не <strong>draw</strong> [арт.] хлапчук <strong>dagger</strong> бо|што баяцца бо|што яшчэ хлапчук 
+Judges 8:21 (6742) і казаць <strong>Zebah</strong> і <strong>Zalmunna</strong> устаць ты[м.] і <strong>meet</strong> у|[Тв.с.] бо|што як [арт.] чалавек (1) мужнасць і устаць <strong>Gideon</strong> і <strong>kill</strong> [В.с.] <strong>Zebah</strong> і [В.с.] <strong>Zalmunna</strong> і браць [В.с.] [арт.] <strong>[ornament]</strong> які у|[Тв.с.] <strong>neck</strong> <strong>camel</strong> 
+Judges 8:22 (6743) і казаць чалавек (1) Ісраэль да <strong>Gideon</strong> <strong>rule</strong> у|[Тв.с.] таксама|нават ты[м.] таксама|нават сын таксама|нават сын сын бо|што збавіць з рука <strong>Midian</strong> 
+Judges 8:23 (6744) і казаць да <strong>Gideon</strong> не <strong>rule</strong> я у|[Тв.с.] і не <strong>rule</strong> сын у|[Тв.с.] Існы <strong>rule</strong> у|[Тв.с.] 
+Judges 8:24 (6745) і казаць да <strong>Gideon</strong> пытацца з <strong>request</strong> і даць да|[Д.с.] чалавек (1) <strong>nose-ring</strong> <strong>plunder</strong> бо|што <strong>nose-ring</strong> золата да|[Д.с.] бо|што <strong>Ishmaelite</strong> яны [ж.] 
+Judges 8:25 (6746) і казаць даць даць і <strong>spread out</strong> [В.с.] [арт.] <strong>mantle</strong> і кінуць там чалавек (1) <strong>nose-ring</strong> <strong>plunder</strong> 
+Judges 8:26 (6747) і быць <strong>weight</strong> <strong>nose-ring</strong> [арт.] золата які пытацца тысяча і сем сотня золата да|[Д.с.] частка з [арт.] <strong>[ornament]</strong> і [арт.] <strong>eardrops</strong> і адзежа [арт.] <strong>purple-wool</strong> што на цар <strong>Midian</strong> і да|[Д.с.] частка з [арт.] <strong>necklace</strong> які у|[Тв.с.] <strong>neck</strong> <strong>camel</strong> 
+Judges 8:27 (6748) і рабіць [В.с.] <strong>Gideon</strong> да|[Д.с.] <strong>ephod</strong> і <strong>set</strong> [В.с.] у|[Тв.с.] горад у|[Тв.с.] <strong>Ophrah</strong> і <strong>fornicate</strong> цэлы|увесь Ісраэль пасля там і быць да|[Д.с.] <strong>Gideon</strong> і да|[Д.с.] дом да|[Д.с.] <strong>bait</strong> 
+Judges 8:28 (6749) і <strong>be humble</strong> <strong>Midian</strong> да|[Д.с.] твар сын Ісраэль і не дадаць да|[Д.с.] падняць галава і <strong>be at peace</strong> [арт.] зямля <strong>four</strong> год у|[Тв.с.] дзень <strong>Gideon</strong> פ
+Judges 8:29 (6750) і хадзіць <strong>Jerub-Baal</strong> сын <strong>Joash</strong> і сядзець у|[Тв.с.] дом 
+Judges 8:30 (6751) і да|[Д.с.] <strong>Gideon</strong> быць сем сын выйсці <strong>upper thigh</strong> бо|што жанчына шматлікі быць да|[Д.с.] 
+Judges 8:31 (6752) і <strong>concubine</strong> які у|[Тв.с.] <strong>Shechem</strong> нарадзіць да|[Д.с.] таксама|нават яна сын і класці|ставіць [В.с.] імя <strong>Abimelech</strong> 
+Judges 8:32 (6753) і паміраць <strong>Gideon</strong> сын <strong>Joash</strong> у|[Тв.с.] <strong>age</strong> добры і пахаваць у|[Тв.с.] <strong>grave</strong> <strong>Joash</strong> бацька у|[Тв.с.] <strong>Ophrah</strong> бацька [арт.] <strong>-ezrite</strong> פ
+Judges 8:33 (6754) і быць як які паміраць <strong>Gideon</strong> і вяртацца сын Ісраэль і <strong>fornicate</strong> пасля [арт.] хазяін і класці|ставіць да|[Д.с.] <strong>Baal-Berith</strong> да|[Д.с.] Бог 
+Judges 8:34 (6755) і не помніць сын Ісраэль [В.с.] Існы Бог [арт.] <strong>deliver</strong> [В.с.] з рука цэлы|увесь <strong>be hostile</strong> з вакол 
+Judges 8:35 (6756) і не рабіць <strong>loyalty</strong> з дом <strong>Jerub-Baal</strong> <strong>Gideon</strong> як цэлы|увесь [арт.] <strong>what is good</strong> які рабіць з Ісраэль פ
+Judges 9:1 (6757) і хадзіць <strong>Abimelech</strong> сын <strong>Jerub-Baal</strong> <strong>Shechem</strong> да брат маці і гаварыць да і да цэлы|увесь <strong>clan</strong> дом бацька маці да|[Д.с.] казаць 
+Judges 9:2 (6758) гаварыць ж, -ка [узмацн.] у|[Тв.с.] вуха цэлы|увесь хазяін <strong>Shechem</strong> што добры да|[Д.с.] ці <strong>rule</strong> у|[Тв.с.] сем чалавек (1) цэлы|увесь сын <strong>Jerub-Baal</strong> калі[зл.] <strong>rule</strong> у|[Тв.с.] чалавек (1) адзін і помніць бо|што костка і мяса|плоць я 
+Judges 9:3 (6759) і гаварыць брат маці на у|[Тв.с.] вуха цэлы|увесь хазяін <strong>Shechem</strong> [В.с.] цэлы|увесь [арт.] слова|рэч [арт.] гэтыя і <strong>extend</strong> сэрца пасля <strong>Abimelech</strong> бо|што казаць брат ён 
+Judges 9:4 (6760) і даць да|[Д.с.] сем срэбра з дом <strong>Baal-Berith</strong> і <strong>hire</strong> у|[Тв.с.] <strong>Abimelech</strong> чалавек (1) <strong>empty</strong> і <strong>be insolent</strong> і хадзіць пасля 
+Judges 9:5 (6761) і прыйсці дом бацька <strong>Ophrah</strong> і <strong>kill</strong> [В.с.] брат сын <strong>Jerub-Baal</strong> сем чалавек (1) на камень адзін і <strong>remain</strong> <strong>Jotham</strong> сын <strong>Jerub-Baal</strong> [арт.] малы|дробны бо|што <strong>hide</strong> ס
+Judges 9:6 (6762) і збіраць цэлы|увесь хазяін <strong>Shechem</strong> і цэлы|увесь дом <strong>mound</strong> і хадзіць і цараваць [В.с.] <strong>Abimelech</strong> да|[Д.с.] цар з <strong>big tree</strong> <strong>post</strong> які у|[Тв.с.] <strong>Shechem</strong> 
+Judges 9:7 (6763) і абвяшчаць да|[Д.с.] <strong>Jotham</strong> і хадзіць і стаяць у|[Тв.с.] галава гара <strong>Gerizim</strong> і падняць голас і зваць і казаць да|[Д.с.] чуць да хазяін <strong>Shechem</strong> і чуць да Бог 
+Judges 9:8 (6764) хадзіць хадзіць [арт.] дрэва да|[Д.с.] <strong>smear</strong> на цар і казаць да|[Д.с.] [арт.] <strong>olive</strong> цараваць на 
+Judges 9:9 (6765) і казаць да|[Д.с.] [арт.] <strong>olive</strong> ці <strong>cease</strong> [В.с.] <strong>fatness</strong> які у|[Тв.с.] <strong>be heavy</strong> Бог і чалавек (1) і хадзіць да|[Д.с.] <strong>quiver</strong> на [арт.] дрэва 
+Judges 9:10 (6766) і казаць [арт.] дрэва да|[Д.с.] [арт.] <strong>fig</strong> хадзіць <strong>you</strong> цараваць на 
+Judges 9:11 (6767) і казаць да|[Д.с.] [арт.] <strong>fig</strong> ці <strong>cease</strong> [В.с.] <strong>sweetness</strong> і [В.с.] <strong>produce</strong> [арт.] добры і хадзіць да|[Д.с.] <strong>quiver</strong> на [арт.] дрэва 
+Judges 9:12 (6768) і казаць [арт.] дрэва да|[Д.с.] [арт.] <strong>vine</strong> хадзіць <strong>you</strong> цараваць на 
+Judges 9:13 (6769) і казаць да|[Д.с.] [арт.] <strong>vine</strong> ці <strong>cease</strong> [В.с.] <strong>wine</strong> [арт.] узрадавацца Бог і чалавек (1) і хадзіць да|[Д.с.] <strong>quiver</strong> на [арт.] дрэва 
+Judges 9:14 (6770) і казаць цэлы|увесь [арт.] дрэва да [арт.] <strong>thorny bush</strong> хадзіць ты[м.] цараваць на 
+Judges 9:15 (6771) і казаць [арт.] <strong>thorny bush</strong> да [арт.] дрэва калі[зл.] у|[Тв.с.] праўда <strong>you</strong> <strong>smear</strong> [В.с.] да|[Д.с.] цар на прыйсці <strong>seek refuge</strong> у|[Тв.с.] цень і калі[зл.] няма выйсці агонь з [арт.] <strong>thorny bush</strong> і есці [В.с.] <strong>cedar</strong> [арт.] <strong>Lebanon</strong> 
+Judges 9:16 (6772) і <strong>now</strong> калі[зл.] у|[Тв.с.] праўда і у|[Тв.с.] <strong>complete</strong> рабіць і цараваць [В.с.] <strong>Abimelech</strong> і калі[зл.] <strong>what is good</strong> рабіць з <strong>Jerub-Baal</strong> і з дом і калі[зл.] як учынак рука рабіць да|[Д.с.] 
+Judges 9:17 (6773) які <strong>fight</strong> бацька на і кінуць [В.с.] душа з перад і <strong>deliver</strong> [В.с.] з рука <strong>Midian</strong> 
+Judges 9:18 (6774) і <strong>you</strong> устаць на дом бацька [арт.] дзень і <strong>kill</strong> [В.с.] сын сем чалавек (1) на камень адзін і цараваць [В.с.] <strong>Abimelech</strong> сын <strong>handmaid</strong> на хазяін <strong>Shechem</strong> бо|што брат ён 
+Judges 9:19 (6775) і калі[зл.] у|[Тв.с.] праўда і у|[Тв.с.] <strong>complete</strong> рабіць з <strong>Jerub-Baal</strong> і з дом [арт.] дзень [арт.] гэты узрадавацца у|[Тв.с.] <strong>Abimelech</strong> і узрадавацца таксама|нават ён у|[Тв.с.] 
+Judges 9:20 (6776) і калі[зл.] няма выйсці агонь з <strong>Abimelech</strong> і есці [В.с.] хазяін <strong>Shechem</strong> і [В.с.] дом <strong>mound</strong> і выйсці агонь з хазяін <strong>Shechem</strong> і з дом <strong>mound</strong> і есці [В.с.] <strong>Abimelech</strong> 
+Judges 9:21 (6777) і <strong>flee</strong> <strong>Jotham</strong> і <strong>run away</strong> і хадзіць <strong>Beer</strong> і сядзець там з твар <strong>Abimelech</strong> брат פ
+Judges 9:22 (6778) і <strong>rule</strong> <strong>Abimelech</strong> на Ісраэль <strong>three</strong> год 
+Judges 9:23 (6779) і слаць Бог вецер зло між <strong>Abimelech</strong> і між хазяін <strong>Shechem</strong> і <strong>deal treacherously</strong> хазяін <strong>Shechem</strong> у|[Тв.с.] <strong>Abimelech</strong> 
+Judges 9:24 (6780) да|[Д.с.] прыйсці гвалт сем сын <strong>Jerub-Baal</strong> і <strong>blood</strong> да|[Д.с.] класці|ставіць на <strong>Abimelech</strong> брат які <strong>kill</strong> [В.с.] і на хазяін <strong>Shechem</strong> які <strong>be strong</strong> [В.с.] рука да|[Д.с.] <strong>kill</strong> [В.с.] брат 
+Judges 9:25 (6781) і класці|ставіць да|[Д.с.] хазяін <strong>Shechem</strong> <strong>lie in ambush</strong> на галава [арт.] гара і <strong>tear away</strong> [В.с.] цэлы|увесь які перайсці на у|[Тв.с.] [арт.] шлях і абвяшчаць да|[Д.с.] <strong>Abimelech</strong> פ
+Judges 9:26 (6782) і прыйсці <strong>Gaal</strong> сын <strong>Ebed</strong> і брат і перайсці у|[Тв.с.] <strong>Shechem</strong> і <strong>trust</strong> у|[Тв.с.] хазяін <strong>Shechem</strong> 
+Judges 9:27 (6783) і выйсці [арт.] поле і збіраць вінаград [В.с.] <strong>vineyard</strong> і <strong>tread</strong> і рабіць <strong>exultation</strong> і прыйсці дом Бог і есці і піць і <strong>be slight</strong> [В.с.] <strong>Abimelech</strong> 
+Judges 9:28 (6784) і казаць <strong>Gaal</strong> сын <strong>Ebed</strong> хто <strong>Abimelech</strong> і хто <strong>Shechem</strong> бо|што працаваць ці не сын <strong>Jerub-Baal</strong> і <strong>Zebul</strong> <strong>officer</strong> працаваць [В.с.] чалавек (1) <strong>Hamor</strong> бацька <strong>Shechem</strong> і <strong>why</strong> працаваць <strong>we</strong> 
+Judges 9:29 (6785) і хто даць [В.с.] [арт.] народ [арт.] гэты у|[Тв.с.] рука і збочыць [В.с.] <strong>Abimelech</strong> і казаць да|[Д.с.] <strong>Abimelech</strong> шмат <strong>service</strong> і выйсці 
+Judges 9:30 (6786) і чуць <strong>Zebul</strong> кіраўнік|міністр [арт.] горад [В.с.] слова|рэч <strong>Gaal</strong> сын <strong>Ebed</strong> і <strong>be hot</strong> <strong>nose</strong> 
+Judges 9:31 (6787) і слаць пасланец да <strong>Abimelech</strong> у|[Тв.с.] <strong>Tormah</strong> да|[Д.с.] казаць вось <strong>Gaal</strong> сын <strong>Ebed</strong> і брат прыйсці <strong>Shechem</strong> і вось <strong>bind</strong> [В.с.] [арт.] горад на 
+Judges 9:32 (6788) і <strong>now</strong> устаць ноч ты[м.] і [арт.] народ які разам з і <strong>lie in ambush</strong> у|[Тв.с.] [арт.] поле 
+Judges 9:33 (6789) і быць у|[Тв.с.] [арт.] раніца як <strong>flash up</strong> [арт.] сонца <strong>rise early</strong> і <strong>strip off</strong> на [арт.] горад і вось ён і [арт.] народ які разам з выйсці да і рабіць да|[Д.с.] як які знайсці рука ס
+Judges 9:34 (6790) і устаць <strong>Abimelech</strong> і цэлы|увесь [арт.] народ які з ноч і <strong>lie in ambush</strong> на <strong>Shechem</strong> <strong>four</strong> галава 
+Judges 9:35 (6791) і выйсці <strong>Gaal</strong> сын <strong>Ebed</strong> і стаяць <strong>opening</strong> брама [арт.] горад і устаць <strong>Abimelech</strong> і [арт.] народ які разам з з [арт.] <strong>ambush</strong> 
+Judges 9:36 (6792) і бачыць <strong>Gaal</strong> [В.с.] [арт.] народ і казаць да <strong>Zebul</strong> вось народ апускацца з галава [арт.] гара і казаць да <strong>Zebul</strong> [В.с.] цень [арт.] гара ты[м.] бачыць як [арт.] чалавек (1) ס
+Judges 9:37 (6793) і дадаць яшчэ <strong>Gaal</strong> да|[Д.с.] гаварыць і казаць вось народ апускацца з з <strong>navel</strong> [арт.] зямля і галава адзін прыйсці з шлях <strong>big tree</strong> <strong>appear</strong> 
+Judges 9:38 (6794) і казаць да <strong>Zebul</strong> <strong>where</strong> <strong>then</strong> рот які казаць хто <strong>Abimelech</strong> бо|што працаваць ці не гэты [арт.] народ які <strong>retract</strong> у|[Тв.с.] выйсці ж, -ка [узмацн.] <strong>now</strong> і <strong>fight</strong> у|[Тв.с.] ס
+Judges 9:39 (6795) і выйсці <strong>Gaal</strong> да|[Д.с.] твар хазяін <strong>Shechem</strong> і <strong>fight</strong> у|[Тв.с.] <strong>Abimelech</strong> 
+Judges 9:40 (6796) і <strong>pursue</strong> <strong>Abimelech</strong> і <strong>flee</strong> з твар і падаць <strong>pierced</strong> шматлікі (ажно) да <strong>opening</strong> [арт.] брама 
+Judges 9:41 (6797) і сядзець <strong>Abimelech</strong> у|[Тв.с.] [арт.] <strong>Arumah</strong> і <strong>drive out</strong> <strong>Zebul</strong> [В.с.] <strong>Gaal</strong> і [В.с.] брат з сядзець у|[Тв.с.] <strong>Shechem</strong> 
+Judges 9:42 (6798) і быць з <strong>next day</strong> і выйсці [арт.] народ [арт.] поле і абвяшчаць да|[Д.с.] <strong>Abimelech</strong> 
+Judges 9:43 (6799) і браць [В.с.] [арт.] народ і <strong>divide</strong> да|[Д.с.] <strong>three</strong> галава і <strong>lie in ambush</strong> у|[Тв.с.] [арт.] поле і бачыць і вось [арт.] народ выйсці з [арт.] горад і устаць на і <strong>strike</strong> 
+Judges 9:44 (6800) і <strong>Abimelech</strong> і [арт.] галава які з <strong>strip off</strong> і стаяць <strong>opening</strong> брама [арт.] горад і два [арт.] галава <strong>strip off</strong> на цэлы|увесь які у|[Тв.с.] [арт.] поле і <strong>strike</strong> 
+Judges 9:45 (6801) і <strong>Abimelech</strong> <strong>fight</strong> у|[Тв.с.] [арт.] горад цэлы|увесь [арт.] дзень [арт.] ён і <strong>seize</strong> [В.с.] [арт.] горад і [В.с.] [арт.] народ які у|[Тв.с.] <strong>kill</strong> і <strong>break</strong> [В.с.] [арт.] горад і <strong>sow</strong> <strong>salt</strong> פ
+Judges 9:46 (6802) і чуць цэлы|увесь хазяін <strong>tower</strong> <strong>Shechem</strong> і прыйсці да <strong>cellar</strong> дом <strong>El-Berith</strong> 
+Judges 9:47 (6803) і абвяшчаць да|[Д.с.] <strong>Abimelech</strong> бо|што <strong>collect</strong> цэлы|увесь хазяін <strong>tower</strong> <strong>Shechem</strong> 
+Judges 9:48 (6804) і падымацца <strong>Abimelech</strong> гара <strong>Zalmon</strong> ён і цэлы|увесь [арт.] народ які разам з і браць <strong>Abimelech</strong> [В.с.] [арт.] <strong>axe</strong> у|[Тв.с.] рука і выразаць <strong>brushwood</strong> дрэва і падняць і класці|ставіць на <strong>shoulder</strong> і казаць да [арт.] народ які з што бачыць рабіць спяшацца|хутка [як прысл.] рабіць <strong>like</strong> 
+Judges 9:49 (6805) і выразаць таксама|нават цэлы|увесь [арт.] народ чалавек (1) <strong>[uncertain]</strong> і хадзіць пасля <strong>Abimelech</strong> і класці|ставіць на [арт.] <strong>cellar</strong> і <strong>kindle</strong> на [В.с.] [арт.] <strong>cellar</strong> у|[Тв.с.] [арт.] агонь і паміраць таксама|нават цэлы|увесь чалавек (1) <strong>tower</strong> <strong>Shechem</strong> як тысяча чалавек (1) і жанчына פ
+Judges 9:50 (6806) і хадзіць <strong>Abimelech</strong> да <strong>Thebez</strong> і <strong>encamp</strong> у|[Тв.с.] <strong>Thebez</strong> і <strong>seize</strong> 
+Judges 9:51 (6807) і <strong>tower</strong> <strong>power</strong> быць у|[Тв.с.] <strong>midst</strong> [арт.] горад і <strong>flee</strong> там цэлы|увесь [арт.] чалавек (1) і [арт.] жанчына і цэлы|увесь хазяін [арт.] горад і зачыняць <strong>distance</strong> і падымацца на <strong>roof</strong> [арт.] <strong>tower</strong> 
+Judges 9:52 (6808) і прыйсці <strong>Abimelech</strong> (ажно) да [арт.] <strong>tower</strong> і <strong>fight</strong> у|[Тв.с.] і <strong>approach</strong> (ажно) да <strong>opening</strong> [арт.] <strong>tower</strong> да|[Д.с.] <strong>burn</strong> у|[Тв.с.] [арт.] агонь 
+Judges 9:53 (6809) і кінуць жанчына адзін <strong>slice</strong> <strong>chariot</strong> на галава <strong>Abimelech</strong> і <strong>crush</strong> [В.с.] <strong>skull</strong> 
+Judges 9:54 (6810) і зваць <strong>haste</strong> да [арт.] хлапчук падняць прылада і казаць да|[Д.с.] <strong>draw</strong> <strong>dagger</strong> і паміраць <strong>lest</strong> казаць да|[Д.с.] жанчына <strong>kill</strong> і <strong>pierce</strong> хлапчук і паміраць 
+Judges 9:55 (6811) і бачыць чалавек (1) Ісраэль бо|што паміраць <strong>Abimelech</strong> і хадзіць чалавек (1) да|[Д.с.] месца 
+Judges 9:56 (6812) і вяртацца Бог [В.с.] дрэнны <strong>Abimelech</strong> які рабіць да|[Д.с.] бацька да|[Д.с.] <strong>kill</strong> [В.с.] сем брат 
+Judges 9:57 (6813) і [В.с.] цэлы|увесь дрэнны чалавек (1) <strong>Shechem</strong> вяртацца Бог у|[Тв.с.] галава і прыйсці да <strong>curse</strong> <strong>Jotham</strong> сын <strong>Jerub-Baal</strong> פ
+Judges 10:1 (6814) і устаць пасля <strong>Abimelech</strong> да|[Д.с.] збавіць [В.с.] Ісраэль <strong>Tola</strong> сын <strong>Puah</strong> сын <strong>Dodo</strong> чалавек (1) <strong>Issachar</strong> і ён сядзець у|[Тв.с.] <strong>Shamir</strong> у|[Тв.с.] гара Эфраі́м 
+Judges 10:2 (6815) і судзіць [В.с.] Ісраэль <strong>twenty</strong> і <strong>three</strong> год і паміраць і пахаваць у|[Тв.с.] <strong>Shamir</strong> פ
+Judges 10:3 (6816) і устаць пасля <strong>Jair</strong> [арт.] <strong>Gileadite</strong> і судзіць [В.с.] Ісраэль <strong>twenty</strong> і два год 
+Judges 10:4 (6817) і быць да|[Д.с.] <strong>three</strong> сын <strong>ride</strong> на <strong>three</strong> <strong>steed</strong> і <strong>three</strong> <strong>steed</strong> да|[Д.с.] да|[Д.с.] зваць <strong>tent camp</strong> <strong>Jair</strong> (ажно) да [арт.] дзень [арт.] гэты які у|[Тв.с.] зямля [арт.] Гіл’ад 
+Judges 10:5 (6818) і паміраць <strong>Jair</strong> і пахаваць у|[Тв.с.] <strong>Kamon</strong> פ
+Judges 10:6 (6819) і дадаць сын Ісраэль да|[Д.с.] рабіць [арт.] зло у|[Тв.с.] вока Існы і працаваць [В.с.] [арт.] хазяін і [В.с.] [арт.] <strong>idol</strong> і [В.с.] Бог <strong>Aram</strong> і [В.с.] Бог <strong>Sidon</strong> і [В.с.] Бог <strong>Moab</strong> і [В.с.] Бог сын <strong>Ammon</strong> і [В.с.] Бог філістынец і <strong>leave</strong> [В.с.] Існы і не працаваць 
+Judges 10:7 (6820) і <strong>be hot</strong> <strong>nose</strong> Існы у|[Тв.с.] Ісраэль і <strong>sell</strong> у|[Тв.с.] рука філістынец і у|[Тв.с.] рука сын <strong>Ammon</strong> 
+Judges 10:8 (6821) і <strong>break</strong> і <strong>crush</strong> [В.с.] сын Ісраэль у|[Тв.с.] [арт.] год [арт.] яна восем <strong>-teen</strong> год [В.с.] цэлы|увесь сын Ісраэль які у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> у|[Тв.с.] зямля [арт.] <strong>Amorite</strong> які у|[Тв.с.] [арт.] Гіл’ад 
+Judges 10:9 (6822) і перайсці сын <strong>Ammon</strong> [В.с.] [арт.] <strong>Jordan</strong> да|[Д.с.] <strong>fight</strong> таксама|нават у|[Тв.с.] Егуда і у|[Тв.с.] Бін’ямін і у|[Тв.с.] дом Эфраі́м і <strong>wrap, be narrow</strong> да|[Д.с.] Ісраэль вельмі 
+Judges 10:10 (6823) і <strong>cry</strong> сын Ісраэль да Існы да|[Д.с.] казаць заблудзіць да|[Д.с.] і бо|што <strong>leave</strong> [В.с.] Бог і працаваць [В.с.] [арт.] хазяін פ
+Judges 10:11 (6824) і казаць Існы да сын Ісраэль ці не з <strong>Egypt</strong> і з [арт.] <strong>Amorite</strong> і з сын <strong>Ammon</strong> і з філістынец 
+Judges 10:12 (6825) і <strong>Sidonian</strong> і <strong>Amalek</strong> і <strong>Maon</strong> <strong>press</strong> [В.с.] і <strong>cry</strong> да і збавіць [В.с.] з рука 
+Judges 10:13 (6826) і <strong>you</strong> <strong>leave</strong> [В.с.] і працаваць Бог іншы <strong>therefore</strong> не дадаць да|[Д.с.] збавіць [В.с.] 
+Judges 10:14 (6827) хадзіць і <strong>cry</strong> да [арт.] Бог які <strong>examine</strong> у|[Тв.с.] яны збавіць да|[Д.с.] у|[Тв.с.] момант бедства 
+Judges 10:15 (6828) і казаць сын Ісраэль да Існы заблудзіць рабіць ты[м.] да|[Д.с.] як цэлы|увесь [арт.] добры у|[Тв.с.] вока <strong>only</strong> <strong>deliver</strong> ж, -ка [узмацн.] [арт.] дзень [арт.] гэты 
+Judges 10:16 (6829) і збочыць [В.с.] Бог [арт.] <strong>foreigner</strong> з <strong>interior</strong> і працаваць [В.с.] Існы і <strong>be short</strong> душа у|[Тв.с.] <strong>labour</strong> Ісраэль פ
+Judges 10:17 (6830) і <strong>cry</strong> сын <strong>Ammon</strong> і <strong>encamp</strong> у|[Тв.с.] [арт.] Гіл’ад і збіраць сын Ісраэль і <strong>encamp</strong> у|[Тв.с.] [арт.] <strong>Mizpah</strong> 
+Judges 10:18 (6831) і казаць [арт.] народ кіраўнік|міністр Гіл’ад чалавек (1) да <strong>fellow</strong> хто [арт.] чалавек (1) які <strong>defile</strong> да|[Д.с.] <strong>fight</strong> у|[Тв.с.] сын <strong>Ammon</strong> быць да|[Д.с.] галава да|[Д.с.] цэлы|увесь сядзець Гіл’ад פ
+Judges 11:1 (6832) і <strong>[judge]</strong> [арт.] <strong>Gileadite</strong> быць мужны|моцны моц і ён сын жанчына <strong>fornicate</strong> і нарадзіць Гіл’ад [В.с.] <strong>[judge]</strong> 
+Judges 11:2 (6833) і нарадзіць жанчына Гіл’ад да|[Д.с.] сын і узвялічваць сын [арт.] жанчына і <strong>drive out</strong> [В.с.] <strong>[judge]</strong> і казаць да|[Д.с.] не <strong>take possession</strong> у|[Тв.с.] дом бацька бо|што сын жанчына іншы ты[м.] 
+Judges 11:3 (6834) і <strong>run away</strong> <strong>[judge]</strong> з твар брат і сядзець у|[Тв.с.] зямля <strong>Tob</strong> і <strong>gather</strong> да <strong>[judge]</strong> чалавек (1) <strong>empty</strong> і выйсці з פ
+Judges 11:4 (6835) і быць з дзень і <strong>fight</strong> сын <strong>Ammon</strong> з Ісраэль 
+Judges 11:5 (6836) і быць як які <strong>fight</strong> сын <strong>Ammon</strong> з Ісраэль і хадзіць старадаўні Гіл’ад да|[Д.с.] браць [В.с.] <strong>[judge]</strong> з зямля <strong>Tob</strong> 
+Judges 11:6 (6837) і казаць да|[Д.с.] <strong>[judge]</strong> хадзіць і быць да|[Д.с.] да|[Д.с.] <strong>chief</strong> і <strong>fight</strong> у|[Тв.с.] сын <strong>Ammon</strong> 
+Judges 11:7 (6838) і казаць <strong>[judge]</strong> да|[Д.с.] старадаўні Гіл’ад ці не <strong>you</strong> ненавідзець [В.с.] і <strong>drive out</strong> з дом бацька і <strong>why</strong> прыйсці да <strong>now</strong> як які <strong>wrap, be narrow</strong> да|[Д.с.] 
+Judges 11:8 (6839) і казаць старадаўні Гіл’ад да <strong>[judge]</strong> <strong>therefore</strong> <strong>now</strong> вяртацца да і хадзіць з і <strong>fight</strong> у|[Тв.с.] сын <strong>Ammon</strong> і быць да|[Д.с.] да|[Д.с.] галава да|[Д.с.] цэлы|увесь сядзець Гіл’ад 
+Judges 11:9 (6840) і казаць <strong>[judge]</strong> да старадаўні Гіл’ад калі[зл.] вяртацца <strong>you</strong> [В.с.] да|[Д.с.] <strong>fight</strong> у|[Тв.с.] сын <strong>Ammon</strong> і даць Існы [В.с.] да|[Д.с.] твар <strong>i</strong> быць да|[Д.с.] да|[Д.с.] галава 
+Judges 11:10 (6841) і казаць старадаўні Гіл’ад да <strong>[judge]</strong> Існы быць чуць між калі[зл.] не як слова|рэч так рабіць 
+Judges 11:11 (6842) і хадзіць <strong>[judge]</strong> з старадаўні Гіл’ад і класці|ставіць [арт.] народ [В.с.] на да|[Д.с.] галава і да|[Д.с.] <strong>chief</strong> і гаварыць <strong>[judge]</strong> [В.с.] цэлы|увесь слова|рэч да|[Д.с.] твар Існы у|[Тв.с.] [арт.] <strong>Mizpah</strong> פ
+Judges 11:12 (6843) і слаць <strong>[judge]</strong> пасланец да цар сын <strong>Ammon</strong> да|[Д.с.] казаць што да|[Д.с.] і да|[Д.с.] бо|што прыйсці да да|[Д.с.] <strong>fight</strong> у|[Тв.с.] зямля 
+Judges 11:13 (6844) і казаць цар сын <strong>Ammon</strong> да пасланец <strong>[judge]</strong> бо|што браць Ісраэль [В.с.] зямля у|[Тв.с.] падымацца з <strong>Egypt</strong> з <strong>Arnon</strong> і (ажно) да [арт.] <strong>Jabbok</strong> і (ажно) да [арт.] <strong>Jordan</strong> і <strong>now</strong> вяртацца [В.с.] у|[Тв.с.] згода 
+Judges 11:14 (6845) і дадаць яшчэ <strong>[judge]</strong> і слаць пасланец да цар сын <strong>Ammon</strong> 
+Judges 11:15 (6846) і казаць да|[Д.с.] такім чынам казаць <strong>[judge]</strong> не браць Ісраэль [В.с.] зямля <strong>Moab</strong> і [В.с.] зямля сын <strong>Ammon</strong> 
+Judges 11:16 (6847) бо|што у|[Тв.с.] падымацца з <strong>Egypt</strong> і хадзіць Ісраэль у|[Тв.с.] [арт.] <strong>desert</strong> (ажно) да мора <strong>rush</strong> і прыйсці <strong>Kadesh</strong> 
+Judges 11:17 (6848) і слаць Ісраэль пасланец да цар Эдом да|[Д.с.] казаць перайсці ж, -ка [узмацн.] у|[Тв.с.] зямля і не чуць цар Эдом і таксама|нават да цар <strong>Moab</strong> слаць і не <strong>want</strong> і сядзець Ісраэль у|[Тв.с.] <strong>Kadesh</strong> 
+Judges 11:18 (6849) і хадзіць у|[Тв.с.] [арт.] <strong>desert</strong> і <strong>turn</strong> [В.с.] зямля Эдом і [В.с.] зямля <strong>Moab</strong> і прыйсці з <strong>sunrise</strong> сонца да|[Д.с.] зямля <strong>Moab</strong> і <strong>encamp</strong> у|[Тв.с.] <strong>opposite</strong> <strong>Arnon</strong> і не прыйсці у|[Тв.с.] мяжа <strong>Moab</strong> бо|што <strong>Arnon</strong> мяжа <strong>Moab</strong> 
+Judges 11:19 (6850) і слаць Ісраэль пасланец да <strong>Sihon</strong> цар [арт.] <strong>Amorite</strong> цар <strong>Heshbon</strong> і казаць да|[Д.с.] Ісраэль перайсці ж, -ка [узмацн.] у|[Тв.с.] зямля (ажно) да месца 
+Judges 11:20 (6851) і не <strong>be firm</strong> <strong>Sihon</strong> [В.с.] Ісраэль перайсці у|[Тв.с.] мяжа і збіраць <strong>Sihon</strong> [В.с.] цэлы|увесь народ і <strong>encamp</strong> у|[Тв.с.] <strong>Jahzah</strong> і <strong>fight</strong> з Ісраэль 
+Judges 11:21 (6852) і даць Існы Бог Ісраэль [В.с.] <strong>Sihon</strong> і [В.с.] цэлы|увесь народ у|[Тв.с.] рука Ісраэль і <strong>strike</strong> і заўладаць Ісраэль [В.с.] цэлы|увесь зямля [арт.] <strong>Amorite</strong> сядзець [арт.] зямля [арт.] яна 
+Judges 11:22 (6853) і заўладаць [В.с.] цэлы|увесь мяжа [арт.] <strong>Amorite</strong> з <strong>Arnon</strong> і (ажно) да [арт.] <strong>Jabbok</strong> і з [арт.] <strong>desert</strong> і (ажно) да [арт.] <strong>Jordan</strong> 
+Judges 11:23 (6854) і <strong>now</strong> Існы Бог Ісраэль заўладаць [В.с.] [арт.] <strong>Amorite</strong> з твар народ Ісраэль і ты[м.] заўладаць 
+Judges 11:24 (6855) ці не [В.с.] які заўладаць <strong>Chemosh</strong> Бог [В.с.] заўладаць і [В.с.] цэлы|увесь які заўладаць Існы Бог з твар [В.с.] заўладаць 
+Judges 11:25 (6856) і <strong>now</strong> ці добры добры ты[м.] з <strong>Balak</strong> сын <strong>Zippor</strong> цар <strong>Moab</strong> ці <strong>contend</strong> <strong>contend</strong> з Ісраэль калі[зл.] <strong>fight</strong> <strong>fight</strong> у|[Тв.с.] 
+Judges 11:26 (6857) у|[Тв.с.] сядзець Ісраэль у|[Тв.с.] <strong>Heshbon</strong> і у|[Тв.с.] дачка і у|[Тв.с.] <strong>Aroer</strong> і у|[Тв.с.] дачка і у|[Тв.с.] цэлы|увесь [арт.] горад які на рука <strong>Arnon</strong> <strong>three</strong> сотня год і <strong>why</strong> не <strong>deliver</strong> у|[Тв.с.] [арт.] момант [арт.] яна 
+Judges 11:27 (6858) і <strong>i</strong> не заблудзіць да|[Д.с.] і ты[м.] рабіць разам з дрэнны да|[Д.с.] <strong>fight</strong> у|[Тв.с.] судзіць Існы [арт.] судзіць [арт.] дзень між сын Ісраэль і між сын <strong>Ammon</strong> 
+Judges 11:28 (6859) і не чуць цар сын <strong>Ammon</strong> да слова|рэч <strong>[judge]</strong> які слаць да פ
+Judges 11:29 (6860) і быць на <strong>[judge]</strong> вецер Існы і перайсці [В.с.] [арт.] Гіл’ад і [В.с.] <strong>Manasseh</strong> і перайсці [В.с.] <strong>watch-tower</strong> Гіл’ад і з <strong>watch-tower</strong> Гіл’ад перайсці сын <strong>Ammon</strong> 
+Judges 11:30 (6861) і <strong>vow</strong> <strong>[judge]</strong> <strong>vow</strong> да|[Д.с.] Існы і казаць калі[зл.] даць даць [В.с.] сын <strong>Ammon</strong> у|[Тв.с.] рука 
+Judges 11:31 (6862) і быць [арт.] выйсці які выйсці з дзверы дом да|[Д.с.] <strong>encounter</strong> у|[Тв.с.] вяртацца у|[Тв.с.] згода з сын <strong>Ammon</strong> і быць да|[Д.с.] Існы і падымацца <strong>burnt-offering</strong> פ
+Judges 11:32 (6863) і перайсці <strong>[judge]</strong> да сын <strong>Ammon</strong> да|[Д.с.] <strong>fight</strong> у|[Тв.с.] і даць Існы у|[Тв.с.] рука 
+Judges 11:33 (6864) і <strong>strike</strong> з <strong>Aroer</strong> і (ажно) да прыйсці <strong>Minnith</strong> <strong>twenty</strong> горад і (ажно) да <strong>Abel Keramim</strong> <strong>blow</strong> вялікі вельмі і <strong>be humble</strong> сын <strong>Ammon</strong> з твар сын Ісраэль פ
+Judges 11:34 (6865) і прыйсці <strong>[judge]</strong> [арт.] <strong>Mizpah</strong> да дом і вось дачка выйсці да|[Д.с.] <strong>encounter</strong> у|[Тв.с.] <strong>tambourine</strong> і у|[Тв.с.] <strong>round dance</strong> і <strong>only</strong> яна <strong>only one</strong> няма да|[Д.с.] з сын ці дачка 
+Judges 11:35 (6866) і быць як бачыць [В.с.] і <strong>tear</strong> [В.с.] адзежа і казаць <strong>alas</strong> дачка <strong>kneel</strong> <strong>kneel</strong> і <strong>you</strong> быць у|[Тв.с.] <strong>taboo</strong> і <strong>i</strong> <strong>open</strong> рот да Існы і не магчы да|[Д.с.] вяртацца 
+Judges 11:36 (6867) і казаць да бацька <strong>open</strong> [В.с.] рот да Існы рабіць да|[Д.с.] як які выйсці з рот пасля які рабіць да|[Д.с.] Існы <strong>vengeance</strong> з <strong>be hostile</strong> з сын <strong>Ammon</strong> 
+Judges 11:37 (6868) і казаць да бацька рабіць да|[Д.с.] [арт.] слова|рэч [арт.] гэты <strong>be slack</strong> з два <strong>month</strong> і хадзіць і апускацца на [арт.] гара і плакаць на <strong>virginity</strong> <strong>i</strong> і <strong>female companion</strong> 
+Judges 11:38 (6869) і казаць хадзіць і слаць [В.с.] два <strong>month</strong> і хадзіць яна і <strong>female companion</strong> і плакаць на <strong>virginity</strong> на [арт.] гара 
+Judges 11:39 (6870) і быць з <strong>end</strong> два <strong>month</strong> і вяртацца да бацька і рабіць да|[Д.с.] [В.с.] <strong>vow</strong> які <strong>vow</strong> і яна не ведаць [+неад.]|займацца сэксам [+адуш.] чалавек (1) і быць <strong>portion</strong> у|[Тв.с.] Ісраэль 
+Judges 11:40 (6871) з дзень дзень хадзіць дачка Ісраэль да|[Д.с.] <strong>recount</strong> да|[Д.с.] дачка <strong>[judge]</strong> [арт.] <strong>Gileadite</strong> <strong>four</strong> дзень у|[Тв.с.] [арт.] год ס
+Judges 12:1 (6872) і <strong>cry</strong> чалавек (1) Эфраі́м і перайсці <strong>Zaphon</strong> і казаць да|[Д.с.] <strong>[judge]</strong> <strong>why</strong> перайсці да|[Д.с.] <strong>fight</strong> у|[Тв.с.] сын <strong>Ammon</strong> і да|[Д.с.] не зваць да|[Д.с.] хадзіць з дом <strong>burn</strong> на у|[Тв.с.] [арт.] агонь 
+Judges 12:2 (6873) і казаць <strong>[judge]</strong> да чалавек (1) <strong>law-case</strong> быць я і народ і сын <strong>Ammon</strong> вельмі і <strong>cry</strong> [В.с.] і не збавіць [В.с.] з рука 
+Judges 12:3 (6874) і бачыць бо|што няма збавіць і класці|ставіць душа у|[Тв.с.] далонь і перайсці да сын <strong>Ammon</strong> і даць Існы у|[Тв.с.] рука і чаму падымацца да [арт.] дзень [арт.] гэты да|[Д.с.] <strong>fight</strong> у|[Тв.с.] 
+Judges 12:4 (6875) і <strong>collect</strong> <strong>[judge]</strong> [В.с.] цэлы|увесь чалавек (1) Гіл’ад і <strong>fight</strong> разам з Эфраі́м і <strong>strike</strong> чалавек (1) Гіл’ад [В.с.] Эфраі́м бо|што казаць збяжаўшы Эфраі́м <strong>you</strong> Гіл’ад у|[Тв.с.] <strong>midst</strong> Эфраі́м у|[Тв.с.] <strong>midst</strong> <strong>Manasseh</strong> 
+Judges 12:5 (6876) і <strong>seize</strong> Гіл’ад [В.с.] <strong>ford</strong> [арт.] <strong>Jordan</strong> да|[Д.с.] Эфраі́м і быць бо|што казаць збяжаўшы Эфраі́м перайсці і казаць да|[Д.с.] чалавек (1) Гіл’ад ці <strong>Ephrathite</strong> ты[м.] і казаць не 
+Judges 12:6 (6877) і казаць да|[Д.с.] казаць ж, -ка [узмацн.] <strong>grain</strong> і казаць <strong>ear of grain</strong> і не <strong>be firm</strong> да|[Д.с.] гаварыць <strong>correct</strong> і <strong>seize</strong> [В.с.] і <strong>slaughter</strong> да <strong>ford</strong> [арт.] <strong>Jordan</strong> і падаць у|[Тв.с.] [арт.] момант [арт.] яна з Эфраі́м <strong>four</strong> і два тысяча 
+Judges 12:7 (6878) і судзіць <strong>[judge]</strong> [В.с.] Ісраэль <strong>six</strong> год і паміраць <strong>[judge]</strong> [арт.] <strong>Gileadite</strong> і пахаваць у|[Тв.с.] горад Гіл’ад פ
+Judges 12:8 (6879) і судзіць пасля [В.с.] Ісраэль <strong>Ibzan</strong> з <strong>Bethlehem</strong> 
+Judges 12:9 (6880) і быць да|[Д.с.] <strong>three</strong> сын і <strong>three</strong> дачка слаць [арт.] <strong>outside</strong> і <strong>three</strong> дачка прыйсці да|[Д.с.] сын з [арт.] <strong>outside</strong> і судзіць [В.с.] Ісраэль сем год 
+Judges 12:10 (6881) і паміраць <strong>Ibzan</strong> і пахаваць у|[Тв.с.] <strong>Bethlehem</strong> פ
+Judges 12:11 (6882) і судзіць пасля [В.с.] Ісраэль <strong>[judge]</strong> [арт.] <strong>Zebulunite</strong> і судзіць [В.с.] Ісраэль <strong>ten</strong> год 
+Judges 12:12 (6883) і паміраць <strong>[judge]</strong> [арт.] <strong>Zebulunite</strong> і пахаваць у|[Тв.с.] <strong>Aijalon</strong> у|[Тв.с.] зямля <strong>Zebulun</strong> פ
+Judges 12:13 (6884) і судзіць пасля [В.с.] Ісраэль <strong>Abdon</strong> сын <strong>Hillel</strong> [арт.] <strong>Pirathonite</strong> 
+Judges 12:14 (6885) і быць да|[Д.с.] <strong>four</strong> сын і <strong>three</strong> сын сын <strong>ride</strong> на сем <strong>steed</strong> і судзіць [В.с.] Ісраэль восем год 
+Judges 12:15 (6886) і паміраць <strong>Abdon</strong> сын <strong>Hillel</strong> [арт.] <strong>Pirathonite</strong> і пахаваць у|[Тв.с.] <strong>Pirathon</strong> у|[Тв.с.] зямля Эфраі́м у|[Тв.с.] гара [арт.] <strong>Amalekite</strong> פ
+Judges 13:1 (6887) і дадаць сын Ісраэль да|[Д.с.] рабіць [арт.] зло у|[Тв.с.] вока Існы і даць Існы у|[Тв.с.] рука філістынец <strong>four</strong> год פ
+Judges 13:2 (6888) і быць чалавек (1) адзін з <strong>Zorah</strong> з <strong>clan</strong> [арт.] <strong>Danite</strong> і імя <strong>Manoah</strong> і жанчына <strong>barren</strong> і не нарадзіць 
+Judges 13:3 (6889) і бачыць пасланец Існы да [арт.] жанчына і казаць да вось ж, -ка [узмацн.] <strong>you</strong> <strong>barren</strong> і не нарадзіць і <strong>be pregnant</strong> і нарадзіць сын 
+Judges 13:4 (6890) і <strong>now</strong> захоўваць ж, -ка [узмацн.] і не [+заг.лад] піць віно і <strong>strong drink</strong> і не [+заг.лад] есці цэлы|увесь нячысты 
+Judges 13:5 (6891) бо|што вось <strong>pregnant</strong> і нарадзіць сын і <strong>razor</strong> не падымацца на галава бо|што <strong>singled out</strong> Бог быць [арт.] хлапчук з [арт.] <strong>belly</strong> і ён <strong>defile</strong> да|[Д.с.] збавіць [В.с.] Ісраэль з рука філістынец 
+Judges 13:6 (6892) і прыйсці [арт.] жанчына і казаць да|[Д.с.] чалавек (1) да|[Д.с.] казаць чалавек (1) [арт.] Бог прыйсці да і <strong>sight</strong> як <strong>sight</strong> пасланец [арт.] Бог баяцца вельмі і не пытацца <strong>where</strong> з гэты ён і [В.с.] імя не абвяшчаць да|[Д.с.] 
+Judges 13:7 (6893) і казаць да|[Д.с.] вось <strong>pregnant</strong> і нарадзіць сын і <strong>now</strong> не [+заг.лад] піць віно і <strong>strong drink</strong> і не [+заг.лад] есці цэлы|увесь <strong>uncleanness</strong> бо|што <strong>singled out</strong> Бог быць [арт.] хлапчук з [арт.] <strong>belly</strong> (ажно) да дзень смерць פ
+Judges 13:8 (6894) і <strong>entreat</strong> <strong>Manoah</strong> да Існы і казаць <strong>upon me</strong> валадар чалавек (1) [арт.] Бог які слаць прыйсці ж, -ка [узмацн.] яшчэ да і <strong>teach</strong> што рабіць да|[Д.с.] [арт.] хлапчук [арт.] нарадзіць 
+Judges 13:9 (6895) і чуць [арт.] Бог у|[Тв.с.] голас <strong>Manoah</strong> і прыйсці пасланец [арт.] Бог яшчэ да [арт.] жанчына і яна сядзець у|[Тв.с.] [арт.] поле і <strong>Manoah</strong> чалавек (1) няма з 
+Judges 13:10 (6896) і спяшацца|хутка [як прысл.] [арт.] жанчына і бяжаць і абвяшчаць да|[Д.с.] чалавек (1) і казаць да вось бачыць да [арт.] чалавек (1) які прыйсці у|[Тв.с.] [арт.] дзень да 
+Judges 13:11 (6897) і устаць і хадзіць <strong>Manoah</strong> пасля жанчына і прыйсці да [арт.] чалавек (1) і казаць да|[Д.с.] ці ты[м.] [арт.] чалавек (1) які гаварыць да [арт.] жанчына і казаць я 
+Judges 13:12 (6898) і казаць <strong>Manoah</strong> <strong>now</strong> прыйсці слова|рэч што быць правасуддзе [арт.] хлапчук і учынак|справа 
+Judges 13:13 (6899) і казаць пасланец Існы да <strong>Manoah</strong> з цэлы|увесь які казаць да [арт.] жанчына захоўваць 
+Judges 13:14 (6900) з цэлы|увесь які выйсці з <strong>vine</strong> [арт.] віно не есці і віно і <strong>strong drink</strong> не [+заг.лад] піць і цэлы|увесь <strong>uncleanness</strong> не [+заг.лад] есці цэлы|увесь які <strong>command</strong> захоўваць 
+Judges 13:15 (6901) і казаць <strong>Manoah</strong> да пасланец Існы <strong>restrain</strong> ж, -ка [узмацн.] [В.с.] і рабіць да|[Д.с.] твар <strong>goat</strong> <strong>goat</strong> 
+Judges 13:16 (6902) і казаць пасланец Існы да <strong>Manoah</strong> калі[зл.] <strong>restrain</strong> не есці у|[Тв.с.] хлеб і калі[зл.] рабіць <strong>burnt-offering</strong> да|[Д.с.] Існы падымацца бо|што не ведаць [+неад.]|займацца сэксам [+адуш.] <strong>Manoah</strong> бо|што пасланец Існы ён 
+Judges 13:17 (6903) і казаць <strong>Manoah</strong> да пасланец Існы хто імя бо|што прыйсці слова|рэч і <strong>be heavy</strong> 
+Judges 13:18 (6904) і казаць да|[Д.с.] пасланец Існы чаму гэты пытацца да|[Д.с.] імя і ён <strong>miraculous</strong> ס
+Judges 13:19 (6905) і браць <strong>Manoah</strong> [В.с.] <strong>goat</strong> [арт.] <strong>goat</strong> і [В.с.] [арт.] <strong>present</strong> і падымацца на [арт.] <strong>rock</strong> да|[Д.с.] Існы і <strong>be miraculous</strong> да|[Д.с.] рабіць і <strong>Manoah</strong> і жанчына бачыць 
+Judges 13:20 (6906) і быць у|[Тв.с.] падымацца [арт.] <strong>flame</strong> з на [арт.] <strong>altar</strong> [арт.] неба і падымацца пасланец Існы у|[Тв.с.] <strong>flame</strong> [арт.] <strong>altar</strong> і <strong>Manoah</strong> і жанчына бачыць і падаць на твар зямля 
+Judges 13:21 (6907) і не дадаць яшчэ пасланец Існы да|[Д.с.] бачыць да <strong>Manoah</strong> і да жанчына тады ведаць [+неад.]|займацца сэксам [+адуш.] <strong>Manoah</strong> бо|што пасланец Існы ён 
+Judges 13:22 (6908) і казаць <strong>Manoah</strong> да жанчына паміраць паміраць бо|што Бог бачыць 
+Judges 13:23 (6909) і казаць да|[Д.с.] жанчына <strong>if only</strong> <strong>desire</strong> Існы да|[Д.с.] паміраць не браць з рука <strong>burnt-offering</strong> і <strong>present</strong> і не бачыць [В.с.] цэлы|увесь гэтыя і як [арт.] момант не чуць як <strong>this</strong> 
+Judges 13:24 (6910) і нарадзіць [арт.] жанчына сын і зваць [В.с.] імя <strong>Samson</strong> і узвялічваць [арт.] хлапчук і <strong>bless</strong> Існы 
+Judges 13:25 (6911) і <strong>defile</strong> вецер Існы да|[Д.с.] <strong>move</strong> у|[Тв.с.] <strong>Mahaneh Dan</strong> між <strong>Zorah</strong> і між <strong>Eshtaol</strong> פ
+Judges 14:1 (6912) і апускацца <strong>Samson</strong> <strong>Timnah</strong> і бачыць жанчына у|[Тв.с.] <strong>Timnah</strong> з дачка філістынец 
+Judges 14:2 (6913) і падымацца і абвяшчаць да|[Д.с.] бацька і да|[Д.с.] маці і казаць жанчына бачыць у|[Тв.с.] <strong>Timnah</strong> з дачка філістынец і <strong>now</strong> браць [В.с.] да|[Д.с.] да|[Д.с.] жанчына 
+Judges 14:3 (6914) і казаць да|[Д.с.] бацька і маці ці няма у|[Тв.с.] дачка брат і у|[Тв.с.] цэлы|увесь народ жанчына бо|што ты[м.] хадзіць да|[Д.с.] браць жанчына з філістынец [арт.] <strong>uncircumcised</strong> і казаць <strong>Samson</strong> да бацька [В.с.] браць да|[Д.с.] бо|што яна <strong>be right</strong> у|[Тв.с.] вока 
+Judges 14:4 (6915) і бацька і маці не ведаць [+неад.]|займацца сэксам [+адуш.] бо|што з Існы яна бо|што <strong>occasion</strong> ён шукаць з філістынец і у|[Тв.с.] [арт.] момант [арт.] яна філістынец <strong>rule</strong> у|[Тв.с.] Ісраэль פ
+Judges 14:5 (6916) і апускацца <strong>Samson</strong> і бацька і маці <strong>Timnah</strong> і прыйсці (ажно) да <strong>vineyard</strong> <strong>Timnah</strong> і вось <strong>young lion</strong> <strong>lion</strong> <strong>roar</strong> да|[Д.с.] <strong>encounter</strong> 
+Judges 14:6 (6917) і <strong>be strong</strong> на вецер Існы і <strong>cleave</strong> як <strong>cleave</strong> [арт.] <strong>goat</strong> і <strong>something</strong> няма у|[Тв.с.] рука і не абвяшчаць да|[Д.с.] бацька і да|[Д.с.] маці [В.с.] які рабіць 
+Judges 14:7 (6918) і апускацца і гаварыць да|[Д.с.] [арт.] жанчына і <strong>be right</strong> у|[Тв.с.] вока <strong>Samson</strong> 
+Judges 14:8 (6919) і вяртацца з дзень да|[Д.с.] браць і збочыць да|[Д.с.] бачыць [В.с.] <strong>carcass</strong> [арт.] <strong>lion</strong> і вось <strong>gathering</strong> <strong>bee</strong> у|[Тв.с.] <strong>body</strong> [арт.] <strong>lion</strong> і <strong>honey</strong> 
+Judges 14:9 (6920) і <strong>scrape out</strong> да далонь і хадзіць хадзіць і есці і хадзіць да бацька і да маці і даць да|[Д.с.] і есці і не абвяшчаць да|[Д.с.] бо|што з <strong>body</strong> [арт.] <strong>lion</strong> <strong>scrape out</strong> [арт.] <strong>honey</strong> 
+Judges 14:10 (6921) і апускацца бацька да [арт.] жанчына і рабіць там <strong>Samson</strong> <strong>drinking</strong> бо|што так рабіць [арт.] хлопец 
+Judges 14:11 (6922) і быць як бачыць [В.с.] і браць <strong>three</strong> <strong>friend</strong> і быць разам з 
+Judges 14:12 (6923) і казаць да|[Д.с.] <strong>Samson</strong> <strong>propound a riddle</strong> ж, -ка [узмацн.] да|[Д.с.] <strong>riddle</strong> калі[зл.] абвяшчаць абвяшчаць [В.с.] да|[Д.с.] сем дзень [арт.] <strong>drinking</strong> і знайсці і даць да|[Д.с.] <strong>three</strong> <strong>wrapper</strong> і <strong>three</strong> <strong>substitute</strong> адзежа 
+Judges 14:13 (6924) і калі[зл.] не магчы да|[Д.с.] абвяшчаць да|[Д.с.] і даць <strong>you</strong> да|[Д.с.] <strong>three</strong> <strong>wrapper</strong> і <strong>three</strong> <strong>substitute</strong> адзежа і казаць да|[Д.с.] <strong>propound a riddle</strong> <strong>riddle</strong> і чуць 
+Judges 14:14 (6925) і казаць да|[Д.с.] з [арт.] есці выйсці <strong>food</strong> і з <strong>strong</strong> выйсці салодкі і не магчы да|[Д.с.] абвяшчаць [арт.] <strong>riddle</strong> <strong>three</strong> дзень 
+Judges 14:15 (6926) і быць у|[Тв.с.] [арт.] дзень [арт.] <strong>seventh</strong> і казаць да|[Д.с.] жанчына <strong>Samson</strong> <strong>seduce</strong> [В.с.] чалавек (1) і абвяшчаць да|[Д.с.] [В.с.] [арт.] <strong>riddle</strong> <strong>lest</strong> <strong>burn</strong> [В.с.] і [В.с.] дом бацька у|[Тв.с.] [арт.] агонь ці да|[Д.с.] заўладаць зваць да|[Д.с.] ці не 
+Judges 14:16 (6927) і плакаць жанчына <strong>Samson</strong> на і казаць <strong>only</strong> ненавідзець і не любіць|кахаць [арт.] <strong>riddle</strong> <strong>propound a riddle</strong> да|[Д.с.] сын народ і да|[Д.с.] не абвяшчаць і казаць да|[Д.с.] вось да|[Д.с.] бацька і да|[Д.с.] маці не абвяшчаць і да|[Д.с.] абвяшчаць 
+Judges 14:17 (6928) і плакаць на сем [арт.] дзень які быць да|[Д.с.] [арт.] <strong>drinking</strong> і быць у|[Тв.с.] [арт.] дзень [арт.] <strong>seventh</strong> і абвяшчаць да|[Д.с.] бо|што <strong>oppress</strong> і абвяшчаць [арт.] <strong>riddle</strong> да|[Д.с.] сын народ 
+Judges 14:18 (6929) і казаць да|[Д.с.] чалавек (1) [арт.] горад у|[Тв.с.] [арт.] дзень [арт.] <strong>seventh</strong> у|[Тв.с.] <strong>beginning</strong> прыйсці [арт.] <strong>sun</strong> што салодкі з <strong>honey</strong> і што <strong>strong</strong> з <strong>lion</strong> і казаць да|[Д.с.] <strong>unless</strong> <strong>plough</strong> у|[Тв.с.] <strong>cow</strong> не знайсці <strong>riddle</strong> 
+Judges 14:19 (6930) і <strong>be strong</strong> на вецер Існы і апускацца <strong>Ashkelon</strong> і <strong>strike</strong> з <strong>three</strong> чалавек (1) і браць [В.с.] <strong>stripped</strong> і даць [арт.] <strong>substitute</strong> да|[Д.с.] абвяшчаць [арт.] <strong>riddle</strong> і <strong>be hot</strong> <strong>nose</strong> і падымацца дом бацька פ
+Judges 14:20 (6931) і быць жанчына <strong>Samson</strong> да|[Д.с.] <strong>friend</strong> які <strong>deal with</strong> да|[Д.с.] 
+Judges 15:1 (6932) і быць з дзень у|[Тв.с.] дзень <strong>harvest</strong> <strong>wheat</strong> і <strong>miss</strong> <strong>Samson</strong> [В.с.] жанчына у|[Тв.с.] <strong>goat</strong> <strong>goat</strong> і казаць прыйсці да жанчына [арт.] пакой і не даць бацька да|[Д.с.] прыйсці 
+Judges 15:2 (6933) і казаць бацька казаць казаць бо|што ненавідзець ненавідзець і даць да|[Д.с.] <strong>friend</strong> ці не <strong>sister</strong> [арт.] <strong>small</strong> добры з быць ж, -ка [узмацн.] да|[Д.с.] пад 
+Judges 15:3 (6934) і казаць да|[Д.с.] <strong>Samson</strong> <strong>be clean</strong> [арт.] <strong>foot</strong> з філістынец бо|што рабіць я з дрэнны 
+Judges 15:4 (6935) і хадзіць <strong>Samson</strong> і <strong>seize</strong> <strong>three</strong> сотня <strong>fox</strong> і браць <strong>torch</strong> і <strong>turn</strong> <strong>tail</strong> да <strong>tail</strong> і класці|ставіць <strong>torch</strong> адзін між два [арт.] <strong>tail</strong> у|[Тв.с.] [арт.] <strong>midst</strong> 
+Judges 15:5 (6936) і <strong>burn</strong> агонь у|[Тв.с.] [арт.] <strong>torch</strong> і слаць у|[Тв.с.] <strong>standing grain</strong> філістынец і <strong>burn</strong> з <strong>heap</strong> і (ажно) да <strong>standing grain</strong> і (ажно) да <strong>vineyard</strong> <strong>olive</strong> 
+Judges 15:6 (6937) і казаць філістынец хто рабіць <strong>this</strong> і казаць <strong>Samson</strong> <strong>son-in-law</strong> [арт.] <strong>Timnite</strong> бо|што браць [В.с.] жанчына і даць да|[Д.с.] <strong>friend</strong> і падымацца філістынец і <strong>burn</strong> [В.с.] і [В.с.] бацька у|[Тв.с.] [арт.] агонь 
+Judges 15:7 (6938) і казаць да|[Д.с.] <strong>Samson</strong> калі[зл.] рабіць як <strong>this</strong> бо|што калі[зл.] <strong>avenge</strong> у|[Тв.с.] і пасля <strong>cease</strong> 
+Judges 15:8 (6939) і <strong>strike</strong> [В.с.] <strong>splintbone</strong> на <strong>upper thigh</strong> <strong>blow</strong> вялікі і апускацца і сядзець у|[Тв.с.] <strong>cleft</strong> скала <strong>Etam</strong> ס
+Judges 15:9 (6940) і падымацца філістынец і <strong>encamp</strong> у|[Тв.с.] Егуда і <strong>abandon</strong> у|[Тв.с.] [арт.] <strong>Lehi</strong> 
+Judges 15:10 (6941) і казаць чалавек (1) Егуда чаму падымацца на і казаць да|[Д.с.] <strong>bind</strong> [В.с.] <strong>Samson</strong> падымацца да|[Д.с.] рабіць да|[Д.с.] як які рабіць да|[Д.с.] 
+Judges 15:11 (6942) і апускацца <strong>three</strong> тысяча чалавек (1) з Егуда да <strong>cleft</strong> скала <strong>Etam</strong> і казаць да|[Д.с.] <strong>Samson</strong> ці не ведаць [+неад.]|займацца сэксам [+адуш.] бо|што <strong>rule</strong> у|[Тв.с.] філістынец і што <strong>this</strong> рабіць да|[Д.с.] і казаць да|[Д.с.] як які рабіць да|[Д.с.] так рабіць да|[Д.с.] 
+Judges 15:12 (6943) і казаць да|[Д.с.] да|[Д.с.] <strong>bind</strong> апускацца да|[Д.с.] даць у|[Тв.с.] рука філістынец і казаць да|[Д.с.] <strong>Samson</strong> <strong>swear</strong> да|[Д.с.] <strong>lest</strong> <strong>meet</strong> у|[Тв.с.] <strong>you</strong> 
+Judges 15:13 (6944) і казаць да|[Д.с.] да|[Д.с.] казаць не бо|што <strong>bind</strong> <strong>bind</strong> і даць у|[Тв.с.] рука і паміраць не паміраць і <strong>bind</strong> у|[Тв.с.] два <strong>rope</strong> новы і падымацца з [арт.] скала 
+Judges 15:14 (6945) ён прыйсці (ажно) да <strong>Lehi</strong> і філістынец <strong>shout</strong> да|[Д.с.] <strong>encounter</strong> і <strong>be strong</strong> на вецер Існы і быць [арт.] <strong>rope</strong> які на <strong>arm</strong> як [арт.] <strong>flax</strong> які <strong>burn</strong> у|[Тв.с.] [арт.] агонь і <strong>melt</strong> <strong>fetter</strong> з на рука 
+Judges 15:15 (6946) і знайсці <strong>jaw</strong> <strong>he-ass</strong> <strong>fresh</strong> і слаць рука і браць і <strong>strike</strong> у|[Тв.с.] тысяча чалавек (1) 
+Judges 15:16 (6947) і казаць <strong>Samson</strong> у|[Тв.с.] <strong>jaw</strong> [арт.] <strong>he-ass</strong> <strong>homer</strong> <strong>homer</strong> у|[Тв.с.] <strong>jaw</strong> [арт.] <strong>he-ass</strong> <strong>strike</strong> тысяча чалавек (1) 
+Judges 15:17 (6948) і быць як <strong>be complete</strong> да|[Д.с.] гаварыць і кінуць [арт.] <strong>jaw</strong> з рука і зваць да|[Д.с.] [арт.] месца [арт.] ён <strong>high place</strong> <strong>jaw</strong> 
+Judges 15:18 (6949) і <strong>be thirsty</strong> вельмі і зваць да Існы і казаць ты[м.] даць у|[Тв.с.] рука слуга [В.с.] [арт.] <strong>salvation</strong> [арт.] вялікі [арт.] <strong>this</strong> і <strong>now</strong> паміраць у|[Тв.с.] [арт.] <strong>thirst</strong> і падаць у|[Тв.с.] рука [арт.] <strong>uncircumcised</strong> 
+Judges 15:19 (6950) і <strong>split</strong> Бог [В.с.] [арт.] <strong>grinder</strong> які у|[Тв.с.] [арт.] <strong>Lehi</strong> і выйсці з вада і піць і вяртацца вецер і жыць на так зваць імя вока [арт.] зваць які у|[Тв.с.] [арт.] <strong>Lehi</strong> (ажно) да [арт.] дзень [арт.] гэты 
+Judges 15:20 (6951) і судзіць [В.с.] Ісраэль у|[Тв.с.] дзень філістынец <strong>twenty</strong> год פ
+Judges 16:1 (6952) і хадзіць <strong>Samson</strong> <strong>Gaza</strong> і бачыць там жанчына <strong>fornicate</strong> і прыйсці да 
+Judges 16:2 (6953) да|[Д.с.] [арт.] <strong>from Gaza</strong> да|[Д.с.] казаць прыйсці <strong>Samson</strong> <strong>here</strong> і <strong>turn</strong> і <strong>lie in ambush</strong> да|[Д.с.] цэлы|увесь [арт.] ноч у|[Тв.с.] брама [арт.] горад і <strong>be deaf</strong> цэлы|увесь [арт.] ноч да|[Д.с.] казаць (ажно) да <strong>be light</strong> [арт.] раніца і <strong>kill</strong> 
+Judges 16:3 (6954) і ляжаць <strong>Samson</strong> (ажно) да <strong>half</strong> [арт.] ноч і устаць у|[Тв.с.] <strong>half</strong> [арт.] ноч і <strong>seize</strong> у|[Тв.с.] дзверы брама [арт.] горад і у|[Тв.с.] два [арт.] <strong>door-post</strong> і выцягнуць з [арт.] <strong>bar</strong> і класці|ставіць на <strong>shoulder</strong> і падымацца да галава [арт.] гара які на твар <strong>Hebron</strong> פ
+Judges 16:4 (6955) і быць пасля так і любіць|кахаць жанчына у|[Тв.с.] <strong>wadi</strong> <strong>Sorek</strong> і імя <strong>Delilah</strong> 
+Judges 16:5 (6956) і падымацца да <strong>lords</strong> філістынец і казаць да|[Д.с.] <strong>seduce</strong> [В.с.] і бачыць у|[Тв.с.] што сіла вялікі і у|[Тв.с.] што магчы да|[Д.с.] і <strong>bind</strong> да|[Д.с.] <strong>be lowly</strong> і <strong>we</strong> даць да|[Д.с.] чалавек (1) тысяча і сотня срэбра 
+Judges 16:6 (6957) і казаць <strong>Delilah</strong> да <strong>Samson</strong> абвяшчаць ж, -ка [узмацн.] да|[Д.с.] у|[Тв.с.] што сіла вялікі і у|[Тв.с.] што <strong>bind</strong> да|[Д.с.] <strong>be lowly</strong> 
+Judges 16:7 (6958) і казаць да <strong>Samson</strong> калі[зл.] <strong>bind</strong> у|[Тв.с.] сем <strong>sinew</strong> <strong>fresh</strong> які не <strong>be dry</strong> і <strong>become weak</strong> і быць як адзін [арт.] чалавек (від) 
+Judges 16:8 (6959) і падымацца да|[Д.с.] <strong>lords</strong> філістынец сем <strong>sinew</strong> <strong>fresh</strong> які не <strong>be dry</strong> і <strong>bind</strong> у|[Тв.с.] 
+Judges 16:9 (6960) і [арт.] <strong>lie in ambush</strong> сядзець да|[Д.с.] у|[Тв.с.] [арт.] пакой і казаць да філістынец на <strong>Samson</strong> і <strong>pull off</strong> [В.с.] [арт.] <strong>sinew</strong> як які <strong>pull off</strong> <strong>cord</strong> [арт.] <strong>tow</strong> у|[Тв.с.] <strong>be spacious</strong> агонь і не ведаць [+неад.]|займацца сэксам [+адуш.] сіла 
+Judges 16:10 (6961) і казаць <strong>Delilah</strong> да <strong>Samson</strong> вось <strong>mock</strong> у|[Тв.с.] і гаварыць да <strong>lie</strong> <strong>now</strong> абвяшчаць ж, -ка [узмацн.] да|[Д.с.] у|[Тв.с.] што <strong>bind</strong> 
+Judges 16:11 (6962) і казаць да калі[зл.] <strong>bind</strong> <strong>bind</strong> у|[Тв.с.] <strong>rope</strong> новы які не рабіць у|[Тв.с.] <strong>work</strong> і <strong>become weak</strong> і быць як адзін [арт.] чалавек (від) 
+Judges 16:12 (6963) і браць <strong>Delilah</strong> <strong>rope</strong> новы і <strong>bind</strong> у|[Тв.с.] і казаць да філістынец на <strong>Samson</strong> і [арт.] <strong>lie in ambush</strong> сядзець у|[Тв.с.] [арт.] пакой і <strong>pull off</strong> з на <strong>arm</strong> як [арт.] <strong>thread</strong> 
+Judges 16:13 (6964) і казаць <strong>Delilah</strong> да <strong>Samson</strong> (ажно) да <strong>here</strong> <strong>mock</strong> у|[Тв.с.] і гаварыць да <strong>lie</strong> абвяшчаць да|[Д.с.] у|[Тв.с.] што <strong>bind</strong> і казаць да калі[зл.] <strong>weave</strong> [В.с.] сем <strong>plaits</strong> галава з [арт.] <strong>warp-threads</strong> 
+Judges 16:14 (6965) і <strong>blow</strong> у|[Тв.с.] [арт.] <strong>peg</strong> і казаць да філістынец на <strong>Samson</strong> і <strong>awake</strong> з <strong>sleep</strong> і выцягнуць [В.с.] [арт.] <strong>peg</strong> [арт.] <strong>weaver's bobbin</strong> і [В.с.] [арт.] <strong>warp-threads</strong> 
+Judges 16:15 (6966) і казаць да як казаць любіць|кахаць і сэрца няма разам з гэты <strong>three</strong> <strong>foot</strong> <strong>mock</strong> у|[Тв.с.] і не абвяшчаць да|[Д.с.] у|[Тв.с.] што сіла вялікі 
+Judges 16:16 (6967) і быць бо|што <strong>oppress</strong> да|[Д.с.] у|[Тв.с.] слова|рэч цэлы|увесь [арт.] дзень і <strong>press hard</strong> і <strong>be short</strong> душа да|[Д.с.] паміраць 
+Judges 16:17 (6968) і абвяшчаць да|[Д.с.] [В.с.] цэлы|увесь сэрца і казаць да|[Д.с.] <strong>razor</strong> не падымацца на галава бо|што <strong>singled out</strong> Бог я з <strong>belly</strong> маці калі[зл.] <strong>shave</strong> і збочыць з сіла і <strong>become weak</strong> і быць як цэлы|увесь [арт.] чалавек (від) 
+Judges 16:18 (6969) і бачыць <strong>Delilah</strong> бо|што абвяшчаць да|[Д.с.] [В.с.] цэлы|увесь сэрца і слаць і зваць да|[Д.с.] <strong>lords</strong> філістынец да|[Д.с.] казаць падымацца [арт.] <strong>foot</strong> бо|што абвяшчаць да|[Д.с.] [В.с.] цэлы|увесь сэрца і падымацца да <strong>lords</strong> філістынец і падымацца [арт.] срэбра у|[Тв.с.] рука 
+Judges 16:19 (6970) і спаць на <strong>knee</strong> і зваць да|[Д.с.] [арт.] чалавек (1) і <strong>shave</strong> [В.с.] сем <strong>plaits</strong> галава і <strong>defile</strong> да|[Д.с.] <strong>be lowly</strong> і збочыць сіла з на 
+Judges 16:20 (6971) і казаць філістынец на <strong>Samson</strong> і <strong>awake</strong> з <strong>sleep</strong> і казаць выйсці як <strong>foot</strong> у|[Тв.с.] <strong>foot</strong> і <strong>shake off</strong> і ён не ведаць [+неад.]|займацца сэксам [+адуш.] бо|што Існы збочыць з на 
+Judges 16:21 (6972) і <strong>seize</strong> філістынец і <strong>bore out</strong> [В.с.] вока і апускацца [В.с.] <strong>Gaza</strong> і <strong>bind</strong> у|[Тв.с.] [арт.] <strong>bronze</strong> і быць <strong>grind</strong> у|[Тв.с.] дом [арт.] <strong>fetter</strong> 
+Judges 16:22 (6973) і <strong>defile</strong> <strong>hair</strong> галава да|[Д.с.] <strong>sprout</strong> як які <strong>shave</strong> פ
+Judges 16:23 (6974) і <strong>lords</strong> філістынец збіраць да|[Д.с.] забіць <strong>sacrifice</strong> вялікі да|[Д.с.] <strong>Dagon</strong> Бог і да|[Д.с.] радасць і казаць даць Бог у|[Тв.с.] рука [В.с.] <strong>Samson</strong> <strong>be hostile</strong> 
+Judges 16:24 (6975) і бачыць [В.с.] [арт.] народ і <strong>praise</strong> [В.с.] Бог бо|што казаць даць Бог у|[Тв.с.] рука [В.с.] <strong>be hostile</strong> і [В.с.] <strong>be dry</strong> зямля і які шмат [В.с.] <strong>pierced</strong> 
+Judges 16:25 (6976) і быць як <strong>be good</strong> сэрца і казаць зваць да|[Д.с.] <strong>Samson</strong> і смяяцца да|[Д.с.] і зваць да|[Д.с.] <strong>Samson</strong> з дом [арт.] <strong>fetter</strong> і <strong>laugh</strong> да|[Д.с.] твар і стаяць [В.с.] між [арт.] <strong>pillar</strong> 
+Judges 16:26 (6977) і казаць <strong>Samson</strong> да [арт.] хлапчук [арт.] <strong>be strong</strong> у|[Тв.с.] рука асесць [В.с.] і <strong>grope</strong> [В.с.] [арт.] <strong>pillar</strong> які [арт.] дом <strong>be firm</strong> на і <strong>lean</strong> на 
+Judges 16:27 (6978) і [арт.] дом поўніцца [арт.] чалавек (1) і [арт.] жанчына і там цэлы|увесь <strong>lords</strong> філістынец і на [арт.] <strong>roof</strong> як <strong>three</strong> тысяча чалавек (1) і жанчына [арт.] бачыць у|[Тв.с.] смяяцца <strong>Samson</strong> 
+Judges 16:28 (6979) і зваць <strong>Samson</strong> да Існы і казаць валадар Існы помніць ж, -ка [узмацн.] і <strong>be strong</strong> ж, -ка [узмацн.] <strong>only</strong> [арт.] <strong>foot</strong> [арт.] гэты [арт.] Бог і <strong>avenge</strong> <strong>vengeance</strong> адзін з два вока з філістынец 
+Judges 16:29 (6980) і <strong>grasp</strong> <strong>Samson</strong> [В.с.] два <strong>pillar</strong> [арт.] <strong>midst</strong> які [арт.] дом <strong>be firm</strong> на і <strong>support</strong> на адзін у|[Тв.с.] правая частка і адзін у|[Тв.с.] левая частка 
+Judges 16:30 (6981) і казаць <strong>Samson</strong> паміраць душа з філістынец і <strong>extend</strong> у|[Тв.с.] сіла і падаць [арт.] дом на [арт.] <strong>lords</strong> і на цэлы|увесь [арт.] народ які у|[Тв.с.] і быць [арт.] паміраць які паміраць у|[Тв.с.] смерць шматлікі з які паміраць у|[Тв.с.] <strong>life</strong> 
+Judges 16:31 (6982) і апускацца брат і цэлы|увесь дом бацька і падняць [В.с.] і падымацца і пахаваць [В.с.] між <strong>Zorah</strong> і між <strong>Eshtaol</strong> у|[Тв.с.] <strong>grave</strong> <strong>Manoah</strong> бацька і ён судзіць [В.с.] Ісраэль <strong>twenty</strong> год פ
+Judges 17:1 (6983) і быць чалавек (1) з гара Эфраі́м і імя <strong>[prophet]</strong> 
+Judges 17:2 (6984) і казаць да|[Д.с.] маці тысяча і сотня [арт.] срэбра які браць да|[Д.с.] і <strong>you</strong> <strong>swear</strong> і таксама|нават казаць у|[Тв.с.] вуха вось [арт.] срэбра разам з я браць і казаць маці <strong>bless</strong> сын да|[Д.с.] Існы 
+Judges 17:3 (6985) і вяртацца [В.с.] тысяча і сотня [арт.] срэбра да|[Д.с.] маці і казаць маці <strong>be holy</strong> <strong>be holy</strong> [В.с.] [арт.] срэбра да|[Д.с.] Існы з рука да|[Д.с.] сын да|[Д.с.] рабіць <strong>idol</strong> і <strong>molten image</strong> і <strong>now</strong> вяртацца да|[Д.с.] 
+Judges 17:4 (6986) і вяртацца [В.с.] [арт.] срэбра да|[Д.с.] маці і браць маці сотня срэбра і даць да|[Д.с.] [арт.] <strong>melt</strong> і рабіць <strong>idol</strong> і <strong>molten image</strong> і быць у|[Тв.с.] дом <strong>[prophet]</strong> 
+Judges 17:5 (6987) і [арт.] чалавек (1) <strong>Micah</strong> да|[Д.с.] дом Бог і рабіць <strong>ephod</strong> і <strong>teraphim</strong> і поўніцца [В.с.] рука адзін з сын і быць да|[Д.с.] да|[Д.с.] <strong>priest</strong> 
+Judges 17:6 (6988) у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] няма цар у|[Тв.с.] Ісраэль чалавек (1) [арт.] <strong>right</strong> у|[Тв.с.] вока рабіць פ
+Judges 17:7 (6989) і быць хлапчук з <strong>Bethlehem</strong> Егуда з <strong>clan</strong> Егуда і ён <strong>Levite</strong> і ён <strong>dwell</strong> там 
+Judges 17:8 (6990) і хадзіць [арт.] чалавек (1) з [арт.] горад з <strong>Bethlehem</strong> Егуда да|[Д.с.] <strong>dwell</strong> у|[Тв.с.] які знайсці і прыйсці гара Эфраі́м (ажно) да дом <strong>Micah</strong> да|[Д.с.] рабіць шлях 
+Judges 17:9 (6991) і казаць да|[Д.с.] <strong>Micah</strong> з <strong>whence</strong> прыйсці і казаць да <strong>Levite</strong> <strong>i</strong> з <strong>Bethlehem</strong> Егуда і <strong>i</strong> хадзіць да|[Д.с.] <strong>dwell</strong> у|[Тв.с.] які знайсці 
+Judges 17:10 (6992) і казаць да|[Д.с.] <strong>Micah</strong> сядзець <strong>company</strong> і быць да|[Д.с.] да|[Д.с.] бацька і да|[Д.с.] <strong>priest</strong> і <strong>i</strong> даць да|[Д.с.] дзесяць срэбра да|[Д.с.] [арт.] дзень і <strong>arrangement</strong> адзежа і <strong>life preservation</strong> і хадзіць [арт.] <strong>Levite</strong> 
+Judges 17:11 (6993) і <strong>begin</strong> [арт.] <strong>Levite</strong> да|[Д.с.] сядзець разам з [арт.] чалавек (1) і быць [арт.] хлапчук да|[Д.с.] як адзін з сын 
+Judges 17:12 (6994) і поўніцца <strong>Micah</strong> [В.с.] рука [арт.] <strong>Levite</strong> і быць да|[Д.с.] [арт.] хлапчук да|[Д.с.] <strong>priest</strong> і быць у|[Тв.с.] дом <strong>Micah</strong> 
+Judges 17:13 (6995) і казаць <strong>Micah</strong> <strong>now</strong> ведаць [+неад.]|займацца сэксам [+адуш.] бо|што <strong>be good</strong> Існы да|[Д.с.] бо|што быць да|[Д.с.] [арт.] <strong>Levite</strong> да|[Д.с.] <strong>priest</strong> 
+Judges 18:1 (6996) у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] няма цар у|[Тв.с.] Ісраэль і у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] <strong>rod</strong> [арт.] <strong>Danite</strong> шукаць да|[Д.с.] уласнасць да|[Д.с.] сядзець бо|што не падаць да|[Д.с.] (ажно) да [арт.] дзень [арт.] ён у|[Тв.с.] <strong>midst</strong> <strong>rod</strong> Ісраэль у|[Тв.с.] уласнасць ס
+Judges 18:2 (6997) і слаць сын <strong>Dan</strong> з <strong>clan</strong> <strong>five</strong> чалавек (1) з <strong>end</strong> чалавек (1) сын моц з <strong>Zorah</strong> і з <strong>Eshtaol</strong> да|[Д.с.] <strong>slander</strong> [В.с.] [арт.] зямля і да|[Д.с.] <strong>explore</strong> і казаць да хадзіць <strong>explore</strong> [В.с.] [арт.] зямля і прыйсці гара Эфраі́м (ажно) да дом <strong>Micah</strong> і <strong>lodge</strong> там 
+Judges 18:3 (6998) яны з дом <strong>Micah</strong> і яны <strong>recognise</strong> [В.с.] голас [арт.] хлапчук [арт.] <strong>Levite</strong> і збочыць там і казаць да|[Д.с.] хто прыйсці <strong>hither</strong> і што ты[м.] рабіць у|[Тв.с.] гэты і што да|[Д.с.] <strong>here</strong> 
+Judges 18:4 (6999) і казаць да як гэта і як гэты рабіць да|[Д.с.] <strong>Micah</strong> і <strong>hire</strong> і быць да|[Д.с.] да|[Д.с.] <strong>priest</strong> 
+Judges 18:5 (7000) і казаць да|[Д.с.] пытацца ж, -ка [узмацн.] у|[Тв.с.] Бог і ведаць [+неад.]|займацца сэксам [+адуш.] ці <strong>be strong</strong> шлях які <strong>we</strong> хадзіць на 
+Judges 18:6 (7001) і казаць да|[Д.с.] [арт.] <strong>priest</strong> хадзіць да|[Д.с.] згода <strong>straightness</strong> Існы шлях які хадзіць у|[Тв.с.] פ
+Judges 18:7 (7002) і хадзіць <strong>five</strong> [арт.] чалавек (1) і прыйсці <strong>[locality]</strong> і бачыць [В.с.] [арт.] народ які у|[Тв.с.] <strong>interior</strong> сядзець да|[Д.с.] <strong>trust</strong> як правасуддзе <strong>Sidonian</strong> <strong>be at peace</strong> і <strong>trust</strong> і няма <strong>humiliate</strong> слова|рэч у|[Тв.с.] [арт.] зямля заўладаць <strong>oppression</strong> і далёкі яны з <strong>Sidonian</strong> і слова|рэч няма да|[Д.с.] з чалавек (від) 
+Judges 18:8 (7003) і прыйсці да брат <strong>Zorah</strong> і <strong>Eshtaol</strong> і казаць да|[Д.с.] брат што <strong>you</strong> 
+Judges 18:9 (7004) і казаць устаць і падымацца на бо|што бачыць [В.с.] [арт.] зямля і вось добры вельмі і <strong>you</strong> маўчаць не [+заг.лад] <strong>be sluggish</strong> да|[Д.с.] хадзіць да|[Д.с.] прыйсці да|[Д.с.] заўладаць [В.с.] [арт.] зямля 
+Judges 18:10 (7005) як прыйсці прыйсці да народ <strong>trust</strong> і [арт.] зямля <strong>wide</strong> рука бо|што даць Бог у|[Тв.с.] рука месца які няма там <strong>need</strong> цэлы|увесь слова|рэч які у|[Тв.с.] [арт.] зямля 
+Judges 18:11 (7006) і выцягнуць з там з <strong>clan</strong> [арт.] <strong>Danite</strong> з <strong>Zorah</strong> і з <strong>Eshtaol</strong> <strong>six</strong> сотня чалавек (1) <strong>gird</strong> прылада вайна 
+Judges 18:12 (7007) і падымацца і <strong>encamp</strong> у|[Тв.с.] <strong>Kiriath Jearim</strong> у|[Тв.с.] Егуда на так зваць да|[Д.с.] [арт.] месца [арт.] ён <strong>Mahaneh Dan</strong> (ажно) да [арт.] дзень [арт.] гэты вось пасля <strong>Kiriath Jearim</strong> 
+Judges 18:13 (7008) і перайсці з там гара Эфраі́м і прыйсці (ажно) да дом <strong>Micah</strong> 
+Judges 18:14 (7009) і адказаць <strong>five</strong> [арт.] чалавек (1) [арт.] хадзіць да|[Д.с.] <strong>slander</strong> [В.с.] [арт.] зямля <strong>[locality]</strong> і казаць да брат ці ведаць [+неад.]|займацца сэксам [+адуш.] бо|што ёсць у|[Тв.с.] [арт.] дом [арт.] гэтыя <strong>ephod</strong> і <strong>teraphim</strong> і <strong>idol</strong> і <strong>molten image</strong> і <strong>now</strong> ведаць [+неад.]|займацца сэксам [+адуш.] што рабіць 
+Judges 18:15 (7010) і збочыць там і прыйсці да дом [арт.] хлапчук [арт.] <strong>Levite</strong> дом <strong>Micah</strong> і пытацца да|[Д.с.] да|[Д.с.] згода 
+Judges 18:16 (7011) і <strong>six</strong> сотня чалавек (1) <strong>gird</strong> прылада <strong>war</strong> <strong>stand</strong> <strong>opening</strong> [арт.] брама які з сын <strong>Dan</strong> 
+Judges 18:17 (7012) і падымацца <strong>five</strong> [арт.] чалавек (1) [арт.] хадзіць да|[Д.с.] <strong>slander</strong> [В.с.] [арт.] зямля прыйсці там браць [В.с.] [арт.] <strong>idol</strong> і [В.с.] [арт.] <strong>ephod</strong> і [В.с.] [арт.] <strong>teraphim</strong> і [В.с.] [арт.] <strong>molten image</strong> і [арт.] <strong>priest</strong> <strong>stand</strong> <strong>opening</strong> [арт.] брама і <strong>six</strong> сотня [арт.] чалавек (1) [арт.] <strong>gird</strong> прылада [арт.] вайна 
+Judges 18:18 (7013) і гэтыя прыйсці дом <strong>Micah</strong> і браць [В.с.] <strong>idol</strong> [арт.] <strong>ephod</strong> і [В.с.] [арт.] <strong>teraphim</strong> і [В.с.] [арт.] <strong>molten image</strong> і казаць да [арт.] <strong>priest</strong> што <strong>you</strong> рабіць 
+Judges 18:19 (7014) і казаць да|[Д.с.] <strong>be deaf</strong> класці|ставіць рука на рот і хадзіць з і быць да|[Д.с.] да|[Д.с.] бацька і да|[Д.с.] <strong>priest</strong> ці добры быць <strong>priest</strong> да|[Д.с.] дом чалавек (1) адзін ці быць <strong>priest</strong> да|[Д.с.] <strong>rod</strong> і да|[Д.с.] <strong>clan</strong> у|[Тв.с.] Ісраэль 
+Judges 18:20 (7015) і <strong>be good</strong> сэрца [арт.] <strong>priest</strong> і браць [В.с.] [арт.] <strong>ephod</strong> і [В.с.] [арт.] <strong>teraphim</strong> і [В.с.] [арт.] <strong>idol</strong> і прыйсці у|[Тв.с.] <strong>interior</strong> [арт.] народ 
+Judges 18:21 (7016) і <strong>turn</strong> і хадзіць і класці|ставіць [В.с.] [арт.] <strong>[those unable to march]</strong> і [В.с.] [арт.] набыццё і [В.с.] [арт.] <strong>what is valuable</strong> да|[Д.с.] твар 
+Judges 18:22 (7017) яны <strong>be far</strong> з дом <strong>Micah</strong> і [арт.] чалавек (1) які у|[Тв.с.] [арт.] дом які з дом <strong>Micah</strong> <strong>cry</strong> і <strong>cling, cleave to</strong> [В.с.] сын <strong>Dan</strong> 
+Judges 18:23 (7018) і зваць да сын <strong>Dan</strong> і <strong>turn</strong> твар і казаць да|[Д.с.] <strong>Micah</strong> што да|[Д.с.] бо|што <strong>cry</strong> 
+Judges 18:24 (7019) і казаць [В.с.] Бог які рабіць браць і [В.с.] [арт.] <strong>priest</strong> і хадзіць і што да|[Д.с.] яшчэ і што гэты казаць да што да|[Д.с.] 
+Judges 18:25 (7020) і казаць да сын <strong>Dan</strong> не [+заг.лад] чуць голас з <strong>lest</strong> <strong>meet</strong> у|[Тв.с.] чалавек (1) горкі душа і збіраць душа і душа дом 
+Judges 18:26 (7021) і хадзіць сын <strong>Dan</strong> да|[Д.с.] шлях і бачыць <strong>Micah</strong> бо|што <strong>strong</strong> яны з і <strong>turn</strong> і вяртацца да дом 
+Judges 18:27 (7022) і яны браць [В.с.] які рабіць <strong>Micah</strong> і [В.с.] [арт.] <strong>priest</strong> які быць да|[Д.с.] і прыйсці на <strong>[locality]</strong> на народ <strong>be at peace</strong> і <strong>trust</strong> і <strong>strike</strong> [В.с.] да|[Д.с.] рот <strong>dagger</strong> і [В.с.] [арт.] горад <strong>burn</strong> у|[Тв.с.] [арт.] агонь 
+Judges 18:28 (7023) і няма <strong>deliver</strong> бо|што далёкі яна з <strong>Sidon</strong> і слова|рэч няма да|[Д.с.] з чалавек (від) і яна у|[Тв.с.] [арт.] <strong>valley</strong> які да|[Д.с.] <strong>Beth Rehob</strong> і будаваць [В.с.] [арт.] горад і сядзець у|[Тв.с.] 
+Judges 18:29 (7024) і зваць імя [арт.] горад <strong>Dan</strong> у|[Тв.с.] імя <strong>Dan</strong> бацька які нарадзіць да|[Д.с.] Ісраэль і <strong>but</strong> <strong>[locality]</strong> імя [арт.] горад да|[Д.с.] [арт.] першы 
+Judges 18:30 (7025) і устаць да|[Д.с.] сын <strong>Dan</strong> [В.с.] [арт.] <strong>idol</strong> і <strong>Jehonathan</strong> сын <strong>Gershom</strong> сын <strong>Manasseh</strong> ён і сын быць <strong>priest</strong> да|[Д.с.] <strong>rod</strong> [арт.] <strong>Danite</strong> (ажно) да дзень <strong>uncover</strong> [арт.] зямля 
+Judges 18:31 (7026) і класці|ставіць да|[Д.с.] [В.с.] <strong>idol</strong> <strong>Micah</strong> які рабіць цэлы|увесь дзень быць дом [арт.] Бог у|[Тв.с.] <strong>Shiloh</strong> פ
+Judges 19:1 (7027) і быць у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] і цар няма у|[Тв.с.] Ісраэль і быць чалавек (1) <strong>Levite</strong> <strong>dwell</strong> у|[Тв.с.] <strong>backside</strong> гара Эфраі́м і браць да|[Д.с.] жанчына <strong>concubine</strong> з <strong>Bethlehem</strong> Егуда 
+Judges 19:2 (7028) і <strong>feel repugnance</strong> на <strong>concubine</strong> і хадзіць з разам з да дом бацька да <strong>Bethlehem</strong> Егуда і быць там дзень <strong>four</strong> <strong>month</strong> 
+Judges 19:3 (7029) і устаць чалавек (1) і хадзіць пасля да|[Д.с.] гаварыць на сэрца да|[Д.с.] вяртацца і хлапчук з і <strong>span</strong> <strong>he-ass</strong> і прыйсці дом бацька і бачыць бацька [арт.] <strong>girl</strong> і узрадавацца да|[Д.с.] <strong>encounter</strong> 
+Judges 19:4 (7030) і <strong>be strong</strong> у|[Тв.с.] <strong>be father-in-law</strong> бацька [арт.] <strong>girl</strong> і сядзець разам з <strong>three</strong> дзень і есці і піць і <strong>lodge</strong> там 
+Judges 19:5 (7031) і быць у|[Тв.с.] [арт.] дзень [арт.] <strong>fourth</strong> і <strong>rise early</strong> у|[Тв.с.] [арт.] раніца і устаць да|[Д.с.] хадзіць і казаць бацька [арт.] <strong>girl</strong> да <strong>son-in-law</strong> <strong>support</strong> сэрца <strong>bit</strong> хлеб і пасля хадзіць 
+Judges 19:6 (7032) і сядзець і есці два <strong>together</strong> і піць і казаць бацька [арт.] <strong>girl</strong> да [арт.] чалавек (1) <strong>begin</strong> ж, -ка [узмацн.] і <strong>lodge</strong> і <strong>be good</strong> сэрца 
+Judges 19:7 (7033) і устаць [арт.] чалавек (1) да|[Д.с.] хадзіць і <strong>entreat</strong> у|[Тв.с.] <strong>be father-in-law</strong> і вяртацца і <strong>lodge</strong> там 
+Judges 19:8 (7034) і <strong>rise early</strong> у|[Тв.с.] [арт.] раніца у|[Тв.с.] [арт.] дзень [арт.] <strong>fifth</strong> да|[Д.с.] хадзіць і казаць бацька [арт.] <strong>girl</strong> <strong>support</strong> ж, -ка [узмацн.] сэрца і <strong>tarry</strong> (ажно) да <strong>extend</strong> [арт.] дзень і есці два 
+Judges 19:9 (7035) і устаць [арт.] чалавек (1) да|[Д.с.] хадзіць ён і <strong>concubine</strong> і хлапчук і казаць да|[Д.с.] <strong>be father-in-law</strong> бацька [арт.] <strong>girl</strong> вось ж, -ка [узмацн.] <strong>be slack</strong> [арт.] дзень да|[Д.с.] <strong>become evening</strong> <strong>lodge</strong> ж, -ка [узмацн.] вось <strong>encamp</strong> [арт.] дзень <strong>lodge</strong> <strong>here</strong> і <strong>be good</strong> сэрца і <strong>rise early</strong> <strong>next day</strong> да|[Д.с.] шлях і хадзіць да|[Д.с.] <strong>tent</strong> 
+Judges 19:10 (7036) і не <strong>want</strong> [арт.] чалавек (1) да|[Д.с.] <strong>lodge</strong> і устаць і хадзіць і прыйсці (ажно) да <strong>straightness</strong> <strong>Jebus</strong> яна Ерусалім і з <strong>span</strong> <strong>he-ass</strong> <strong>saddle</strong> і <strong>concubine</strong> з 
+Judges 19:11 (7037) яны [ж.] з <strong>Jebus</strong> і [арт.] дзень <strong>subdue</strong> вельмі і казаць [арт.] хлапчук да <strong>lord</strong> хадзіць ж, -ка [узмацн.] і збочыць да горад [арт.] <strong>Jebusite</strong> [арт.] <strong>this</strong> і <strong>lodge</strong> у|[Тв.с.] 
+Judges 19:12 (7038) і казаць да <strong>lord</strong> не збочыць да горад чужынскі які не з сын Ісраэль <strong>they</strong> і перайсці (ажно) да <strong>Gibeah</strong> 
+Judges 19:13 (7039) і казаць да|[Д.с.] хлапчук хадзіць і набліжацца у|[Тв.с.] адзін [арт.] месца і <strong>lodge</strong> у|[Тв.с.] [арт.] <strong>Gibeah</strong> ці у|[Тв.с.] [арт.] <strong>Ramah</strong> 
+Judges 19:14 (7040) і перайсці і хадзіць і прыйсці да|[Д.с.] [арт.] сонца <strong>side</strong> [арт.] <strong>Gibeah</strong> які да|[Д.с.] Бін’ямін 
+Judges 19:15 (7041) і збочыць там да|[Д.с.] прыйсці да|[Д.с.] <strong>lodge</strong> у|[Тв.с.] [арт.] <strong>Gibeah</strong> і прыйсці і сядзець у|[Тв.с.] <strong>open place</strong> [арт.] горад і няма чалавек (1) збіраць [В.с.] [арт.] дом да|[Д.с.] <strong>lodge</strong> 
+Judges 19:16 (7042) і вось чалавек (1) старадаўні прыйсці з учынак|справа з [арт.] поле у|[Тв.с.] [арт.] вечар і [арт.] чалавек (1) з гара Эфраі́м і ён <strong>dwell</strong> у|[Тв.с.] [арт.] <strong>Gibeah</strong> і чалавек (1) [арт.] месца сын <strong>Benjaminite</strong> 
+Judges 19:17 (7043) і падняць вока і бачыць [В.с.] [арт.] чалавек (1) [арт.] <strong>wander</strong> у|[Тв.с.] <strong>open place</strong> [арт.] горад і казаць [арт.] чалавек (1) [арт.] старадаўні <strong>whither</strong> хадзіць і з <strong>whence</strong> прыйсці 
+Judges 19:18 (7044) і казаць да перайсці <strong>we</strong> з <strong>Bethlehem</strong> Егуда (ажно) да <strong>backside</strong> гара Эфраі́м з там <strong>i</strong> і хадзіць (ажно) да <strong>Bethlehem</strong> Егуда і [В.с.] дом Існы я хадзіць і няма чалавек (1) збіраць [В.с.] [арт.] дом 
+Judges 19:19 (7045) і таксама|нават <strong>straw</strong> таксама|нават <strong>fodder</strong> ёсць да|[Д.с.] <strong>he-ass</strong> і таксама|нават хлеб і віно ёсць да|[Д.с.] і да|[Д.с.] <strong>handmaid</strong> і да|[Д.с.] [арт.] хлапчук з слуга няма <strong>need</strong> цэлы|увесь слова|рэч 
+Judges 19:20 (7046) і казаць [арт.] чалавек (1) [арт.] старадаўні згода да|[Д.с.] <strong>only</strong> цэлы|увесь <strong>need</strong> на <strong>only</strong> у|[Тв.с.] [арт.] <strong>open place</strong> не [+заг.лад] <strong>lodge</strong> 
+Judges 19:21 (7047) і прыйсці да|[Д.с.] дом і <strong>moisten, confound</strong> да|[Д.с.] [арт.] <strong>he-ass</strong> і <strong>wash</strong> нага і есці і піць 
+Judges 19:22 (7048) яны <strong>be good</strong> [В.с.] сэрца і вось чалавек (1) [арт.] горад чалавек (1) сын <strong>wickedness</strong> <strong>turn</strong> [В.с.] [арт.] дом <strong>drive</strong> на [арт.] дзверы і казаць да [арт.] чалавек (1) хазяін [арт.] дом [арт.] старадаўні да|[Д.с.] казаць выйсці [В.с.] [арт.] чалавек (1) які прыйсці да дом і ведаць [+неад.]|займацца сэксам [+адуш.] 
+Judges 19:23 (7049) і выйсці да [арт.] чалавек (1) хазяін [арт.] дом і казаць да не [+заг.лад] брат не [+заг.лад] <strong>be evil</strong> ж, -ка [узмацн.] пасля які прыйсці [арт.] чалавек (1) [арт.] гэты да дом не [+заг.лад] рабіць [В.с.] [арт.] <strong>stupidity</strong> [арт.] <strong>this</strong> 
+Judges 19:24 (7050) вось дачка [арт.] <strong>virgin</strong> і <strong>concubine</strong> выйсці ж, -ка [узмацн.] [В.с.] і <strong>be lowly</strong> [В.с.] і рабіць да|[Д.с.] [арт.] добры у|[Тв.с.] вока і да|[Д.с.] [арт.] чалавек (1) [арт.] гэты не рабіць слова|рэч [арт.] <strong>stupidity</strong> [арт.] <strong>this</strong> 
+Judges 19:25 (7051) і не <strong>want</strong> [арт.] чалавек (1) да|[Д.с.] чуць да|[Д.с.] і <strong>be strong</strong> [арт.] чалавек (1) у|[Тв.с.] <strong>concubine</strong> і выйсці да [арт.] <strong>outside</strong> і ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] і <strong>deal with</strong> у|[Тв.с.] цэлы|увесь [арт.] ноч (ажно) да [арт.] раніца і слаць як падымацца [арт.] <strong>dawn</strong> 
+Judges 19:26 (7052) і прыйсці [арт.] жанчына да|[Д.с.] <strong>turn</strong> [арт.] раніца і падаць <strong>opening</strong> дом [арт.] чалавек (1) які <strong>lord</strong> там (ажно) да [арт.] святло 
+Judges 19:27 (7053) і устаць <strong>lord</strong> у|[Тв.с.] [арт.] раніца і <strong>open</strong> дзверы [арт.] дом і выйсці да|[Д.с.] хадзіць да|[Д.с.] шлях і вось [арт.] жанчына <strong>concubine</strong> падаць <strong>opening</strong> [арт.] дом і рука на [арт.] <strong>threshold</strong> 
+Judges 19:28 (7054) і казаць да устаць і хадзіць і няма адказаць і браць на [арт.] <strong>he-ass</strong> і устаць [арт.] чалавек (1) і хадзіць да|[Д.с.] месца 
+Judges 19:29 (7055) і прыйсці да дом і браць [В.с.] [арт.] <strong>knife</strong> і <strong>be strong</strong> у|[Тв.с.] <strong>concubine</strong> і <strong>cut</strong> да|[Д.с.] костка да|[Д.с.] два <strong>-teen</strong> <strong>piece</strong> і слаць у|[Тв.с.] цэлы|увесь мяжа Ісраэль 
+Judges 19:30 (7056) і быць цэлы|увесь [арт.] бачыць і казаць не быць і не бачыць як <strong>this</strong> да|[Д.с.] з дзень падымацца сын Ісраэль з зямля <strong>Egypt</strong> (ажно) да [арт.] дзень [арт.] гэты класці|ставіць да|[Д.с.] на <strong>plan</strong> і гаварыць פ
+Judges 20:1 (7057) і выйсці цэлы|увесь сын Ісраэль і <strong>assemble</strong> [арт.] <strong>gathering</strong> як чалавек (1) адзін да|[Д.с.] з <strong>Dan</strong> і (ажно) да <strong>well</strong> <strong>Sheba</strong> і зямля [арт.] Гіл’ад да Існы [арт.] <strong>Mizpah</strong> 
+Judges 20:2 (7058) і <strong>stand</strong> <strong>corner</strong> цэлы|увесь [арт.] народ цэлы|увесь <strong>rod</strong> Ісраэль у|[Тв.с.] <strong>assembly</strong> народ [арт.] Бог <strong>four</strong> сотня тысяча чалавек (1) <strong>on foot</strong> <strong>draw</strong> <strong>dagger</strong> פ
+Judges 20:3 (7059) і чуць сын Бін’ямін бо|што падымацца сын Ісраэль [арт.] <strong>Mizpah</strong> і казаць сын Ісраэль гаварыць <strong>how</strong> быць [арт.] дрэнны [арт.] <strong>this</strong> 
+Judges 20:4 (7060) і адказаць [арт.] чалавек (1) [арт.] <strong>Levite</strong> чалавек (1) [арт.] жанчына [арт.] <strong>kill</strong> і казаць [арт.] <strong>Gibeah</strong> які да|[Д.с.] Бін’ямін прыйсці я і <strong>concubine</strong> да|[Д.с.] <strong>lodge</strong> 
+Judges 20:5 (7061) і устаць на хазяін [арт.] <strong>Gibeah</strong> і <strong>turn</strong> на [В.с.] [арт.] дом ноч [В.с.] <strong>be like</strong> да|[Д.с.] <strong>kill</strong> і [В.с.] <strong>concubine</strong> <strong>be lowly</strong> і паміраць 
+Judges 20:6 (7062) і <strong>seize</strong> у|[Тв.с.] <strong>concubine</strong> і <strong>cut</strong> і слаць у|[Тв.с.] цэлы|увесь поле уласнасць Ісраэль бо|што рабіць <strong>loose conduct</strong> і <strong>stupidity</strong> у|[Тв.с.] Ісраэль 
+Judges 20:7 (7063) вось цэлы|увесь сын Ісраэль <strong>give</strong> да|[Д.с.] слова|рэч і <strong>counsel</strong> <strong>hither</strong> 
+Judges 20:8 (7064) і устаць цэлы|увесь [арт.] народ як чалавек (1) адзін да|[Д.с.] казаць не хадзіць чалавек (1) да|[Д.с.] <strong>tent</strong> і не збочыць чалавек (1) да|[Д.с.] дом 
+Judges 20:9 (7065) і <strong>now</strong> гэты [арт.] слова|рэч які рабіць да|[Д.с.] [арт.] <strong>Gibeah</strong> на у|[Тв.с.] лёс|доля 
+Judges 20:10 (7066) і браць дзесяць чалавек (1) да|[Д.с.] [арт.] сотня да|[Д.с.] цэлы|увесь <strong>rod</strong> Ісраэль і сотня да|[Д.с.] [арт.] тысяча і тысяча да|[Д.с.] [арт.] <strong>multitude</strong> да|[Д.с.] браць <strong>provision</strong> да|[Д.с.] [арт.] народ да|[Д.с.] рабіць да|[Д.с.] прыйсці да|[Д.с.] <strong>Geba</strong> Бін’ямін як цэлы|увесь [арт.] <strong>stupidity</strong> які рабіць у|[Тв.с.] Ісраэль 
+Judges 20:11 (7067) і збіраць цэлы|увесь чалавек (1) Ісраэль да [арт.] горад як чалавек (1) адзін сабар פ
+Judges 20:12 (7068) і слаць <strong>rod</strong> Ісраэль чалавек (1) у|[Тв.с.] цэлы|увесь <strong>rod</strong> Бін’ямін да|[Д.с.] казаць што [арт.] дрэнны [арт.] <strong>this</strong> які быць у|[Тв.с.] 
+Judges 20:13 (7069) і <strong>now</strong> даць [В.с.] [арт.] чалавек (1) сын <strong>wickedness</strong> які у|[Тв.с.] [арт.] <strong>Gibeah</strong> і паміраць і <strong>burn</strong> дрэнны з Ісраэль і не <strong>want</strong> сын Бін’ямін да|[Д.с.] чуць у|[Тв.с.] голас брат сын Ісраэль 
+Judges 20:14 (7070) і збіраць сын Бін’ямін з [арт.] горад [арт.] <strong>Gibeah</strong> да|[Д.с.] выйсці да|[Д.с.] [арт.] вайна з сын Ісраэль 
+Judges 20:15 (7071) і <strong>miss</strong> сын Бін’ямін у|[Тв.с.] [арт.] дзень [арт.] ён з [арт.] горад <strong>twenty</strong> і <strong>six</strong> тысяча чалавек (1) <strong>draw</strong> <strong>dagger</strong> да|[Д.с.] частка з сядзець [арт.] <strong>Gibeah</strong> <strong>miss</strong> сем сотня чалавек (1) <strong>examine</strong> 
+Judges 20:16 (7072) з цэлы|увесь [арт.] народ [арт.] гэты сем сотня чалавек (1) <strong>examine</strong> <strong>left-handed</strong> рука правая частка цэлы|увесь гэты <strong>sling forth</strong> у|[Тв.с.] [арт.] камень да [арт.] <strong>single hair</strong> і не заблудзіць פ
+Judges 20:17 (7073) і чалавек (1) Ісраэль <strong>miss</strong> да|[Д.с.] частка з Бін’ямін <strong>four</strong> сотня тысяча чалавек (1) <strong>draw</strong> <strong>dagger</strong> цэлы|увесь гэты чалавек (1) вайна 
+Judges 20:18 (7074) і устаць і падымацца <strong>Bethel</strong> і пытацца у|[Тв.с.] Бог і казаць сын Ісраэль хто падымацца да|[Д.с.] у|[Тв.с.] [арт.] <strong>beginning</strong> да|[Д.с.] [арт.] вайна з сын Бін’ямін і казаць Існы Егуда у|[Тв.с.] [арт.] <strong>beginning</strong> 
+Judges 20:19 (7075) і устаць сын Ісраэль у|[Тв.с.] [арт.] раніца і <strong>encamp</strong> на [арт.] <strong>Gibeah</strong> פ
+Judges 20:20 (7076) і выйсці чалавек (1) Ісраэль да|[Д.с.] [арт.] вайна з Бін’ямін і <strong>arrange</strong> разам з чалавек (1) Ісраэль вайна да [арт.] <strong>Gibeah</strong> 
+Judges 20:21 (7077) і выйсці сын Бін’ямін з [арт.] <strong>Gibeah</strong> і <strong>destroy</strong> у|[Тв.с.] Ісраэль у|[Тв.с.] [арт.] дзень [арт.] ён два і <strong>twenty</strong> тысяча чалавек (1) зямля 
+Judges 20:22 (7078) і <strong>be strong</strong> [арт.] народ чалавек (1) Ісраэль і дадаць да|[Д.с.] <strong>arrange</strong> вайна у|[Тв.с.] [арт.] месца які <strong>arrange</strong> там у|[Тв.с.] [арт.] дзень [арт.] першы 
+Judges 20:23 (7079) і падымацца сын Ісраэль і плакаць да|[Д.с.] твар Існы (ажно) да [арт.] вечар і пытацца у|[Тв.с.] Існы да|[Д.с.] казаць ці дадаць да|[Д.с.] <strong>approach</strong> да|[Д.с.] [арт.] вайна з сын Бін’ямін брат і казаць Існы падымацца да פ
+Judges 20:24 (7080) і набліжацца сын Ісраэль да сын Бін’ямін у|[Тв.с.] [арт.] дзень [арт.] другі 
+Judges 20:25 (7081) і выйсці Бін’ямін да|[Д.с.] <strong>encounter</strong> з [арт.] <strong>Gibeah</strong> у|[Тв.с.] [арт.] дзень [арт.] другі і <strong>destroy</strong> у|[Тв.с.] сын Ісраэль яшчэ восем <strong>-teen</strong> тысяча чалавек (1) зямля цэлы|увесь гэтыя <strong>draw</strong> <strong>dagger</strong> 
+Judges 20:26 (7082) і падымацца цэлы|увесь сын Ісраэль і цэлы|увесь [арт.] народ і прыйсці <strong>Bethel</strong> і плакаць і сядзець там да|[Д.с.] твар Існы і <strong>fast</strong> у|[Тв.с.] [арт.] дзень [арт.] ён (ажно) да [арт.] вечар і падымацца <strong>burnt-offering</strong> і <strong>final offer</strong> да|[Д.с.] твар Існы 
+Judges 20:27 (7083) і пытацца сын Ісраэль у|[Тв.с.] Існы і там <strong>ark</strong> дамова [арт.] Бог у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] 
+Judges 20:28 (7084) і <strong>Phinehas</strong> сын <strong>Eleazar</strong> сын <strong>Aaron</strong> стаяць да|[Д.с.] твар у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] да|[Д.с.] казаць ці дадаць яшчэ да|[Д.с.] выйсці да|[Д.с.] [арт.] вайна з сын Бін’ямін брат калі[зл.] <strong>cease</strong> і казаць Існы падымацца бо|што <strong>next day</strong> даць у|[Тв.с.] рука 
+Judges 20:29 (7085) і класці|ставіць Ісраэль <strong>lie in ambush</strong> да [арт.] <strong>Gibeah</strong> вакол פ
+Judges 20:30 (7086) і падымацца сын Ісраэль да сын Бін’ямін у|[Тв.с.] [арт.] дзень [арт.] <strong>third</strong> і <strong>arrange</strong> да [арт.] <strong>Gibeah</strong> як <strong>foot</strong> у|[Тв.с.] <strong>foot</strong> 
+Judges 20:31 (7087) і выйсці сын Бін’ямін да|[Д.с.] <strong>encounter</strong> [арт.] народ <strong>pull off</strong> з [арт.] горад і <strong>defile</strong> да|[Д.с.] <strong>strike</strong> з [арт.] народ <strong>pierced</strong> як <strong>foot</strong> у|[Тв.с.] <strong>foot</strong> у|[Тв.с.] [арт.] <strong>highway</strong> які адзін падымацца <strong>Bethel</strong> і адзін <strong>Gibeah</strong> у|[Тв.с.] [арт.] поле як <strong>three</strong> чалавек (1) у|[Тв.с.] Ісраэль 
+Judges 20:32 (7088) і казаць сын Бін’ямін <strong>hurt</strong> яны [ж.] да|[Д.с.] твар як у|[Тв.с.] [арт.] першы і сын Ісраэль казаць <strong>flee</strong> і <strong>pull off</strong> з [арт.] горад да [арт.] <strong>highway</strong> 
+Judges 20:33 (7089) і цэлы|увесь чалавек (1) Ісраэль устаць з месца і <strong>arrange</strong> у|[Тв.с.] <strong>Baal Tamar</strong> і <strong>lie in ambush</strong> Ісраэль <strong>burst forth</strong> з месца з <strong>vicinity</strong> <strong>Geba</strong> 
+Judges 20:34 (7090) і прыйсці з перад да|[Д.с.] [арт.] <strong>Gibeah</strong> дзесяць тысяча чалавек (1) <strong>examine</strong> з цэлы|увесь Ісраэль і [арт.] вайна <strong>be heavy</strong> і яны [ж.] не ведаць [+неад.]|займацца сэксам [+адуш.] бо|што <strong>touch</strong> на [арт.] дрэнны פ
+Judges 20:35 (7091) і <strong>hurt</strong> Існы [В.с.] Бін’ямін да|[Д.с.] твар Ісраэль і <strong>destroy</strong> сын Ісраэль у|[Тв.с.] Бін’ямін у|[Тв.с.] [арт.] дзень [арт.] ён <strong>twenty</strong> і <strong>five</strong> тысяча і сотня чалавек (1) цэлы|увесь гэтыя <strong>draw</strong> <strong>dagger</strong> 
+Judges 20:36 (7092) і бачыць сын Бін’ямін бо|што <strong>hurt</strong> і даць чалавек (1) Ісраэль месца да|[Д.с.] Бін’ямін бо|што <strong>trust</strong> да [арт.] <strong>lie in ambush</strong> які класці|ставіць да [арт.] <strong>Gibeah</strong> 
+Judges 20:37 (7093) і [арт.] <strong>lie in ambush</strong> <strong>make haste</strong> і <strong>strip off</strong> да [арт.] <strong>Gibeah</strong> і <strong>draw</strong> [арт.] <strong>lie in ambush</strong> і <strong>strike</strong> [В.с.] цэлы|увесь [арт.] горад да|[Д.с.] рот <strong>dagger</strong> 
+Judges 20:38 (7094) і [арт.] <strong>appointment</strong> быць да|[Д.с.] чалавек (1) Ісраэль з [арт.] <strong>lie in ambush</strong> шмат да|[Д.с.] падымацца <strong>lifting up</strong> [арт.] <strong>smoke</strong> з [арт.] горад 
+Judges 20:39 (7095) і <strong>turn</strong> чалавек (1) Ісраэль у|[Тв.с.] [арт.] вайна і Бін’ямін <strong>defile</strong> да|[Д.с.] <strong>strike</strong> <strong>pierced</strong> у|[Тв.с.] чалавек (1) Ісраэль як <strong>three</strong> чалавек (1) бо|што казаць <strong>only</strong> <strong>hurt</strong> <strong>hurt</strong> ён да|[Д.с.] твар як [арт.] вайна [арт.] першы 
+Judges 20:40 (7096) і [арт.] <strong>lifting up</strong> <strong>defile</strong> да|[Д.с.] падымацца з [арт.] горад <strong>pillar</strong> <strong>smoke</strong> і <strong>turn</strong> Бін’ямін пасля і вось падымацца <strong>entire</strong> [арт.] горад [арт.] неба 
+Judges 20:41 (7097) і чалавек (1) Ісраэль <strong>turn</strong> і <strong>disturb</strong> чалавек (1) Бін’ямін бо|што бачыць бо|што <strong>touch</strong> на [арт.] дрэнны 
+Judges 20:42 (7098) і <strong>turn</strong> да|[Д.с.] твар чалавек (1) Ісраэль да шлях [арт.] <strong>desert</strong> і [арт.] вайна <strong>cling, cleave to</strong> і які з [арт.] горад <strong>destroy</strong> [В.с.] у|[Тв.с.] <strong>midst</strong> 
+Judges 20:43 (7099) <strong>surround</strong> [В.с.] Бін’ямін <strong>pursue</strong> <strong>resting place</strong> <strong>tread</strong> (ажно) да <strong>straightness</strong> [арт.] <strong>Gibeah</strong> з <strong>sunrise</strong> сонца 
+Judges 20:44 (7100) і падаць з Бін’ямін восем <strong>-teen</strong> тысяча чалавек (1) [В.с.] цэлы|увесь гэтыя чалавек (1) моц 
+Judges 20:45 (7101) і <strong>turn</strong> і <strong>flee</strong> [арт.] <strong>desert</strong> да скала [арт.] <strong>Rimmon</strong> і <strong>deal with</strong> у|[Тв.с.] [арт.] <strong>highway</strong> <strong>five</strong> тысяча чалавек (1) і <strong>cling, cleave to</strong> пасля (ажно) да <strong>Gidom</strong> і <strong>strike</strong> з тысяча чалавек (1) 
+Judges 20:46 (7102) і быць цэлы|увесь [арт.] падаць з Бін’ямін <strong>twenty</strong> і <strong>five</strong> тысяча чалавек (1) <strong>draw</strong> <strong>dagger</strong> у|[Тв.с.] [арт.] дзень [арт.] ён [В.с.] цэлы|увесь гэтыя чалавек (1) моц 
+Judges 20:47 (7103) і <strong>turn</strong> і <strong>flee</strong> [арт.] <strong>desert</strong> да скала [арт.] <strong>Rimmon</strong> <strong>six</strong> сотня чалавек (1) і сядзець у|[Тв.с.] скала <strong>Rimmon</strong> <strong>four</strong> <strong>month</strong> 
+Judges 20:48 (7104) і чалавек (1) Ісраэль вяртацца да сын Бін’ямін і <strong>strike</strong> да|[Д.с.] рот <strong>dagger</strong> з горад <strong>sound spot</strong> (ажно) да звяры (ажно) да цэлы|увесь [арт.] знайсці таксама|нават цэлы|увесь [арт.] горад [арт.] знайсці слаць у|[Тв.с.] [арт.] агонь פ
+Judges 21:1 (7105) і чалавек (1) Ісраэль <strong>swear</strong> у|[Тв.с.] [арт.] <strong>Mizpah</strong> да|[Д.с.] казаць чалавек (1) з не даць дачка да|[Д.с.] Бін’ямін да|[Д.с.] жанчына 
+Judges 21:2 (7106) і прыйсці [арт.] народ <strong>Bethel</strong> і сядзець там (ажно) да [арт.] вечар да|[Д.с.] твар [арт.] Бог і падняць голас і плакаць <strong>weeping</strong> вялікі 
+Judges 21:3 (7107) і казаць чаму Існы Бог Ісраэль быць <strong>this</strong> у|[Тв.с.] Ісраэль да|[Д.с.] <strong>miss</strong> [арт.] дзень з Ісраэль <strong>rod</strong> адзін 
+Judges 21:4 (7108) і быць з <strong>next day</strong> і <strong>rise early</strong> [арт.] народ і будаваць там <strong>altar</strong> і падымацца <strong>burnt-offering</strong> і <strong>final offer</strong> פ
+Judges 21:5 (7109) і казаць сын Ісраэль хто які не падымацца у|[Тв.с.] [арт.] <strong>assembly</strong> з цэлы|увесь <strong>rod</strong> Ісраэль да Існы бо|што [арт.] <strong>oath</strong> [арт.] вялікі быць да|[Д.с.] які не падымацца да Існы [арт.] <strong>Mizpah</strong> да|[Д.с.] казаць паміраць паміраць 
+Judges 21:6 (7110) і <strong>repent, console</strong> сын Ісраэль да Бін’ямін брат і казаць <strong>cut off</strong> [арт.] дзень <strong>rod</strong> адзін з Ісраэль 
+Judges 21:7 (7111) што рабіць да|[Д.с.] да|[Д.с.] [арт.] <strong>remain</strong> да|[Д.с.] жанчына і <strong>we</strong> <strong>swear</strong> у|[Тв.с.] Існы да|[Д.с.] <strong>failure</strong> даць да|[Д.с.] з дачка да|[Д.с.] жанчына 
+Judges 21:8 (7112) і казаць хто адзін з <strong>rod</strong> Ісраэль які не падымацца да Існы [арт.] <strong>Mizpah</strong> і вось не прыйсці чалавек (1) да [арт.] <strong>camp</strong> з <strong>Jabesh</strong> Гіл’ад да [арт.] <strong>assembly</strong> 
+Judges 21:9 (7113) і <strong>miss</strong> [арт.] народ і вось няма там чалавек (1) з сядзець <strong>Jabesh</strong> Гіл’ад 
+Judges 21:10 (7114) і слаць там [арт.] <strong>gathering</strong> два <strong>-teen</strong> тысяча чалавек (1) з сын [арт.] моц і <strong>command</strong> [В.с.] да|[Д.с.] казаць хадзіць і <strong>strike</strong> [В.с.] сядзець <strong>Jabesh</strong> Гіл’ад да|[Д.с.] рот <strong>dagger</strong> і [арт.] жанчына і [арт.] <strong>[those unable to march]</strong> 
+Judges 21:11 (7115) і гэты [арт.] слова|рэч які рабіць цэлы|увесь <strong>male</strong> і цэлы|увесь жанчына ведаць [+неад.]|займацца сэксам [+адуш.] <strong>couch</strong> <strong>male</strong> <strong>consecrate</strong> 
+Judges 21:12 (7116) і знайсці з сядзець <strong>Jabesh</strong> Гіл’ад <strong>four</strong> сотня <strong>girl</strong> <strong>virgin</strong> які не ведаць [+неад.]|займацца сэксам [+адуш.] чалавек (1) да|[Д.с.] <strong>couch</strong> <strong>male</strong> і прыйсці [В.с.] да [арт.] <strong>camp</strong> <strong>Shiloh</strong> які у|[Тв.с.] зямля <strong>Canaan</strong> ס
+Judges 21:13 (7117) і слаць цэлы|увесь [арт.] <strong>gathering</strong> і гаварыць да сын Бін’ямін які у|[Тв.с.] скала <strong>Rimmon</strong> і зваць да|[Д.с.] згода 
+Judges 21:14 (7118) і вяртацца Бін’ямін у|[Тв.с.] [арт.] момант [арт.] яна і даць да|[Д.с.] [арт.] жанчына які жыць з жанчына <strong>Jabesh</strong> Гіл’ад і не знайсці да|[Д.с.] так 
+Judges 21:15 (7119) і [арт.] народ <strong>repent, console</strong> да|[Д.с.] Бін’ямін бо|што рабіць Існы <strong>breach</strong> у|[Тв.с.] <strong>rod</strong> Ісраэль 
+Judges 21:16 (7120) і казаць старадаўні [арт.] <strong>gathering</strong> што рабіць да|[Д.с.] [арт.] <strong>remain</strong> да|[Д.с.] жанчына бо|што <strong>destroy</strong> з Бін’ямін жанчына 
+Judges 21:17 (7121) і казаць <strong>possession</strong> збаўленне да|[Д.с.] Бін’ямін і не <strong>wipe</strong> <strong>rod</strong> з Ісраэль 
+Judges 21:18 (7122) і <strong>we</strong> не магчы да|[Д.с.] даць да|[Д.с.] жанчына з дачка бо|што <strong>swear</strong> сын Ісраэль да|[Д.с.] казаць <strong>curse</strong> даць жанчына да|[Д.с.] Бін’ямін ס
+Judges 21:19 (7123) і казаць вось <strong>festival</strong> Існы у|[Тв.с.] <strong>Shiloh</strong> з дзень дзень які з поўнач да|[Д.с.] <strong>Bethel</strong> <strong>sunrise</strong> [арт.] сонца да|[Д.с.] <strong>highway</strong> [арт.] падымацца з <strong>Bethel</strong> <strong>Shechem</strong> і з поўдзеь да|[Д.с.] <strong>Lebonah</strong> 
+Judges 21:20 (7124) і <strong>command</strong> [В.с.] сын Бін’ямін да|[Д.с.] казаць хадзіць і <strong>lie in ambush</strong> у|[Тв.с.] [арт.] <strong>vineyard</strong> 
+Judges 21:21 (7125) і бачыць і вось калі[зл.] выйсці дачка <strong>Shiloh</strong> да|[Д.с.] <strong>dance</strong> у|[Тв.с.] [арт.] <strong>round dance</strong> і выйсці з [арт.] <strong>vineyard</strong> і <strong>seize</strong> да|[Д.с.] чалавек (1) жанчына з дачка <strong>Shiloh</strong> і хадзіць зямля Бін’ямін 
+Judges 21:22 (7126) і быць бо|што прыйсці бацька ці брат да|[Д.с.] <strong>contend</strong> да і казаць да <strong>favour</strong> [В.с.] бо|што не браць чалавек (1) жанчына у|[Тв.с.] [арт.] вайна бо|што не <strong>you</strong> даць да|[Д.с.] як [арт.] момант <strong>do wrong</strong> ס
+Judges 21:23 (7127) і рабіць так сын Бін’ямін і падняць жанчына да|[Д.с.] лік з [арт.] <strong>dance</strong> які <strong>tear away</strong> і хадзіць і вяртацца да уласнасць і будаваць [В.с.] [арт.] горад і сядзець у|[Тв.с.] 
+Judges 21:24 (7128) і хадзіць з там сын Ісраэль у|[Тв.с.] [арт.] момант [арт.] яна чалавек (1) да|[Д.с.] <strong>rod</strong> і да|[Д.с.] <strong>clan</strong> і выйсці з там чалавек (1) да|[Д.с.] уласнасць 
+Judges 21:25 (7129) у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] няма цар у|[Тв.с.] Ісраэль чалавек (1) [арт.] <strong>right</strong> у|[Тв.с.] вока рабіць 

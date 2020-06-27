@@ -1,658 +1,658 @@
-1:1 (5854) 
-1:2 (5855) 
-1:3 (5856) 
-1:4 (5857) 
-1:5 (5858) 
-1:6 (5859) 
-1:7 (5860) 
-1:8 (5861) 
-1:9 (5862) פ
-1:10 (5863) 
-1:11 (5864) ס
-1:12 (5865) 
-1:13 (5866) 
-1:14 (5867) 
-1:15 (5868) 
-1:16 (5869) 
-1:17 (5870) 
-1:18 (5871) פ
-2:1 (5872) 
-2:2 (5873) 
-2:3 (5874) 
-2:4 (5875) 
-2:5 (5876) 
-2:6 (5877) 
-2:7 (5878) 
-2:8 (5879) 
-2:9 (5880) 
-2:10 (5881) 
-2:11 (5882) 
-2:12 (5883) 
-2:13 (5884) 
-2:14 (5885) 
-2:15 (5886) 
-2:16 (5887) 
-2:17 (5888) 
-2:18 (5889) 
-2:19 (5890) 
-2:20 (5891) 
-2:21 (5892) 
-2:22 (5893) 
-2:23 (5894) 
-2:24 (5895) ס
-3:1 (5896) 
-3:2 (5897) 
-3:3 (5898) 
-3:4 (5899) ס
-3:5 (5900) 
-3:6 (5901) ס
-3:7 (5902) 
-3:8 (5903) פ
-3:9 (5904) 
-3:10 (5905) 
-3:11 (5906) 
-3:12 (5907) 
-3:13 (5908) 
-3:14 (5909) 
-3:15 (5910) 
-3:16 (5911) 
-3:17 (5912) 
-4:1 (5913) 
-4:2 (5914) 
-4:3 (5915) ס
-4:4 (5916) 
-4:5 (5917) 
-4:6 (5918) 
-4:7 (5919) 
-4:8 (5920) 
-4:9 (5921) 
-4:10 (5922) 
-4:11 (5923) 
-4:12 (5924) 
-4:13 (5925) ס
-4:14 (5926) פ
-4:15 (5927) 
-4:16 (5928) 
-4:17 (5929) 
-4:18 (5930) 
-4:19 (5931) 
-4:20 (5932) 
-4:21 (5933) 
-4:22 (5934) 
-4:23 (5935) 
-4:24 (5936) ס
-5:1 (5937) ס
-5:2 (5938) 
-5:3 (5939) 
-5:4 (5940) 
-5:5 (5941) 
-5:6 (5942) 
-5:7 (5943) 
-5:8 (5944) פ
-5:9 (5945) 
-5:10 (5946) 
-5:11 (5947) 
-5:12 (5948) ס
-5:13 (5949) 
-5:14 (5950) 
-5:15 (5951) 
-6:1 (5952) ס
-6:2 (5953) 
-6:3 (5954) 
-6:4 (5955) 
-6:5 (5956) 
-6:6 (5957) 
-6:7 (5958) 
-6:8 (5959) 
-6:9 (5960) 
-6:10 (5961) 
-6:11 (5962) פ
-6:12 (5963) 
-6:13 (5964) 
-6:14 (5965) 
-6:15 (5966) 
-6:16 (5967) 
-6:17 (5968) 
-6:18 (5969) 
-6:19 (5970) 
-6:20 (5971) 
-6:21 (5972) 
-6:22 (5973) 
-6:23 (5974) 
-6:24 (5975) 
-6:25 (5976) פ
-6:26 (5977) 
-6:27 (5978) 
-7:1 (5979) 
-7:2 (5980) 
-7:3 (5981) 
-7:4 (5982) 
-7:5 (5983) 
-7:6 (5984) 
-7:7 (5985) 
-7:8 (5986) 
-7:9 (5987) ס
-7:10 (5988) 
-7:11 (5989) 
-7:12 (5990) 
-7:13 (5991) 
-7:14 (5992) 
-7:15 (5993) 
-7:16 (5994) 
-7:17 (5995) 
-7:18 (5996) 
-7:19 (5997) 
-7:20 (5998) 
-7:21 (5999) 
-7:22 (6000) 
-7:23 (6001) 
-7:24 (6002) 
-7:25 (6003) 
-7:26 (6004) פ
-8:1 (6005) 
-8:2 (6006) 
-8:3 (6007) 
-8:4 (6008) 
-8:5 (6009) 
-8:6 (6010) 
-8:7 (6011) 
-8:8 (6012) 
-8:9 (6013) 
-8:10 (6014) 
-8:11 (6015) 
-8:12 (6016) 
-8:13 (6017) 
-8:14 (6018) 
-8:15 (6019) 
-8:16 (6020) 
-8:17 (6021) פ
-8:18 (6022) 
-8:19 (6023) 
-8:20 (6024) 
-8:21 (6025) 
-8:22 (6026) 
-8:23 (6027) 
-8:24 (6028) 
-8:25 (6029) 
-8:26 (6030) 
-8:27 (6031) 
-8:28 (6032) 
-8:29 (6033) פ
-8:30 (6034) 
-8:31 (6035) 
-8:32 (6036) 
-8:33 (6037) 
-8:34 (6038) 
-8:35 (6039) פ
-9:1 (6040) 
-9:2 (6041) פ
-9:3 (6042) 
-9:4 (6043) 
-9:5 (6044) 
-9:6 (6045) 
-9:7 (6046) 
-9:8 (6047) 
-9:9 (6048) 
-9:10 (6049) 
-9:11 (6050) 
-9:12 (6051) 
-9:13 (6052) 
-9:14 (6053) 
-9:15 (6054) 
-9:16 (6055) 
-9:17 (6056) 
-9:18 (6057) 
-9:19 (6058) 
-9:20 (6059) 
-9:21 (6060) 
-9:22 (6061) 
-9:23 (6062) 
-9:24 (6063) 
-9:25 (6064) 
-9:26 (6065) 
-9:27 (6066) פ
-10:1 (6067) 
-10:2 (6068) 
-10:3 (6069) 
-10:4 (6070) 
-10:5 (6071) 
-10:6 (6072) 
-10:7 (6073) פ
-10:8 (6074) 
-10:9 (6075) 
-10:10 (6076) 
-10:11 (6077) ס
-10:12 (6078) 
-10:13 (6079) 
-10:14 (6080) פ
-10:15 (6081) 
-10:16 (6082) 
-10:17 (6083) 
-10:18 (6084) 
-10:19 (6085) 
-10:20 (6086) 
-10:21 (6087) 
-10:22 (6088) 
-10:23 (6089) 
-10:24 (6090) 
-10:25 (6091) 
-10:26 (6092) 
-10:27 (6093) פ
-10:28 (6094) 
-10:29 (6095) 
-10:30 (6096) ס
-10:31 (6097) 
-10:32 (6098) פ
-10:33 (6099) 
-10:34 (6100) 
-10:35 (6101) פ
-10:36 (6102) 
-10:37 (6103) ס
-10:38 (6104) 
-10:39 (6105) 
-10:40 (6106) 
-10:41 (6107) 
-10:42 (6108) 
-10:43 (6109) פ
-11:1 (6110) 
-11:2 (6111) 
-11:3 (6112) 
-11:4 (6113) 
-11:5 (6114) פ
-11:6 (6115) 
-11:7 (6116) 
-11:8 (6117) 
-11:9 (6118) ס
-11:10 (6119) 
-11:11 (6120) 
-11:12 (6121) 
-11:13 (6122) 
-11:14 (6123) 
-11:15 (6124) 
-11:16 (6125) 
-11:17 (6126) 
-11:18 (6127) 
-11:19 (6128) 
-11:20 (6129) ס
-11:21 (6130) 
-11:22 (6131) 
-11:23 (6132) פ
-12:1 (6133) 
-12:2 (6134) 
-12:3 (6135) 
-12:4 (6136) 
-12:5 (6137) 
-12:6 (6138) ס
-12:7 (6139) 
-12:8 (6140) פ
-12:9 (6141) 
-12:10 (6142) 
-12:11 (6143) 
-12:12 (6144) 
-12:13 (6145) 
-12:14 (6146) 
-12:15 (6147) 
-12:16 (6148) 
-12:17 (6149) 
-12:18 (6150) 
-12:19 (6151) 
-12:20 (6152) 
-12:21 (6153) 
-12:22 (6154) 
-12:23 (6155) 
-12:24 (6156) פ
-13:1 (6157) 
-13:2 (6158) 
-13:3 (6159) 
-13:4 (6160) 
-13:5 (6161) 
-13:6 (6162) 
-13:7 (6163) 
-13:8 (6164) 
-13:9 (6165) 
-13:10 (6166) 
-13:11 (6167) 
-13:12 (6168) 
-13:13 (6169) 
-13:14 (6170) ס
-13:15 (6171) 
-13:16 (6172) 
-13:17 (6173) 
-13:18 (6174) 
-13:19 (6175) 
-13:20 (6176) 
-13:21 (6177) 
-13:22 (6178) 
-13:23 (6179) פ
-13:24 (6180) 
-13:25 (6181) 
-13:26 (6182) 
-13:27 (6183) 
-13:28 (6184) 
-13:29 (6185) 
-13:30 (6186) 
-13:31 (6187) 
-13:32 (6188) ס
-13:33 (6189) 
-14:1 (6190) 
-14:2 (6191) 
-14:3 (6192) 
-14:4 (6193) 
-14:5 (6194) פ
-14:6 (6195) 
-14:7 (6196) 
-14:8 (6197) 
-14:9 (6198) 
-14:10 (6199) 
-14:11 (6200) 
-14:12 (6201) 
-14:13 (6202) 
-14:14 (6203) 
-14:15 (6204) פ
-15:1 (6205) 
-15:2 (6206) 
-15:3 (6207) 
-15:4 (6208) 
-15:5 (6209) 
-15:6 (6210) 
-15:7 (6211) 
-15:8 (6212) 
-15:9 (6213) 
-15:10 (6214) 
-15:11 (6215) 
-15:12 (6216) 
-15:13 (6217) 
-15:14 (6218) 
-15:15 (6219) 
-15:16 (6220) 
-15:17 (6221) 
-15:18 (6222) 
-15:19 (6223) פ
-15:20 (6224) 
-15:21 (6225) 
-15:22 (6226) 
-15:23 (6227) 
-15:24 (6228) 
-15:25 (6229) 
-15:26 (6230) 
-15:27 (6231) 
-15:28 (6232) 
-15:29 (6233) 
-15:30 (6234) 
-15:31 (6235) 
-15:32 (6236) ס
-15:33 (6237) 
-15:34 (6238) 
-15:35 (6239) 
-15:36 (6240) 
-15:37 (6241) 
-15:38 (6242) 
-15:39 (6243) 
-15:40 (6244) 
-15:41 (6245) ס
-15:42 (6246) 
-15:43 (6247) 
-15:44 (6248) 
-15:45 (6249) 
-15:46 (6250) 
-15:47 (6251) ס
-15:48 (6252) 
-15:49 (6253) 
-15:50 (6254) 
-15:51 (6255) 
-15:52 (6256) 
-15:53 (6257) 
-15:54 (6258) ס
-15:55 (6259) 
-15:56 (6260) 
-15:57 (6261) 
-15:58 (6262) 
-15:59 (6263) 
-15:60 (6264) ס
-15:61 (6265) 
-15:62 (6266) 
-15:63 (6267) פ
-16:1 (6268) 
-16:2 (6269) 
-16:3 (6270) 
-16:4 (6271) 
-16:5 (6272) 
-16:6 (6273) 
-16:7 (6274) 
-16:8 (6275) 
-16:9 (6276) 
-16:10 (6277) פ
-17:1 (6278) 
-17:2 (6279) 
-17:3 (6280) 
-17:4 (6281) 
-17:5 (6282) 
-17:6 (6283) 
-17:7 (6284) 
-17:8 (6285) 
-17:9 (6286) 
-17:10 (6287) 
-17:11 (6288) 
-17:12 (6289) 
-17:13 (6290) ס
-17:14 (6291) 
-17:15 (6292) 
-17:16 (6293) 
-17:17 (6294) 
-17:18 (6295) פ
-18:1 (6296) 
-18:2 (6297) 
-18:3 (6298) 
-18:4 (6299) 
-18:5 (6300) 
-18:6 (6301) 
-18:7 (6302) 
-18:8 (6303) 
-18:9 (6304) 
-18:10 (6305) פ
-18:11 (6306) 
-18:12 (6307) 
-18:13 (6308) 
-18:14 (6309) 
-18:15 (6310) 
-18:16 (6311) 
-18:17 (6312) 
-18:18 (6313) 
-18:19 (6314) 
-18:20 (6315) 
-18:21 (6316) 
-18:22 (6317) 
-18:23 (6318) 
-18:24 (6319) 
-18:25 (6320) 
-18:26 (6321) 
-18:27 (6322) 
-18:28 (6323) פ
-19:1 (6324) 
-19:2 (6325) 
-19:3 (6326) 
-19:4 (6327) 
-19:5 (6328) 
-19:6 (6329) 
-19:7 (6330) 
-19:8 (6331) 
-19:9 (6332) פ
-19:10 (6333) 
-19:11 (6334) 
-19:12 (6335) 
-19:13 (6336) 
-19:14 (6337) 
-19:15 (6338) 
-19:16 (6339) פ
-19:17 (6340) 
-19:18 (6341) 
-19:19 (6342) 
-19:20 (6343) 
-19:21 (6344) 
-19:22 (6345) 
-19:23 (6346) פ
-19:24 (6347) 
-19:25 (6348) 
-19:26 (6349) 
-19:27 (6350) 
-19:28 (6351) 
-19:29 (6352) 
-19:30 (6353) 
-19:31 (6354) פ
-19:32 (6355) 
-19:33 (6356) 
-19:34 (6357) 
-19:35 (6358) 
-19:36 (6359) 
-19:37 (6360) 
-19:38 (6361) 
-19:39 (6362) פ
-19:40 (6363) 
-19:41 (6364) 
-19:42 (6365) 
-19:43 (6366) 
-19:44 (6367) 
-19:45 (6368) 
-19:46 (6369) 
-19:47 (6370) 
-19:48 (6371) פ
-19:49 (6372) 
-19:50 (6373) 
-19:51 (6374) פ
-20:1 (6375) 
-20:2 (6376) 
-20:3 (6377) 
-20:4 (6378) 
-20:5 (6379) 
-20:6 (6380) 
-20:7 (6381) 
-20:8 (6382) 
-20:9 (6383) פ
-21:1 (6384) 
-21:2 (6385) 
-21:3 (6386) 
-21:4 (6387) ס
-21:5 (6388) ס
-21:6 (6389) ס
-21:7 (6390) 
-21:8 (6391) פ
-21:9 (6392) 
-21:10 (6393) 
-21:11 (6394) 
-21:12 (6395) ס
-21:13 (6396) 
-21:14 (6397) 
-21:15 (6398) 
-21:16 (6399) פ
-21:17 (6400) 
-21:18 (6401) 
-21:19 (6402) ס
-21:20 (6403) 
-21:21 (6404) 
-21:22 (6405) ס
-21:23 (6406) 
-21:24 (6407) ס
-21:25 (6408) 
-21:26 (6409) ס
-21:27 (6410) ס
-21:28 (6411) 
-21:29 (6412) ס
-21:30 (6413) 
-21:31 (6414) ס
-21:32 (6415) 
-21:33 (6416) ס
-21:34 (6417) 
-21:35 (6418) 
-21:36 (6419) 
-21:37 (6420) ס
-21:38 (6421) 
-21:39 (6422) 
-21:40 (6423) 
-21:41 (6424) 
-21:42 (6425) ס
-21:43 (6426) 
-21:44 (6427) 
-21:45 (6428) פ
-22:1 (6429) 
-22:2 (6430) 
-22:3 (6431) 
-22:4 (6432) 
-22:5 (6433) 
-22:6 (6434) ס
-22:7 (6435) 
-22:8 (6436) פ
-22:9 (6437) 
-22:10 (6438) 
-22:11 (6439) 
-22:12 (6440) פ
-22:13 (6441) 
-22:14 (6442) 
-22:15 (6443) 
-22:16 (6444) 
-22:17 (6445) 
-22:18 (6446) 
-22:19 (6447) 
-22:20 (6448) פ
-22:21 (6449) 
-22:22 (6450) 
-22:23 (6451) 
-22:24 (6452) 
-22:25 (6453) 
-22:26 (6454) 
-22:27 (6455) 
-22:28 (6456) 
-22:29 (6457) פ
-22:30 (6458) 
-22:31 (6459) 
-22:32 (6460) 
-22:33 (6461) 
-22:34 (6462) פ
-23:1 (6463) 
-23:2 (6464) 
-23:3 (6465) 
-23:4 (6466) 
-23:5 (6467) 
-23:6 (6468) 
-23:7 (6469) 
-23:8 (6470) 
-23:9 (6471) 
-23:10 (6472) 
-23:11 (6473) 
-23:12 (6474) 
-23:13 (6475) 
-23:14 (6476) 
-23:15 (6477) 
-23:16 (6478) פ
-24:1 (6479) 
-24:2 (6480) 
-24:3 (6481) 
-24:4 (6482) 
-24:5 (6483) 
-24:6 (6484) 
-24:7 (6485) 
-24:8 (6486) 
-24:9 (6487) 
-24:10 (6488) 
-24:11 (6489) 
-24:12 (6490) 
-24:13 (6491) 
-24:14 (6492) 
-24:15 (6493) פ
-24:16 (6494) 
-24:17 (6495) 
-24:18 (6496) ס
-24:19 (6497) 
-24:20 (6498) 
-24:21 (6499) 
-24:22 (6500) 
-24:23 (6501) 
-24:24 (6502) 
-24:25 (6503) 
-24:26 (6504) ס
-24:27 (6505) 
-24:28 (6506) פ
-24:29 (6507) 
-24:30 (6508) 
-24:31 (6509) 
-24:32 (6510) 
-24:33 (6511) 
+Joshua 1:1 (5854) і быць пасля смерць Майсей слуга Існы і казаць Існы да <strong>Joshua</strong> сын <strong>Nun</strong> <strong>serve</strong> Майсей да|[Д.с.] казаць 
+Joshua 1:2 (5855) Майсей слуга паміраць і <strong>now</strong> устаць перайсці [В.с.] [арт.] <strong>Jordan</strong> [арт.] гэты ты[м.] і цэлы|увесь [арт.] народ [арт.] гэты да [арт.] зямля які <strong>i</strong> даць да|[Д.с.] да|[Д.с.] сын Ісраэль 
+Joshua 1:3 (5856) цэлы|увесь месца які <strong>tread</strong> далонь нага у|[Тв.с.] да|[Д.с.] даць як які гаварыць да Майсей 
+Joshua 1:4 (5857) з [арт.] <strong>desert</strong> і [арт.] <strong>Lebanon</strong> [арт.] гэты і (ажно) да [арт.] <strong>stream</strong> [арт.] вялікі <strong>stream</strong> <strong>Euphrates</strong> цэлы|увесь зямля [арт.] <strong>Hittite</strong> і (ажно) да [арт.] мора [арт.] вялікі <strong>entrance</strong> [арт.] сонца быць мяжа 
+Joshua 1:5 (5858) не <strong>stand</strong> чалавек (1) да|[Д.с.] твар цэлы|увесь дзень <strong>life</strong> як які быць з Майсей быць з не <strong>be slack</strong> і не <strong>leave</strong> 
+Joshua 1:6 (5859) <strong>be strong</strong> і <strong>be strong</strong> бо|што ты[м.] <strong>take possession</strong> [В.с.] [арт.] народ [арт.] гэты [В.с.] [арт.] зямля які <strong>swear</strong> да|[Д.с.] бацька да|[Д.с.] даць да|[Д.с.] 
+Joshua 1:7 (5860) <strong>only</strong> <strong>be strong</strong> і <strong>be strong</strong> вельмі да|[Д.с.] захоўваць да|[Д.с.] рабіць як цэлы|увесь [арт.] <strong>instruction</strong> які <strong>command</strong> Майсей слуга не [+заг.лад] збочыць з правая частка і левая частка з-за <strong>prosper</strong> у|[Тв.с.] цэлы|увесь які хадзіць 
+Joshua 1:8 (5861) не <strong>depart</strong> ліст [арт.] <strong>instruction</strong> [арт.] гэты з рот і <strong>mutter</strong> у|[Тв.с.] <strong>by day</strong> і ноч з-за захоўваць да|[Д.с.] рабіць як цэлы|увесь [арт.] пісанне у|[Тв.с.] бо|што тады <strong>be strong</strong> [В.с.] шлях і тады <strong>prosper</strong> 
+Joshua 1:9 (5862) ці не <strong>command</strong> <strong>be strong</strong> і <strong>be strong</strong> не [+заг.лад] <strong>tremble</strong> і не [+заг.лад] пажахацца бо|што з Існы Бог у|[Тв.с.] цэлы|увесь які хадзіць פ
+Joshua 1:10 (5863) і <strong>command</strong> <strong>Joshua</strong> [В.с.] <strong>register</strong> [арт.] народ да|[Д.с.] казаць 
+Joshua 1:11 (5864) перайсці у|[Тв.с.] <strong>interior</strong> [арт.] <strong>camp</strong> і <strong>command</strong> [В.с.] [арт.] народ да|[Д.с.] казаць <strong>be firm</strong> да|[Д.с.] <strong>provision</strong> бо|што у|[Тв.с.] яшчэ <strong>three</strong> дзень <strong>you</strong> перайсці [В.с.] [арт.] <strong>Jordan</strong> [арт.] гэты да|[Д.с.] прыйсці да|[Д.с.] заўладаць [В.с.] [арт.] зямля які Існы Бог даць да|[Д.с.] да|[Д.с.] заўладаць ס
+Joshua 1:12 (5865) і да|[Д.с.] [арт.] <strong>Reubenite</strong> і да|[Д.с.] [арт.] <strong>Gadite</strong> і да|[Д.с.] <strong>half</strong> <strong>rod</strong> [арт.] <strong>Manasseh</strong> казаць <strong>Joshua</strong> да|[Д.с.] казаць 
+Joshua 1:13 (5866) помніць [В.с.] [арт.] слова|рэч які <strong>command</strong> [В.с.] Майсей слуга Існы да|[Д.с.] казаць Існы Бог асесць да|[Д.с.] і даць да|[Д.с.] [В.с.] [арт.] зямля [арт.] <strong>this</strong> 
+Joshua 1:14 (5867) жанчына <strong>[those unable to march]</strong> і набыццё сядзець у|[Тв.с.] [арт.] зямля які даць да|[Д.с.] Майсей у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> і <strong>you</strong> перайсці <strong>array</strong> да|[Д.с.] твар брат цэлы|увесь мужны|моцны [арт.] моц і <strong>help</strong> [В.с.] 
+Joshua 1:15 (5868) (ажно) да які асесць Існы да|[Д.с.] брат як і заўладаць таксама|нават яны [В.с.] [арт.] зямля які Існы Бог даць да|[Д.с.] і вяртацца да|[Д.с.] зямля <strong>possession</strong> і заўладаць [В.с.] які даць да|[Д.с.] Майсей слуга Існы у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> <strong>sunrise</strong> [арт.] сонца 
+Joshua 1:16 (5869) і адказаць [В.с.] <strong>Joshua</strong> да|[Д.с.] казаць цэлы|увесь які <strong>command</strong> рабіць і да цэлы|увесь які слаць хадзіць 
+Joshua 1:17 (5870) як цэлы|увесь які чуць да Майсей так чуць да <strong>only</strong> быць Існы Бог з як які быць з Майсей 
+Joshua 1:18 (5871) цэлы|увесь чалавек (1) які <strong>rebel</strong> [В.с.] рот і не чуць [В.с.] слова|рэч да|[Д.с.] цэлы|увесь які <strong>command</strong> паміраць <strong>only</strong> <strong>be strong</strong> і <strong>be strong</strong> פ
+Joshua 2:1 (5872) і слаць <strong>Joshua</strong> сын <strong>Nun</strong> з [арт.] <strong>Shittim</strong> два чалавек (1) <strong>slander</strong> <strong>silence</strong> да|[Д.с.] казаць хадзіць бачыць [В.с.] [арт.] зямля і [В.с.] <strong>Jericho</strong> і хадзіць і прыйсці дом жанчына <strong>fornicate</strong> і імя <strong>Rahab</strong> і ляжаць там 
+Joshua 2:2 (5873) і казаць да|[Д.с.] цар <strong>Jericho</strong> да|[Д.с.] казаць вось чалавек (1) прыйсці <strong>here</strong> [арт.] ноч з сын Ісраэль да|[Д.с.] <strong>dig</strong> [В.с.] [арт.] зямля 
+Joshua 2:3 (5874) і слаць цар <strong>Jericho</strong> да <strong>Rahab</strong> да|[Д.с.] казаць выйсці [арт.] чалавек (1) [арт.] прыйсці да які прыйсці да|[Д.с.] дом бо|што да|[Д.с.] <strong>dig</strong> [В.с.] цэлы|увесь [арт.] зямля прыйсці 
+Joshua 2:4 (5875) і браць [арт.] жанчына [В.с.] два [арт.] чалавек (1) і <strong>hide</strong> і казаць <strong>correct</strong> прыйсці да [арт.] чалавек (1) і не ведаць [+неад.]|займацца сэксам [+адуш.] з <strong>whence</strong> яны 
+Joshua 2:5 (5876) і быць [арт.] брама да|[Д.с.] зачыняць у|[Тв.с.] [арт.] цемра і [арт.] чалавек (1) выйсці не ведаць [+неад.]|займацца сэксам [+адуш.] <strong>whither</strong> хадзіць [арт.] чалавек (1) <strong>pursue</strong> спяшацца|хутка [як прысл.] пасля бо|што <strong>overtake</strong> 
+Joshua 2:6 (5877) і яна падымацца [арт.] <strong>roof</strong> і <strong>hide</strong> у|[Тв.с.] <strong>flax</strong> [арт.] дрэва [арт.] <strong>arrange</strong> да|[Д.с.] на [арт.] <strong>roof</strong> 
+Joshua 2:7 (5878) і [арт.] чалавек (1) <strong>pursue</strong> пасля шлях [арт.] <strong>Jordan</strong> на [арт.] <strong>ford</strong> і [арт.] брама зачыняць пасля як які выйсці [арт.] <strong>pursue</strong> пасля 
+Joshua 2:8 (5879) і яны <strong>beginning</strong> ляжаць і яна падымацца на на [арт.] <strong>roof</strong> 
+Joshua 2:9 (5880) і казаць да [арт.] чалавек (1) ведаць [+неад.]|займацца сэксам [+адуш.] бо|што даць Існы да|[Д.с.] [В.с.] [арт.] зямля і бо|што падаць <strong>fright</strong> на і бо|што <strong>faint</strong> цэлы|увесь сядзець [арт.] зямля з твар 
+Joshua 2:10 (5881) бо|што чуць [В.с.] які <strong>be dry</strong> Існы [В.с.] вада мора <strong>rush</strong> з твар у|[Тв.с.] выйсці з <strong>Egypt</strong> і які рабіць да|[Д.с.] два цар [арт.] <strong>Amorite</strong> які у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> да|[Д.с.] <strong>Sihon</strong> і да|[Д.с.] <strong>Og</strong> які <strong>consecrate</strong> [В.с.] 
+Joshua 2:11 (5882) і чуць і <strong>melt</strong> сэрца і не устаць яшчэ вецер у|[Тв.с.] чалавек (1) з твар бо|што Існы Бог ён Бог у|[Тв.с.] [арт.] неба з верх і на [арт.] зямля з пад 
+Joshua 2:12 (5883) і <strong>now</strong> <strong>swear</strong> ж, -ка [узмацн.] да|[Д.с.] у|[Тв.с.] Існы бо|што рабіць з <strong>loyalty</strong> і рабіць таксама|нават <strong>you</strong> з дом бацька <strong>loyalty</strong> і даць да|[Д.с.] <strong>sign</strong> праўда 
+Joshua 2:13 (5884) і жыць [В.с.] бацька і [В.с.] маці і [В.с.] брат і [В.с.] <strong>sister</strong> і [В.с.] цэлы|увесь які да|[Д.с.] і <strong>deliver</strong> [В.с.] душа з смерць 
+Joshua 2:14 (5885) і казаць да|[Д.с.] [арт.] чалавек (1) душа пад да|[Д.с.] паміраць калі[зл.] не абвяшчаць [В.с.] слова|рэч гэты і быць у|[Тв.с.] даць Існы да|[Д.с.] [В.с.] [арт.] зямля і рабіць з <strong>loyalty</strong> і праўда 
+Joshua 2:15 (5886) і апускацца у|[Тв.с.] [арт.] <strong>cord</strong> <strong>distance</strong> [арт.] <strong>window</strong> бо|што дом у|[Тв.с.] <strong>wall</strong> [арт.] <strong>wall</strong> і у|[Тв.с.] [арт.] <strong>wall</strong> яна сядзець 
+Joshua 2:16 (5887) і казаць да|[Д.с.] [арт.] гара хадзіць <strong>lest</strong> <strong>meet</strong> у|[Тв.с.] [арт.] <strong>pursue</strong> і <strong>hide</strong> там <strong>three</strong> дзень (ажно) да вяртацца [арт.] <strong>pursue</strong> і пасля хадзіць да|[Д.с.] шлях 
+Joshua 2:17 (5888) і казаць да [арт.] чалавек (1) <strong>innocent</strong> <strong>we</strong> з <strong>oath</strong> [арт.] гэты які <strong>swear</strong> 
+Joshua 2:18 (5889) вось <strong>we</strong> прыйсці у|[Тв.с.] [арт.] зямля [В.с.] <strong>cord</strong> <strong>thread</strong> [арт.] <strong>scarlet</strong> [арт.] гэты <strong>tie</strong> у|[Тв.с.] [арт.] <strong>window</strong> які апускацца у|[Тв.с.] і [В.с.] бацька і [В.с.] маці і [В.с.] брат і [В.с.] цэлы|увесь дом бацька збіраць да [арт.] дом 
+Joshua 2:19 (5890) і быць цэлы|увесь які выйсці з дзверы дом [арт.] <strong>outside</strong> <strong>blood</strong> у|[Тв.с.] галава і <strong>we</strong> <strong>innocent</strong> і цэлы|увесь які быць разам з у|[Тв.с.] [арт.] дом <strong>blood</strong> у|[Тв.с.] галава калі[зл.] рука быць у|[Тв.с.] 
+Joshua 2:20 (5891) і калі[зл.] абвяшчаць [В.с.] слова|рэч гэты і быць <strong>innocent</strong> з <strong>oath</strong> які <strong>swear</strong> 
+Joshua 2:21 (5892) і казаць як слова|рэч так ён і слаць і хадзіць і <strong>tie</strong> [В.с.] <strong>cord</strong> [арт.] <strong>scarlet</strong> у|[Тв.с.] [арт.] <strong>window</strong> 
+Joshua 2:22 (5893) і хадзіць і прыйсці [арт.] гара і сядзець там <strong>three</strong> дзень (ажно) да вяртацца [арт.] <strong>pursue</strong> і шукаць [арт.] <strong>pursue</strong> у|[Тв.с.] цэлы|увесь [арт.] шлях і не знайсці 
+Joshua 2:23 (5894) і вяртацца два [арт.] чалавек (1) і апускацца з [арт.] гара і перайсці і прыйсці да <strong>Joshua</strong> сын <strong>Nun</strong> і <strong>count</strong> да|[Д.с.] [В.с.] цэлы|увесь [арт.] знайсці [В.с.] 
+Joshua 2:24 (5895) і казаць да <strong>Joshua</strong> бо|што даць Існы у|[Тв.с.] рука [В.с.] цэлы|увесь [арт.] зямля і таксама|нават <strong>faint</strong> цэлы|увесь сядзець [арт.] зямля з твар ס
+Joshua 3:1 (5896) і <strong>rise early</strong> <strong>Joshua</strong> у|[Тв.с.] [арт.] раніца і выцягнуць з [арт.] <strong>Shittim</strong> і прыйсці (ажно) да [арт.] <strong>Jordan</strong> ён і цэлы|увесь сын Ісраэль і <strong>lodge</strong> там <strong>beginning</strong> перайсці 
+Joshua 3:2 (5897) і быць з <strong>end</strong> <strong>three</strong> дзень і перайсці [арт.] <strong>register</strong> у|[Тв.с.] <strong>interior</strong> [арт.] <strong>camp</strong> 
+Joshua 3:3 (5898) і <strong>command</strong> [В.с.] [арт.] народ да|[Д.с.] казаць як бачыць [В.с.] <strong>ark</strong> дамова Існы Бог і [арт.] <strong>priest</strong> [арт.] <strong>Levite</strong> падняць [В.с.] і <strong>you</strong> выцягнуць з месца і хадзіць пасля 
+Joshua 3:4 (5899) <strong>only</strong> далёкі быць між і між як тысяча <strong>cubit</strong> у|[Тв.с.] [арт.] <strong>measured stretch</strong> не [+заг.лад] набліжацца да з-за які ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] [арт.] шлях які хадзіць у|[Тв.с.] бо|што не перайсці у|[Тв.с.] [арт.] шлях з <strong>yesterday</strong> <strong>day before yesterday</strong> ס
+Joshua 3:5 (5900) і казаць <strong>Joshua</strong> да [арт.] народ <strong>be holy</strong> бо|што <strong>next day</strong> рабіць Існы у|[Тв.с.] <strong>interior</strong> <strong>be miraculous</strong> 
+Joshua 3:6 (5901) і казаць <strong>Joshua</strong> да [арт.] <strong>priest</strong> да|[Д.с.] казаць падняць [В.с.] <strong>ark</strong> [арт.] дамова і перайсці да|[Д.с.] твар [арт.] народ і падняць [В.с.] <strong>ark</strong> [арт.] дамова і хадзіць да|[Д.с.] твар [арт.] народ ס
+Joshua 3:7 (5902) і казаць Існы да <strong>Joshua</strong> [арт.] дзень [арт.] гэты <strong>defile</strong> узвялічваць у|[Тв.с.] вока цэлы|увесь Ісраэль які ведаць [+неад.]|займацца сэксам [+адуш.] бо|што як які быць з Майсей быць з 
+Joshua 3:8 (5903) і ты[м.] <strong>command</strong> [В.с.] [арт.] <strong>priest</strong> падняць <strong>ark</strong> [арт.] дамова да|[Д.с.] казаць як прыйсці (ажно) да <strong>end</strong> вада [арт.] <strong>Jordan</strong> у|[Тв.с.] [арт.] <strong>Jordan</strong> стаяць פ
+Joshua 3:9 (5904) і казаць <strong>Joshua</strong> да сын Ісраэль <strong>approach</strong> <strong>here</strong> і чуць [В.с.] слова|рэч Існы Бог 
+Joshua 3:10 (5905) і казаць <strong>Joshua</strong> у|[Тв.с.] <strong>this</strong> ведаць [+неад.]|займацца сэксам [+адуш.] бо|што <strong>god</strong> жывы у|[Тв.с.] <strong>interior</strong> і заўладаць заўладаць з твар [В.с.] [арт.] канаанец і [В.с.] [арт.] <strong>Hittite</strong> і [В.с.] [арт.] <strong>Hivite</strong> і [В.с.] [арт.] <strong>Perizzite</strong> і [В.с.] [арт.] <strong>Girgashite</strong> і [арт.] <strong>Amorite</strong> і [арт.] <strong>Jebusite</strong> 
+Joshua 3:11 (5906) вось <strong>ark</strong> [арт.] дамова <strong>lord</strong> цэлы|увесь [арт.] зямля перайсці да|[Д.с.] твар у|[Тв.с.] [арт.] <strong>Jordan</strong> 
+Joshua 3:12 (5907) і <strong>now</strong> браць да|[Д.с.] два <strong>-teen</strong> чалавек (1) з <strong>rod</strong> Ісраэль чалавек (1) адзін чалавек (1) адзін да|[Д.с.] [арт.] <strong>rod</strong> 
+Joshua 3:13 (5908) і быць як асесць далонь нага [арт.] <strong>priest</strong> падняць <strong>ark</strong> Існы <strong>lord</strong> цэлы|увесь [арт.] зямля у|[Тв.с.] вада [арт.] <strong>Jordan</strong> вада [арт.] <strong>Jordan</strong> выразаць [арт.] вада [арт.] апускацца з да|[Д.с.] верх і стаяць <strong>barrier</strong> адзін 
+Joshua 3:14 (5909) і быць у|[Тв.с.] выцягнуць [арт.] народ з <strong>tent</strong> да|[Д.с.] перайсці [В.с.] [арт.] <strong>Jordan</strong> і [арт.] <strong>priest</strong> падняць [арт.] <strong>ark</strong> [арт.] дамова да|[Д.с.] твар [арт.] народ 
+Joshua 3:15 (5910) і як прыйсці падняць [арт.] <strong>ark</strong> (ажно) да [арт.] <strong>Jordan</strong> і нага [арт.] <strong>priest</strong> падняць [арт.] <strong>ark</strong> <strong>dip</strong> у|[Тв.с.] <strong>end</strong> [арт.] вада і [арт.] <strong>Jordan</strong> поўніцца на цэлы|увесь <strong>bank</strong> цэлы|увесь дзень <strong>harvest</strong> 
+Joshua 3:16 (5911) і стаяць [арт.] вада [арт.] апускацца з да|[Д.с.] верх устаць <strong>barrier</strong> адзін <strong>be far</strong> вельмі з <strong>Adam</strong> [арт.] горад які з <strong>side</strong> <strong>Zarethan</strong> і [арт.] апускацца на мора [арт.] <strong>desert</strong> мора [арт.] <strong>salt</strong> <strong>be complete</strong> выразаць і [арт.] народ перайсці перад <strong>Jericho</strong> 
+Joshua 3:17 (5912) і стаяць [арт.] <strong>priest</strong> падняць [арт.] <strong>ark</strong> дамова Існы у|[Тв.с.] [арт.] <strong>dry ground</strong> у|[Тв.с.] <strong>midst</strong> [арт.] <strong>Jordan</strong> <strong>be firm</strong> і цэлы|увесь Ісраэль перайсці у|[Тв.с.] [арт.] <strong>dry ground</strong> (ажно) да які <strong>be complete</strong> цэлы|увесь [арт.] знешні народ да|[Д.с.] перайсці [В.с.] [арт.] <strong>Jordan</strong> 
+Joshua 4:1 (5913) і быць як які <strong>be complete</strong> цэлы|увесь [арт.] знешні народ да|[Д.с.] перайсці [В.с.] [арт.] <strong>Jordan</strong> і казаць Існы да <strong>Joshua</strong> да|[Д.с.] казаць 
+Joshua 4:2 (5914) браць да|[Д.с.] з [арт.] народ два <strong>-teen</strong> чалавек (1) чалавек (1) адзін чалавек (1) адзін з <strong>rod</strong> 
+Joshua 4:3 (5915) і <strong>command</strong> [В.с.] да|[Д.с.] казаць падняць да|[Д.с.] з гэты з <strong>midst</strong> [арт.] <strong>Jordan</strong> з <strong>standing place</strong> нага [арт.] <strong>priest</strong> <strong>be firm</strong> два <strong>-teen</strong> камень і перайсці [В.с.] з і асесць [В.с.] у|[Тв.с.] [арт.] <strong>sleeping place</strong> які <strong>lodge</strong> у|[Тв.с.] [арт.] ноч ס
+Joshua 4:4 (5916) і зваць <strong>Joshua</strong> да два [арт.] <strong>-teen</strong> чалавек (1) які <strong>be firm</strong> з сын Ісраэль чалавек (1) адзін чалавек (1) адзін з <strong>rod</strong> 
+Joshua 4:5 (5917) і казаць да|[Д.с.] <strong>Joshua</strong> перайсці да|[Д.с.] твар <strong>ark</strong> Існы Бог да <strong>midst</strong> [арт.] <strong>Jordan</strong> і <strong>be high</strong> да|[Д.с.] чалавек (1) камень адзін на <strong>shoulder</strong> да|[Д.с.] лік <strong>rod</strong> сын Ісраэль 
+Joshua 4:6 (5918) з-за быць <strong>this</strong> <strong>sign</strong> у|[Тв.с.] <strong>interior</strong> бо|што пытацца сын <strong>next day</strong> да|[Д.с.] казаць што [арт.] камень [арт.] гэтыя да|[Д.с.] 
+Joshua 4:7 (5919) і казаць да|[Д.с.] які выразаць вада [арт.] <strong>Jordan</strong> з твар <strong>ark</strong> дамова Існы у|[Тв.с.] перайсці у|[Тв.с.] [арт.] <strong>Jordan</strong> выразаць вада [арт.] <strong>Jordan</strong> і быць [арт.] камень [арт.] гэтыя да|[Д.с.] <strong>remembrance</strong> да|[Д.с.] сын Ісраэль (ажно) да свет|вечнасць 
+Joshua 4:8 (5920) і рабіць так сын Ісраэль як які <strong>command</strong> <strong>Joshua</strong> і падняць два <strong>-teen</strong> камень з <strong>midst</strong> [арт.] <strong>Jordan</strong> як які гаварыць Існы да <strong>Joshua</strong> да|[Д.с.] лік <strong>rod</strong> сын Ісраэль і перайсці з да [арт.] <strong>sleeping place</strong> і асесць там 
+Joshua 4:9 (5921) і два <strong>-teen</strong> камень устаць <strong>Joshua</strong> у|[Тв.с.] <strong>midst</strong> [арт.] <strong>Jordan</strong> пад <strong>standing place</strong> нага [арт.] <strong>priest</strong> падняць <strong>ark</strong> [арт.] дамова і быць там (ажно) да [арт.] дзень [арт.] гэты 
+Joshua 4:10 (5922) і [арт.] <strong>priest</strong> падняць [арт.] <strong>ark</strong> стаяць у|[Тв.с.] <strong>midst</strong> [арт.] <strong>Jordan</strong> (ажно) да <strong>be complete</strong> цэлы|увесь [арт.] слова|рэч які <strong>command</strong> Існы [В.с.] <strong>Joshua</strong> да|[Д.с.] гаварыць да [арт.] народ як цэлы|увесь які <strong>command</strong> Майсей [В.с.] <strong>Joshua</strong> і спяшацца|хутка [як прысл.] [арт.] народ і перайсці 
+Joshua 4:11 (5923) і быць як які <strong>be complete</strong> цэлы|увесь [арт.] народ да|[Д.с.] перайсці і перайсці <strong>ark</strong> Існы і [арт.] <strong>priest</strong> да|[Д.с.] твар [арт.] народ 
+Joshua 4:12 (5924) і перайсці сын <strong>Reuben</strong> і сын <strong>Gad</strong> і <strong>half</strong> <strong>rod</strong> [арт.] <strong>Manasseh</strong> <strong>array</strong> да|[Д.с.] твар сын Ісраэль як які гаварыць да Майсей 
+Joshua 4:13 (5925) як <strong>four</strong> тысяча <strong>draw off</strong> [арт.] <strong>service</strong> перайсці да|[Д.с.] твар Існы да|[Д.с.] [арт.] вайна да <strong>desert</strong> <strong>Jericho</strong> ס
+Joshua 4:14 (5926) у|[Тв.с.] [арт.] дзень [арт.] ён узвялічваць Існы [В.с.] <strong>Joshua</strong> у|[Тв.с.] вока цэлы|увесь Ісраэль і баяцца [В.с.] як які баяцца [В.с.] Майсей цэлы|увесь дзень <strong>life</strong> פ
+Joshua 4:15 (5927) і казаць Існы да <strong>Joshua</strong> да|[Д.с.] казаць 
+Joshua 4:16 (5928) <strong>command</strong> [В.с.] [арт.] <strong>priest</strong> падняць <strong>ark</strong> [арт.] <strong>reminder</strong> і падымацца з [арт.] <strong>Jordan</strong> 
+Joshua 4:17 (5929) і <strong>command</strong> <strong>Joshua</strong> [В.с.] [арт.] <strong>priest</strong> да|[Д.с.] казаць падымацца з [арт.] <strong>Jordan</strong> 
+Joshua 4:18 (5930) і быць як падымацца [арт.] <strong>priest</strong> падняць <strong>ark</strong> дамова Існы з <strong>midst</strong> [арт.] <strong>Jordan</strong> <strong>pull off</strong> далонь нага [арт.] <strong>priest</strong> да [арт.] <strong>dry ground</strong> і вяртацца вада [арт.] <strong>Jordan</strong> да|[Д.с.] месца і хадзіць як <strong>yesterday</strong> <strong>day before yesterday</strong> на цэлы|увесь <strong>bank</strong> 
+Joshua 4:19 (5931) і [арт.] народ падымацца з [арт.] <strong>Jordan</strong> у|[Тв.с.] [арт.] <strong>a ten</strong> да|[Д.с.] [арт.] <strong>month</strong> [арт.] першы і <strong>encamp</strong> у|[Тв.с.] [арт.] <strong>Gilgal</strong> у|[Тв.с.] <strong>end</strong> <strong>sunrise</strong> <strong>Jericho</strong> 
+Joshua 4:20 (5932) і [В.с.] два <strong>-teen</strong> [арт.] камень [арт.] гэтыя які браць з [арт.] <strong>Jordan</strong> устаць <strong>Joshua</strong> у|[Тв.с.] [арт.] <strong>Gilgal</strong> 
+Joshua 4:21 (5933) і казаць да сын Ісраэль да|[Д.с.] казаць які пытацца сын <strong>next day</strong> [В.с.] бацька да|[Д.с.] казаць што [арт.] камень [арт.] гэтыя 
+Joshua 4:22 (5934) і ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] сын да|[Д.с.] казаць у|[Тв.с.] [арт.] <strong>dry land</strong> перайсці Ісраэль [В.с.] [арт.] <strong>Jordan</strong> [арт.] гэты 
+Joshua 4:23 (5935) які <strong>be dry</strong> Існы Бог [В.с.] вада [арт.] <strong>Jordan</strong> з твар (ажно) да перайсці як які рабіць Існы Бог да|[Д.с.] мора <strong>rush</strong> які <strong>be dry</strong> з твар (ажно) да перайсці 
+Joshua 4:24 (5936) з-за ведаць [+неад.]|займацца сэксам [+адуш.] цэлы|увесь народ [арт.] зямля [В.с.] рука Існы бо|што <strong>strong</strong> яна з-за баяцца [В.с.] Існы Бог цэлы|увесь [арт.] дзень ס
+Joshua 5:1 (5937) і быць як чуць цэлы|увесь цар [арт.] <strong>Amorite</strong> які у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> мора і цэлы|увесь цар [арт.] канаанец які на [арт.] мора [В.с.] які <strong>be dry</strong> Існы [В.с.] вада [арт.] <strong>Jordan</strong> з твар сын Ісраэль (ажно) да перайсці і <strong>melt</strong> сэрца і не быць у|[Тв.с.] яшчэ вецер з твар сын Ісраэль ס
+Joshua 5:2 (5938) у|[Тв.с.] [арт.] момант [арт.] яна казаць Існы да <strong>Joshua</strong> рабіць да|[Д.с.] <strong>dagger</strong> <strong>pebble</strong> і вяртацца <strong>circumcise</strong> [В.с.] сын Ісраэль другі 
+Joshua 5:3 (5939) і рабіць да|[Д.с.] <strong>Joshua</strong> <strong>dagger</strong> <strong>pebble</strong> і <strong>circumcise</strong> [В.с.] сын Ісраэль да <strong>hill</strong> [арт.] <strong>foreskin</strong> 
+Joshua 5:4 (5940) і гэты [арт.] слова|рэч які <strong>circumcise</strong> <strong>Joshua</strong> цэлы|увесь [арт.] народ [арт.] выйсці з <strong>Egypt</strong> [арт.] <strong>male</strong> цэлы|увесь чалавек (1) [арт.] вайна паміраць у|[Тв.с.] [арт.] <strong>desert</strong> у|[Тв.с.] [арт.] шлях у|[Тв.с.] выйсці з <strong>Egypt</strong> 
+Joshua 5:5 (5941) бо|што <strong>circumcise</strong> быць цэлы|увесь [арт.] народ [арт.] выйсці і цэлы|увесь [арт.] народ [арт.] <strong>new-born</strong> у|[Тв.с.] [арт.] <strong>desert</strong> у|[Тв.с.] [арт.] шлях у|[Тв.с.] выйсці з <strong>Egypt</strong> не <strong>circumcise</strong> 
+Joshua 5:6 (5942) бо|што <strong>four</strong> год хадзіць сын Ісраэль у|[Тв.с.] [арт.] <strong>desert</strong> (ажно) да <strong>be complete</strong> цэлы|увесь [арт.] знешні народ чалавек (1) [арт.] вайна [арт.] выйсці з <strong>Egypt</strong> які не чуць у|[Тв.с.] голас Існы які <strong>swear</strong> Існы да|[Д.с.] да|[Д.с.] <strong>failure</strong> бачыць [В.с.] [арт.] зямля які <strong>swear</strong> Існы да|[Д.с.] бацька да|[Д.с.] даць да|[Д.с.] зямля <strong>flow</strong> <strong>milk</strong> і <strong>honey</strong> 
+Joshua 5:7 (5943) і [В.с.] сын устаць пад [В.с.] <strong>circumcise</strong> <strong>Joshua</strong> бо|што <strong>uncircumcised</strong> быць бо|што не <strong>circumcise</strong> [В.с.] у|[Тв.с.] [арт.] шлях 
+Joshua 5:8 (5944) і быць як які <strong>be complete</strong> цэлы|увесь [арт.] знешні народ да|[Д.с.] <strong>circumcise</strong> і сядзець пад у|[Тв.с.] [арт.] <strong>camp</strong> (ажно) да жыць פ
+Joshua 5:9 (5945) і казаць Існы да <strong>Joshua</strong> [арт.] дзень <strong>roll</strong> [В.с.] <strong>reproach</strong> <strong>Egypt</strong> з на і зваць імя [арт.] месца [арт.] ён <strong>Gilgal</strong> (ажно) да [арт.] дзень [арт.] гэты 
+Joshua 5:10 (5946) і <strong>encamp</strong> сын Ісраэль у|[Тв.с.] [арт.] <strong>Gilgal</strong> і рабіць [В.с.] [арт.] <strong>Passover</strong> у|[Тв.с.] <strong>four</strong> <strong>-teen</strong> дзень да|[Д.с.] [арт.] <strong>month</strong> у|[Тв.с.] [арт.] вечар у|[Тв.с.] <strong>desert</strong> <strong>Jericho</strong> 
+Joshua 5:11 (5947) і есці з <strong>produce</strong> [арт.] зямля з <strong>next day</strong> [арт.] <strong>Passover</strong> <strong>matzah</strong> і <strong>roast</strong> у|[Тв.с.] костка [арт.] дзень [арт.] гэты 
+Joshua 5:12 (5948) і <strong>cease</strong> [арт.] <strong>manna</strong> з <strong>next day</strong> у|[Тв.с.] есці з <strong>produce</strong> [арт.] зямля і не быць яшчэ да|[Д.с.] сын Ісраэль <strong>manna</strong> і есці з <strong>yield</strong> зямля <strong>Canaan</strong> у|[Тв.с.] [арт.] год [арт.] яна ס
+Joshua 5:13 (5949) і быць у|[Тв.с.] быць <strong>Joshua</strong> у|[Тв.с.] <strong>Jericho</strong> і падняць вока і бачыць і вось чалавек (1) стаяць да|[Д.с.] перад і <strong>dagger</strong> <strong>draw</strong> у|[Тв.с.] рука і хадзіць <strong>Joshua</strong> да і казаць да|[Д.с.] ці да|[Д.с.] ты[м.] калі[зл.] да|[Д.с.] <strong>adversary</strong> 
+Joshua 5:14 (5950) і казаць не бо|што я кіраўнік|міністр <strong>service</strong> Існы <strong>now</strong> прыйсці і падаць <strong>Joshua</strong> да твар зямля і <strong>bow down</strong> і казаць да|[Д.с.] што <strong>lord</strong> гаварыць да слуга 
+Joshua 5:15 (5951) і казаць кіраўнік|міністр <strong>service</strong> Існы да <strong>Joshua</strong> <strong>draw off</strong> <strong>sandal</strong> з на нага бо|што [арт.] месца які ты[м.] стаяць на святасць ён і рабіць <strong>Joshua</strong> так 
+Joshua 6:1 (5952) і <strong>Jericho</strong> зачыняць і зачыняць з твар сын Ісраэль няма выйсці і няма прыйсці ס
+Joshua 6:2 (5953) і казаць Існы да <strong>Joshua</strong> бачыць даць у|[Тв.с.] рука [В.с.] <strong>Jericho</strong> і [В.с.] цар мужны|моцны [арт.] моц 
+Joshua 6:3 (5954) і <strong>turn</strong> [В.с.] [арт.] горад цэлы|увесь чалавек (1) [арт.] вайна <strong>go around</strong> [В.с.] [арт.] горад <strong>foot</strong> адзін такім чынам рабіць <strong>six</strong> дзень 
+Joshua 6:4 (5955) і сем <strong>priest</strong> падняць сем <strong>horn</strong> [арт.] <strong>ram</strong> да|[Д.с.] твар [арт.] <strong>ark</strong> і у|[Тв.с.] [арт.] дзень [арт.] <strong>seventh</strong> <strong>turn</strong> [В.с.] [арт.] горад сем <strong>foot</strong> і [арт.] <strong>priest</strong> <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> 
+Joshua 6:5 (5956) і быць у|[Тв.с.] <strong>draw</strong> у|[Тв.с.] <strong>horn</strong> [арт.] <strong>ram</strong> як чуць [В.с.] голас [арт.] <strong>horn</strong> <strong>shout</strong> цэлы|увесь [арт.] народ <strong>shouting</strong> вялікі і падаць <strong>wall</strong> [арт.] горад пад і падымацца [арт.] народ чалавек (1) перад 
+Joshua 6:6 (5957) і зваць <strong>Joshua</strong> сын <strong>Nun</strong> да [арт.] <strong>priest</strong> і казаць да падняць [В.с.] <strong>ark</strong> [арт.] дамова і сем <strong>priest</strong> падняць сем <strong>horn</strong> <strong>ram</strong> да|[Д.с.] твар <strong>ark</strong> Існы 
+Joshua 6:7 (5958) і казаць да [арт.] народ перайсці і <strong>turn</strong> [В.с.] [арт.] горад і [арт.] <strong>draw off</strong> перайсці да|[Д.с.] твар <strong>ark</strong> Існы 
+Joshua 6:8 (5959) і быць як казаць <strong>Joshua</strong> да [арт.] народ і сем [арт.] <strong>priest</strong> падняць сем <strong>horn</strong> [арт.] <strong>ram</strong> да|[Д.с.] твар Існы перайсці і <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> і <strong>ark</strong> дамова Існы хадзіць пасля 
+Joshua 6:9 (5960) і [арт.] <strong>draw off</strong> хадзіць да|[Д.с.] твар [арт.] <strong>priest</strong> <strong>blow</strong> [арт.] <strong>horn</strong> і [арт.] збіраць хадзіць пасля [арт.] <strong>ark</strong> хадзіць і <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> 
+Joshua 6:10 (5961) і [В.с.] [арт.] народ <strong>command</strong> <strong>Joshua</strong> да|[Д.с.] казаць не <strong>shout</strong> і не чуць [В.с.] голас і не выйсці з рот слова|рэч (ажно) да дзень казаць да <strong>shout</strong> і <strong>shout</strong> 
+Joshua 6:11 (5962) і <strong>turn</strong> <strong>ark</strong> Існы [В.с.] [арт.] горад <strong>go around</strong> <strong>foot</strong> адзін і прыйсці [арт.] <strong>camp</strong> і <strong>lodge</strong> у|[Тв.с.] [арт.] <strong>camp</strong> פ
+Joshua 6:12 (5963) і <strong>rise early</strong> <strong>Joshua</strong> у|[Тв.с.] [арт.] раніца і падняць [арт.] <strong>priest</strong> [В.с.] <strong>ark</strong> Існы 
+Joshua 6:13 (5964) і сем [арт.] <strong>priest</strong> падняць сем <strong>horn</strong> [арт.] <strong>ram</strong> да|[Д.с.] твар <strong>ark</strong> Існы хадзіць хадзіць і <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> і [арт.] <strong>draw off</strong> хадзіць да|[Д.с.] твар і [арт.] збіраць хадзіць пасля <strong>ark</strong> Існы хадзіць і <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> 
+Joshua 6:14 (5965) і <strong>turn</strong> [В.с.] [арт.] горад у|[Тв.с.] [арт.] дзень [арт.] другі <strong>foot</strong> адзін і вяртацца [арт.] <strong>camp</strong> такім чынам рабіць <strong>six</strong> дзень 
+Joshua 6:15 (5966) і быць у|[Тв.с.] [арт.] дзень [арт.] <strong>seventh</strong> і <strong>rise early</strong> як падымацца [арт.] <strong>dawn</strong> і <strong>turn</strong> [В.с.] [арт.] горад як [арт.] правасуддзе [арт.] гэты сем <strong>foot</strong> <strong>only</strong> у|[Тв.с.] [арт.] дзень [арт.] ён <strong>turn</strong> [В.с.] [арт.] горад сем <strong>foot</strong> 
+Joshua 6:16 (5967) і быць у|[Тв.с.] [арт.] <strong>foot</strong> [арт.] <strong>seventh</strong> <strong>blow</strong> [арт.] <strong>priest</strong> у|[Тв.с.] [арт.] <strong>horn</strong> і казаць <strong>Joshua</strong> да [арт.] народ <strong>shout</strong> бо|што даць Існы да|[Д.с.] [В.с.] [арт.] горад 
+Joshua 6:17 (5968) і быць [арт.] горад <strong>ban</strong> яна і цэлы|увесь які у|[Тв.с.] да|[Д.с.] Існы <strong>only</strong> <strong>Rahab</strong> [арт.] <strong>fornicate</strong> жыць яна і цэлы|увесь які разам з у|[Тв.с.] [арт.] дом бо|што <strong>hide</strong> [В.с.] [арт.] пасланец які слаць 
+Joshua 6:18 (5969) і <strong>only</strong> <strong>you</strong> захоўваць з [арт.] <strong>ban</strong> <strong>lest</strong> <strong>consecrate</strong> і браць з [арт.] <strong>ban</strong> і класці|ставіць [В.с.] <strong>camp</strong> Ісраэль да|[Д.с.] <strong>ban</strong> і <strong>taboo</strong> [В.с.] 
+Joshua 6:19 (5970) і цэлы|увесь срэбра і золата і прылада <strong>bronze</strong> і жалеза святасць ён да|[Д.с.] Існы <strong>supply</strong> Існы прыйсці 
+Joshua 6:20 (5971) і <strong>shout</strong> [арт.] народ і <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> і быць як чуць [арт.] народ [В.с.] голас [арт.] <strong>horn</strong> і <strong>shout</strong> [арт.] народ <strong>shouting</strong> вялікі і падаць [арт.] <strong>wall</strong> пад і падымацца [арт.] народ [арт.] горад чалавек (1) перад і <strong>seize</strong> [В.с.] [арт.] горад 
+Joshua 6:21 (5972) і <strong>consecrate</strong> [В.с.] цэлы|увесь які у|[Тв.с.] [арт.] горад з чалавек (1) і (ажно) да жанчына з хлапчук і (ажно) да старадаўні і (ажно) да <strong>bullock</strong> і <strong>lamb</strong> і <strong>he-ass</strong> да|[Д.с.] рот <strong>dagger</strong> 
+Joshua 6:22 (5973) і да|[Д.с.] два [арт.] чалавек (1) [арт.] <strong>slander</strong> [В.с.] [арт.] зямля казаць <strong>Joshua</strong> прыйсці дом [арт.] жанчына [арт.] <strong>fornicate</strong> і выйсці з там [В.с.] [арт.] жанчына і [В.с.] цэлы|увесь які да|[Д.с.] як які <strong>swear</strong> да|[Д.с.] 
+Joshua 6:23 (5974) і прыйсці [арт.] хлапчук [арт.] <strong>slander</strong> і выйсці [В.с.] <strong>Rahab</strong> і [В.с.] бацька і [В.с.] маці і [В.с.] брат і [В.с.] цэлы|увесь які да|[Д.с.] і [В.с.] цэлы|увесь <strong>clan</strong> выйсці і асесць з <strong>outside</strong> да|[Д.с.] <strong>camp</strong> Ісраэль 
+Joshua 6:24 (5975) і [арт.] горад <strong>burn</strong> у|[Тв.с.] [арт.] агонь і цэлы|увесь які у|[Тв.с.] <strong>only</strong> [арт.] срэбра і [арт.] золата і прылада [арт.] <strong>bronze</strong> і [арт.] жалеза даць <strong>supply</strong> дом Існы 
+Joshua 6:25 (5976) і [В.с.] <strong>Rahab</strong> [арт.] <strong>fornicate</strong> і [В.с.] дом бацька і [В.с.] цэлы|увесь які да|[Д.с.] жыць <strong>Joshua</strong> і сядзець у|[Тв.с.] <strong>interior</strong> Ісраэль (ажно) да [арт.] дзень [арт.] гэты бо|што <strong>hide</strong> [В.с.] [арт.] пасланец які слаць <strong>Joshua</strong> да|[Д.с.] <strong>slander</strong> [В.с.] <strong>Jericho</strong> פ
+Joshua 6:26 (5977) і <strong>swear</strong> <strong>Joshua</strong> у|[Тв.с.] [арт.] момант [арт.] яна да|[Д.с.] казаць <strong>curse</strong> [арт.] чалавек (1) да|[Д.с.] твар Існы які устаць і будаваць [В.с.] [арт.] горад [арт.] <strong>this</strong> [В.с.] <strong>Jericho</strong> у|[Тв.с.] <strong>first-born</strong> <strong>found</strong> і у|[Тв.с.] <strong>little</strong> <strong>stand</strong> дзверы 
+Joshua 6:27 (5978) і быць Існы разам з <strong>Joshua</strong> і быць <strong>rumour</strong> у|[Тв.с.] цэлы|увесь [арт.] зямля 
+Joshua 7:1 (5979) і <strong>be unfaithful</strong> сын Ісраэль <strong>unfaithfulness</strong> у|[Тв.с.] [арт.] <strong>ban</strong> і браць <strong>Achan</strong> сын <strong>Carmi</strong> сын <strong>Zabdi</strong> сын <strong>Zerah</strong> да|[Д.с.] <strong>staff</strong> Егуда з [арт.] <strong>ban</strong> і <strong>be hot</strong> <strong>nose</strong> Існы у|[Тв.с.] сын Ісраэль 
+Joshua 7:2 (5980) і слаць <strong>Joshua</strong> чалавек (1) з <strong>Jericho</strong> [арт.] <strong>Ai</strong> які з <strong>Beth Aven</strong> з <strong>front</strong> да|[Д.с.] <strong>Bethel</strong> і казаць да да|[Д.с.] казаць падымацца і <strong>slander</strong> [В.с.] [арт.] зямля і падымацца [арт.] чалавек (1) і <strong>slander</strong> [В.с.] [арт.] <strong>Ai</strong> 
+Joshua 7:3 (5981) і вяртацца да <strong>Joshua</strong> і казаць да не [+заг.лад] падымацца цэлы|увесь [арт.] народ як тысяча чалавек (1) ці як <strong>three</strong> тысяча чалавек (1) падымацца і <strong>strike</strong> [В.с.] [арт.] <strong>Ai</strong> не [+заг.лад] <strong>be weary</strong> там [В.с.] цэлы|увесь [арт.] народ бо|што <strong>little</strong> яны 
+Joshua 7:4 (5982) і падымацца з [арт.] народ там як <strong>three</strong> тысяча чалавек (1) і <strong>flee</strong> да|[Д.с.] твар чалавек (1) [арт.] <strong>Ai</strong> 
+Joshua 7:5 (5983) і <strong>strike</strong> з чалавек (1) [арт.] <strong>Ai</strong> як <strong>three</strong> і <strong>six</strong> чалавек (1) і <strong>pursue</strong> да|[Д.с.] твар [арт.] брама (ажно) да [арт.] <strong>Shebarim</strong> і <strong>strike</strong> у|[Тв.с.] [арт.] <strong>descent</strong> і <strong>melt</strong> сэрца [арт.] народ і быць да|[Д.с.] вада 
+Joshua 7:6 (5984) і <strong>tear</strong> <strong>Joshua</strong> <strong>mantle</strong> і падаць на твар зямля да|[Д.с.] твар <strong>ark</strong> Існы (ажно) да [арт.] вечар ён і старадаўні Ісраэль і падымацца пыл на галава 
+Joshua 7:7 (5985) і казаць <strong>Joshua</strong> <strong>alas</strong> валадар Існы чаму перайсці перайсці [В.с.] [арт.] народ [арт.] гэты [В.с.] [арт.] <strong>Jordan</strong> да|[Д.с.] даць [В.с.] у|[Тв.с.] рука [арт.] <strong>Amorite</strong> да|[Д.с.] загінуць і <strong>if only</strong> <strong>begin</strong> і сядзець у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> 
+Joshua 7:8 (5986) <strong>upon me</strong> валадар што казаць пасля які <strong>turn</strong> Ісраэль <strong>neck</strong> да|[Д.с.] твар <strong>be hostile</strong> 
+Joshua 7:9 (5987) і чуць [арт.] канаанец і цэлы|увесь сядзець [арт.] зямля і <strong>turn</strong> на і выразаць [В.с.] імя з [арт.] зямля і што рабіць да|[Д.с.] імя [арт.] вялікі ס
+Joshua 7:10 (5988) і казаць Існы да <strong>Joshua</strong> устаць да|[Д.с.] чаму гэты ты[м.] падаць на твар 
+Joshua 7:11 (5989) заблудзіць Ісраэль і таксама|нават перайсці [В.с.] дамова які <strong>command</strong> [В.с.] і таксама|нават браць з [арт.] <strong>ban</strong> і таксама|нават красці і таксама|нават <strong>grow lean</strong> і таксама|нават класці|ставіць у|[Тв.с.] прылада 
+Joshua 7:12 (5990) і не магчы сын Ісраэль да|[Д.с.] устаць да|[Д.с.] твар <strong>be hostile</strong> <strong>neck</strong> <strong>turn</strong> да|[Д.с.] твар <strong>be hostile</strong> бо|што быць да|[Д.с.] <strong>ban</strong> не дадаць да|[Д.с.] быць з калі[зл.] не <strong>destroy</strong> [арт.] <strong>ban</strong> з <strong>interior</strong> 
+Joshua 7:13 (5991) устаць <strong>be holy</strong> [В.с.] [арт.] народ і казаць <strong>be holy</strong> да|[Д.с.] <strong>next day</strong> бо|што такім чынам казаць Існы Бог Ісраэль <strong>ban</strong> у|[Тв.с.] <strong>interior</strong> Ісраэль не магчы да|[Д.с.] устаць да|[Д.с.] твар <strong>be hostile</strong> (ажно) да збочыць [арт.] <strong>ban</strong> з <strong>interior</strong> 
+Joshua 7:14 (5992) і набліжацца у|[Тв.с.] [арт.] раніца да|[Д.с.] <strong>rod</strong> і быць [арт.] <strong>rod</strong> які <strong>seize</strong> Існы набліжацца да|[Д.с.] [арт.] <strong>clan</strong> і [арт.] <strong>clan</strong> які <strong>seize</strong> Існы набліжацца да|[Д.с.] [арт.] дом і [арт.] дом які <strong>seize</strong> Існы набліжацца да|[Д.с.] [арт.] <strong>vigorous man</strong> 
+Joshua 7:15 (5993) і быць [арт.] <strong>seize</strong> у|[Тв.с.] [арт.] <strong>ban</strong> <strong>burn</strong> у|[Тв.с.] [арт.] агонь [В.с.] і [В.с.] цэлы|увесь які да|[Д.с.] бо|што перайсці [В.с.] дамова Існы і бо|што рабіць <strong>stupidity</strong> у|[Тв.с.] Ісраэль 
+Joshua 7:16 (5994) і <strong>rise early</strong> <strong>Joshua</strong> у|[Тв.с.] [арт.] раніца і набліжацца [В.с.] Ісраэль да|[Д.с.] <strong>rod</strong> і <strong>seize</strong> <strong>rod</strong> Егуда 
+Joshua 7:17 (5995) і набліжацца [В.с.] <strong>clan</strong> Егуда і <strong>seize</strong> [В.с.] <strong>clan</strong> [арт.] <strong>Zerahite</strong> і набліжацца [В.с.] <strong>clan</strong> [арт.] <strong>Zerahite</strong> да|[Д.с.] [арт.] <strong>vigorous man</strong> і <strong>seize</strong> <strong>Zabdi</strong> 
+Joshua 7:18 (5996) і набліжацца [В.с.] дом да|[Д.с.] [арт.] <strong>vigorous man</strong> і <strong>seize</strong> <strong>Achan</strong> сын <strong>Carmi</strong> сын <strong>Zabdi</strong> сын <strong>Zerah</strong> да|[Д.с.] <strong>staff</strong> Егуда 
+Joshua 7:19 (5997) і казаць <strong>Joshua</strong> да <strong>Achan</strong> сын класці|ставіць ж, -ка [узмацн.] вага да|[Д.с.] Існы Бог Ісраэль і даць да|[Д.с.] <strong>thanksgiving</strong> і абвяшчаць ж, -ка [узмацн.] да|[Д.с.] што рабіць не [+заг.лад] <strong>hide</strong> з 
+Joshua 7:20 (5998) і адказаць <strong>Achan</strong> [В.с.] <strong>Joshua</strong> і казаць <strong>indeed</strong> <strong>i</strong> заблудзіць да|[Д.с.] Існы Бог Ісраэль і як <strong>this</strong> і як <strong>this</strong> рабіць 
+Joshua 7:21 (5999) і бачыць у|[Тв.с.] [арт.] <strong>plunder</strong> <strong>splendour</strong> <strong>Shinar</strong> адзін добры і сотня <strong>shekel</strong> срэбра і язык золата адзін <strong>five</strong> <strong>shekel</strong> <strong>weight</strong> і <strong>desire</strong> і браць і вось <strong>hide</strong> у|[Тв.с.] [арт.] зямля у|[Тв.с.] <strong>midst</strong> [арт.] <strong>tent</strong> і [арт.] срэбра пад 
+Joshua 7:22 (6000) і слаць <strong>Joshua</strong> пасланец і бяжаць [арт.] <strong>tent</strong> і вось <strong>hide</strong> у|[Тв.с.] <strong>tent</strong> і [арт.] срэбра пад 
+Joshua 7:23 (6001) і браць з <strong>midst</strong> [арт.] <strong>tent</strong> і прыйсці да <strong>Joshua</strong> і да цэлы|увесь сын Ісраэль і <strong>pour</strong> да|[Д.с.] твар Існы 
+Joshua 7:24 (6002) і браць <strong>Joshua</strong> [В.с.] <strong>Achan</strong> сын <strong>Zerah</strong> і [В.с.] [арт.] срэбра і [В.с.] [арт.] <strong>splendour</strong> і [В.с.] язык [арт.] золата і [В.с.] сын і [В.с.] дачка і [В.с.] <strong>bullock</strong> і [В.с.] <strong>he-ass</strong> і [В.с.] скаціна і [В.с.] <strong>tent</strong> і [В.с.] цэлы|увесь які да|[Д.с.] і цэлы|увесь Ісраэль з і падымацца [В.с.] <strong>valley</strong> <strong>Achor</strong> 
+Joshua 7:25 (6003) і казаць <strong>Joshua</strong> што <strong>taboo</strong> <strong>taboo</strong> Існы у|[Тв.с.] [арт.] дзень [арт.] гэты і <strong>stone</strong> [В.с.] цэлы|увесь Ісраэль камень і <strong>burn</strong> [В.с.] у|[Тв.с.] [арт.] агонь і <strong>stone</strong> [В.с.] у|[Тв.с.] [арт.] камень 
+Joshua 7:26 (6004) і устаць на <strong>heap</strong> камень вялікі (ажно) да [арт.] дзень [арт.] гэты і вяртацца Існы з <strong>anger</strong> <strong>nose</strong> на так зваць імя [арт.] месца [арт.] ён <strong>valley</strong> <strong>Achor</strong> (ажно) да [арт.] дзень [арт.] гэты פ
+Joshua 8:1 (6005) і казаць Існы да <strong>Joshua</strong> не [+заг.лад] баяцца і не [+заг.лад] пажахацца браць з [В.с.] цэлы|увесь народ [арт.] вайна і устаць падымацца [арт.] <strong>Ai</strong> бачыць даць у|[Тв.с.] рука [В.с.] цар [арт.] <strong>Ai</strong> і [В.с.] народ і [В.с.] горад і [В.с.] зямля 
+Joshua 8:2 (6006) і рабіць да|[Д.с.] [арт.] <strong>Ai</strong> і да|[Д.с.] цар як які рабіць да|[Д.с.] <strong>Jericho</strong> і да|[Д.с.] цар <strong>only</strong> <strong>plunder</strong> і звяры <strong>spoil</strong> да|[Д.с.] класці|ставіць да|[Д.с.] <strong>lie in ambush</strong> да|[Д.с.] [арт.] горад з пасля 
+Joshua 8:3 (6007) і устаць <strong>Joshua</strong> і цэлы|увесь народ [арт.] вайна да|[Д.с.] падымацца [арт.] <strong>Ai</strong> і <strong>examine</strong> <strong>Joshua</strong> <strong>three</strong> тысяча чалавек (1) мужны|моцны [арт.] моц і слаць ноч 
+Joshua 8:4 (6008) і <strong>command</strong> [В.с.] да|[Д.с.] казаць бачыць <strong>you</strong> <strong>lie in ambush</strong> да|[Д.с.] [арт.] горад з пасля [арт.] горад не [+заг.лад] <strong>be far</strong> з [арт.] горад вельмі і быць цэлы|увесь <strong>be firm</strong> 
+Joshua 8:5 (6009) і я і цэлы|увесь [арт.] народ які разам з набліжацца да [арт.] горад і быць бо|што выйсці да|[Д.с.] <strong>encounter</strong> як які у|[Тв.с.] [арт.] першы і <strong>flee</strong> да|[Д.с.] твар 
+Joshua 8:6 (6010) і выйсці пасля (ажно) да <strong>pull off</strong> [В.с.] з [арт.] горад бо|што казаць <strong>flee</strong> да|[Д.с.] твар як які у|[Тв.с.] [арт.] першы і <strong>flee</strong> да|[Д.с.] твар 
+Joshua 8:7 (6011) і <strong>you</strong> устаць з [арт.] <strong>lie in ambush</strong> і заўладаць [В.с.] [арт.] горад і даць Існы Бог у|[Тв.с.] рука 
+Joshua 8:8 (6012) і быць як <strong>seize</strong> [В.с.] [арт.] горад <strong>kindle</strong> [В.с.] [арт.] горад у|[Тв.с.] [арт.] агонь як слова|рэч Існы рабіць бачыць <strong>command</strong> [В.с.] 
+Joshua 8:9 (6013) і слаць <strong>Joshua</strong> і хадзіць да [арт.] <strong>ambush</strong> і сядзець між <strong>Bethel</strong> і між [арт.] <strong>Ai</strong> з мора да|[Д.с.] [арт.] <strong>Ai</strong> і <strong>lodge</strong> <strong>Joshua</strong> у|[Тв.с.] [арт.] ноч [арт.] ён у|[Тв.с.] <strong>midst</strong> [арт.] народ 
+Joshua 8:10 (6014) і <strong>rise early</strong> <strong>Joshua</strong> у|[Тв.с.] [арт.] раніца і <strong>miss</strong> [В.с.] [арт.] народ і падымацца ён і старадаўні Ісраэль да|[Д.с.] твар [арт.] народ [арт.] <strong>Ai</strong> 
+Joshua 8:11 (6015) і цэлы|увесь [арт.] народ [арт.] вайна які разам з падымацца і <strong>approach</strong> і прыйсці перад [арт.] горад і <strong>encamp</strong> з поўнач да|[Д.с.] [арт.] <strong>Ai</strong> і [арт.] <strong>valley</strong> між і між [арт.] <strong>Ai</strong> 
+Joshua 8:12 (6016) і браць як <strong>five</strong> тысяча чалавек (1) і класці|ставіць [В.с.] <strong>lie in ambush</strong> між <strong>Bethel</strong> і між [арт.] <strong>Ai</strong> з мора да|[Д.с.] [арт.] горад 
+Joshua 8:13 (6017) і класці|ставіць [арт.] народ [В.с.] цэлы|увесь [арт.] <strong>camp</strong> які з поўнач да|[Д.с.] [арт.] горад і [В.с.] <strong>heel</strong> з мора да|[Д.с.] [арт.] горад і хадзіць <strong>Joshua</strong> у|[Тв.с.] [арт.] ноч [арт.] ён у|[Тв.с.] <strong>midst</strong> [арт.] <strong>valley</strong> 
+Joshua 8:14 (6018) і быць як бачыць цар [арт.] <strong>Ai</strong> і спяшацца|хутка [як прысл.] і <strong>rise early</strong> і выйсці чалавек (1) [арт.] горад да|[Д.с.] <strong>encounter</strong> Ісраэль да|[Д.с.] [арт.] вайна ён і цэлы|увесь народ да|[Д.с.] [арт.] <strong>appointment</strong> да|[Д.с.] твар [арт.] <strong>desert</strong> і ён не ведаць [+неад.]|займацца сэксам [+адуш.] бо|што <strong>lie in ambush</strong> да|[Д.с.] з пасля [арт.] горад 
+Joshua 8:15 (6019) і <strong>touch</strong> <strong>Joshua</strong> і цэлы|увесь Ісраэль да|[Д.с.] твар і <strong>flee</strong> шлях [арт.] <strong>desert</strong> 
+Joshua 8:16 (6020) і <strong>cry</strong> цэлы|увесь [арт.] народ які у|[Тв.с.] [арт.] <strong>Ai</strong> да|[Д.с.] <strong>pursue</strong> пасля і <strong>pursue</strong> пасля <strong>Joshua</strong> і <strong>pull off</strong> з [арт.] горад 
+Joshua 8:17 (6021) і не пакідаць чалавек (1) у|[Тв.с.] [арт.] <strong>Ai</strong> і <strong>Bethel</strong> які не выйсці пасля Ісраэль і <strong>leave</strong> [В.с.] [арт.] горад <strong>open</strong> і <strong>pursue</strong> пасля Ісраэль פ
+Joshua 8:18 (6022) і казаць Існы да <strong>Joshua</strong> <strong>extend</strong> у|[Тв.с.] [арт.] <strong>dart</strong> які у|[Тв.с.] рука да [арт.] <strong>Ai</strong> бо|што у|[Тв.с.] рука даць і <strong>extend</strong> <strong>Joshua</strong> у|[Тв.с.] [арт.] <strong>dart</strong> які у|[Тв.с.] рука да [арт.] горад 
+Joshua 8:19 (6023) і [арт.] <strong>lie in ambush</strong> устаць <strong>haste</strong> з месца і бяжаць як <strong>extend</strong> рука і прыйсці [арт.] горад і <strong>seize</strong> і спяшацца|хутка [як прысл.] і <strong>kindle</strong> [В.с.] [арт.] горад у|[Тв.с.] [арт.] агонь 
+Joshua 8:20 (6024) і <strong>turn</strong> чалавек (1) [арт.] <strong>Ai</strong> пасля і бачыць і вось падымацца <strong>smoke</strong> [арт.] горад [арт.] неба і не быць у|[Тв.с.] рука да|[Д.с.] <strong>flee</strong> <strong>here</strong> і <strong>here</strong> і [арт.] народ [арт.] <strong>flee</strong> [арт.] <strong>desert</strong> <strong>turn</strong> да [арт.] <strong>pursue</strong> 
+Joshua 8:21 (6025) і <strong>Joshua</strong> і цэлы|увесь Ісраэль бачыць бо|што <strong>seize</strong> [арт.] <strong>lie in ambush</strong> [В.с.] [арт.] горад і бо|што падымацца <strong>smoke</strong> [арт.] горад і вяртацца і <strong>strike</strong> [В.с.] чалавек (1) [арт.] <strong>Ai</strong> 
+Joshua 8:22 (6026) і гэтыя выйсці з [арт.] горад да|[Д.с.] <strong>encounter</strong> і быць да|[Д.с.] Ісраэль у|[Тв.с.] [арт.] <strong>midst</strong> гэтыя з гэты і гэтыя з гэты і <strong>strike</strong> [В.с.] (ажно) да <strong>failure</strong> пакідаць да|[Д.с.] выжыўшы і збяжаўшы 
+Joshua 8:23 (6027) і [В.с.] цар [арт.] <strong>Ai</strong> <strong>seize</strong> жывы і набліжацца [В.с.] да <strong>Joshua</strong> 
+Joshua 8:24 (6028) і быць як <strong>be complete</strong> Ісраэль да|[Д.с.] <strong>kill</strong> [В.с.] цэлы|увесь сядзець [арт.] <strong>Ai</strong> у|[Тв.с.] [арт.] поле у|[Тв.с.] [арт.] <strong>desert</strong> які <strong>pursue</strong> у|[Тв.с.] і падаць цэлы|увесь да|[Д.с.] рот <strong>dagger</strong> (ажно) да <strong>be complete</strong> і вяртацца цэлы|увесь Ісраэль [арт.] <strong>Ai</strong> і <strong>strike</strong> [В.с.] да|[Д.с.] рот <strong>dagger</strong> 
+Joshua 8:25 (6029) і быць цэлы|увесь [арт.] падаць у|[Тв.с.] [арт.] дзень [арт.] ён з чалавек (1) і (ажно) да жанчына два <strong>-teen</strong> тысяча цэлы|увесь чалавек (1) [арт.] <strong>Ai</strong> 
+Joshua 8:26 (6030) і <strong>Joshua</strong> не вяртацца рука які <strong>extend</strong> у|[Тв.с.] [арт.] <strong>dart</strong> (ажно) да які <strong>consecrate</strong> [В.с.] цэлы|увесь сядзець [арт.] <strong>Ai</strong> 
+Joshua 8:27 (6031) <strong>only</strong> [арт.] звяры і <strong>plunder</strong> [арт.] горад [арт.] яна <strong>spoil</strong> да|[Д.с.] Ісраэль як слова|рэч Існы які <strong>command</strong> [В.с.] <strong>Joshua</strong> 
+Joshua 8:28 (6032) і <strong>burn</strong> <strong>Joshua</strong> [В.с.] [арт.] <strong>Ai</strong> і класці|ставіць <strong>mound</strong> свет|вечнасць <strong>desolation</strong> (ажно) да [арт.] дзень [арт.] гэты 
+Joshua 8:29 (6033) і [В.с.] цар [арт.] <strong>Ai</strong> <strong>hang</strong> на [арт.] дрэва (ажно) да момант [арт.] вечар і як прыйсці [арт.] сонца <strong>command</strong> <strong>Joshua</strong> і апускацца [В.с.] <strong>corpse</strong> з [арт.] дрэва і кінуць [В.с.] да <strong>opening</strong> брама [арт.] горад і устаць на <strong>heap</strong> камень вялікі (ажно) да [арт.] дзень [арт.] гэты פ
+Joshua 8:30 (6034) тады будаваць <strong>Joshua</strong> <strong>altar</strong> да|[Д.с.] Існы Бог Ісраэль у|[Тв.с.] гара <strong>Ebal</strong> 
+Joshua 8:31 (6035) як які <strong>command</strong> Майсей слуга Існы [В.с.] сын Ісраэль як [арт.] пісанне у|[Тв.с.] ліст <strong>instruction</strong> Майсей <strong>altar</strong> камень <strong>complete</strong> які не <strong>swing</strong> на жалеза і падымацца на <strong>burnt-offering</strong> да|[Д.с.] Існы і забіць <strong>final offer</strong> 
+Joshua 8:32 (6036) і пісанне там на [арт.] камень [В.с.] <strong>second</strong> <strong>instruction</strong> Майсей які пісанне да|[Д.с.] твар сын Ісраэль 
+Joshua 8:33 (6037) і цэлы|увесь Ісраэль і старадаўні і <strong>register</strong> і судзіць стаяць з гэты і з гэты да|[Д.с.] [арт.] <strong>ark</strong> перад [арт.] <strong>priest</strong> [арт.] <strong>Levite</strong> падняць <strong>ark</strong> дамова Існы як [арт.] <strong>sojourner</strong> як [арт.] <strong>native</strong> <strong>half</strong> да <strong>front</strong> гара <strong>Gerizim</strong> і [арт.] <strong>half</strong> да <strong>front</strong> гара <strong>Ebal</strong> як які <strong>command</strong> Майсей слуга Існы да|[Д.с.] <strong>bless</strong> [В.с.] [арт.] народ Ісраэль у|[Тв.с.] [арт.] першы 
+Joshua 8:34 (6038) і пасля так зваць [В.с.] цэлы|увесь слова|рэч [арт.] <strong>instruction</strong> [арт.] <strong>blessing</strong> і [арт.] <strong>curse</strong> як цэлы|увесь [арт.] пісанне у|[Тв.с.] ліст [арт.] <strong>instruction</strong> 
+Joshua 8:35 (6039) не быць слова|рэч з цэлы|увесь які <strong>command</strong> Майсей які не зваць <strong>Joshua</strong> перад цэлы|увесь <strong>assembly</strong> Ісраэль і [арт.] жанчына і [арт.] <strong>[those unable to march]</strong> і [арт.] <strong>sojourner</strong> [арт.] хадзіць у|[Тв.с.] <strong>interior</strong> פ
+Joshua 9:1 (6040) і быць як чуць цэлы|увесь [арт.] цар які у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> у|[Тв.с.] [арт.] гара і у|[Тв.с.] [арт.] нізіна і у|[Тв.с.] цэлы|увесь <strong>shore</strong> [арт.] мора [арт.] вялікі да <strong>front</strong> [арт.] <strong>Lebanon</strong> [арт.] <strong>Hittite</strong> і [арт.] <strong>Amorite</strong> [арт.] канаанец [арт.] <strong>Perizzite</strong> [арт.] <strong>Hivite</strong> і [арт.] <strong>Jebusite</strong> 
+Joshua 9:2 (6041) і <strong>collect</strong> <strong>together</strong> да|[Д.с.] <strong>fight</strong> з <strong>Joshua</strong> і з Ісраэль рот адзін פ
+Joshua 9:3 (6042) і сядзець <strong>Gibeon</strong> чуць [В.с.] які рабіць <strong>Joshua</strong> да|[Д.с.] <strong>Jericho</strong> і да|[Д.с.] [арт.] <strong>Ai</strong> 
+Joshua 9:4 (6043) і рабіць таксама|нават яны у|[Тв.с.] <strong>prudence</strong> і хадзіць і <strong>[uncertain]</strong> і браць <strong>sack</strong> <strong>worn out</strong> да|[Д.с.] <strong>he-ass</strong> і <strong>skin-bottle</strong> віно <strong>worn out</strong> і <strong>split</strong> і <strong>wrap, be narrow</strong> 
+Joshua 9:5 (6044) і <strong>sandal</strong> <strong>worn out</strong> і <strong>patch</strong> у|[Тв.с.] нага і <strong>wrapper</strong> <strong>worn out</strong> на і цэлы|увесь хлеб <strong>provision</strong> <strong>be dry</strong> быць <strong>crumbs</strong> 
+Joshua 9:6 (6045) і хадзіць да <strong>Joshua</strong> да [арт.] <strong>camp</strong> [арт.] <strong>Gilgal</strong> і казаць да і да чалавек (1) Ісраэль з зямля далёкі прыйсці і <strong>now</strong> выразаць да|[Д.с.] дамова 
+Joshua 9:7 (6046) і казаць чалавек (1) Ісраэль да [арт.] <strong>Hivite</strong> <strong>perhaps</strong> у|[Тв.с.] <strong>interior</strong> ты[м.] сядзець і як выразаць да|[Д.с.] дамова 
+Joshua 9:8 (6047) і казаць да <strong>Joshua</strong> слуга <strong>we</strong> і казаць да <strong>Joshua</strong> хто <strong>you</strong> і з <strong>whence</strong> прыйсці 
+Joshua 9:9 (6048) і казаць да з зямля далёкі вельмі прыйсці слуга да|[Д.с.] імя Існы Бог бо|што чуць <strong>rumour</strong> і [В.с.] цэлы|увесь які рабіць у|[Тв.с.] <strong>Egypt</strong> 
+Joshua 9:10 (6049) і [В.с.] цэлы|увесь які рабіць да|[Д.с.] два цар [арт.] <strong>Amorite</strong> які у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> да|[Д.с.] <strong>Sihon</strong> цар <strong>Heshbon</strong> і да|[Д.с.] <strong>Og</strong> цар [арт.] <strong>Bashan</strong> які у|[Тв.с.] <strong>Ashtaroth</strong> 
+Joshua 9:11 (6050) і казаць да старадаўні і цэлы|увесь сядзець зямля да|[Д.с.] казаць браць у|[Тв.с.] рука <strong>provision</strong> да|[Д.с.] [арт.] шлях і хадзіць да|[Д.с.] <strong>encounter</strong> і казаць да слуга <strong>we</strong> і <strong>now</strong> выразаць да|[Д.с.] дамова 
+Joshua 9:12 (6051) гэты хлеб <strong>hot</strong> <strong>feed</strong> [В.с.] з дом у|[Тв.с.] дзень выйсці да|[Д.с.] хадзіць да і <strong>now</strong> вось <strong>be dry</strong> і быць <strong>crumbs</strong> 
+Joshua 9:13 (6052) і гэтыя <strong>skin-bottle</strong> [арт.] віно які поўніцца новы і вось <strong>split</strong> і гэтыя <strong>wrapper</strong> і <strong>sandal</strong> <strong>be worn out</strong> з шматлікасць [арт.] шлях вельмі 
+Joshua 9:14 (6053) і браць [арт.] чалавек (1) з <strong>provision</strong> і [В.с.] рот Існы не пытацца 
+Joshua 9:15 (6054) і рабіць да|[Д.с.] <strong>Joshua</strong> згода і выразаць да|[Д.с.] дамова да|[Д.с.] жыць і <strong>swear</strong> да|[Д.с.] <strong>chief</strong> [арт.] <strong>gathering</strong> 
+Joshua 9:16 (6055) і быць з <strong>end</strong> <strong>three</strong> дзень пасля які выразаць да|[Д.с.] дамова і чуць бо|што блізкі яны [ж.] да і у|[Тв.с.] <strong>interior</strong> яны [ж.] сядзець 
+Joshua 9:17 (6056) і выцягнуць сын Ісраэль і прыйсці да горад у|[Тв.с.] [арт.] дзень [арт.] <strong>third</strong> і горад <strong>Gibeon</strong> і [арт.] <strong>Kephirah</strong> і <strong>Beeroth</strong> і <strong>Kiriath Jearim</strong> 
+Joshua 9:18 (6057) і не <strong>strike</strong> сын Ісраэль бо|што <strong>swear</strong> да|[Д.с.] <strong>chief</strong> [арт.] <strong>gathering</strong> у|[Тв.с.] Існы Бог Ісраэль і <strong>murmur</strong> цэлы|увесь [арт.] <strong>gathering</strong> на [арт.] <strong>chief</strong> 
+Joshua 9:19 (6058) і казаць цэлы|увесь [арт.] <strong>chief</strong> да цэлы|увесь [арт.] <strong>gathering</strong> <strong>we</strong> <strong>swear</strong> да|[Д.с.] у|[Тв.с.] Існы Бог Ісраэль і <strong>now</strong> не магчы да|[Д.с.] <strong>touch</strong> у|[Тв.с.] 
+Joshua 9:20 (6059) <strong>this</strong> рабіць да|[Д.с.] і жыць [В.с.] і не быць на <strong>anger</strong> на [арт.] <strong>oath</strong> які <strong>swear</strong> да|[Д.с.] 
+Joshua 9:21 (6060) і казаць да [арт.] <strong>chief</strong> жыць і быць <strong>gather wood</strong> дрэва і <strong>draw water</strong> вада да|[Д.с.] цэлы|увесь [арт.] <strong>gathering</strong> як які гаварыць да|[Д.с.] [арт.] <strong>chief</strong> 
+Joshua 9:22 (6061) і зваць да|[Д.с.] <strong>Joshua</strong> і гаварыць да да|[Д.с.] казаць чаму <strong>deceive</strong> [В.с.] да|[Д.с.] казаць далёкі <strong>we</strong> з вельмі і <strong>you</strong> у|[Тв.с.] <strong>interior</strong> сядзець 
+Joshua 9:23 (6062) і <strong>now</strong> <strong>curse</strong> <strong>you</strong> і не выразаць з слуга і <strong>gather wood</strong> дрэва і <strong>draw water</strong> вада да|[Д.с.] дом Бог 
+Joshua 9:24 (6063) і адказаць [В.с.] <strong>Joshua</strong> і казаць бо|што абвяшчаць абвяшчаць да|[Д.с.] слуга [В.с.] які <strong>command</strong> Існы Бог [В.с.] Майсей слуга да|[Д.с.] даць да|[Д.с.] [В.с.] цэлы|увесь [арт.] зямля і да|[Д.с.] <strong>destroy</strong> [В.с.] цэлы|увесь сядзець [арт.] зямля з твар і баяцца вельмі да|[Д.с.] душа з твар і рабіць [В.с.] [арт.] слова|рэч [арт.] гэты 
+Joshua 9:25 (6064) і <strong>now</strong> вось у|[Тв.с.] рука як [арт.] добры і як [арт.] <strong>right</strong> у|[Тв.с.] вока да|[Д.с.] рабіць да|[Д.с.] рабіць 
+Joshua 9:26 (6065) і рабіць да|[Д.с.] так і <strong>deliver</strong> [В.с.] з рука сын Ісраэль і не <strong>kill</strong> 
+Joshua 9:27 (6066) і даць <strong>Joshua</strong> у|[Тв.с.] [арт.] дзень [арт.] ён <strong>gather wood</strong> дрэва і <strong>draw water</strong> вада да|[Д.с.] [арт.] <strong>gathering</strong> і да|[Д.с.] <strong>altar</strong> Існы (ажно) да [арт.] дзень [арт.] гэты да [арт.] месца які <strong>examine</strong> פ
+Joshua 10:1 (6067) і быць як чуць <strong>Adoni-Zedek</strong> цар Ерусалім бо|што <strong>seize</strong> <strong>Joshua</strong> [В.с.] [арт.] <strong>Ai</strong> і <strong>consecrate</strong> як які рабіць да|[Д.с.] <strong>Jericho</strong> і да|[Д.с.] цар так рабіць да|[Д.с.] [арт.] <strong>Ai</strong> і да|[Д.с.] цар і бо|што <strong>be complete</strong> сядзець <strong>Gibeon</strong> разам з Ісраэль і быць у|[Тв.с.] <strong>interior</strong> 
+Joshua 10:2 (6068) і баяцца вельмі бо|што горад вялікі <strong>Gibeon</strong> як адзін горад [арт.] <strong>kingdom</strong> і бо|што яна вялікі з [арт.] <strong>Ai</strong> і цэлы|увесь чалавек (1) мужны|моцны 
+Joshua 10:3 (6069) і слаць <strong>Adoni-Zedek</strong> цар Ерусалім да <strong>Hoham</strong> цар <strong>Hebron</strong> і да <strong>Piram</strong> цар <strong>Jarmuth</strong> і да <strong>Japhia</strong> цар <strong>Lachish</strong> і да <strong>Debir</strong> цар <strong>Eglon</strong> да|[Д.с.] казаць 
+Joshua 10:4 (6070) падымацца да і <strong>help</strong> і <strong>strike</strong> [В.с.] <strong>Gibeon</strong> бо|што <strong>be complete</strong> разам з <strong>Joshua</strong> і разам з сын Ісраэль 
+Joshua 10:5 (6071) і збіраць і падымацца <strong>five</strong> цар [арт.] <strong>Amorite</strong> цар Ерусалім цар <strong>Hebron</strong> цар <strong>Jarmuth</strong> цар <strong>Lachish</strong> цар <strong>Eglon</strong> яны [ж.] і цэлы|увесь <strong>camp</strong> і <strong>encamp</strong> на <strong>Gibeon</strong> і <strong>fight</strong> на 
+Joshua 10:6 (6072) і слаць чалавек (1) <strong>Gibeon</strong> да <strong>Joshua</strong> да [арт.] <strong>camp</strong> [арт.] <strong>Gilgal</strong> да|[Д.с.] казаць не [+заг.лад] <strong>be slack</strong> рука з слуга падымацца да <strong>haste</strong> і збавіць да|[Д.с.] і <strong>help</strong> бо|што <strong>collect</strong> да цэлы|увесь цар [арт.] <strong>Amorite</strong> сядзець [арт.] гара 
+Joshua 10:7 (6073) і падымацца <strong>Joshua</strong> з [арт.] <strong>Gilgal</strong> ён і цэлы|увесь народ [арт.] вайна з і цэлы|увесь мужны|моцны [арт.] моц פ
+Joshua 10:8 (6074) і казаць Існы да <strong>Joshua</strong> не [+заг.лад] баяцца з бо|што у|[Тв.с.] рука даць не стаяць чалавек (1) з у|[Тв.с.] твар 
+Joshua 10:9 (6075) і прыйсці да <strong>Joshua</strong> раптам цэлы|увесь [арт.] ноч падымацца з [арт.] <strong>Gilgal</strong> 
+Joshua 10:10 (6076) і <strong>confuse</strong> Існы да|[Д.с.] твар Ісраэль і <strong>strike</strong> <strong>blow</strong> вялікі у|[Тв.с.] <strong>Gibeon</strong> і <strong>pursue</strong> шлях <strong>ascent</strong> <strong>Beth Horon</strong> і <strong>strike</strong> (ажно) да <strong>Azekah</strong> і (ажно) да <strong>Makkedah</strong> 
+Joshua 10:11 (6077) і быць у|[Тв.с.] <strong>flee</strong> з твар Ісраэль яны [ж.] у|[Тв.с.] <strong>descent</strong> <strong>Beth Horon</strong> і Існы кінуць на камень вялікі з [арт.] неба (ажно) да <strong>Azekah</strong> і паміраць шматлікі які паміраць у|[Тв.с.] камень [арт.] <strong>hail</strong> з які <strong>kill</strong> сын Ісраэль у|[Тв.с.] [арт.] <strong>dagger</strong> ס
+Joshua 10:12 (6078) тады гаварыць <strong>Joshua</strong> да|[Д.с.] Існы у|[Тв.с.] дзень даць Існы [В.с.] [арт.] <strong>Amorite</strong> да|[Д.с.] твар сын Ісраэль і казаць да|[Д.с.] вока Ісраэль сонца у|[Тв.с.] <strong>Gibeon</strong> <strong>rest</strong> і месяц у|[Тв.с.] <strong>valley</strong> <strong>Aijalon</strong> 
+Joshua 10:13 (6079) і <strong>rest</strong> [арт.] сонца і месяц стаяць (ажно) да <strong>avenge</strong> знешні народ <strong>be hostile</strong> ці не яна пісанне на ліст [арт.] <strong>right</strong> і стаяць [арт.] сонца у|[Тв.с.] <strong>half</strong> [арт.] неба і не <strong>urge</strong> да|[Д.с.] прыйсці як дзень <strong>complete</strong> 
+Joshua 10:14 (6080) і не быць як [арт.] дзень [арт.] ён да|[Д.с.] твар і пасля да|[Д.с.] чуць Існы у|[Тв.с.] голас чалавек (1) бо|што Існы <strong>fight</strong> да|[Д.с.] Ісраэль פ
+Joshua 10:15 (6081) і вяртацца <strong>Joshua</strong> і цэлы|увесь Ісраэль з да [арт.] <strong>camp</strong> [арт.] <strong>Gilgal</strong> 
+Joshua 10:16 (6082) і <strong>flee</strong> <strong>five</strong> [арт.] цар [арт.] гэтыя і <strong>hide</strong> у|[Тв.с.] [арт.] <strong>cave</strong> у|[Тв.с.] <strong>Makkedah</strong> 
+Joshua 10:17 (6083) і абвяшчаць да|[Д.с.] <strong>Joshua</strong> да|[Д.с.] казаць знайсці <strong>five</strong> [арт.] цар <strong>hide</strong> у|[Тв.с.] [арт.] <strong>cave</strong> у|[Тв.с.] <strong>Makkedah</strong> 
+Joshua 10:18 (6084) і казаць <strong>Joshua</strong> <strong>roll</strong> камень вялікі да рот [арт.] <strong>cave</strong> і <strong>miss</strong> на чалавек (1) да|[Д.с.] захоўваць 
+Joshua 10:19 (6085) і <strong>you</strong> не [+заг.лад] стаяць <strong>pursue</strong> пасля <strong>be hostile</strong> і <strong>cut off</strong> [В.с.] не [+заг.лад] даць да|[Д.с.] прыйсці да горад бо|што даць Існы Бог у|[Тв.с.] рука 
+Joshua 10:20 (6086) і быць як <strong>be complete</strong> <strong>Joshua</strong> і сын Ісраэль да|[Д.с.] <strong>strike</strong> <strong>blow</strong> вялікі вельмі (ажно) да <strong>be complete</strong> і [арт.] выжыўшы <strong>run away</strong> з і прыйсці да горад [арт.] <strong>fortification</strong> 
+Joshua 10:21 (6087) і вяртацца цэлы|увесь [арт.] народ да [арт.] <strong>camp</strong> да <strong>Joshua</strong> <strong>Makkedah</strong> у|[Тв.с.] згода не <strong>cut off</strong> да|[Д.с.] сын Ісраэль да|[Д.с.] чалавек (1) [В.с.] язык 
+Joshua 10:22 (6088) і казаць <strong>Joshua</strong> <strong>open</strong> [В.с.] рот [арт.] <strong>cave</strong> і выйсці да [В.с.] <strong>five</strong> [арт.] цар [арт.] гэтыя з [арт.] <strong>cave</strong> 
+Joshua 10:23 (6089) і рабіць так і выйсці да [В.с.] <strong>five</strong> [арт.] цар [арт.] гэтыя з [арт.] <strong>cave</strong> [В.с.] цар Ерусалім [В.с.] цар <strong>Hebron</strong> [В.с.] цар <strong>Jarmuth</strong> [В.с.] цар <strong>Lachish</strong> [В.с.] цар <strong>Eglon</strong> 
+Joshua 10:24 (6090) і быць як выйсці [В.с.] [арт.] цар [арт.] гэтыя да <strong>Joshua</strong> і зваць <strong>Joshua</strong> да цэлы|увесь чалавек (1) Ісраэль і казаць да <strong>chief</strong> чалавек (1) [арт.] вайна [арт.] хадзіць разам з набліжацца класці|ставіць [В.с.] нага на <strong>neck</strong> [арт.] цар [арт.] гэтыя і набліжацца і класці|ставіць [В.с.] нага на <strong>neck</strong> 
+Joshua 10:25 (6091) і казаць да <strong>Joshua</strong> не [+заг.лад] баяцца і не [+заг.лад] пажахацца <strong>be strong</strong> і <strong>be strong</strong> бо|што такім чынам рабіць Існы да|[Д.с.] цэлы|увесь <strong>be hostile</strong> які <strong>you</strong> <strong>fight</strong> [В.с.] 
+Joshua 10:26 (6092) і <strong>strike</strong> <strong>Joshua</strong> пасля так і паміраць і <strong>hang</strong> на <strong>five</strong> дрэва і быць <strong>hang</strong> на [арт.] дрэва (ажно) да [арт.] вечар 
+Joshua 10:27 (6093) і быць да|[Д.с.] момант прыйсці [арт.] сонца <strong>command</strong> <strong>Joshua</strong> і апускацца з на [арт.] дрэва і кінуць да [арт.] <strong>cave</strong> які <strong>hide</strong> там і класці|ставіць камень вялікі на рот [арт.] <strong>cave</strong> (ажно) да костка [арт.] дзень [арт.] гэты פ
+Joshua 10:28 (6094) і [В.с.] <strong>Makkedah</strong> <strong>seize</strong> <strong>Joshua</strong> у|[Тв.с.] [арт.] дзень [арт.] ён і <strong>strike</strong> да|[Д.с.] рот <strong>dagger</strong> і [В.с.] цар <strong>consecrate</strong> [В.с.] і [В.с.] цэлы|увесь [арт.] душа які у|[Тв.с.] не пакідаць выжыўшы і рабіць да|[Д.с.] цар <strong>Makkedah</strong> як які рабіць да|[Д.с.] цар <strong>Jericho</strong> 
+Joshua 10:29 (6095) і перайсці <strong>Joshua</strong> і цэлы|увесь Ісраэль з з <strong>Makkedah</strong> <strong>Libnah</strong> і <strong>fight</strong> з <strong>Libnah</strong> 
+Joshua 10:30 (6096) і даць Існы таксама|нават [В.с.] у|[Тв.с.] рука Ісраэль і [В.с.] цар і <strong>strike</strong> да|[Д.с.] рот <strong>dagger</strong> і [В.с.] цэлы|увесь [арт.] душа які у|[Тв.с.] не пакідаць у|[Тв.с.] выжыўшы і рабіць да|[Д.с.] цар як які рабіць да|[Д.с.] цар <strong>Jericho</strong> ס
+Joshua 10:31 (6097) і перайсці <strong>Joshua</strong> і цэлы|увесь Ісраэль з з <strong>Libnah</strong> <strong>Lachish</strong> і <strong>encamp</strong> на і <strong>fight</strong> у|[Тв.с.] 
+Joshua 10:32 (6098) і даць Існы [В.с.] <strong>Lachish</strong> у|[Тв.с.] рука Ісраэль і <strong>seize</strong> у|[Тв.с.] [арт.] дзень [арт.] другі і <strong>strike</strong> да|[Д.с.] рот <strong>dagger</strong> і [В.с.] цэлы|увесь [арт.] душа які у|[Тв.с.] як цэлы|увесь які рабіць да|[Д.с.] <strong>Libnah</strong> פ
+Joshua 10:33 (6099) тады падымацца <strong>Horam</strong> цар <strong>Gezer</strong> да|[Д.с.] <strong>help</strong> [В.с.] <strong>Lachish</strong> і <strong>strike</strong> <strong>Joshua</strong> і [В.с.] народ (ажно) да <strong>failure</strong> пакідаць да|[Д.с.] выжыўшы 
+Joshua 10:34 (6100) і перайсці <strong>Joshua</strong> і цэлы|увесь Ісраэль з з <strong>Lachish</strong> <strong>Eglon</strong> і <strong>encamp</strong> на і <strong>fight</strong> на 
+Joshua 10:35 (6101) і <strong>seize</strong> у|[Тв.с.] [арт.] дзень [арт.] ён і <strong>strike</strong> да|[Д.с.] рот <strong>dagger</strong> і [В.с.] цэлы|увесь [арт.] душа які у|[Тв.с.] у|[Тв.с.] [арт.] дзень [арт.] ён <strong>consecrate</strong> як цэлы|увесь які рабіць да|[Д.с.] <strong>Lachish</strong> פ
+Joshua 10:36 (6102) і падымацца <strong>Joshua</strong> і цэлы|увесь Ісраэль з з <strong>Eglon</strong> <strong>Hebron</strong> і <strong>fight</strong> на 
+Joshua 10:37 (6103) і <strong>seize</strong> і <strong>strike</strong> да|[Д.с.] рот <strong>dagger</strong> і [В.с.] цар і [В.с.] цэлы|увесь горад і [В.с.] цэлы|увесь [арт.] душа які у|[Тв.с.] не пакідаць выжыўшы як цэлы|увесь які рабіць да|[Д.с.] <strong>Eglon</strong> і <strong>consecrate</strong> [В.с.] і [В.с.] цэлы|увесь [арт.] душа які у|[Тв.с.] ס
+Joshua 10:38 (6104) і вяртацца <strong>Joshua</strong> і цэлы|увесь Ісраэль з <strong>Debir</strong> і <strong>fight</strong> на 
+Joshua 10:39 (6105) і <strong>seize</strong> і [В.с.] цар і [В.с.] цэлы|увесь горад і <strong>strike</strong> да|[Д.с.] рот <strong>dagger</strong> і <strong>consecrate</strong> [В.с.] цэлы|увесь душа які у|[Тв.с.] не пакідаць выжыўшы як які рабіць да|[Д.с.] <strong>Hebron</strong> так рабіць да|[Д.с.] <strong>Debir</strong> і да|[Д.с.] цар і як які рабіць да|[Д.с.] <strong>Libnah</strong> і да|[Д.с.] цар 
+Joshua 10:40 (6106) і <strong>strike</strong> <strong>Joshua</strong> [В.с.] цэлы|увесь [арт.] зямля [арт.] гара і [арт.] поўдзеь і [арт.] нізіна і [арт.] <strong>slope</strong> і [В.с.] цэлы|увесь цар не пакідаць выжыўшы і [В.с.] цэлы|увесь [арт.] <strong>breath</strong> <strong>consecrate</strong> як які <strong>command</strong> Існы Бог Ісраэль 
+Joshua 10:41 (6107) і <strong>strike</strong> <strong>Joshua</strong> з <strong>Kadesh Barnea</strong> і (ажно) да <strong>Gaza</strong> і [В.с.] цэлы|увесь зямля <strong>Goshen</strong> і (ажно) да <strong>Gibeon</strong> 
+Joshua 10:42 (6108) і [В.с.] цэлы|увесь [арт.] цар [арт.] гэтыя і [В.с.] зямля <strong>seize</strong> <strong>Joshua</strong> <strong>foot</strong> адзін бо|што Існы Бог Ісраэль <strong>fight</strong> да|[Д.с.] Ісраэль 
+Joshua 10:43 (6109) і вяртацца <strong>Joshua</strong> і цэлы|увесь Ісраэль з да [арт.] <strong>camp</strong> [арт.] <strong>Gilgal</strong> פ
+Joshua 11:1 (6110) і быць як чуць <strong>Jabin</strong> цар <strong>Hazor</strong> і слаць да <strong>[king]</strong> цар <strong>Madon</strong> і да цар <strong>Shimron</strong> і да цар <strong>Acshaph</strong> 
+Joshua 11:2 (6111) і да [арт.] цар які з поўнач у|[Тв.с.] [арт.] гара і у|[Тв.с.] [арт.] <strong>desert</strong> поўдзеь <strong>Kinnereth</strong> і у|[Тв.с.] [арт.] нізіна і у|[Тв.с.] <strong>yoke</strong> <strong>Dor</strong> з мора 
+Joshua 11:3 (6112) [арт.] канаанец з <strong>sunrise</strong> і з мора і [арт.] <strong>Amorite</strong> і [арт.] <strong>Hittite</strong> і [арт.] <strong>Perizzite</strong> і [арт.] <strong>Jebusite</strong> у|[Тв.с.] [арт.] гара і [арт.] <strong>Hivite</strong> пад <strong>Hermon</strong> у|[Тв.с.] зямля [арт.] <strong>Mizpah</strong> 
+Joshua 11:4 (6113) і выйсці яны [ж.] і цэлы|увесь <strong>camp</strong> з народ шматлікі як [арт.] <strong>sand</strong> які на губа [арт.] мора да|[Д.с.] шматлікасць і конь і <strong>chariot</strong> шматлікі вельмі 
+Joshua 11:5 (6114) і <strong>appoint</strong> цэлы|увесь [арт.] цар [арт.] гэтыя і прыйсці і <strong>encamp</strong> <strong>together</strong> да вада <strong>Merom</strong> да|[Д.с.] <strong>fight</strong> з Ісраэль פ
+Joshua 11:6 (6115) і казаць Існы да <strong>Joshua</strong> не [+заг.лад] баяцца з твар бо|што <strong>next day</strong> як [арт.] момант [арт.] <strong>this</strong> <strong>i</strong> даць [В.с.] цэлы|увесь <strong>pierced</strong> да|[Д.с.] твар Ісраэль [В.с.] конь <strong>root up</strong> і [В.с.] <strong>chariot</strong> <strong>burn</strong> у|[Тв.с.] [арт.] агонь 
+Joshua 11:7 (6116) і прыйсці <strong>Joshua</strong> і цэлы|увесь народ [арт.] вайна з на на вада <strong>Merom</strong> раптам і падаць у|[Тв.с.] 
+Joshua 11:8 (6117) і даць Існы у|[Тв.с.] рука Ісраэль і <strong>strike</strong> і <strong>pursue</strong> (ажно) да <strong>Sidon</strong> шматлікі і (ажно) да <strong>Misrephoth Maim</strong> і (ажно) да <strong>valley</strong> <strong>Mizpeh</strong> <strong>sunrise</strong> і <strong>strike</strong> (ажно) да <strong>failure</strong> пакідаць да|[Д.с.] выжыўшы 
+Joshua 11:9 (6118) і рабіць да|[Д.с.] <strong>Joshua</strong> як які казаць да|[Д.с.] Існы [В.с.] конь <strong>root up</strong> і [В.с.] <strong>chariot</strong> <strong>burn</strong> у|[Тв.с.] [арт.] агонь ס
+Joshua 11:10 (6119) і вяртацца <strong>Joshua</strong> у|[Тв.с.] [арт.] момант [арт.] яна і <strong>seize</strong> [В.с.] <strong>Hazor</strong> і [В.с.] цар <strong>strike</strong> у|[Тв.с.] [арт.] <strong>dagger</strong> бо|што <strong>Hazor</strong> да|[Д.с.] твар яна галава цэлы|увесь [арт.] <strong>kingdom</strong> [арт.] гэтыя 
+Joshua 11:11 (6120) і <strong>strike</strong> [В.с.] цэлы|увесь [арт.] душа які у|[Тв.с.] да|[Д.с.] рот <strong>dagger</strong> <strong>consecrate</strong> не <strong>remain</strong> цэлы|увесь <strong>breath</strong> і [В.с.] <strong>Hazor</strong> <strong>burn</strong> у|[Тв.с.] [арт.] агонь 
+Joshua 11:12 (6121) і [В.с.] цэлы|увесь горад [арт.] цар [арт.] гэтыя і [В.с.] цэлы|увесь цар <strong>seize</strong> <strong>Joshua</strong> і <strong>strike</strong> да|[Д.с.] рот <strong>dagger</strong> <strong>consecrate</strong> [В.с.] як які <strong>command</strong> Майсей слуга Існы 
+Joshua 11:13 (6122) <strong>only</strong> цэлы|увесь [арт.] горад [арт.] стаяць на <strong>mound</strong> не <strong>burn</strong> Ісраэль <strong>except</strong> [В.с.] <strong>Hazor</strong> да|[Д.с.] частка <strong>burn</strong> <strong>Joshua</strong> 
+Joshua 11:14 (6123) і цэлы|увесь <strong>plunder</strong> [арт.] горад [арт.] гэтыя і [арт.] звяры <strong>spoil</strong> да|[Д.с.] сын Ісраэль <strong>only</strong> [В.с.] цэлы|увесь [арт.] чалавек (від) <strong>strike</strong> да|[Д.с.] рот <strong>dagger</strong> (ажно) да <strong>destroy</strong> [В.с.] не пакідаць цэлы|увесь <strong>breath</strong> 
+Joshua 11:15 (6124) як які <strong>command</strong> Існы [В.с.] Майсей слуга так <strong>command</strong> Майсей [В.с.] <strong>Joshua</strong> і так рабіць <strong>Joshua</strong> не збочыць слова|рэч з цэлы|увесь які <strong>command</strong> Існы [В.с.] Майсей 
+Joshua 11:16 (6125) і браць <strong>Joshua</strong> [В.с.] цэлы|увесь [арт.] зямля [арт.] <strong>this</strong> [арт.] гара і [В.с.] цэлы|увесь [арт.] поўдзеь і [В.с.] цэлы|увесь зямля [арт.] <strong>Goshen</strong> і [В.с.] [арт.] нізіна і [В.с.] [арт.] <strong>desert</strong> і [В.с.] гара Ісраэль і нізіна 
+Joshua 11:17 (6126) з [арт.] гара [арт.] <strong>smooth</strong> [арт.] падымацца <strong>Seir</strong> і (ажно) да <strong>Baal Gad</strong> у|[Тв.с.] <strong>valley</strong> [арт.] <strong>Lebanon</strong> пад гара <strong>Hermon</strong> і [В.с.] цэлы|увесь цар <strong>seize</strong> і <strong>strike</strong> і паміраць 
+Joshua 11:18 (6127) дзень шматлікі рабіць <strong>Joshua</strong> разам з цэлы|увесь [арт.] цар [арт.] гэтыя вайна 
+Joshua 11:19 (6128) не быць горад які <strong>be complete</strong> да сын Ісраэль <strong>failure</strong> [арт.] <strong>Hivite</strong> сядзець <strong>Gibeon</strong> [В.с.] [арт.] цэлы|увесь браць у|[Тв.с.] [арт.] вайна 
+Joshua 11:20 (6129) бо|што з разам з Існы быць да|[Д.с.] <strong>be strong</strong> [В.с.] сэрца да|[Д.с.] <strong>encounter</strong> [арт.] вайна разам з Ісраэль з-за <strong>consecrate</strong> да|[Д.с.] <strong>failure</strong> быць да|[Д.с.] <strong>supplication</strong> бо|што з-за <strong>destroy</strong> як які <strong>command</strong> Існы [В.с.] Майсей ס
+Joshua 11:21 (6130) і прыйсці <strong>Joshua</strong> у|[Тв.с.] [арт.] момант [арт.] яна і выразаць [В.с.] [арт.] <strong>neck</strong> з [арт.] гара з <strong>Hebron</strong> з <strong>Debir</strong> з <strong>Anab</strong> і з цэлы|увесь гара Егуда і з цэлы|увесь гара Ісраэль з горад <strong>consecrate</strong> <strong>Joshua</strong> 
+Joshua 11:22 (6131) не <strong>remain</strong> <strong>neck</strong> у|[Тв.с.] зямля сын Ісраэль <strong>only</strong> у|[Тв.с.] <strong>Gaza</strong> у|[Тв.с.] <strong>Gath</strong> і у|[Тв.с.] <strong>Ashdod</strong> пакідаць 
+Joshua 11:23 (6132) і браць <strong>Joshua</strong> [В.с.] цэлы|увесь [арт.] зямля як цэлы|увесь які гаварыць Існы да Майсей і даць <strong>Joshua</strong> да|[Д.с.] уласнасць да|[Д.с.] Ісраэль як <strong>division</strong> да|[Д.с.] <strong>rod</strong> і [арт.] зямля <strong>be at peace</strong> з вайна פ
+Joshua 12:1 (6133) і гэтыя цар [арт.] зямля які <strong>strike</strong> сын Ісраэль і заўладаць [В.с.] зямля у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> <strong>sunrise</strong> [арт.] сонца з <strong>wadi</strong> <strong>Arnon</strong> (ажно) да гара <strong>Hermon</strong> і цэлы|увесь [арт.] <strong>desert</strong> <strong>sunrise</strong> 
+Joshua 12:2 (6134) <strong>Sihon</strong> цар [арт.] <strong>Amorite</strong> [арт.] сядзець у|[Тв.с.] <strong>Heshbon</strong> <strong>rule</strong> з <strong>Aroer</strong> які на губа <strong>wadi</strong> <strong>Arnon</strong> і <strong>midst</strong> [арт.] <strong>wadi</strong> і <strong>half</strong> [арт.] Гіл’ад і (ажно) да <strong>Jabbok</strong> [арт.] <strong>wadi</strong> мяжа сын <strong>Ammon</strong> 
+Joshua 12:3 (6135) і [арт.] <strong>desert</strong> (ажно) да мора <strong>Kinnereth</strong> <strong>sunrise</strong> і (ажно) да мора [арт.] <strong>desert</strong> мора [арт.] <strong>salt</strong> <strong>sunrise</strong> шлях <strong>Beth Jeshimoth</strong> і з <strong>south</strong> пад <strong>slope</strong> [арт.] <strong>Pisgah</strong> 
+Joshua 12:4 (6136) і мяжа <strong>Og</strong> цар [арт.] <strong>Bashan</strong> з <strong>remainder</strong> [арт.] <strong>Rephaim</strong> [арт.] сядзець у|[Тв.с.] <strong>Ashtaroth</strong> і у|[Тв.с.] <strong>Edrei</strong> 
+Joshua 12:5 (6137) і <strong>rule</strong> у|[Тв.с.] гара <strong>Hermon</strong> і у|[Тв.с.] <strong>Salecah</strong> і у|[Тв.с.] цэлы|увесь [арт.] <strong>Bashan</strong> (ажно) да мяжа [арт.] <strong>Geshurite</strong> і [арт.] <strong>Maacathite</strong> і <strong>half</strong> [арт.] Гіл’ад мяжа <strong>Sihon</strong> цар <strong>Heshbon</strong> 
+Joshua 12:6 (6138) Майсей слуга Існы і сын Ісраэль <strong>strike</strong> і даць Майсей слуга Існы <strong>possession</strong> да|[Д.с.] [арт.] <strong>Reubenite</strong> і да|[Д.с.] [арт.] <strong>Gadite</strong> і да|[Д.с.] <strong>half</strong> <strong>rod</strong> [арт.] <strong>Manasseh</strong> ס
+Joshua 12:7 (6139) і гэтыя цар [арт.] зямля які <strong>strike</strong> <strong>Joshua</strong> і сын Ісраэль у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> мора з <strong>Baal Gad</strong> у|[Тв.с.] <strong>valley</strong> [арт.] <strong>Lebanon</strong> і (ажно) да [арт.] гара [арт.] <strong>smooth</strong> [арт.] падымацца <strong>Seir</strong> і даць <strong>Joshua</strong> да|[Д.с.] <strong>rod</strong> Ісраэль <strong>possession</strong> як <strong>division</strong> 
+Joshua 12:8 (6140) у|[Тв.с.] [арт.] гара і у|[Тв.с.] [арт.] нізіна і у|[Тв.с.] [арт.] <strong>desert</strong> і у|[Тв.с.] [арт.] <strong>slope</strong> і у|[Тв.с.] [арт.] <strong>desert</strong> і у|[Тв.с.] [арт.] поўдзеь [арт.] <strong>Hittite</strong> [арт.] <strong>Amorite</strong> і [арт.] канаанец [арт.] <strong>Perizzite</strong> [арт.] <strong>Hivite</strong> і [арт.] <strong>Jebusite</strong> פ
+Joshua 12:9 (6141) цар <strong>Jericho</strong> адзін цар [арт.] <strong>Ai</strong> які з <strong>side</strong> <strong>Bethel</strong> адзін 
+Joshua 12:10 (6142) цар Ерусалім адзін цар <strong>Hebron</strong> адзін 
+Joshua 12:11 (6143) цар <strong>Jarmuth</strong> адзін цар <strong>Lachish</strong> адзін 
+Joshua 12:12 (6144) цар <strong>Eglon</strong> адзін цар <strong>Gezer</strong> адзін 
+Joshua 12:13 (6145) цар <strong>Debir</strong> адзін цар <strong>Geder</strong> адзін 
+Joshua 12:14 (6146) цар <strong>Hormah</strong> адзін цар <strong>Arad</strong> адзін 
+Joshua 12:15 (6147) цар <strong>Libnah</strong> адзін цар <strong>Adullam</strong> адзін 
+Joshua 12:16 (6148) цар <strong>Makkedah</strong> адзін цар <strong>Bethel</strong> адзін 
+Joshua 12:17 (6149) цар <strong>Tappuah</strong> адзін цар <strong>Hepher</strong> адзін 
+Joshua 12:18 (6150) цар <strong>Aphek</strong> адзін цар да|[Д.с.] [арт.] <strong>Sharon</strong> адзін 
+Joshua 12:19 (6151) цар <strong>Madon</strong> адзін цар <strong>Hazor</strong> адзін 
+Joshua 12:20 (6152) цар <strong>Shimron Meron</strong> адзін цар <strong>Acshaph</strong> адзін 
+Joshua 12:21 (6153) цар <strong>Taanach</strong> адзін цар <strong>Megiddo</strong> адзін 
+Joshua 12:22 (6154) цар <strong>Kedesh</strong> адзін цар <strong>Jokneam</strong> да|[Д.с.] [арт.] <strong>Carmel</strong> адзін 
+Joshua 12:23 (6155) цар <strong>Dor</strong> да|[Д.с.] <strong>yoke</strong> <strong>Dor</strong> адзін цар <strong>Goyim</strong> да|[Д.с.] <strong>Gilgal</strong> адзін 
+Joshua 12:24 (6156) цар <strong>Tirzah</strong> адзін цэлы|увесь цар <strong>three</strong> і адзін פ
+Joshua 13:1 (6157) і <strong>Joshua</strong> <strong>be old</strong> прыйсці у|[Тв.с.] [арт.] дзень і казаць Існы да ты[м.] <strong>be old</strong> прыйсці у|[Тв.с.] [арт.] дзень і [арт.] зямля пакідаць шмат вельмі да|[Д.с.] заўладаць 
+Joshua 13:2 (6158) <strong>this</strong> [арт.] зямля [арт.] пакідаць цэлы|увесь <strong>region</strong> [арт.] філістынец і цэлы|увесь [арт.] <strong>Geshurite</strong> 
+Joshua 13:3 (6159) з [арт.] <strong>Shihor</strong> які на твар <strong>Egypt</strong> і (ажно) да мяжа <strong>Ekron</strong> поўнач да|[Д.с.] [арт.] канаанец <strong>account</strong> <strong>five</strong> <strong>lords</strong> філістынец [арт.] <strong>from Gaza</strong> і [арт.] <strong>from Ashdod</strong> [арт.] <strong>Ashkelonite</strong> [арт.] <strong>Gittite</strong> і [арт.] <strong>from Ekron</strong> і [арт.] <strong>Avvim</strong> 
+Joshua 13:4 (6160) з <strong>south</strong> цэлы|увесь зямля [арт.] канаанец і <strong>Mearah</strong> які да|[Д.с.] [арт.] <strong>Sidonian</strong> (ажно) да <strong>Aphek</strong> (ажно) да мяжа [арт.] <strong>Amorite</strong> 
+Joshua 13:5 (6161) і [арт.] зямля [арт.] <strong>Gebalite</strong> і цэлы|увесь [арт.] <strong>Lebanon</strong> <strong>sunrise</strong> [арт.] сонца з <strong>Baal Gad</strong> пад гара <strong>Hermon</strong> (ажно) да да|[Д.с.] прыйсці <strong>Hamath</strong> 
+Joshua 13:6 (6162) цэлы|увесь сядзець [арт.] гара з [арт.] <strong>Lebanon</strong> (ажно) да <strong>Misrephoth Maim</strong> цэлы|увесь <strong>Sidonian</strong> <strong>i</strong> заўладаць з твар сын Ісраэль <strong>only</strong> падаць да|[Д.с.] Ісраэль у|[Тв.с.] уласнасць як які <strong>command</strong> 
+Joshua 13:7 (6163) і <strong>now</strong> <strong>divide</strong> [В.с.] [арт.] зямля [арт.] <strong>this</strong> у|[Тв.с.] уласнасць да|[Д.с.] <strong>nine</strong> [арт.] <strong>rod</strong> і <strong>half</strong> [арт.] <strong>rod</strong> [арт.] <strong>Manasseh</strong> 
+Joshua 13:8 (6164) з [арт.] <strong>Reubenite</strong> і [арт.] <strong>Gadite</strong> браць уласнасць які даць да|[Д.с.] Майсей у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> <strong>sunrise</strong> як які даць да|[Д.с.] Майсей слуга Існы 
+Joshua 13:9 (6165) з <strong>Aroer</strong> які на губа <strong>wadi</strong> <strong>Arnon</strong> і [арт.] горад які у|[Тв.с.] <strong>midst</strong> [арт.] <strong>wadi</strong> і цэлы|увесь [арт.] <strong>fairness</strong> <strong>Medeba</strong> (ажно) да <strong>Dibon</strong> 
+Joshua 13:10 (6166) і цэлы|увесь горад <strong>Sihon</strong> цар [арт.] <strong>Amorite</strong> які цараваць у|[Тв.с.] <strong>Heshbon</strong> (ажно) да мяжа сын <strong>Ammon</strong> 
+Joshua 13:11 (6167) і [арт.] Гіл’ад і мяжа [арт.] <strong>Geshurite</strong> і [арт.] <strong>Maacathite</strong> і цэлы|увесь гара <strong>Hermon</strong> і цэлы|увесь [арт.] <strong>Bashan</strong> (ажно) да <strong>Salecah</strong> 
+Joshua 13:12 (6168) цэлы|увесь <strong>kingdom</strong> <strong>Og</strong> у|[Тв.с.] [арт.] <strong>Bashan</strong> які цараваць у|[Тв.с.] <strong>Ashtaroth</strong> і у|[Тв.с.] <strong>Edrei</strong> ён пакідаць з <strong>remainder</strong> [арт.] <strong>Rephaim</strong> і <strong>strike</strong> Майсей і заўладаць 
+Joshua 13:13 (6169) і не заўладаць сын Ісраэль [В.с.] [арт.] <strong>Geshurite</strong> і [В.с.] [арт.] <strong>Maacathite</strong> і сядзець <strong>Geshur</strong> і <strong>Maacath</strong> у|[Тв.с.] <strong>interior</strong> Ісраэль (ажно) да [арт.] дзень [арт.] гэты 
+Joshua 13:14 (6170) <strong>only</strong> да|[Д.с.] <strong>rod</strong> [арт.] <strong>Levite</strong> не даць уласнасць <strong>fire offering</strong> Існы Бог Ісраэль ён уласнасць як які гаварыць да|[Д.с.] ס
+Joshua 13:15 (6171) і даць Майсей да|[Д.с.] <strong>staff</strong> сын <strong>Reuben</strong> да|[Д.с.] <strong>clan</strong> 
+Joshua 13:16 (6172) і быць да|[Д.с.] [арт.] мяжа з <strong>Aroer</strong> які на губа <strong>wadi</strong> <strong>Arnon</strong> і [арт.] горад які у|[Тв.с.] <strong>midst</strong> [арт.] <strong>wadi</strong> і цэлы|увесь [арт.] <strong>fairness</strong> на <strong>Medeba</strong> 
+Joshua 13:17 (6173) <strong>Heshbon</strong> і цэлы|увесь горад які у|[Тв.с.] [арт.] <strong>fairness</strong> <strong>Dibon</strong> і <strong>Bamoth Baal</strong> і <strong>Baal Meon</strong> 
+Joshua 13:18 (6174) і <strong>Jahzah</strong> і <strong>Kedemoth</strong> і <strong>Mephaath</strong> 
+Joshua 13:19 (6175) і <strong>Kiriathaim</strong> і <strong>Sibmah</strong> і <strong>Zereth Shahar</strong> у|[Тв.с.] гара [арт.] <strong>valley</strong> 
+Joshua 13:20 (6176) і <strong>Beth Peor</strong> і <strong>slope</strong> [арт.] <strong>Pisgah</strong> і <strong>Beth Jeshimoth</strong> 
+Joshua 13:21 (6177) і цэлы|увесь горад [арт.] <strong>fairness</strong> і цэлы|увесь <strong>kingdom</strong> <strong>Sihon</strong> цар [арт.] <strong>Amorite</strong> які цараваць у|[Тв.с.] <strong>Heshbon</strong> які <strong>strike</strong> Майсей [В.с.] і [В.с.] <strong>chief</strong> <strong>Midian</strong> [В.с.] <strong>Evi</strong> і [В.с.] <strong>Rekem</strong> і [В.с.] <strong>Zur</strong> і [В.с.] <strong>Hur</strong> і [В.с.] <strong>Reba</strong> <strong>leader</strong> <strong>Sihon</strong> сядзець [арт.] зямля 
+Joshua 13:22 (6178) і [В.с.] <strong>[prophet]</strong> сын <strong>Beor</strong> [арт.] <strong>practice divination</strong> <strong>kill</strong> сын Ісраэль у|[Тв.с.] [арт.] <strong>dagger</strong> да <strong>pierced</strong> 
+Joshua 13:23 (6179) і быць мяжа сын <strong>Reuben</strong> [арт.] <strong>Jordan</strong> і мяжа <strong>this</strong> уласнасць сын <strong>Reuben</strong> да|[Д.с.] <strong>clan</strong> [арт.] горад і <strong>court</strong> פ
+Joshua 13:24 (6180) і даць Майсей да|[Д.с.] <strong>staff</strong> <strong>Gad</strong> да|[Д.с.] сын <strong>Gad</strong> да|[Д.с.] <strong>clan</strong> 
+Joshua 13:25 (6181) і быць да|[Д.с.] [арт.] мяжа <strong>Jazer</strong> і цэлы|увесь горад [арт.] Гіл’ад і <strong>half</strong> зямля сын <strong>Ammon</strong> (ажно) да <strong>Aroer</strong> які на твар <strong>Rabbah</strong> 
+Joshua 13:26 (6182) і з <strong>Heshbon</strong> (ажно) да <strong>high place</strong> [арт.] <strong>watch-tower</strong> і <strong>Betonim</strong> і з <strong>Mahanaim</strong> (ажно) да мяжа <strong>Debir</strong> 
+Joshua 13:27 (6183) і у|[Тв.с.] [арт.] <strong>valley</strong> <strong>Beth Haram</strong> і <strong>Beth Nimrah</strong> і <strong>Succoth</strong> і <strong>Zaphon</strong> <strong>remainder</strong> <strong>kingdom</strong> <strong>Sihon</strong> цар <strong>Heshbon</strong> [арт.] <strong>Jordan</strong> і мяжа (ажно) да <strong>end</strong> мора <strong>Kinnereth</strong> <strong>opposite</strong> [арт.] <strong>Jordan</strong> <strong>sunrise</strong> 
+Joshua 13:28 (6184) <strong>this</strong> уласнасць сын <strong>Gad</strong> да|[Д.с.] <strong>clan</strong> [арт.] горад і <strong>court</strong> 
+Joshua 13:29 (6185) і даць Майсей да|[Д.с.] <strong>half</strong> <strong>rod</strong> <strong>Manasseh</strong> і быць да|[Д.с.] <strong>half</strong> <strong>staff</strong> сын <strong>Manasseh</strong> да|[Д.с.] <strong>clan</strong> 
+Joshua 13:30 (6186) і быць мяжа з <strong>Mahanaim</strong> цэлы|увесь [арт.] <strong>Bashan</strong> цэлы|увесь <strong>kingdom</strong> <strong>Og</strong> цар [арт.] <strong>Bashan</strong> і цэлы|увесь <strong>tent camp</strong> <strong>Jair</strong> які у|[Тв.с.] [арт.] <strong>Bashan</strong> <strong>six</strong> горад 
+Joshua 13:31 (6187) і <strong>half</strong> [арт.] Гіл’ад і <strong>Ashtaroth</strong> і <strong>Edrei</strong> горад <strong>kingdom</strong> <strong>Og</strong> у|[Тв.с.] [арт.] <strong>Bashan</strong> да|[Д.с.] сын <strong>Makir</strong> сын <strong>Manasseh</strong> да|[Д.с.] <strong>half</strong> сын <strong>Makir</strong> да|[Д.с.] <strong>clan</strong> 
+Joshua 13:32 (6188) гэтыя які <strong>take possession</strong> Майсей у|[Тв.с.] <strong>desert</strong> <strong>Moab</strong> з <strong>opposite</strong> да|[Д.с.] <strong>Jordan</strong> <strong>Jericho</strong> <strong>sunrise</strong> ס
+Joshua 13:33 (6189) і да|[Д.с.] <strong>rod</strong> [арт.] <strong>Levite</strong> не даць Майсей уласнасць Існы Бог Ісраэль ён уласнасць як які гаварыць да|[Д.с.] 
+Joshua 14:1 (6190) і гэтыя які <strong>take possession</strong> сын Ісраэль у|[Тв.с.] зямля <strong>Canaan</strong> які <strong>take possession</strong> [В.с.] <strong>Eleazar</strong> [арт.] <strong>priest</strong> і <strong>Joshua</strong> сын <strong>Nun</strong> і галава бацька [арт.] <strong>staff</strong> да|[Д.с.] сын Ісраэль 
+Joshua 14:2 (6191) у|[Тв.с.] лёс|доля уласнасць як які <strong>command</strong> Існы у|[Тв.с.] рука Майсей да|[Д.с.] <strong>nine</strong> [арт.] <strong>staff</strong> і <strong>half</strong> [арт.] <strong>staff</strong> 
+Joshua 14:3 (6192) бо|што даць Майсей уласнасць два [арт.] <strong>staff</strong> і <strong>half</strong> [арт.] <strong>staff</strong> з <strong>opposite</strong> да|[Д.с.] [арт.] <strong>Jordan</strong> і да|[Д.с.] [арт.] <strong>Levite</strong> не даць уласнасць у|[Тв.с.] <strong>midst</strong> 
+Joshua 14:4 (6193) бо|што быць сын Ёсэ́ф два <strong>staff</strong> <strong>Manasseh</strong> і Эфраі́м і не даць частка да|[Д.с.] [арт.] <strong>Levite</strong> у|[Тв.с.] [арт.] зямля бо|што калі[зл.] горад да|[Д.с.] сядзець і <strong>pasture</strong> да|[Д.с.] набыццё і да|[Д.с.] <strong>property</strong> 
+Joshua 14:5 (6194) як які <strong>command</strong> Існы [В.с.] Майсей так рабіць сын Ісраэль і <strong>divide</strong> [В.с.] [арт.] зямля פ
+Joshua 14:6 (6195) і <strong>approach</strong> сын Егуда да <strong>Joshua</strong> у|[Тв.с.] [арт.] <strong>Gilgal</strong> і казаць да <strong>Caleb</strong> сын <strong>Jephunneh</strong> [арт.] <strong>Kenizzite</strong> ты[м.] ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] [арт.] слова|рэч які гаварыць Існы да Майсей чалавек (1) [арт.] Бог на <strong>inducement</strong> і на <strong>inducement</strong> у|[Тв.с.] <strong>Kadesh Barnea</strong> 
+Joshua 14:7 (6196) сын <strong>four</strong> год <strong>i</strong> у|[Тв.с.] слаць Майсей слуга Існы [В.с.] з <strong>Kadesh Barnea</strong> да|[Д.с.] <strong>slander</strong> [В.с.] [арт.] зямля і вяртацца [В.с.] слова|рэч як які з сэрца 
+Joshua 14:8 (6197) і брат які падымацца з <strong>melt</strong> [В.с.] сэрца [арт.] народ і <strong>i</strong> поўніцца пасля Існы Бог 
+Joshua 14:9 (6198) і <strong>swear</strong> Майсей у|[Тв.с.] [арт.] дзень [арт.] ён да|[Д.с.] казаць калі[зл.] не [арт.] зямля які <strong>tread</strong> нага у|[Тв.с.] да|[Д.с.] быць да|[Д.с.] уласнасць і да|[Д.с.] сын (ажно) да свет|вечнасць бо|што поўніцца пасля Існы Бог 
+Joshua 14:10 (6199) і <strong>now</strong> вось жыць Існы [В.с.] як які гаварыць гэты <strong>four</strong> і <strong>five</strong> год з тады гаварыць Існы [В.с.] [арт.] слова|рэч [арт.] гэты да Майсей які хадзіць Ісраэль у|[Тв.с.] [арт.] <strong>desert</strong> і <strong>now</strong> вось <strong>i</strong> [арт.] дзень сын <strong>five</strong> і восем год 
+Joshua 14:11 (6200) яшчэ [арт.] дзень <strong>strong</strong> як які у|[Тв.с.] дзень слаць [В.с.] Майсей як сіла тады і як сіла <strong>now</strong> да|[Д.с.] [арт.] вайна і да|[Д.с.] выйсці і да|[Д.с.] прыйсці 
+Joshua 14:12 (6201) і <strong>now</strong> даць да|[Д.с.] [В.с.] [арт.] гара [арт.] гэты які гаварыць Існы у|[Тв.с.] [арт.] дзень [арт.] ён бо|што ты[м.] чуць у|[Тв.с.] [арт.] дзень [арт.] ён бо|што <strong>neck</strong> там і горад вялікі <strong>fortified</strong> <strong>perhaps</strong> Існы [В.с.] і заўладаць як які гаварыць Існы 
+Joshua 14:13 (6202) і <strong>bless</strong> <strong>Joshua</strong> і даць [В.с.] <strong>Hebron</strong> да|[Д.с.] <strong>Caleb</strong> сын <strong>Jephunneh</strong> да|[Д.с.] уласнасць 
+Joshua 14:14 (6203) на так быць <strong>Hebron</strong> да|[Д.с.] <strong>Caleb</strong> сын <strong>Jephunneh</strong> [арт.] <strong>Kenizzite</strong> да|[Д.с.] уласнасць (ажно) да [арт.] дзень [арт.] гэты <strong>motive</strong> які поўніцца пасля Існы Бог Ісраэль 
+Joshua 14:15 (6204) і імя <strong>Hebron</strong> да|[Д.с.] твар <strong>Kiriath Arba</strong> [арт.] чалавек (від) [арт.] вялікі у|[Тв.с.] [арт.] <strong>neck</strong> ён і [арт.] зямля <strong>be at peace</strong> з вайна פ
+Joshua 15:1 (6205) і быць [арт.] лёс|доля да|[Д.с.] <strong>staff</strong> сын Егуда да|[Д.с.] <strong>clan</strong> да мяжа Эдом <strong>desert</strong> <strong>Zin</strong> поўдзеь з <strong>end</strong> <strong>south</strong> 
+Joshua 15:2 (6206) і быць да|[Д.с.] мяжа поўдзеь з <strong>end</strong> мора [арт.] <strong>salt</strong> з [арт.] язык [арт.] <strong>turn</strong> поўдзеь 
+Joshua 15:3 (6207) і выйсці да з поўдзеь да|[Д.с.] <strong>Scorpion Pass</strong> і перайсці <strong>Zin</strong> і падымацца з поўдзеь да|[Д.с.] <strong>Kadesh Barnea</strong> і перайсці <strong>Hezron</strong> і падымацца <strong>[town]</strong> і <strong>turn</strong> [арт.] <strong>Karka</strong> 
+Joshua 15:4 (6208) і перайсці <strong>Azmon</strong> і выйсці <strong>wadi</strong> <strong>Egypt</strong> і быць <strong>outlets</strong> [арт.] мяжа мора гэты быць да|[Д.с.] мяжа поўдзеь 
+Joshua 15:5 (6209) і мяжа <strong>front</strong> мора [арт.] <strong>salt</strong> (ажно) да <strong>end</strong> [арт.] <strong>Jordan</strong> і мяжа да|[Д.с.] <strong>corner</strong> поўнач з язык [арт.] мора з <strong>end</strong> [арт.] <strong>Jordan</strong> 
+Joshua 15:6 (6210) і падымацца [арт.] мяжа <strong>Beth Hoglah</strong> і перайсці з поўнач да|[Д.с.] <strong>Beth Arabah</strong> і падымацца [арт.] мяжа камень <strong>Bohan</strong> сын <strong>Reuben</strong> 
+Joshua 15:7 (6211) і падымацца [арт.] мяжа <strong>Debir</strong> з <strong>valley</strong> <strong>Achor</strong> і поўнач <strong>turn</strong> да [арт.] <strong>Gilgal</strong> які <strong>straightness</strong> да|[Д.с.] <strong>the Pass of Adummim</strong> які з поўдзеь да|[Д.с.] [арт.] <strong>wadi</strong> і перайсці [арт.] мяжа да вада <strong>En Shemesh</strong> і быць <strong>outlets</strong> да <strong>En Rogel</strong> 
+Joshua 15:8 (6212) і падымацца [арт.] мяжа <strong>valley</strong> <strong>the Valley of Ben Hinnom</strong> да <strong>shoulder</strong> [арт.] <strong>Jebusite</strong> з поўдзеь яна Ерусалім і падымацца [арт.] мяжа да галава [арт.] гара які на твар <strong>valley</strong> <strong>Hinnom</strong> мора які у|[Тв.с.] <strong>end</strong> <strong>valley</strong> <strong>[valley]</strong> поўнач 
+Joshua 15:9 (6213) і <strong>turn</strong> [арт.] мяжа з галава [арт.] гара да <strong>well</strong> вада <strong>Nephtoah</strong> і выйсці да горад гара <strong>Ephron</strong> і <strong>turn</strong> [арт.] мяжа <strong>Baalah</strong> яна <strong>Kiriath Jearim</strong> 
+Joshua 15:10 (6214) і <strong>turn</strong> [арт.] мяжа з <strong>Baalah</strong> мора да гара <strong>Seir</strong> і перайсці да <strong>shoulder</strong> гара <strong>Jearim</strong> з поўнач яна <strong>Kesalon</strong> і апускацца <strong>Beth Shemesh</strong> і перайсці <strong>Timnah</strong> 
+Joshua 15:11 (6215) і выйсці [арт.] мяжа да <strong>shoulder</strong> <strong>Ekron</strong> поўнач і <strong>turn</strong> [арт.] мяжа <strong>Shikkeron</strong> і перайсці гара [арт.] <strong>Baalah</strong> і выйсці <strong>Jabneel</strong> і быць <strong>outlets</strong> [арт.] мяжа мора 
+Joshua 15:12 (6216) і мяжа мора [арт.] мора [арт.] вялікі і мяжа гэты мяжа сын Егуда вакол да|[Д.с.] <strong>clan</strong> 
+Joshua 15:13 (6217) і да|[Д.с.] <strong>Caleb</strong> сын <strong>Jephunneh</strong> даць частка у|[Тв.с.] <strong>midst</strong> сын Егуда да рот Існы да|[Д.с.] <strong>Joshua</strong> [В.с.] <strong>Kiriath Arba</strong> бацька [арт.] <strong>neck</strong> яна <strong>Hebron</strong> 
+Joshua 15:14 (6218) і заўладаць з там <strong>Caleb</strong> [В.с.] <strong>three</strong> сын [арт.] <strong>neck</strong> [В.с.] <strong>Sheshai</strong> і [В.с.] <strong>Ahiman</strong> і [В.с.] <strong>Talmai</strong> <strong>son</strong> [арт.] <strong>neck</strong> 
+Joshua 15:15 (6219) і падымацца з там да сядзець <strong>Debir</strong> і імя <strong>Debir</strong> да|[Д.с.] твар <strong>Kiriath Sepher</strong> 
+Joshua 15:16 (6220) і казаць <strong>Caleb</strong> які <strong>strike</strong> [В.с.] <strong>Kiriath Sepher</strong> і <strong>seize</strong> і даць да|[Д.с.] [В.с.] <strong>Acsah</strong> дачка да|[Д.с.] жанчына 
+Joshua 15:17 (6221) і <strong>seize</strong> <strong>Othniel</strong> сын <strong>Kenaz</strong> брат <strong>Caleb</strong> і даць да|[Д.с.] [В.с.] <strong>Acsah</strong> дачка да|[Д.с.] жанчына 
+Joshua 15:18 (6222) і быць у|[Тв.с.] прыйсці і <strong>incite</strong> да|[Д.с.] пытацца з разам з бацька поле і <strong>clap one's hand</strong> з на [арт.] <strong>he-ass</strong> і казаць да|[Д.с.] <strong>Caleb</strong> што да|[Д.с.] 
+Joshua 15:19 (6223) і казаць даць да|[Д.с.] <strong>blessing</strong> бо|што зямля [арт.] поўдзеь даць і даць да|[Д.с.] <strong>basin</strong> вада і даць да|[Д.с.] [В.с.] <strong>basin</strong> <strong>upper</strong> і [В.с.] <strong>basin</strong> <strong>lower</strong> פ
+Joshua 15:20 (6224) <strong>this</strong> уласнасць <strong>staff</strong> сын Егуда да|[Д.с.] <strong>clan</strong> 
+Joshua 15:21 (6225) і быць [арт.] горад з <strong>end</strong> да|[Д.с.] <strong>staff</strong> сын Егуда да мяжа Эдом у|[Тв.с.] [арт.] поўдзеь <strong>Kabzeel</strong> і <strong>Eder</strong> і <strong>Jagur</strong> 
+Joshua 15:22 (6226) і <strong>Kinah</strong> і <strong>Dimonah</strong> і <strong>Adadah</strong> 
+Joshua 15:23 (6227) і <strong>Kedesh</strong> і <strong>Hazor</strong> і <strong>Ithnan</strong> 
+Joshua 15:24 (6228) <strong>Ziph</strong> і <strong>Telem</strong> і <strong>Bealoth</strong> 
+Joshua 15:25 (6229) і <strong>Hazor Hadattah</strong> і <strong>Kerioth</strong> <strong>Hezron</strong> яна <strong>Hazor</strong> 
+Joshua 15:26 (6230) <strong>Amam</strong> і <strong>Shema</strong> і <strong>Moladah</strong> 
+Joshua 15:27 (6231) і <strong>Hazar Gaddah</strong> і <strong>Heshmon</strong> і <strong>Beth Pelet</strong> 
+Joshua 15:28 (6232) і <strong>Hazar Shual</strong> і <strong>well</strong> <strong>Sheba</strong> і <strong>Biziothiah</strong> 
+Joshua 15:29 (6233) <strong>Baalah</strong> і <strong>Iyim</strong> і <strong>Ezem</strong> 
+Joshua 15:30 (6234) і <strong>Eltolad</strong> і <strong>Kesil</strong> і <strong>Hormah</strong> 
+Joshua 15:31 (6235) і <strong>Ziklag</strong> і <strong>Madmannah</strong> і <strong>Sansannah</strong> 
+Joshua 15:32 (6236) і <strong>Lebaoth</strong> і <strong>Shilhim</strong> і <strong>En Rimmon</strong> цэлы|увесь горад <strong>twenty</strong> і <strong>nine</strong> і <strong>court</strong> ס
+Joshua 15:33 (6237) у|[Тв.с.] [арт.] нізіна <strong>Eshtaol</strong> і <strong>Zorah</strong> і <strong>Ashnah</strong> 
+Joshua 15:34 (6238) і <strong>Zanoah</strong> і <strong>En Gannim</strong> <strong>Tappuah</strong> і [арт.] <strong>Enam</strong> 
+Joshua 15:35 (6239) <strong>Jarmuth</strong> і <strong>Adullam</strong> <strong>Socoh</strong> і <strong>Azekah</strong> 
+Joshua 15:36 (6240) і <strong>Shaaraim</strong> і <strong>Adithaim</strong> і [арт.] <strong>Gederah</strong> і <strong>Gederothaim</strong> горад <strong>four</strong> <strong>-teen</strong> і <strong>court</strong> 
+Joshua 15:37 (6241) <strong>Zenan</strong> і <strong>Hadashah</strong> і <strong>Migdal Gad</strong> 
+Joshua 15:38 (6242) і <strong>Dilean</strong> і [арт.] <strong>Mizpeh</strong> і <strong>Joktheel</strong> 
+Joshua 15:39 (6243) <strong>Lachish</strong> і <strong>Bozkath</strong> і <strong>Eglon</strong> 
+Joshua 15:40 (6244) і <strong>Cabbon</strong> і <strong>Lahmas</strong> і <strong>Kitlish</strong> 
+Joshua 15:41 (6245) і <strong>Gederoth</strong> <strong>Beth Dagon</strong> і <strong>Naamah</strong> і <strong>Makkedah</strong> горад <strong>six</strong> <strong>-teen</strong> і <strong>court</strong> ס
+Joshua 15:42 (6246) <strong>Libnah</strong> і <strong>Ether</strong> і <strong>Ashan</strong> 
+Joshua 15:43 (6247) і <strong>Iphtah</strong> і <strong>Ashnah</strong> і <strong>Nezib</strong> 
+Joshua 15:44 (6248) і <strong>Keilah</strong> і <strong>Aczib</strong> і <strong>Mareshah</strong> горад <strong>nine</strong> і <strong>court</strong> 
+Joshua 15:45 (6249) <strong>Ekron</strong> і дачка і <strong>court</strong> 
+Joshua 15:46 (6250) з <strong>Ekron</strong> і мора цэлы|увесь які на рука <strong>Ashdod</strong> і <strong>court</strong> 
+Joshua 15:47 (6251) <strong>Ashdod</strong> дачка і <strong>court</strong> <strong>Gaza</strong> дачка і <strong>court</strong> (ажно) да <strong>wadi</strong> <strong>Egypt</strong> і [арт.] мора [арт.] вялікі і мяжа ס
+Joshua 15:48 (6252) і у|[Тв.с.] [арт.] гара <strong>Shamir</strong> і <strong>Jattir</strong> і <strong>Socoh</strong> 
+Joshua 15:49 (6253) і <strong>Dannah</strong> і <strong>Kiriath Sannah</strong> яна <strong>Debir</strong> 
+Joshua 15:50 (6254) і <strong>Anab</strong> і <strong>Eshtemoa</strong> і <strong>Anim</strong> 
+Joshua 15:51 (6255) і <strong>Goshen</strong> і <strong>Holon</strong> і <strong>Giloh</strong> горад адзін <strong>-teen</strong> і <strong>court</strong> 
+Joshua 15:52 (6256) <strong>Arab</strong> і <strong>Rumah</strong> і <strong>Eshan</strong> 
+Joshua 15:53 (6257) і <strong>Janim</strong> і <strong>Beth Tappuah</strong> і <strong>Aphekah</strong> 
+Joshua 15:54 (6258) і <strong>Humtah</strong> і <strong>Kiriath Arba</strong> яна <strong>Hebron</strong> і <strong>Zior</strong> горад <strong>nine</strong> і <strong>court</strong> ס
+Joshua 15:55 (6259) <strong>Maon</strong> <strong>Carmel</strong> і <strong>Ziph</strong> і <strong>Juttah</strong> 
+Joshua 15:56 (6260) і <strong>[town]</strong> і <strong>Jokdeam</strong> і <strong>Zanoah</strong> 
+Joshua 15:57 (6261) [арт.] <strong>Kain</strong> <strong>Gibeah</strong> і <strong>Timnah</strong> горад <strong>ten</strong> і <strong>court</strong> 
+Joshua 15:58 (6262) <strong>Halhul</strong> <strong>Beth Zur</strong> і <strong>Gedor</strong> 
+Joshua 15:59 (6263) і <strong>Maarath</strong> і <strong>Beth Anoth</strong> і <strong>Eltekon</strong> горад <strong>six</strong> і <strong>court</strong> 
+Joshua 15:60 (6264) <strong>Kiriath Baal</strong> яна <strong>Kiriath Jearim</strong> і [арт.] <strong>Rabbah</strong> горад два і <strong>court</strong> ס
+Joshua 15:61 (6265) у|[Тв.с.] [арт.] <strong>desert</strong> <strong>Beth Arabah</strong> <strong>Middin</strong> і <strong>Secacah</strong> 
+Joshua 15:62 (6266) і [арт.] <strong>Nibshan</strong> і <strong>City of Salt</strong> і <strong>En Gedi</strong> горад <strong>six</strong> і <strong>court</strong> 
+Joshua 15:63 (6267) і [В.с.] [арт.] <strong>Jebusite</strong> сядзець Ерусалім не магчы сын Егуда да|[Д.с.] заўладаць і сядзець [арт.] <strong>Jebusite</strong> разам з сын Егуда у|[Тв.с.] Ерусалім (ажно) да [арт.] дзень [арт.] гэты פ
+Joshua 16:1 (6268) і выйсці [арт.] лёс|доля да|[Д.с.] сын Ёсэ́ф з <strong>Jordan</strong> <strong>Jericho</strong> да|[Д.с.] вада <strong>Jericho</strong> <strong>sunrise</strong> [арт.] <strong>desert</strong> падымацца з <strong>Jericho</strong> у|[Тв.с.] [арт.] гара <strong>Bethel</strong> 
+Joshua 16:2 (6269) і выйсці з <strong>Bethel</strong> <strong>Luz</strong> і перайсці да мяжа [арт.] <strong>Arkite</strong> <strong>Ataroth</strong> 
+Joshua 16:3 (6270) і апускацца мора да мяжа [арт.] <strong>Japhletite</strong> (ажно) да мяжа <strong>Beth Horon</strong> <strong>lower</strong> і (ажно) да <strong>Gezer</strong> і быць <strong>outlets</strong> мора 
+Joshua 16:4 (6271) і <strong>take possession</strong> сын Ёсэ́ф <strong>Manasseh</strong> і Эфраі́м 
+Joshua 16:5 (6272) і быць мяжа сын Эфраі́м да|[Д.с.] <strong>clan</strong> і быць мяжа уласнасць <strong>sunrise</strong> <strong>Ataroth Addar</strong> (ажно) да <strong>Beth Horon</strong> <strong>upper</strong> 
+Joshua 16:6 (6273) і выйсці [арт.] мяжа [арт.] мора [арт.] <strong>Micmethath</strong> з поўнач і <strong>turn</strong> [арт.] мяжа <strong>sunrise</strong> <strong>Taanath Shiloh</strong> і перайсці [В.с.] з <strong>sunrise</strong> <strong>Janoah</strong> 
+Joshua 16:7 (6274) і апускацца з <strong>Janoah</strong> <strong>Ataroth</strong> і <strong>[locality]</strong> і <strong>meet</strong> у|[Тв.с.] <strong>Jericho</strong> і выйсці [арт.] <strong>Jordan</strong> 
+Joshua 16:8 (6275) з <strong>Tappuah</strong> хадзіць [арт.] мяжа мора <strong>wadi</strong> <strong>Kanah</strong> і быць <strong>outlets</strong> [арт.] мора <strong>this</strong> уласнасць <strong>staff</strong> сын Эфраі́м да|[Д.с.] <strong>clan</strong> 
+Joshua 16:9 (6276) і [арт.] горад [арт.] <strong>enclave</strong> да|[Д.с.] сын Эфраі́м у|[Тв.с.] <strong>midst</strong> уласнасць сын <strong>Manasseh</strong> цэлы|увесь [арт.] горад і <strong>court</strong> 
+Joshua 16:10 (6277) і не заўладаць [В.с.] [арт.] канаанец [арт.] сядзець у|[Тв.с.] <strong>Gezer</strong> і сядзець [арт.] канаанец у|[Тв.с.] <strong>interior</strong> Эфраі́м (ажно) да [арт.] дзень [арт.] гэты і быць да|[Д.с.] <strong>forced labour</strong> працаваць פ
+Joshua 17:1 (6278) і быць [арт.] лёс|доля да|[Д.с.] <strong>staff</strong> <strong>Manasseh</strong> бо|што ён <strong>first-born</strong> Ёсэ́ф да|[Д.с.] <strong>Makir</strong> <strong>first-born</strong> <strong>Manasseh</strong> бацька [арт.] Гіл’ад бо|што ён быць чалавек (1) вайна і быць да|[Д.с.] [арт.] Гіл’ад і [арт.] <strong>Bashan</strong> 
+Joshua 17:2 (6279) і быць да|[Д.с.] сын <strong>Manasseh</strong> [арт.] <strong>remain</strong> да|[Д.с.] <strong>clan</strong> да|[Д.с.] сын <strong>Abiezer</strong> і да|[Д.с.] сын <strong>Helek</strong> і да|[Д.с.] сын <strong>Asriel</strong> і да|[Д.с.] сын <strong>Shechem</strong> і да|[Д.с.] сын <strong>[son of Gilead]</strong> і да|[Д.с.] сын <strong>Shemida</strong> гэтыя сын <strong>Manasseh</strong> сын Ёсэ́ф [арт.] <strong>male</strong> да|[Д.с.] <strong>clan</strong> 
+Joshua 17:3 (6280) і да|[Д.с.] <strong>Zelophehad</strong> сын <strong>[son of Gilead]</strong> сын Гіл’ад сын <strong>Makir</strong> сын <strong>Manasseh</strong> не быць да|[Д.с.] сын бо|што калі[зл.] дачка і гэтыя імя дачка <strong>Mahlah</strong> і <strong>Noah</strong> <strong>Hoglah</strong> <strong>Milcah</strong> і <strong>Tirzah</strong> 
+Joshua 17:4 (6281) і набліжацца да|[Д.с.] твар <strong>Eleazar</strong> [арт.] <strong>priest</strong> і да|[Д.с.] твар <strong>Joshua</strong> сын <strong>Nun</strong> і да|[Д.с.] твар [арт.] <strong>chief</strong> да|[Д.с.] казаць Існы <strong>command</strong> [В.с.] Майсей да|[Д.с.] даць да|[Д.с.] уласнасць у|[Тв.с.] <strong>midst</strong> брат і даць да|[Д.с.] да рот Існы уласнасць у|[Тв.с.] <strong>midst</strong> брат бацька 
+Joshua 17:5 (6282) і падаць <strong>cord</strong> <strong>Manasseh</strong> дзесяць да|[Д.с.] частка з зямля [арт.] Гіл’ад і [арт.] <strong>Bashan</strong> які з <strong>opposite</strong> да|[Д.с.] [арт.] <strong>Jordan</strong> 
+Joshua 17:6 (6283) бо|што дачка <strong>Manasseh</strong> <strong>take possession</strong> уласнасць у|[Тв.с.] <strong>midst</strong> сын і зямля [арт.] Гіл’ад быць да|[Д.с.] сын <strong>Manasseh</strong> [арт.] <strong>remain</strong> 
+Joshua 17:7 (6284) і быць мяжа <strong>Manasseh</strong> з <strong>Asher</strong> [арт.] <strong>Micmethath</strong> які на твар <strong>Shechem</strong> і хадзіць [арт.] мяжа да [арт.] правая частка да сядзець <strong>En Tappuah</strong> 
+Joshua 17:8 (6285) да|[Д.с.] <strong>Manasseh</strong> быць зямля <strong>Tappuah</strong> і <strong>Tappuah</strong> да мяжа <strong>Manasseh</strong> да|[Д.с.] сын Эфраі́м 
+Joshua 17:9 (6286) і апускацца [арт.] мяжа <strong>wadi</strong> <strong>Kanah</strong> поўдзеь да|[Д.с.] [арт.] <strong>wadi</strong> горад [арт.] гэтыя да|[Д.с.] Эфраі́м у|[Тв.с.] <strong>midst</strong> горад <strong>Manasseh</strong> і мяжа <strong>Manasseh</strong> з поўнач да|[Д.с.] [арт.] <strong>wadi</strong> і быць <strong>outlets</strong> [арт.] мора 
+Joshua 17:10 (6287) поўдзеь да|[Д.с.] Эфраі́м і поўнач да|[Д.с.] <strong>Manasseh</strong> і быць [арт.] мора мяжа і у|[Тв.с.] <strong>Asher</strong> <strong>meet</strong> з поўнач і у|[Тв.с.] <strong>Issachar</strong> з <strong>sunrise</strong> 
+Joshua 17:11 (6288) і быць да|[Д.с.] <strong>Manasseh</strong> у|[Тв.с.] <strong>Issachar</strong> і у|[Тв.с.] <strong>Asher</strong> <strong>Beth Shan</strong> і дачка і <strong>Ibleam</strong> і дачка і [В.с.] сядзець <strong>Dor</strong> і дачка і сядзець <strong>Endor</strong> і дачка і сядзець <strong>Taanach</strong> і дачка і сядзець <strong>Megiddo</strong> і дачка <strong>three</strong> [арт.] <strong>hill</strong> 
+Joshua 17:12 (6289) і не магчы сын <strong>Manasseh</strong> да|[Д.с.] заўладаць [В.с.] [арт.] горад [арт.] гэтыя і <strong>begin</strong> [арт.] канаанец да|[Д.с.] сядзець у|[Тв.с.] [арт.] зямля [арт.] <strong>this</strong> 
+Joshua 17:13 (6290) і быць бо|што <strong>be strong</strong> сын Ісраэль і даць [В.с.] [арт.] канаанец да|[Д.с.] <strong>forced labour</strong> і заўладаць не заўладаць ס
+Joshua 17:14 (6291) і гаварыць сын Ёсэ́ф разам з <strong>Joshua</strong> да|[Д.с.] казаць <strong>why</strong> даць да|[Д.с.] уласнасць лёс|доля адзін і <strong>cord</strong> адзін і я народ шматлікі (ажно) да які (ажно) да такім чынам <strong>bless</strong> Існы 
+Joshua 17:15 (6292) і казаць да <strong>Joshua</strong> калі[зл.] народ шматлікі ты[м.] падымацца да|[Д.с.] [арт.] <strong>wood</strong> і <strong>cut down</strong> да|[Д.с.] там у|[Тв.с.] зямля [арт.] <strong>Perizzite</strong> і [арт.] <strong>Rephaim</strong> бо|што <strong>urge</strong> да|[Д.с.] гара Эфраі́м 
+Joshua 17:16 (6293) і казаць сын Ёсэ́ф не знайсці да|[Д.с.] [арт.] гара і <strong>chariot</strong> жалеза у|[Тв.с.] цэлы|увесь [арт.] канаанец [арт.] сядзець у|[Тв.с.] зямля [арт.] <strong>valley</strong> да|[Д.с.] які у|[Тв.с.] <strong>Beth Shan</strong> і дачка і да|[Д.с.] які у|[Тв.с.] <strong>valley</strong> <strong>[town]</strong> 
+Joshua 17:17 (6294) і казаць <strong>Joshua</strong> да дом Ёсэ́ф да|[Д.с.] Эфраі́м і да|[Д.с.] <strong>Manasseh</strong> да|[Д.с.] казаць народ шматлікі ты[м.] і сіла вялікі да|[Д.с.] не быць да|[Д.с.] лёс|доля адзін 
+Joshua 17:18 (6295) бо|што гара быць да|[Д.с.] бо|што <strong>wood</strong> ён і <strong>cut down</strong> і быць да|[Д.с.] <strong>outlets</strong> бо|што заўладаць [В.с.] [арт.] канаанец бо|што <strong>chariot</strong> жалеза да|[Д.с.] бо|што <strong>strong</strong> ён פ
+Joshua 18:1 (6296) і <strong>assemble</strong> цэлы|увесь <strong>gathering</strong> сын Ісраэль <strong>Shiloh</strong> і насяляць там [В.с.] <strong>tent</strong> <strong>appointment</strong> і [арт.] зямля <strong>subdue</strong> да|[Д.с.] твар 
+Joshua 18:2 (6297) і <strong>remain</strong> у|[Тв.с.] сын Ісраэль які не <strong>divide</strong> [В.с.] уласнасць сем <strong>rod</strong> 
+Joshua 18:3 (6298) і казаць <strong>Joshua</strong> да сын Ісраэль (ажно) да <strong>whither</strong> <strong>you</strong> <strong>be slack</strong> да|[Д.с.] прыйсці да|[Д.с.] заўладаць [В.с.] [арт.] зямля які даць да|[Д.с.] Існы Бог бацька 
+Joshua 18:4 (6299) <strong>give</strong> да|[Д.с.] <strong>three</strong> чалавек (1) да|[Д.с.] [арт.] <strong>rod</strong> і слаць і устаць і хадзіць у|[Тв.с.] [арт.] зямля і пісанне [В.с.] да|[Д.с.] рот уласнасць і прыйсці да 
+Joshua 18:5 (6300) і <strong>divide</strong> [В.с.] да|[Д.с.] сем частка Егуда стаяць на мяжа з поўдзеь і дом Ёсэ́ф стаяць на мяжа з поўнач 
+Joshua 18:6 (6301) і <strong>you</strong> пісанне [В.с.] [арт.] зямля сем частка і прыйсці да <strong>here</strong> і <strong>cast</strong> да|[Д.с.] лёс|доля <strong>here</strong> да|[Д.с.] твар Існы Бог 
+Joshua 18:7 (6302) бо|што няма частка да|[Д.с.] [арт.] <strong>Levite</strong> у|[Тв.с.] <strong>interior</strong> бо|што <strong>priesthood</strong> Існы уласнасць і <strong>Gad</strong> і <strong>Reuben</strong> і <strong>half</strong> <strong>rod</strong> [арт.] <strong>Manasseh</strong> браць уласнасць з <strong>opposite</strong> да|[Д.с.] [арт.] <strong>Jordan</strong> <strong>sunrise</strong> які даць да|[Д.с.] Майсей слуга Існы 
+Joshua 18:8 (6303) і устаць [арт.] чалавек (1) і хадзіць і <strong>command</strong> <strong>Joshua</strong> [В.с.] [арт.] хадзіць да|[Д.с.] пісанне [В.с.] [арт.] зямля да|[Д.с.] казаць хадзіць і хадзіць у|[Тв.с.] [арт.] зямля і пісанне [В.с.] і вяртацца да і <strong>here</strong> кінуць да|[Д.с.] лёс|доля да|[Д.с.] твар Існы у|[Тв.с.] <strong>Shiloh</strong> 
+Joshua 18:9 (6304) і хадзіць [арт.] чалавек (1) і перайсці у|[Тв.с.] [арт.] зямля і пісанне да|[Д.с.] [арт.] горад да|[Д.с.] сем частка на ліст і прыйсці да <strong>Joshua</strong> да [арт.] <strong>camp</strong> <strong>Shiloh</strong> 
+Joshua 18:10 (6305) і кінуць да|[Д.с.] <strong>Joshua</strong> лёс|доля у|[Тв.с.] <strong>Shiloh</strong> да|[Д.с.] твар Існы і <strong>divide</strong> там <strong>Joshua</strong> [В.с.] [арт.] зямля да|[Д.с.] сын Ісраэль як <strong>division</strong> פ
+Joshua 18:11 (6306) і падымацца лёс|доля <strong>staff</strong> сын Бін’ямін да|[Д.с.] <strong>clan</strong> і выйсці мяжа лёс|доля між сын Егуда і між сын Ёсэ́ф 
+Joshua 18:12 (6307) і быць да|[Д.с.] [арт.] мяжа да|[Д.с.] <strong>corner</strong> поўнач з [арт.] <strong>Jordan</strong> і падымацца [арт.] мяжа да <strong>shoulder</strong> <strong>Jericho</strong> з поўнач і падымацца у|[Тв.с.] [арт.] гара мора і быць <strong>outlets</strong> <strong>desert</strong> <strong>Beth Aven</strong> 
+Joshua 18:13 (6308) і перайсці з там [арт.] мяжа <strong>Luz</strong> да <strong>shoulder</strong> <strong>Luz</strong> поўдзеь яна <strong>Bethel</strong> і апускацца [арт.] мяжа <strong>Ataroth Addar</strong> на [арт.] гара які з поўдзеь да|[Д.с.] <strong>Beth Horon</strong> <strong>lower</strong> 
+Joshua 18:14 (6309) і <strong>turn</strong> [арт.] мяжа і <strong>turn</strong> да|[Д.с.] <strong>corner</strong> мора поўдзеь з [арт.] гара які на твар <strong>Beth Horon</strong> поўдзеь і быць <strong>outlets</strong> да <strong>Kiriath Baal</strong> яна <strong>Kiriath Jearim</strong> горад сын Егуда <strong>this</strong> <strong>corner</strong> мора 
+Joshua 18:15 (6310) і <strong>corner</strong> поўдзеь з <strong>end</strong> <strong>Kiriath Jearim</strong> і выйсці [арт.] мяжа мора і выйсці да <strong>well</strong> вада <strong>Nephtoah</strong> 
+Joshua 18:16 (6311) і апускацца [арт.] мяжа да <strong>end</strong> [арт.] гара які на твар <strong>valley</strong> <strong>the Valley of Ben Hinnom</strong> які у|[Тв.с.] <strong>valley</strong> <strong>[valley]</strong> поўнач і апускацца <strong>valley</strong> <strong>Hinnom</strong> да <strong>shoulder</strong> [арт.] <strong>Jebusite</strong> поўдзеь і апускацца <strong>En Rogel</strong> 
+Joshua 18:17 (6312) і <strong>turn</strong> з поўнач і выйсці <strong>En Shemesh</strong> і выйсці да <strong>Geliloth</strong> які <strong>straightness</strong> <strong>the Pass of Adummim</strong> і апускацца камень <strong>Bohan</strong> сын <strong>Reuben</strong> 
+Joshua 18:18 (6313) і перайсці да <strong>shoulder</strong> <strong>front</strong> [арт.] <strong>desert</strong> поўнач і апускацца [арт.] <strong>desert</strong> 
+Joshua 18:19 (6314) і перайсці [арт.] мяжа да <strong>shoulder</strong> <strong>Beth Hoglah</strong> поўнач і быць <strong>outlets</strong> [арт.] мяжа да язык мора [арт.] <strong>salt</strong> поўнач да <strong>end</strong> [арт.] <strong>Jordan</strong> поўдзеь гэты мяжа поўдзеь 
+Joshua 18:20 (6315) і [арт.] <strong>Jordan</strong> <strong>set border</strong> [В.с.] да|[Д.с.] <strong>corner</strong> <strong>front</strong> <strong>this</strong> уласнасць сын Бін’ямін да|[Д.с.] <strong>boundary</strong> вакол да|[Д.с.] <strong>clan</strong> 
+Joshua 18:21 (6316) і быць [арт.] горад да|[Д.с.] <strong>staff</strong> сын Бін’ямін да|[Д.с.] <strong>clan</strong> <strong>Jericho</strong> і <strong>Beth Hoglah</strong> і <strong>valley</strong> <strong>Emek Keziz</strong> 
+Joshua 18:22 (6317) і <strong>Beth Arabah</strong> і <strong>[mountain]</strong> і <strong>Bethel</strong> 
+Joshua 18:23 (6318) і [арт.] <strong>Avvim</strong> і [арт.] <strong>Parah</strong> і <strong>Ophrah</strong> 
+Joshua 18:24 (6319) і <strong>village</strong> [арт.] <strong>Ammoni</strong> і [арт.] <strong>Ophni</strong> і <strong>Geba</strong> горад два <strong>-teen</strong> і <strong>court</strong> 
+Joshua 18:25 (6320) <strong>Gibeon</strong> і [арт.] <strong>Ramah</strong> і <strong>Beeroth</strong> 
+Joshua 18:26 (6321) і [арт.] <strong>Mizpeh</strong> і [арт.] <strong>Kephirah</strong> і [арт.] <strong>Mozah</strong> 
+Joshua 18:27 (6322) і <strong>Rekem</strong> і <strong>Irpeel</strong> і <strong>Taralah</strong> 
+Joshua 18:28 (6323) і <strong>Zela</strong> [арт.] <strong>Eleph</strong> і [арт.] <strong>Jebusite</strong> яна Ерусалім <strong>Gibeath</strong> <strong>Kiriath</strong> горад <strong>four</strong> <strong>-teen</strong> і <strong>court</strong> <strong>this</strong> уласнасць сын Бін’ямін да|[Д.с.] <strong>clan</strong> פ
+Joshua 19:1 (6324) і выйсці [арт.] лёс|доля [арт.] другі да|[Д.с.] <strong>Simeon</strong> да|[Д.с.] <strong>staff</strong> сын <strong>Simeon</strong> да|[Д.с.] <strong>clan</strong> і быць уласнасць у|[Тв.с.] <strong>midst</strong> уласнасць сын Егуда 
+Joshua 19:2 (6325) і быць да|[Д.с.] у|[Тв.с.] уласнасць <strong>well</strong> <strong>Sheba</strong> і <strong>Sheba</strong> і <strong>Moladah</strong> 
+Joshua 19:3 (6326) і <strong>Hazar Shual</strong> і <strong>Balah</strong> і <strong>Ezem</strong> 
+Joshua 19:4 (6327) і <strong>Eltolad</strong> і <strong>Bethuel</strong> і <strong>Hormah</strong> 
+Joshua 19:5 (6328) і <strong>Ziklag</strong> і <strong>Beth Marcaboth</strong> і <strong>Hazar Susah</strong> 
+Joshua 19:6 (6329) і <strong>Beth Lebaoth</strong> і <strong>Sharuhen</strong> горад <strong>three</strong> <strong>-teen</strong> і <strong>court</strong> 
+Joshua 19:7 (6330) <strong>Ain</strong> <strong>Rimmon</strong> і <strong>Ether</strong> і <strong>Ashan</strong> горад <strong>four</strong> і <strong>court</strong> 
+Joshua 19:8 (6331) і цэлы|увесь [арт.] <strong>court</strong> які вакол [арт.] горад [арт.] гэтыя (ажно) да <strong>Baalath Beer</strong> <strong>high place</strong> поўдзеь <strong>this</strong> уласнасць <strong>staff</strong> сын <strong>Simeon</strong> да|[Д.с.] <strong>clan</strong> 
+Joshua 19:9 (6332) з <strong>cord</strong> сын Егуда уласнасць сын <strong>Simeon</strong> бо|што быць частка сын Егуда шматлікі з і <strong>take possession</strong> сын <strong>Simeon</strong> у|[Тв.с.] <strong>midst</strong> уласнасць פ
+Joshua 19:10 (6333) і падымацца [арт.] лёс|доля [арт.] <strong>third</strong> да|[Д.с.] сын <strong>Zebulun</strong> да|[Д.с.] <strong>clan</strong> і быць мяжа уласнасць (ажно) да <strong>Sarid</strong> 
+Joshua 19:11 (6334) і падымацца мяжа да|[Д.с.] [арт.] мора і <strong>Maralah</strong> і <strong>meet</strong> у|[Тв.с.] <strong>Dabbesheth</strong> і <strong>meet</strong> да [арт.] <strong>wadi</strong> які на твар <strong>Jokneam</strong> 
+Joshua 19:12 (6335) і вяртацца з <strong>Sarid</strong> <strong>front</strong> <strong>sunrise</strong> [арт.] сонца на мяжа <strong>Kisloth Tabor</strong> і выйсці да [арт.] <strong>Daberath</strong> і падымацца <strong>Japhia</strong> 
+Joshua 19:13 (6336) і з там перайсці <strong>front</strong> <strong>sunrise</strong> <strong>wine-press</strong> <strong>Hepher</strong> момант <strong>chief</strong> і выйсці <strong>Rimmon</strong> [арт.] <strong>turn</strong> [арт.] <strong>Neah</strong> 
+Joshua 19:14 (6337) і <strong>turn</strong> [В.с.] [арт.] мяжа з поўнач <strong>Hannathon</strong> і быць <strong>outlets</strong> <strong>valley</strong> <strong>Iphtah El</strong> 
+Joshua 19:15 (6338) і <strong>Kattath</strong> і <strong>Nahalal</strong> і <strong>Shimron</strong> і <strong>Idalah</strong> і <strong>Bethlehem</strong> горад два <strong>-teen</strong> і <strong>court</strong> 
+Joshua 19:16 (6339) <strong>this</strong> уласнасць сын <strong>Zebulun</strong> да|[Д.с.] <strong>clan</strong> [арт.] горад [арт.] гэтыя і <strong>court</strong> פ
+Joshua 19:17 (6340) да|[Д.с.] <strong>Issachar</strong> выйсці [арт.] лёс|доля [арт.] <strong>fourth</strong> да|[Д.с.] сын <strong>Issachar</strong> да|[Д.с.] <strong>clan</strong> 
+Joshua 19:18 (6341) і быць мяжа <strong>[town]</strong> і [арт.] <strong>Kesulloth</strong> і <strong>Shunem</strong> 
+Joshua 19:19 (6342) і <strong>Hapharaim</strong> і <strong>Shion</strong> і <strong>Anaharath</strong> 
+Joshua 19:20 (6343) і [арт.] <strong>Rabbith</strong> і <strong>Kishion</strong> і <strong>Ebez</strong> 
+Joshua 19:21 (6344) і <strong>Remeth</strong> і <strong>En Gannim</strong> і <strong>En Haddah</strong> і <strong>Beth Pazzez</strong> 
+Joshua 19:22 (6345) і <strong>meet</strong> [арт.] мяжа у|[Тв.с.] <strong>Tabor</strong> і <strong>Shahazumah</strong> і <strong>Beth Shemesh</strong> і быць <strong>outlets</strong> мяжа [арт.] <strong>Jordan</strong> горад <strong>six</strong> <strong>-teen</strong> і <strong>court</strong> 
+Joshua 19:23 (6346) <strong>this</strong> уласнасць <strong>staff</strong> сын <strong>Issachar</strong> да|[Д.с.] <strong>clan</strong> [арт.] горад і <strong>court</strong> פ
+Joshua 19:24 (6347) і выйсці [арт.] лёс|доля [арт.] <strong>fifth</strong> да|[Д.с.] <strong>staff</strong> сын <strong>Asher</strong> да|[Д.с.] <strong>clan</strong> 
+Joshua 19:25 (6348) і быць мяжа <strong>Helkath</strong> і <strong>Hali</strong> і <strong>Beten</strong> і <strong>Acshaph</strong> 
+Joshua 19:26 (6349) і <strong>Allammelech</strong> і <strong>Amad</strong> і <strong>Mishal</strong> і <strong>meet</strong> у|[Тв.с.] <strong>Carmel</strong> [арт.] мора і у|[Тв.с.] <strong>Shihor Libnath</strong> 
+Joshua 19:27 (6350) і вяртацца <strong>sunrise</strong> [арт.] сонца <strong>Beth Dagon</strong> і <strong>meet</strong> у|[Тв.с.] <strong>Zebulun</strong> і у|[Тв.с.] <strong>valley</strong> <strong>Iphtah El</strong> поўнач <strong>Beth Emek</strong> і <strong>Neiel</strong> і выйсці да <strong>Cabul</strong> з левая частка 
+Joshua 19:28 (6351) і <strong>Abdon</strong> і <strong>Rehob</strong> і <strong>Hammon</strong> і <strong>Kanah</strong> (ажно) да <strong>Sidon</strong> шматлікі 
+Joshua 19:29 (6352) і вяртацца [арт.] мяжа [арт.] <strong>Ramah</strong> і (ажно) да горад <strong>fortification</strong> <strong>Tyrus</strong> і вяртацца [арт.] мяжа <strong>Hosah</strong> і быць <strong>outlets</strong> [арт.] мора з <strong>cord</strong> <strong>Aczib</strong> 
+Joshua 19:30 (6353) і <strong>Ummah</strong> і <strong>Aphek</strong> і <strong>Rehob</strong> горад <strong>twenty</strong> і два і <strong>court</strong> 
+Joshua 19:31 (6354) <strong>this</strong> уласнасць <strong>staff</strong> сын <strong>Asher</strong> да|[Д.с.] <strong>clan</strong> [арт.] горад [арт.] гэтыя і <strong>court</strong> פ
+Joshua 19:32 (6355) да|[Д.с.] сын <strong>Naphtali</strong> выйсці [арт.] лёс|доля [арт.] <strong>sixth</strong> да|[Д.с.] сын <strong>Naphtali</strong> да|[Д.с.] <strong>clan</strong> 
+Joshua 19:33 (6356) і быць мяжа з <strong>Heleph</strong> з <strong>big tree</strong> у|[Тв.с.] <strong>Zaanannim</strong> і <strong>Adami-nekeb</strong> і <strong>Jabneel</strong> (ажно) да <strong>Lakkum</strong> і быць <strong>outlets</strong> [арт.] <strong>Jordan</strong> 
+Joshua 19:34 (6357) і вяртацца [арт.] мяжа мора <strong>Aznoth Tabor</strong> і выйсці з там <strong>Hukkok</strong> і <strong>meet</strong> у|[Тв.с.] <strong>Zebulun</strong> з поўдзеь і у|[Тв.с.] <strong>Asher</strong> <strong>meet</strong> з мора і у|[Тв.с.] Егуда [арт.] <strong>Jordan</strong> <strong>sunrise</strong> [арт.] сонца 
+Joshua 19:35 (6358) і горад <strong>fortification</strong> [арт.] <strong>Ziddim</strong> <strong>Zer</strong> і <strong>Hammath</strong> <strong>Rakkath</strong> і <strong>Kinnereth</strong> 
+Joshua 19:36 (6359) і <strong>Adamah</strong> і [арт.] <strong>Ramah</strong> і <strong>Hazor</strong> 
+Joshua 19:37 (6360) і <strong>Kedesh</strong> і <strong>Edrei</strong> і <strong>En Hazor</strong> 
+Joshua 19:38 (6361) і <strong>Iron</strong> і <strong>Migdal El</strong> <strong>Horem</strong> і <strong>Beth Anath</strong> і <strong>Beth Shemesh</strong> горад <strong>nine</strong> <strong>-teen</strong> і <strong>court</strong> 
+Joshua 19:39 (6362) <strong>this</strong> уласнасць <strong>staff</strong> сын <strong>Naphtali</strong> да|[Д.с.] <strong>clan</strong> [арт.] горад і <strong>court</strong> פ
+Joshua 19:40 (6363) да|[Д.с.] <strong>staff</strong> сын <strong>Dan</strong> да|[Д.с.] <strong>clan</strong> выйсці [арт.] лёс|доля [арт.] <strong>seventh</strong> 
+Joshua 19:41 (6364) і быць мяжа уласнасць <strong>Zorah</strong> і <strong>Eshtaol</strong> і <strong>Ir Shemesh</strong> 
+Joshua 19:42 (6365) і <strong>Shaalabbin</strong> і <strong>Aijalon</strong> і <strong>Ithlah</strong> 
+Joshua 19:43 (6366) і <strong>Elon</strong> і <strong>Timnah</strong> і <strong>Ekron</strong> 
+Joshua 19:44 (6367) і <strong>Eltekeh</strong> і <strong>Gibbethon</strong> і <strong>Baalath</strong> 
+Joshua 19:45 (6368) і <strong>Jehud</strong> і <strong>Bene Berak</strong> і <strong>Gath Rimmon</strong> 
+Joshua 19:46 (6369) і вада [арт.] <strong>Jarkon</strong> і [арт.] <strong>Rakkon</strong> з [арт.] мяжа <strong>front</strong> <strong>Joppa</strong> 
+Joshua 19:47 (6370) і выйсці мяжа сын <strong>Dan</strong> з і падымацца сын <strong>Dan</strong> і <strong>fight</strong> з <strong>Leshem</strong> і <strong>seize</strong> [В.с.] і <strong>strike</strong> [В.с.] да|[Д.с.] рот <strong>dagger</strong> і заўладаць [В.с.] і сядзець у|[Тв.с.] і зваць да|[Д.с.] <strong>Leshem</strong> <strong>Dan</strong> як імя <strong>Dan</strong> бацька 
+Joshua 19:48 (6371) <strong>this</strong> уласнасць <strong>staff</strong> сын <strong>Dan</strong> да|[Д.с.] <strong>clan</strong> [арт.] горад [арт.] гэтыя і <strong>court</strong> פ
+Joshua 19:49 (6372) і <strong>be complete</strong> да|[Д.с.] <strong>take possession</strong> [В.с.] [арт.] зямля да|[Д.с.] <strong>boundary</strong> і даць сын Ісраэль уласнасць да|[Д.с.] <strong>Joshua</strong> сын <strong>Nun</strong> у|[Тв.с.] <strong>midst</strong> 
+Joshua 19:50 (6373) на рот Існы даць да|[Д.с.] [В.с.] [арт.] горад які пытацца [В.с.] <strong>Timnath Serah</strong> у|[Тв.с.] гара Эфраі́м і будаваць [В.с.] [арт.] горад і сядзець у|[Тв.с.] 
+Joshua 19:51 (6374) гэтыя [арт.] уласнасць які <strong>take possession</strong> <strong>Eleazar</strong> [арт.] <strong>priest</strong> і <strong>Joshua</strong> сын <strong>Nun</strong> і галава [арт.] бацька да|[Д.с.] <strong>staff</strong> сын Ісраэль у|[Тв.с.] лёс|доля у|[Тв.с.] <strong>Shiloh</strong> да|[Д.с.] твар Існы <strong>opening</strong> <strong>tent</strong> <strong>appointment</strong> і <strong>be complete</strong> з <strong>divide</strong> [В.с.] [арт.] зямля פ
+Joshua 20:1 (6375) і гаварыць Існы да <strong>Joshua</strong> да|[Д.с.] казаць 
+Joshua 20:2 (6376) гаварыць да сын Ісраэль да|[Д.с.] казаць даць да|[Д.с.] [В.с.] горад [арт.] <strong>refuge</strong> які гаварыць да у|[Тв.с.] рука Майсей 
+Joshua 20:3 (6377) да|[Д.с.] <strong>flee</strong> там <strong>kill</strong> <strong>strike</strong> душа у|[Тв.с.] <strong>error</strong> у|[Тв.с.] <strong>destruction</strong> веды [акрамя адуш.] і быць да|[Д.с.] да|[Д.с.] <strong>refuge</strong> з <strong>redeem</strong> [арт.] <strong>blood</strong> 
+Joshua 20:4 (6378) і <strong>flee</strong> да адзін з [арт.] горад [арт.] гэтыя і стаяць <strong>opening</strong> брама [арт.] горад і гаварыць у|[Тв.с.] вуха старадаўні [арт.] горад [арт.] яна [В.с.] слова|рэч і збіраць [В.с.] [арт.] горад да і даць да|[Д.с.] месца і сядзець з 
+Joshua 20:5 (6379) і бо|што <strong>pursue</strong> <strong>redeem</strong> [арт.] <strong>blood</strong> пасля і не зачыняць [В.с.] [арт.] <strong>kill</strong> у|[Тв.с.] рука бо|што у|[Тв.с.] <strong>destruction</strong> веды [акрамя адуш.] <strong>strike</strong> [В.с.] <strong>fellow</strong> і не ненавідзець ён да|[Д.с.] з <strong>yesterday</strong> <strong>day before yesterday</strong> 
+Joshua 20:6 (6380) і сядзець у|[Тв.с.] [арт.] горад [арт.] яна (ажно) да стаяць да|[Д.с.] твар [арт.] <strong>gathering</strong> да|[Д.с.] [арт.] правасуддзе (ажно) да смерць [арт.] <strong>priest</strong> [арт.] вялікі які быць у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] тады вяртацца [арт.] <strong>kill</strong> і прыйсці да горад і да дом да [арт.] горад які <strong>flee</strong> з там 
+Joshua 20:7 (6381) і <strong>be holy</strong> [В.с.] <strong>Kedesh</strong> у|[Тв.с.] [арт.] <strong>Galilee</strong> у|[Тв.с.] гара <strong>Naphtali</strong> і [В.с.] <strong>Shechem</strong> у|[Тв.с.] гара Эфраі́м і [В.с.] <strong>Kiriath Arba</strong> яна <strong>Hebron</strong> у|[Тв.с.] гара Егуда 
+Joshua 20:8 (6382) і з <strong>opposite</strong> да|[Д.с.] <strong>Jordan</strong> <strong>Jericho</strong> <strong>sunrise</strong> даць [В.с.] <strong>[place of refuge]</strong> у|[Тв.с.] [арт.] <strong>desert</strong> у|[Тв.с.] [арт.] <strong>fairness</strong> з <strong>staff</strong> <strong>Reuben</strong> і [В.с.] <strong>Ramoth</strong> у|[Тв.с.] [арт.] Гіл’ад з <strong>staff</strong> <strong>Gad</strong> і [В.с.] <strong>Golan</strong> у|[Тв.с.] [арт.] <strong>Bashan</strong> з <strong>staff</strong> <strong>Manasseh</strong> 
+Joshua 20:9 (6383) гэтыя быць горад [арт.] <strong>appointing</strong> да|[Д.с.] цэлы|увесь сын Ісраэль і да|[Д.с.] [арт.] <strong>sojourner</strong> [арт.] <strong>dwell</strong> у|[Тв.с.] <strong>midst</strong> да|[Д.с.] <strong>flee</strong> там цэлы|увесь <strong>strike</strong> душа у|[Тв.с.] <strong>error</strong> і не паміраць у|[Тв.с.] рука <strong>redeem</strong> [арт.] <strong>blood</strong> (ажно) да стаяць да|[Д.с.] твар [арт.] <strong>gathering</strong> פ
+Joshua 21:1 (6384) і <strong>approach</strong> галава бацька [арт.] <strong>Levite</strong> да <strong>Eleazar</strong> [арт.] <strong>priest</strong> і да <strong>Joshua</strong> сын <strong>Nun</strong> і да галава бацька [арт.] <strong>staff</strong> да|[Д.с.] сын Ісраэль 
+Joshua 21:2 (6385) і гаварыць да у|[Тв.с.] <strong>Shiloh</strong> у|[Тв.с.] зямля <strong>Canaan</strong> да|[Д.с.] казаць Існы <strong>command</strong> у|[Тв.с.] рука Майсей да|[Д.с.] даць да|[Д.с.] горад да|[Д.с.] сядзець і <strong>pasture</strong> да|[Д.с.] звяры 
+Joshua 21:3 (6386) і даць сын Ісраэль да|[Д.с.] [арт.] <strong>Levite</strong> з уласнасць да рот Існы [В.с.] [арт.] горад [арт.] гэтыя і [В.с.] <strong>pasture</strong> 
+Joshua 21:4 (6387) і выйсці [арт.] лёс|доля да|[Д.с.] <strong>clan</strong> [арт.] <strong>Kohathite</strong> і быць да|[Д.с.] сын <strong>Aaron</strong> [арт.] <strong>priest</strong> з [арт.] <strong>Levite</strong> з <strong>staff</strong> Егуда і з <strong>staff</strong> [арт.] <strong>Simeonite</strong> і з <strong>staff</strong> Бін’ямін у|[Тв.с.] [арт.] лёс|доля горад <strong>three</strong> <strong>-teen</strong> ס
+Joshua 21:5 (6388) і да|[Д.с.] сын <strong>Kohath</strong> [арт.] <strong>remain</strong> з <strong>clan</strong> <strong>staff</strong> Эфраі́м і з <strong>staff</strong> <strong>Dan</strong> і з <strong>half</strong> <strong>staff</strong> <strong>Manasseh</strong> у|[Тв.с.] [арт.] лёс|доля горад <strong>ten</strong> ס
+Joshua 21:6 (6389) і да|[Д.с.] сын <strong>Gershon</strong> з <strong>clan</strong> <strong>staff</strong> <strong>Issachar</strong> і з <strong>staff</strong> <strong>Asher</strong> і з <strong>staff</strong> <strong>Naphtali</strong> і з <strong>half</strong> <strong>staff</strong> <strong>Manasseh</strong> у|[Тв.с.] [арт.] <strong>Bashan</strong> у|[Тв.с.] [арт.] лёс|доля горад <strong>three</strong> <strong>-teen</strong> ס
+Joshua 21:7 (6390) да|[Д.с.] сын <strong>Merari</strong> да|[Д.с.] <strong>clan</strong> з <strong>staff</strong> <strong>Reuben</strong> і з <strong>staff</strong> <strong>Gad</strong> і з <strong>staff</strong> <strong>Zebulun</strong> горад два <strong>-teen</strong> 
+Joshua 21:8 (6391) і даць сын Ісраэль да|[Д.с.] [арт.] <strong>Levite</strong> [В.с.] [арт.] горад [арт.] гэтыя і [В.с.] <strong>pasture</strong> як які <strong>command</strong> Існы у|[Тв.с.] рука Майсей у|[Тв.с.] [арт.] лёс|доля פ
+Joshua 21:9 (6392) і даць з <strong>staff</strong> сын Егуда і з <strong>staff</strong> сын <strong>Simeon</strong> [В.с.] [арт.] горад [арт.] гэтыя які зваць [В.с.] у|[Тв.с.] імя 
+Joshua 21:10 (6393) і быць да|[Д.с.] сын <strong>Aaron</strong> з <strong>clan</strong> [арт.] <strong>Kohathite</strong> з сын <strong>Levi</strong> бо|што да|[Д.с.] быць [арт.] лёс|доля першы 
+Joshua 21:11 (6394) і даць да|[Д.с.] [В.с.] <strong>Kiriath Arba</strong> бацька [арт.] <strong>Anak</strong> яна <strong>Hebron</strong> у|[Тв.с.] гара Егуда і [В.с.] <strong>pasture</strong> вакол 
+Joshua 21:12 (6395) і [В.с.] поле [арт.] горад і [В.с.] <strong>court</strong> даць да|[Д.с.] <strong>Caleb</strong> сын <strong>Jephunneh</strong> у|[Тв.с.] <strong>land property</strong> ס
+Joshua 21:13 (6396) і да|[Д.с.] сын <strong>Aaron</strong> [арт.] <strong>priest</strong> даць [В.с.] горад <strong>refuge</strong> [арт.] <strong>kill</strong> [В.с.] <strong>Hebron</strong> і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Libnah</strong> і [В.с.] <strong>pasture</strong> 
+Joshua 21:14 (6397) і [В.с.] <strong>Jattir</strong> і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Eshtemoa</strong> і [В.с.] <strong>pasture</strong> 
+Joshua 21:15 (6398) і [В.с.] <strong>Holon</strong> і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Debir</strong> і [В.с.] <strong>pasture</strong> 
+Joshua 21:16 (6399) і [В.с.] <strong>Ain</strong> і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Juttah</strong> і [В.с.] <strong>pasture</strong> [В.с.] <strong>Beth Shemesh</strong> і [В.с.] <strong>pasture</strong> горад <strong>nine</strong> з разам з два [арт.] <strong>rod</strong> [арт.] гэтыя פ
+Joshua 21:17 (6400) і з <strong>staff</strong> Бін’ямін [В.с.] <strong>Gibeon</strong> і [В.с.] <strong>pasture</strong> [В.с.] <strong>Geba</strong> і [В.с.] <strong>pasture</strong> 
+Joshua 21:18 (6401) [В.с.] <strong>[town]</strong> і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Almon</strong> і [В.с.] <strong>pasture</strong> горад <strong>four</strong> 
+Joshua 21:19 (6402) цэлы|увесь горад сын <strong>Aaron</strong> [арт.] <strong>priest</strong> <strong>three</strong> <strong>-teen</strong> горад і <strong>pasture</strong> ס
+Joshua 21:20 (6403) і да|[Д.с.] <strong>clan</strong> сын <strong>Kohath</strong> [арт.] <strong>Levite</strong> [арт.] <strong>remain</strong> з сын <strong>Kohath</strong> і быць горад лёс|доля з <strong>staff</strong> Эфраі́м 
+Joshua 21:21 (6404) і даць да|[Д.с.] [В.с.] горад <strong>refuge</strong> [арт.] <strong>kill</strong> [В.с.] <strong>Shechem</strong> і [В.с.] <strong>pasture</strong> у|[Тв.с.] гара Эфраі́м і [В.с.] <strong>Gezer</strong> і [В.с.] <strong>pasture</strong> 
+Joshua 21:22 (6405) і [В.с.] <strong>Kibzaim</strong> і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Beth Horon</strong> і [В.с.] <strong>pasture</strong> горад <strong>four</strong> ס
+Joshua 21:23 (6406) і з <strong>staff</strong> <strong>Dan</strong> [В.с.] <strong>Eltekeh</strong> і [В.с.] <strong>pasture</strong> [В.с.] <strong>Gibbethon</strong> і [В.с.] <strong>pasture</strong> 
+Joshua 21:24 (6407) [В.с.] <strong>Aijalon</strong> і [В.с.] <strong>pasture</strong> [В.с.] <strong>Gath Rimmon</strong> і [В.с.] <strong>pasture</strong> горад <strong>four</strong> ס
+Joshua 21:25 (6408) і з <strong>half</strong> <strong>staff</strong> <strong>Manasseh</strong> [В.с.] <strong>Taanach</strong> і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Gath Rimmon</strong> і [В.с.] <strong>pasture</strong> горад два 
+Joshua 21:26 (6409) цэлы|увесь горад <strong>ten</strong> і <strong>pasture</strong> да|[Д.с.] <strong>clan</strong> сын <strong>Kohath</strong> [арт.] <strong>remain</strong> ס
+Joshua 21:27 (6410) і да|[Д.с.] сын <strong>Gershon</strong> з <strong>clan</strong> [арт.] <strong>Levite</strong> з <strong>half</strong> <strong>staff</strong> <strong>Manasseh</strong> [В.с.] горад <strong>refuge</strong> [арт.] <strong>kill</strong> [В.с.] <strong>Golan</strong> у|[Тв.с.] [арт.] <strong>Bashan</strong> і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Be Eshtarah</strong> і [В.с.] <strong>pasture</strong> горад два ס
+Joshua 21:28 (6411) і з <strong>staff</strong> <strong>Issachar</strong> [В.с.] <strong>Kishion</strong> і [В.с.] <strong>pasture</strong> [В.с.] <strong>Daberath</strong> і [В.с.] <strong>pasture</strong> 
+Joshua 21:29 (6412) [В.с.] <strong>Jarmuth</strong> і [В.с.] <strong>pasture</strong> [В.с.] <strong>En Gannim</strong> і [В.с.] <strong>pasture</strong> горад <strong>four</strong> ס
+Joshua 21:30 (6413) і з <strong>staff</strong> <strong>Asher</strong> [В.с.] <strong>Mishal</strong> і [В.с.] <strong>pasture</strong> [В.с.] <strong>Abdon</strong> і [В.с.] <strong>pasture</strong> 
+Joshua 21:31 (6414) [В.с.] <strong>Helkath</strong> і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Rehob</strong> і [В.с.] <strong>pasture</strong> горад <strong>four</strong> ס
+Joshua 21:32 (6415) і з <strong>staff</strong> <strong>Naphtali</strong> [В.с.] горад <strong>refuge</strong> [арт.] <strong>kill</strong> [В.с.] <strong>Kedesh</strong> у|[Тв.с.] [арт.] <strong>Galilee</strong> і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Hammoth Dor</strong> і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Kartan</strong> і [В.с.] <strong>pasture</strong> горад <strong>three</strong> 
+Joshua 21:33 (6416) цэлы|увесь горад [арт.] <strong>Gershonite</strong> да|[Д.с.] <strong>clan</strong> <strong>three</strong> <strong>-teen</strong> горад і <strong>pasture</strong> ס
+Joshua 21:34 (6417) і да|[Д.с.] <strong>clan</strong> сын <strong>Merari</strong> [арт.] <strong>Levite</strong> [арт.] <strong>remain</strong> з разам з <strong>staff</strong> <strong>Zebulun</strong> [В.с.] <strong>Jokneam</strong> і [В.с.] <strong>pasture</strong> [В.с.] <strong>Kartah</strong> і [В.с.] <strong>pasture</strong> 
+Joshua 21:35 (6418) [В.с.] <strong>Dimnah</strong> і [В.с.] <strong>pasture</strong> [В.с.] <strong>Nahalal</strong> і [В.с.] <strong>pasture</strong> горад <strong>four</strong> 
+Joshua 21:36 (6419) і з <strong>staff</strong> <strong>Reuben</strong> [В.с.] <strong>[place of refuge]</strong> і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Jahzah</strong> і [В.с.] <strong>pasture</strong> 
+Joshua 21:37 (6420) [В.с.] <strong>Kedemoth</strong> і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Mephaath</strong> і [В.с.] <strong>pasture</strong> горад <strong>four</strong> ס
+Joshua 21:38 (6421) і з <strong>staff</strong> <strong>Gad</strong> [В.с.] горад <strong>refuge</strong> [арт.] <strong>kill</strong> [В.с.] <strong>Ramoth</strong> у|[Тв.с.] [арт.] Гіл’ад і [В.с.] <strong>pasture</strong> і [В.с.] <strong>Mahanaim</strong> і [В.с.] <strong>pasture</strong> 
+Joshua 21:39 (6422) [В.с.] <strong>Heshbon</strong> і [В.с.] <strong>pasture</strong> [В.с.] <strong>Jazer</strong> і [В.с.] <strong>pasture</strong> цэлы|увесь горад <strong>four</strong> 
+Joshua 21:40 (6423) цэлы|увесь [арт.] горад да|[Д.с.] сын <strong>Merari</strong> да|[Д.с.] <strong>clan</strong> [арт.] <strong>remain</strong> з <strong>clan</strong> [арт.] <strong>Levite</strong> і быць лёс|доля горад два <strong>-teen</strong> 
+Joshua 21:41 (6424) цэлы|увесь горад [арт.] <strong>Levite</strong> у|[Тв.с.] <strong>midst</strong> <strong>land property</strong> сын Ісраэль горад <strong>four</strong> і восем і <strong>pasture</strong> 
+Joshua 21:42 (6425) быць [арт.] горад [арт.] гэтыя горад горад і <strong>pasture</strong> вакол так да|[Д.с.] цэлы|увесь [арт.] горад [арт.] гэтыя ס
+Joshua 21:43 (6426) і даць Існы да|[Д.с.] Ісраэль [В.с.] цэлы|увесь [арт.] зямля які <strong>swear</strong> да|[Д.с.] даць да|[Д.с.] бацька і заўладаць і сядзець у|[Тв.с.] 
+Joshua 21:44 (6427) і асесць Існы да|[Д.с.] з вакол як цэлы|увесь які <strong>swear</strong> да|[Д.с.] бацька і не стаяць чалавек (1) у|[Тв.с.] твар з цэлы|увесь <strong>be hostile</strong> [В.с.] цэлы|увесь <strong>be hostile</strong> даць Існы у|[Тв.с.] рука 
+Joshua 21:45 (6428) не падаць слова|рэч з цэлы|увесь [арт.] слова|рэч [арт.] добры які гаварыць Існы да дом Ісраэль [арт.] цэлы|увесь прыйсці פ
+Joshua 22:1 (6429) тады зваць <strong>Joshua</strong> да|[Д.с.] [арт.] <strong>Reubenite</strong> і да|[Д.с.] [арт.] <strong>Gadite</strong> і да|[Д.с.] <strong>half</strong> <strong>staff</strong> <strong>Manasseh</strong> 
+Joshua 22:2 (6430) і казаць да <strong>you</strong> захоўваць [В.с.] цэлы|увесь які <strong>command</strong> [В.с.] Майсей слуга Існы і чуць у|[Тв.с.] голас да|[Д.с.] цэлы|увесь які <strong>command</strong> [В.с.] 
+Joshua 22:3 (6431) не <strong>leave</strong> [В.с.] брат гэты дзень шматлікі (ажно) да [арт.] дзень [арт.] гэты і захоўваць [В.с.] <strong>guard-post</strong> <strong>commandment</strong> Існы Бог 
+Joshua 22:4 (6432) і <strong>now</strong> асесць Існы Бог да|[Д.с.] брат як які гаварыць да|[Д.с.] і <strong>now</strong> <strong>turn</strong> і хадзіць да|[Д.с.] да|[Д.с.] <strong>tent</strong> да зямля <strong>land property</strong> які даць да|[Д.с.] Майсей слуга Існы у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> 
+Joshua 22:5 (6433) <strong>only</strong> захоўваць вельмі да|[Д.с.] рабіць [В.с.] [арт.] <strong>commandment</strong> і [В.с.] [арт.] <strong>instruction</strong> які <strong>command</strong> [В.с.] Майсей слуга Існы да|[Д.с.] любіць|кахаць [В.с.] Існы Бог і да|[Д.с.] хадзіць у|[Тв.с.] цэлы|увесь шлях і да|[Д.с.] захоўваць <strong>commandment</strong> і да|[Д.с.] <strong>cling, cleave to</strong> у|[Тв.с.] і да|[Д.с.] працаваць у|[Тв.с.] цэлы|увесь сэрца і у|[Тв.с.] цэлы|увесь душа 
+Joshua 22:6 (6434) і <strong>bless</strong> <strong>Joshua</strong> і слаць і хадзіць да <strong>tent</strong> ס
+Joshua 22:7 (6435) і да|[Д.с.] <strong>half</strong> <strong>rod</strong> [арт.] <strong>Manasseh</strong> даць Майсей у|[Тв.с.] [арт.] <strong>Bashan</strong> і да|[Д.с.] <strong>half</strong> даць <strong>Joshua</strong> з брат у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> мора і таксама|нават бо|што слаць <strong>Joshua</strong> да <strong>tent</strong> і <strong>bless</strong> 
+Joshua 22:8 (6436) і казаць да да|[Д.с.] казаць у|[Тв.с.] <strong>riches</strong> шматлікі вяртацца да <strong>tent</strong> і у|[Тв.с.] набыццё шматлікі вельмі у|[Тв.с.] срэбра і у|[Тв.с.] золата і у|[Тв.с.] <strong>bronze</strong> і у|[Тв.с.] жалеза і у|[Тв.с.] <strong>wrapper</strong> шмат вельмі <strong>divide</strong> <strong>plunder</strong> <strong>be hostile</strong> з брат פ
+Joshua 22:9 (6437) і вяртацца і хадзіць сын <strong>Reuben</strong> і сын <strong>Gad</strong> і <strong>half</strong> <strong>rod</strong> [арт.] <strong>Manasseh</strong> з разам з сын Ісраэль з <strong>Shiloh</strong> які у|[Тв.с.] зямля <strong>Canaan</strong> да|[Д.с.] хадзіць да зямля [арт.] Гіл’ад да зямля <strong>land property</strong> які <strong>seize</strong> у|[Тв.с.] на рот Існы у|[Тв.с.] рука Майсей 
+Joshua 22:10 (6438) і прыйсці да <strong>region</strong> [арт.] <strong>Jordan</strong> які у|[Тв.с.] зямля <strong>Canaan</strong> і будаваць сын <strong>Reuben</strong> і сын <strong>Gad</strong> і <strong>half</strong> <strong>rod</strong> [арт.] <strong>Manasseh</strong> там <strong>altar</strong> на [арт.] <strong>Jordan</strong> <strong>altar</strong> вялікі да|[Д.с.] <strong>sight</strong> 
+Joshua 22:11 (6439) і чуць сын Ісраэль да|[Д.с.] казаць вось будаваць сын <strong>Reuben</strong> і сын <strong>Gad</strong> і <strong>half</strong> <strong>rod</strong> [арт.] <strong>Manasseh</strong> [В.с.] [арт.] <strong>altar</strong> да <strong>front</strong> зямля <strong>Canaan</strong> да <strong>region</strong> [арт.] <strong>Jordan</strong> да <strong>opposite</strong> сын Ісраэль 
+Joshua 22:12 (6440) і чуць сын Ісраэль і <strong>assemble</strong> цэлы|увесь <strong>gathering</strong> сын Ісраэль <strong>Shiloh</strong> да|[Д.с.] падымацца на да|[Д.с.] [арт.] <strong>service</strong> פ
+Joshua 22:13 (6441) і слаць сын Ісраэль да сын <strong>Reuben</strong> і да сын <strong>Gad</strong> і да <strong>half</strong> <strong>rod</strong> <strong>Manasseh</strong> да зямля [арт.] Гіл’ад [В.с.] <strong>Phinehas</strong> сын <strong>Eleazar</strong> [арт.] <strong>priest</strong> 
+Joshua 22:14 (6442) і дзесяць <strong>chief</strong> з <strong>chief</strong> адзін <strong>chief</strong> адзін да|[Д.с.] дом бацька да|[Д.с.] цэлы|увесь <strong>staff</strong> Ісраэль і чалавек (1) галава дом бацька яны да|[Д.с.] <strong>group of thousand</strong> Ісраэль 
+Joshua 22:15 (6443) і прыйсці да сын <strong>Reuben</strong> і да сын <strong>Gad</strong> і да <strong>half</strong> <strong>rod</strong> <strong>Manasseh</strong> да зямля [арт.] Гіл’ад і гаварыць разам з да|[Д.с.] казаць 
+Joshua 22:16 (6444) такім чынам казаць цэлы|увесь <strong>gathering</strong> Існы што [арт.] <strong>unfaithfulness</strong> [арт.] гэты які <strong>be unfaithful</strong> у|[Тв.с.] Бог Ісраэль да|[Д.с.] вяртацца [арт.] дзень з пасля Існы у|[Тв.с.] будаваць да|[Д.с.] <strong>altar</strong> да|[Д.с.] <strong>rebel</strong> [арт.] дзень у|[Тв.с.] Існы 
+Joshua 22:17 (6445) ці <strong>little</strong> да|[Д.с.] [В.с.] <strong>sin</strong> <strong>Peor</strong> які не <strong>be clean</strong> з (ажно) да [арт.] дзень [арт.] гэты і быць [арт.] <strong>plague</strong> у|[Тв.с.] <strong>gathering</strong> Існы 
+Joshua 22:18 (6446) і <strong>you</strong> вяртацца [арт.] дзень з пасля Існы і быць <strong>you</strong> <strong>rebel</strong> [арт.] дзень у|[Тв.с.] Існы і <strong>next day</strong> да цэлы|увесь <strong>gathering</strong> Ісраэль <strong>be angry</strong> 
+Joshua 22:19 (6447) і <strong>only</strong> калі[зл.] нячысты зямля <strong>land property</strong> перайсці да|[Д.с.] да зямля <strong>land property</strong> Існы які насяляць там <strong>dwelling-place</strong> Існы і <strong>seize</strong> у|[Тв.с.] <strong>midst</strong> і у|[Тв.с.] Існы не [+заг.лад] <strong>rebel</strong> і [В.с.] да <strong>rebel</strong> у|[Тв.с.] будаваць да|[Д.с.] <strong>altar</strong> з <strong>without</strong> <strong>altar</strong> Існы Бог 
+Joshua 22:20 (6448) ці не <strong>Achan</strong> сын <strong>Zerah</strong> <strong>be unfaithful</strong> <strong>unfaithfulness</strong> у|[Тв.с.] [арт.] <strong>ban</strong> і на цэлы|увесь <strong>gathering</strong> Ісраэль быць <strong>anger</strong> і ён чалавек (1) адзін не <strong>expire</strong> у|[Тв.с.] <strong>sin</strong> פ
+Joshua 22:21 (6449) і адказаць сын <strong>Reuben</strong> і сын <strong>Gad</strong> і <strong>half</strong> <strong>rod</strong> [арт.] <strong>Manasseh</strong> і гаварыць разам з галава <strong>group of thousand</strong> Ісраэль 
+Joshua 22:22 (6450) <strong>god</strong> Бог Існы <strong>god</strong> Бог Існы ён ведаць [+неад.]|займацца сэксам [+адуш.] і Ісраэль ён ведаць [+неад.]|займацца сэксам [+адуш.] калі[зл.] у|[Тв.с.] <strong>rebellion</strong> і калі[зл.] у|[Тв.с.] <strong>unfaithfulness</strong> у|[Тв.с.] Існы не [+заг.лад] збавіць [арт.] дзень [арт.] гэты 
+Joshua 22:23 (6451) да|[Д.с.] будаваць да|[Д.с.] <strong>altar</strong> да|[Д.с.] вяртацца з пасля Існы і калі[зл.] да|[Д.с.] падымацца на <strong>burnt-offering</strong> і <strong>present</strong> і калі[зл.] да|[Д.с.] рабіць на <strong>sacrifice</strong> <strong>final offer</strong> Існы ён шукаць 
+Joshua 22:24 (6452) і калі[зл.] не з <strong>care</strong> з слова|рэч рабіць [В.с.] <strong>this</strong> да|[Д.с.] казаць <strong>next day</strong> казаць сын да|[Д.с.] сын да|[Д.с.] казаць што да|[Д.с.] і да|[Д.с.] Існы Бог Ісраэль 
+Joshua 22:25 (6453) і мяжа даць Існы між і між сын <strong>Reuben</strong> і сын <strong>Gad</strong> [В.с.] [арт.] <strong>Jordan</strong> няма да|[Д.с.] частка у|[Тв.с.] Існы і <strong>cease</strong> сын [В.с.] сын да|[Д.с.] <strong>failure</strong> баяцца [В.с.] Існы 
+Joshua 22:26 (6454) і казаць рабіць ж, -ка [узмацн.] да|[Д.с.] да|[Д.с.] будаваць [В.с.] [арт.] <strong>altar</strong> не да|[Д.с.] <strong>burnt-offering</strong> і не да|[Д.с.] <strong>sacrifice</strong> 
+Joshua 22:27 (6455) бо|што <strong>witness</strong> ён між і між і між <strong>generation</strong> пасля да|[Д.с.] працаваць [В.с.] <strong>work</strong> Існы да|[Д.с.] твар у|[Тв.с.] <strong>burnt-offering</strong> і у|[Тв.с.] <strong>sacrifice</strong> і у|[Тв.с.] <strong>final offer</strong> і не казаць сын <strong>next day</strong> да|[Д.с.] сын няма да|[Д.с.] частка у|[Тв.с.] Існы 
+Joshua 22:28 (6456) і казаць і быць бо|што казаць да і да <strong>generation</strong> <strong>next day</strong> і казаць бачыць [В.с.] <strong>model</strong> <strong>altar</strong> Існы які рабіць бацька не да|[Д.с.] <strong>burnt-offering</strong> і не да|[Д.с.] <strong>sacrifice</strong> бо|што <strong>witness</strong> ён між і між 
+Joshua 22:29 (6457) <strong>be it far</strong> да|[Д.с.] з да|[Д.с.] <strong>rebel</strong> у|[Тв.с.] Існы і да|[Д.с.] вяртацца [арт.] дзень з пасля Існы да|[Д.с.] будаваць <strong>altar</strong> да|[Д.с.] <strong>burnt-offering</strong> да|[Д.с.] <strong>present</strong> і да|[Д.с.] <strong>sacrifice</strong> з да|[Д.с.] частка <strong>altar</strong> Існы Бог які да|[Д.с.] твар <strong>dwelling-place</strong> פ
+Joshua 22:30 (6458) і чуць <strong>Phinehas</strong> [арт.] <strong>priest</strong> і <strong>chief</strong> [арт.] <strong>gathering</strong> і галава <strong>group of thousand</strong> Ісраэль які разам з [В.с.] [арт.] слова|рэч які гаварыць сын <strong>Reuben</strong> і сын <strong>Gad</strong> і сын <strong>Manasseh</strong> і <strong>be good</strong> у|[Тв.с.] вока 
+Joshua 22:31 (6459) і казаць <strong>Phinehas</strong> сын <strong>Eleazar</strong> [арт.] <strong>priest</strong> да сын <strong>Reuben</strong> і да сын <strong>Gad</strong> і да сын <strong>Manasseh</strong> [арт.] дзень ведаць [+неад.]|займацца сэксам [+адуш.] бо|што у|[Тв.с.] <strong>midst</strong> Існы які не <strong>be unfaithful</strong> у|[Тв.с.] Існы [арт.] <strong>unfaithfulness</strong> [арт.] гэты тады <strong>deliver</strong> [В.с.] сын Ісраэль з рука Існы 
+Joshua 22:32 (6460) і вяртацца <strong>Phinehas</strong> сын <strong>Eleazar</strong> [арт.] <strong>priest</strong> і [арт.] <strong>chief</strong> з разам з сын <strong>Reuben</strong> і з разам з сын <strong>Gad</strong> з зямля [арт.] Гіл’ад да зямля <strong>Canaan</strong> да сын Ісраэль і вяртацца [В.с.] слова|рэч 
+Joshua 22:33 (6461) і <strong>be good</strong> [арт.] слова|рэч у|[Тв.с.] вока сын Ісраэль і <strong>bless</strong> Бог сын Ісраэль і не казаць да|[Д.с.] падымацца на да|[Д.с.] [арт.] <strong>service</strong> да|[Д.с.] <strong>destroy</strong> [В.с.] [арт.] зямля які сын <strong>Reuben</strong> і сын <strong>Gad</strong> сядзець у|[Тв.с.] 
+Joshua 22:34 (6462) і зваць сын <strong>Reuben</strong> і сын <strong>Gad</strong> да|[Д.с.] [арт.] <strong>altar</strong> бо|што <strong>witness</strong> ён між бо|што Існы [арт.] Бог פ
+Joshua 23:1 (6463) і быць з дзень шматлікі пасля які асесць Існы да|[Д.с.] Ісраэль з цэлы|увесь <strong>be hostile</strong> з вакол і <strong>Joshua</strong> <strong>be old</strong> прыйсці у|[Тв.с.] [арт.] дзень 
+Joshua 23:2 (6464) і зваць <strong>Joshua</strong> да|[Д.с.] цэлы|увесь Ісраэль да|[Д.с.] старадаўні і да|[Д.с.] галава і да|[Д.с.] судзіць і да|[Д.с.] <strong>register</strong> і казаць да я <strong>be old</strong> прыйсці у|[Тв.с.] [арт.] дзень 
+Joshua 23:3 (6465) і <strong>you</strong> бачыць [В.с.] цэлы|увесь які рабіць Існы Бог да|[Д.с.] цэлы|увесь [арт.] знешні народ [арт.] гэтыя з твар бо|што Існы Бог ён [арт.] <strong>fight</strong> да|[Д.с.] 
+Joshua 23:4 (6466) бачыць падаць да|[Д.с.] [В.с.] [арт.] знешні народ [арт.] пакідаць [арт.] гэтыя у|[Тв.с.] уласнасць да|[Д.с.] <strong>rod</strong> з [арт.] <strong>Jordan</strong> і цэлы|увесь [арт.] знешні народ які выразаць і [арт.] мора [арт.] вялікі <strong>entrance</strong> [арт.] сонца 
+Joshua 23:5 (6467) і Існы Бог ён <strong>push</strong> з твар і заўладаць [В.с.] з да|[Д.с.] твар і заўладаць [В.с.] зямля як які гаварыць Існы Бог да|[Д.с.] 
+Joshua 23:6 (6468) і <strong>be strong</strong> вельмі да|[Д.с.] захоўваць і да|[Д.с.] рабіць [В.с.] цэлы|увесь [арт.] пісанне у|[Тв.с.] ліст <strong>instruction</strong> Майсей да|[Д.с.] <strong>failure</strong> збочыць з правая частка і левая частка 
+Joshua 23:7 (6469) да|[Д.с.] <strong>failure</strong> прыйсці у|[Тв.с.] [арт.] знешні народ [арт.] гэтыя [арт.] пакідаць [арт.] гэтыя разам з і у|[Тв.с.] імя Бог не помніць і не <strong>swear</strong> і не працаваць і не <strong>bow down</strong> да|[Д.с.] 
+Joshua 23:8 (6470) бо|што калі[зл.] у|[Тв.с.] Існы Бог <strong>cling, cleave to</strong> як які рабіць (ажно) да [арт.] дзень [арт.] гэты 
+Joshua 23:9 (6471) і заўладаць Існы з твар знешні народ вялікі і <strong>mighty</strong> і <strong>you</strong> не стаяць чалавек (1) у|[Тв.с.] твар (ажно) да [арт.] дзень [арт.] гэты 
+Joshua 23:10 (6472) чалавек (1) адзін з <strong>pursue</strong> тысяча бо|што Існы Бог ён [арт.] <strong>fight</strong> да|[Д.с.] як які гаварыць да|[Д.с.] 
+Joshua 23:11 (6473) і захоўваць вельмі да|[Д.с.] душа да|[Д.с.] любіць|кахаць [В.с.] Існы Бог 
+Joshua 23:12 (6474) бо|што калі[зл.] вяртацца вяртацца і <strong>cling, cleave to</strong> у|[Тв.с.] <strong>remainder</strong> [арт.] знешні народ [арт.] гэтыя [арт.] пакідаць [арт.] гэтыя разам з і <strong>be father-in-law</strong> у|[Тв.с.] і прыйсці у|[Тв.с.] і яны [ж.] у|[Тв.с.] 
+Joshua 23:13 (6475) ведаць [+неад.]|займацца сэксам [+адуш.] ведаць [+неад.]|займацца сэксам [+адуш.] бо|што не дадаць Існы Бог да|[Д.с.] заўладаць [В.с.] [арт.] знешні народ [арт.] гэтыя з да|[Д.с.] твар і быць да|[Д.с.] да|[Д.с.] <strong>bird-trap</strong> і да|[Д.с.] <strong>bait</strong> і да|[Д.с.] <strong>[uncertain]</strong> у|[Тв.с.] <strong>side</strong> і да|[Д.с.] <strong>pricks</strong> у|[Тв.с.] вока (ажно) да загінуць з на [арт.] <strong>soil</strong> [арт.] добры [арт.] <strong>this</strong> які даць да|[Д.с.] Існы Бог 
+Joshua 23:14 (6476) і вось <strong>i</strong> хадзіць [арт.] дзень у|[Тв.с.] шлях цэлы|увесь [арт.] зямля і ведаць [+неад.]|займацца сэксам [+адуш.] у|[Тв.с.] цэлы|увесь сэрца і у|[Тв.с.] цэлы|увесь душа бо|што не падаць слова|рэч адзін з цэлы|увесь [арт.] слова|рэч [арт.] добры які гаварыць Існы Бог на [арт.] цэлы|увесь прыйсці да|[Д.с.] не падаць з слова|рэч адзін 
+Joshua 23:15 (6477) і быць як які прыйсці на цэлы|увесь [арт.] слова|рэч [арт.] добры які гаварыць Існы Бог да так прыйсці Існы на [В.с.] цэлы|увесь [арт.] слова|рэч [арт.] зло (ажно) да <strong>destroy</strong> [В.с.] з на [арт.] <strong>soil</strong> [арт.] добры [арт.] <strong>this</strong> які даць да|[Д.с.] Існы Бог 
+Joshua 23:16 (6478) у|[Тв.с.] перайсці [В.с.] дамова Існы Бог які <strong>command</strong> [В.с.] і хадзіць і працаваць Бог іншы і <strong>bow down</strong> да|[Д.с.] і <strong>be hot</strong> <strong>nose</strong> Існы у|[Тв.с.] і загінуць <strong>haste</strong> з на [арт.] зямля [арт.] добры які даць да|[Д.с.] פ
+Joshua 24:1 (6479) і збіраць <strong>Joshua</strong> [В.с.] цэлы|увесь <strong>rod</strong> Ісраэль <strong>Shechem</strong> і зваць да|[Д.с.] старадаўні Ісраэль і да|[Д.с.] галава і да|[Д.с.] судзіць і да|[Д.с.] <strong>register</strong> і <strong>stand</strong> да|[Д.с.] твар [арт.] Бог 
+Joshua 24:2 (6480) і казаць <strong>Joshua</strong> да цэлы|увесь [арт.] народ такім чынам казаць Існы Бог Ісраэль у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>stream</strong> сядзець бацька з свет|вечнасць <strong>Terah</strong> бацька <strong>Abraham</strong> і бацька <strong>Nahor</strong> і працаваць Бог іншы 
+Joshua 24:3 (6481) і браць [В.с.] бацька [В.с.] <strong>Abraham</strong> з <strong>opposite</strong> [арт.] <strong>stream</strong> і хадзіць [В.с.] у|[Тв.с.] цэлы|увесь зямля <strong>Canaan</strong> і шмат [В.с.] семя і даць да|[Д.с.] [В.с.] <strong>Isaac</strong> 
+Joshua 24:4 (6482) і даць да|[Д.с.] <strong>Isaac</strong> [В.с.] Яако́ў і [В.с.] Эсаў і даць да|[Д.с.] Эсаў [В.с.] гара <strong>Seir</strong> да|[Д.с.] заўладаць [В.с.] і Яако́ў і сын апускацца <strong>Egypt</strong> 
+Joshua 24:5 (6483) і слаць [В.с.] Майсей і [В.с.] <strong>Aaron</strong> і <strong>hurt</strong> [В.с.] <strong>Egypt</strong> як які рабіць у|[Тв.с.] <strong>interior</strong> і пасля выйсці [В.с.] 
+Joshua 24:6 (6484) і выйсці [В.с.] бацька з <strong>Egypt</strong> і прыйсці [арт.] мора і <strong>pursue</strong> <strong>Egypt</strong> пасля бацька у|[Тв.с.] <strong>chariot</strong> і у|[Тв.с.] <strong>horseman</strong> мора <strong>rush</strong> 
+Joshua 24:7 (6485) і <strong>cry</strong> да Існы і класці|ставіць <strong>darkness</strong> між і між [арт.] <strong>Egyptian</strong> і прыйсці на [В.с.] [арт.] мора і пакрыць і бачыць вока [В.с.] які рабіць у|[Тв.с.] <strong>Egypt</strong> і сядзець у|[Тв.с.] [арт.] <strong>desert</strong> дзень шматлікі 
+Joshua 24:8 (6486) і прыйсці [В.с.] да зямля [арт.] <strong>Amorite</strong> [арт.] сядзець у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>Jordan</strong> і <strong>fight</strong> разам з і даць [В.с.] у|[Тв.с.] рука і заўладаць [В.с.] зямля і <strong>destroy</strong> з твар 
+Joshua 24:9 (6487) і устаць <strong>Balak</strong> сын <strong>Zippor</strong> цар <strong>Moab</strong> і <strong>fight</strong> у|[Тв.с.] Ісраэль і слаць і зваць да|[Д.с.] <strong>[prophet]</strong> сын <strong>Beor</strong> да|[Д.с.] <strong>be slight</strong> [В.с.] 
+Joshua 24:10 (6488) і не <strong>want</strong> да|[Д.с.] чуць да|[Д.с.] <strong>[prophet]</strong> і <strong>bless</strong> <strong>bless</strong> [В.с.] і <strong>deliver</strong> [В.с.] з рука 
+Joshua 24:11 (6489) і перайсці [В.с.] [арт.] <strong>Jordan</strong> і прыйсці да <strong>Jericho</strong> і <strong>fight</strong> у|[Тв.с.] хазяін <strong>Jericho</strong> [арт.] <strong>Amorite</strong> і [арт.] <strong>Perizzite</strong> і [арт.] канаанец і [арт.] <strong>Hittite</strong> і [арт.] <strong>Girgashite</strong> [арт.] <strong>Hivite</strong> і [арт.] <strong>Jebusite</strong> і даць [В.с.] у|[Тв.с.] рука 
+Joshua 24:12 (6490) і слаць да|[Д.с.] твар [В.с.] [арт.] <strong>depression</strong> і <strong>drive out</strong> [В.с.] з твар два цар [арт.] <strong>Amorite</strong> не у|[Тв.с.] <strong>dagger</strong> і не у|[Тв.с.] <strong>bow</strong> 
+Joshua 24:13 (6491) і даць да|[Д.с.] зямля які не <strong>be weary</strong> у|[Тв.с.] і горад які не будаваць і сядзець у|[Тв.с.] <strong>vineyard</strong> і <strong>olive</strong> які не <strong>plant</strong> <strong>you</strong> есці 
+Joshua 24:14 (6492) і <strong>now</strong> баяцца [В.с.] Існы і працаваць [В.с.] у|[Тв.с.] <strong>complete</strong> і у|[Тв.с.] праўда і збочыць [В.с.] Бог які працаваць бацька у|[Тв.с.] <strong>opposite</strong> [арт.] <strong>stream</strong> і у|[Тв.с.] <strong>Egypt</strong> і працаваць [В.с.] Існы 
+Joshua 24:15 (6493) і калі[зл.] <strong>be evil</strong> у|[Тв.с.] вока да|[Д.с.] працаваць [В.с.] Існы <strong>examine</strong> да|[Д.с.] [арт.] дзень [В.с.] хто працаваць калі[зл.] [В.с.] Бог які працаваць бацька які з <strong>opposite</strong> [арт.] <strong>stream</strong> і калі[зл.] [В.с.] Бог [арт.] <strong>Amorite</strong> які <strong>you</strong> сядзець у|[Тв.с.] зямля і <strong>i</strong> і дом працаваць [В.с.] Існы פ
+Joshua 24:16 (6494) і адказаць [арт.] народ і казаць <strong>be it far</strong> да|[Д.с.] з <strong>leave</strong> [В.с.] Існы да|[Д.с.] працаваць Бог іншы 
+Joshua 24:17 (6495) бо|што Існы Бог ён [арт.] падымацца [В.с.] і [В.с.] бацька з зямля <strong>Egypt</strong> з дом слуга і які рабіць да|[Д.с.] вока [В.с.] [арт.] <strong>sign</strong> [арт.] вялікі [арт.] гэтыя і захоўваць у|[Тв.с.] цэлы|увесь [арт.] шлях які хадзіць у|[Тв.с.] і у|[Тв.с.] цэлы|увесь [арт.] народ які перайсці у|[Тв.с.] <strong>interior</strong> 
+Joshua 24:18 (6496) і <strong>drive out</strong> Існы [В.с.] цэлы|увесь [арт.] народ і [В.с.] [арт.] <strong>Amorite</strong> сядзець [арт.] зямля з твар таксама|нават <strong>we</strong> працаваць [В.с.] Існы бо|што ён Бог ס
+Joshua 24:19 (6497) і казаць <strong>Joshua</strong> да [арт.] народ не магчы да|[Д.с.] працаваць [В.с.] Існы бо|што Бог святы ён <strong>god</strong> <strong>jealous</strong> ён не падняць да|[Д.с.] <strong>rebellion</strong> і да|[Д.с.] <strong>sin</strong> 
+Joshua 24:20 (6498) бо|што <strong>leave</strong> [В.с.] Існы і працаваць Бог <strong>foreigner</strong> і вяртацца і <strong>be evil</strong> да|[Д.с.] і <strong>be complete</strong> [В.с.] пасля які <strong>be good</strong> да|[Д.с.] 
+Joshua 24:21 (6499) і казаць [арт.] народ да <strong>Joshua</strong> не бо|што [В.с.] Існы працаваць 
+Joshua 24:22 (6500) і казаць <strong>Joshua</strong> да [арт.] народ <strong>witness</strong> <strong>you</strong> у|[Тв.с.] бо|што <strong>you</strong> <strong>examine</strong> да|[Д.с.] [В.с.] Існы да|[Д.с.] працаваць [В.с.] і казаць <strong>witness</strong> 
+Joshua 24:23 (6501) і <strong>now</strong> збочыць [В.с.] Бог [арт.] <strong>foreigner</strong> які у|[Тв.с.] <strong>interior</strong> і <strong>extend</strong> [В.с.] сэрца да Існы Бог Ісраэль 
+Joshua 24:24 (6502) і казаць [арт.] народ да <strong>Joshua</strong> [В.с.] Існы Бог працаваць і у|[Тв.с.] голас чуць 
+Joshua 24:25 (6503) і выразаць <strong>Joshua</strong> дамова да|[Д.с.] [арт.] народ у|[Тв.с.] [арт.] дзень [арт.] ён і класці|ставіць да|[Д.с.] <strong>portion</strong> і правасуддзе у|[Тв.с.] <strong>Shechem</strong> 
+Joshua 24:26 (6504) і пісанне <strong>Joshua</strong> [В.с.] [арт.] слова|рэч [арт.] гэтыя у|[Тв.с.] ліст <strong>instruction</strong> Бог і браць камень вялікі і устаць там пад [арт.] <strong>big tree</strong> які у|[Тв.с.] <strong>sanctuary</strong> Існы ס
+Joshua 24:27 (6505) і казаць <strong>Joshua</strong> да цэлы|увесь [арт.] народ вось [арт.] камень [арт.] <strong>this</strong> быць у|[Тв.с.] да|[Д.с.] <strong>witness</strong> бо|што яна чуць [В.с.] цэлы|увесь <strong>word</strong> Існы які гаварыць з і быць у|[Тв.с.] да|[Д.с.] <strong>witness</strong> <strong>lest</strong> <strong>grow lean</strong> у|[Тв.с.] Бог 
+Joshua 24:28 (6506) і слаць <strong>Joshua</strong> [В.с.] [арт.] народ чалавек (1) да|[Д.с.] уласнасць פ
+Joshua 24:29 (6507) і быць пасля [арт.] слова|рэч [арт.] гэтыя і паміраць <strong>Joshua</strong> сын <strong>Nun</strong> слуга Існы сын сотня і <strong>ten</strong> год 
+Joshua 24:30 (6508) і пахаваць [В.с.] у|[Тв.с.] мяжа уласнасць у|[Тв.с.] <strong>Timnath Serah</strong> які у|[Тв.с.] гара Эфраі́м з поўнач да|[Д.с.] гара <strong>Gaash</strong> 
+Joshua 24:31 (6509) і працаваць Ісраэль [В.с.] Існы цэлы|увесь дзень <strong>Joshua</strong> і цэлы|увесь дзень [арт.] старадаўні які <strong>be long</strong> дзень пасля <strong>Joshua</strong> і які ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] цэлы|увесь учынак|справа Існы які рабіць да|[Д.с.] Ісраэль 
+Joshua 24:32 (6510) і [В.с.] костка Ёсэ́ф які падымацца сын Ісраэль з <strong>Egypt</strong> пахаваць у|[Тв.с.] <strong>Shechem</strong> у|[Тв.с.] <strong>plot of land</strong> [арт.] поле які набыць Яако́ў з разам з сын <strong>Hamor</strong> бацька <strong>Shechem</strong> у|[Тв.с.] сотня <strong>qesitha</strong> і быць да|[Д.с.] сын Ёсэ́ф да|[Д.с.] уласнасць 
+Joshua 24:33 (6511) і <strong>Eleazar</strong> сын <strong>Aaron</strong> паміраць і пахаваць [В.с.] у|[Тв.с.] <strong>hill</strong> <strong>Phinehas</strong> сын які даць да|[Д.с.] у|[Тв.с.] гара Эфраі́м 

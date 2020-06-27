@@ -1,117 +1,117 @@
-1:1 (19662) 
-1:2 (19663) 
-1:3 (19664) 
-1:4 (19665) ס
-1:5 (19666) 
-1:6 (19667) 
-1:7 (19668) 
-1:8 (19669) ס
-1:9 (19670) 
-1:10 (19671) 
-1:11 (19672) 
-1:12 (19673) 
-1:13 (19674) 
-1:14 (19675) ס
-1:15 (19676) 
-1:16 (19677) 
-1:17 (19678) 
-2:1 (19679) 
-2:2 (19680) 
-2:3 (19681) 
-2:4 (19682) 
-2:5 (19683) 
-2:6 (19684) 
-2:7 (19685) ס
-2:8 (19686) 
-2:9 (19687) 
-2:10 (19688) 
-2:11 (19689) 
-2:12 (19690) 
-2:13 (19691) ס
-2:14 (19692) ס
-2:15 (19693) 
-2:16 (19694) 
-2:17 (19695) ס
-3:1 (19696) 
-3:2 (19697) 
-3:3 (19698) 
-3:4 (19699) 
-3:5 (19700) ס
-3:6 (19701) 
-3:7 (19702) 
-3:8 (19703) ס
-3:9 (19704) 
-3:10 (19705) 
-3:11 (19706) ס
-4:1 (19707) 
-4:2 (19708) 
-4:3 (19709) 
-4:4 (19710) 
-4:5 (19711) 
-4:6 (19712) 
-4:7 (19713) ס
-4:8 (19714) 
-4:9 (19715) 
-4:10 (19716) 
-4:11 (19717) ס
-4:12 (19718) 
-4:13 (19719) 
-4:14 (19720) 
-4:15 (19721) 
-4:16 (19722) 
-5:1 (19723) ס
-5:2 (19724) 
-5:3 (19725) 
-5:4 (19726) 
-5:5 (19727) 
-5:6 (19728) 
-5:7 (19729) 
-5:8 (19730) 
-5:9 (19731) 
-5:10 (19732) 
-5:11 (19733) 
-5:12 (19734) 
-5:13 (19735) 
-5:14 (19736) 
-5:15 (19737) 
-5:16 (19738) 
-6:1 (19739) 
-6:2 (19740) 
-6:3 (19741) ס
-6:4 (19742) 
-6:5 (19743) 
-6:6 (19744) 
-6:7 (19745) 
-6:8 (19746) 
-6:9 (19747) ס
-6:10 (19748) ס
-6:11 (19749) 
-6:12 (19750) 
-7:1 (19751) 
-7:2 (19752) 
-7:3 (19753) 
-7:4 (19754) 
-7:5 (19755) 
-7:6 (19756) 
-7:7 (19757) 
-7:8 (19758) 
-7:9 (19759) 
-7:10 (19760) 
-7:11 (19761) ס
-7:12 (19762) 
-7:13 (19763) 
-7:14 (19764) 
-8:1 (19765) 
-8:2 (19766) 
-8:3 (19767) 
-8:4 (19768) ס
-8:5 (19769) 
-8:6 (19770) 
-8:7 (19771) ס
-8:8 (19772) 
-8:9 (19773) 
-8:10 (19774) פ
-8:11 (19775) 
-8:12 (19776) 
-8:13 (19777) 
-8:14 (19778) 
+Song of Songs 1:1 (19662) песня [арт.] песня які да|[Д.с.] <strong>Solomon</strong> 
+Song of Songs 1:2 (19663) <strong>kiss</strong> з <strong>kiss</strong> рот бо|што добры <strong>beloved one</strong> з віно 
+Song of Songs 1:3 (19664) да|[Д.с.] <strong>scent</strong> алей добры алей <strong>be empty</strong> імя на так <strong>young woman</strong> любіць|кахаць 
+Song of Songs 1:4 (19665) <strong>draw</strong> пасля бяжаць прыйсці [арт.] цар пакой <strong>rejoice</strong> і узрадавацца у|[Тв.с.] помніць <strong>beloved one</strong> з віно <strong>uprightness</strong> любіць|кахаць ס
+Song of Songs 1:5 (19666) <strong>black</strong> я і <strong>lovely</strong> дачка Ерусалім як <strong>tent</strong> <strong>Kedar</strong> як <strong>curtain</strong> <strong>Solomon</strong> 
+Song of Songs 1:6 (19667) не [+заг.лад] бачыць што я <strong>blackish</strong> што <strong>catch sight</strong> [арт.] сонца сын маці <strong>snort</strong> у|[Тв.с.] класці|ставіць <strong>keep</strong> [В.с.] [арт.] <strong>vineyard</strong> <strong>vineyard</strong> што да|[Д.с.] не <strong>keep</strong> 
+Song of Songs 1:7 (19668) абвяшчаць да|[Д.с.] што любіць|кахаць душа <strong>how</strong> <strong>pasture</strong> <strong>how</strong> <strong>lie down</strong> у|[Тв.с.] [арт.] <strong>noon</strong> што чаму быць як <strong>cover</strong> на <strong>flock</strong> сабар 
+Song of Songs 1:8 (19669) калі[зл.] не ведаць [+неад.]|займацца сэксам [+адуш.] да|[Д.с.] [арт.] прыгожы у|[Тв.с.] [арт.] жанчына выйсці да|[Д.с.] у|[Тв.с.] <strong>heel</strong> [арт.] скаціна і <strong>pasture</strong> [В.с.] <strong>young goat</strong> на <strong>dwelling-place</strong> [арт.] <strong>pasture</strong> ס
+Song of Songs 1:9 (19670) да|[Д.с.] <strong>mare</strong> у|[Тв.с.] <strong>chariot</strong> <strong>pharaoh</strong> <strong>be like</strong> <strong>girl friend</strong> 
+Song of Songs 1:10 (19671) <strong>be lovely</strong> <strong>jaw</strong> у|[Тв.с.] [арт.] <strong>turn</strong> <strong>neck</strong> у|[Тв.с.] [арт.] <strong>string of shells</strong> 
+Song of Songs 1:11 (19672) <strong>turn</strong> золата рабіць да|[Д.с.] з <strong>glass-bead</strong> [арт.] срэбра 
+Song of Songs 1:12 (19673) (ажно) да што [арт.] цар у|[Тв.с.] <strong>surrounding</strong> <strong>nard</strong> даць <strong>scent</strong> 
+Song of Songs 1:13 (19674) <strong>bag</strong> [арт.] <strong>myrrh</strong> <strong>beloved one</strong> да|[Д.с.] між <strong>breast</strong> <strong>lodge</strong> 
+Song of Songs 1:14 (19675) <strong>grape</strong> [арт.] <strong>hennah</strong> <strong>beloved one</strong> да|[Д.с.] у|[Тв.с.] <strong>vineyard</strong> <strong>En Gedi</strong> ס
+Song of Songs 1:15 (19676) вось прыгожы <strong>girl friend</strong> вось прыгожы вока <strong>dove</strong> 
+Song of Songs 1:16 (19677) вось прыгожы <strong>beloved one</strong> нават <strong>pleasant</strong> нават <strong>couch</strong> <strong>luxuriant</strong> 
+Song of Songs 1:17 (19678) <strong>beam</strong> дом <strong>cedar</strong> <strong>rafter</strong> <strong>juniper</strong> 
+Song of Songs 2:1 (19679) я <strong>asphodel</strong> [арт.] <strong>Sharon</strong> <strong>lily</strong> [арт.] <strong>valley</strong> 
+Song of Songs 2:2 (19680) як <strong>lily</strong> між [арт.] <strong>thorn</strong> так <strong>girl friend</strong> між [арт.] дачка 
+Song of Songs 2:3 (19681) як <strong>apple-tree</strong> у|[Тв.с.] дрэва [арт.] <strong>wood</strong> так <strong>beloved one</strong> між [арт.] сын у|[Тв.с.] цень <strong>desire</strong> і сядзець і плод салодкі да|[Д.с.] <strong>palate</strong> 
+Song of Songs 2:4 (19682) прыйсці да дом [арт.] віно і <strong>banner</strong> на любоў|каханне 
+Song of Songs 2:5 (19683) <strong>support</strong> у|[Тв.с.] [арт.] <strong>raisin cake</strong> <strong>spread out</strong> у|[Тв.с.] [арт.] <strong>apple-tree</strong> бо|што <strong>become weak</strong> любоў|каханне я 
+Song of Songs 2:6 (19684) левая частка пад да|[Д.с.] галава і правая частка <strong>embrace</strong> 
+Song of Songs 2:7 (19685) <strong>swear</strong> [В.с.] дачка Ерусалім у|[Тв.с.] <strong>she-gazelle</strong> ці у|[Тв.с.] <strong>doe</strong> [арт.] поле калі[зл.] <strong>be awake</strong> і калі[зл.] <strong>be awake</strong> [В.с.] [арт.] любоў|каханне (ажно) да што <strong>desire</strong> ס
+Song of Songs 2:8 (19686) голас <strong>beloved one</strong> вось гэты прыйсці <strong>ascend</strong> на [арт.] гара <strong>draw together</strong> на [арт.] <strong>hill</strong> 
+Song of Songs 2:9 (19687) <strong>be like</strong> <strong>beloved one</strong> да|[Д.с.] <strong>gazelle</strong> ці да|[Д.с.] <strong>gazelle</strong> [арт.] <strong>fallow-buck</strong> вось гэты стаяць пасля <strong>wall</strong> <strong>gaze</strong> з [арт.] <strong>window</strong> <strong>glance</strong> з [арт.] <strong>lattice</strong> 
+Song of Songs 2:10 (19688) адказаць <strong>beloved one</strong> і казаць да|[Д.с.] устаць да|[Д.с.] <strong>girl friend</strong> прыгожы і хадзіць да|[Д.с.] 
+Song of Songs 2:11 (19689) бо|што вось [арт.] <strong>winter</strong> перайсці [арт.] дождж <strong>come after</strong> хадзіць да|[Д.с.] 
+Song of Songs 2:12 (19690) [арт.] <strong>blossom</strong> бачыць у|[Тв.с.] [арт.] зямля момант [арт.] <strong>pruning</strong> <strong>touch</strong> і голас [арт.] <strong>dove</strong> чуць у|[Тв.с.] зямля 
+Song of Songs 2:13 (19691) [арт.] <strong>fig</strong> <strong>embalm</strong> <strong>unripe fig</strong> і [арт.] <strong>vine</strong> <strong>perule</strong> даць <strong>scent</strong> устаць да|[Д.с.] <strong>girl friend</strong> прыгожы і хадзіць да|[Д.с.] ס
+Song of Songs 2:14 (19692) <strong>dove</strong> у|[Тв.с.] прыстанішча|расколіна [арт.] скала у|[Тв.с.] <strong>hiding place</strong> [арт.] <strong>steep way</strong> бачыць [В.с.] <strong>sight</strong> чуць [В.с.] голас бо|што голас <strong>pleasant</strong> і <strong>sight</strong> <strong>lovely</strong> ס
+Song of Songs 2:15 (19693) <strong>seize</strong> да|[Д.с.] <strong>fox</strong> <strong>fox</strong> <strong>small</strong> <strong>be corrupt</strong> <strong>vineyard</strong> і <strong>vineyard</strong> <strong>perule</strong> 
+Song of Songs 2:16 (19694) <strong>beloved one</strong> да|[Д.с.] і я да|[Д.с.] [арт.] <strong>pasture</strong> у|[Тв.с.] [арт.] <strong>lily</strong> 
+Song of Songs 2:17 (19695) (ажно) да што <strong>breath</strong> [арт.] дзень і <strong>flee</strong> [арт.] цень <strong>turn</strong> <strong>be like</strong> да|[Д.с.] <strong>beloved one</strong> да|[Д.с.] <strong>gazelle</strong> ці да|[Д.с.] <strong>gazelle</strong> [арт.] <strong>fallow-buck</strong> на гара <strong>[uncertain]</strong> ס
+Song of Songs 3:1 (19696) на <strong>couch</strong> у|[Тв.с.] [арт.] ноч шукаць [В.с.] што любіць|кахаць душа шукаць і не знайсці 
+Song of Songs 3:2 (19697) устаць ж, -ка [узмацн.] і <strong>turn</strong> у|[Тв.с.] [арт.] горад у|[Тв.с.] [арт.] <strong>street</strong> і у|[Тв.с.] [арт.] <strong>open place</strong> шукаць [В.с.] што любіць|кахаць душа шукаць і не знайсці 
+Song of Songs 3:3 (19698) знайсці [арт.] захоўваць [арт.] <strong>turn</strong> у|[Тв.с.] [арт.] горад [В.с.] што любіць|кахаць душа бачыць 
+Song of Songs 3:4 (19699) як <strong>little</strong> што перайсці з (ажно) да што знайсці [В.с.] што любіць|кахаць душа <strong>seize</strong> і не <strong>be slack</strong> (ажно) да што прыйсці да дом маці і да пакой <strong>be pregnant</strong> 
+Song of Songs 3:5 (19700) <strong>swear</strong> [В.с.] дачка Ерусалім у|[Тв.с.] <strong>she-gazelle</strong> ці у|[Тв.с.] <strong>doe</strong> [арт.] поле калі[зл.] <strong>be awake</strong> і калі[зл.] <strong>be awake</strong> [В.с.] [арт.] любоў|каханне (ажно) да што <strong>desire</strong> ס
+Song of Songs 3:6 (19701) хто <strong>this</strong> падымацца з [арт.] <strong>desert</strong> як <strong>column</strong> <strong>smoke</strong> <strong>smoke</strong> <strong>myrrh</strong> і <strong>incense</strong> з цэлы|увесь <strong>scent-powder</strong> <strong>trade</strong> 
+Song of Songs 3:7 (19702) вось <strong>couch</strong> што да|[Д.с.] <strong>Solomon</strong> <strong>six</strong> мужны|моцны вакол да|[Д.с.] з мужны|моцны Ісраэль 
+Song of Songs 3:8 (19703) цэлы|увесь <strong>holding</strong> <strong>dagger</strong> <strong>learn</strong> вайна чалавек (1) <strong>dagger</strong> на <strong>upper thigh</strong> з <strong>trembling</strong> у|[Тв.с.] [арт.] ноч ס
+Song of Songs 3:9 (19704) <strong>litter</strong> рабіць да|[Д.с.] [арт.] цар <strong>Solomon</strong> з дрэва [арт.] <strong>Lebanon</strong> 
+Song of Songs 3:10 (19705) <strong>pillar</strong> рабіць срэбра <strong>saddle-cloth</strong> золата <strong>chariot</strong> <strong>purple-wool</strong> <strong>midst</strong> <strong>fit</strong> любоў|каханне з дачка Ерусалім 
+Song of Songs 3:11 (19706) выйсці і бачыць дачка Цыё́н у|[Тв.с.] [арт.] цар <strong>Solomon</strong> у|[Тв.с.] [арт.] <strong>wreath</strong> што <strong>surround</strong> да|[Д.с.] маці у|[Тв.с.] дзень <strong>marriage</strong> і у|[Тв.с.] дзень радасць сэрца ס
+Song of Songs 4:1 (19707) вось прыгожы <strong>girl friend</strong> вось прыгожы вока <strong>dove</strong> з <strong>distance</strong> да|[Д.с.] <strong>veil</strong> <strong>hair</strong> як <strong>flock</strong> [арт.] <strong>goat</strong> што <strong>go down</strong> з гара Гіл’ад 
+Song of Songs 4:2 (19708) <strong>tooth</strong> як <strong>flock</strong> [арт.] <strong>cut off</strong> што падымацца з [арт.] <strong>washing</strong> што цэлы|увесь <strong>bear twins</strong> і <strong>bereaved of children</strong> няма у|[Тв.с.] 
+Song of Songs 4:3 (19709) як <strong>thread</strong> [арт.] <strong>scarlet</strong> губа і <strong>speaking</strong> <strong>lovely</strong> як <strong>slice</strong> [арт.] <strong>pomegranate</strong> <strong>temple</strong> з <strong>distance</strong> да|[Д.с.] <strong>veil</strong> 
+Song of Songs 4:4 (19710) як <strong>tower</strong> Давыд <strong>neck</strong> будаваць да|[Д.с.] <strong>stone courses</strong> тысяча [арт.] <strong>shield</strong> <strong>hang</strong> на цэлы|увесь <strong>shield</strong> [арт.] мужны|моцны 
+Song of Songs 4:5 (19711) два <strong>breast</strong> як два <strong>gazelle</strong> <strong>twins</strong> <strong>she-gazelle</strong> [арт.] <strong>pasture</strong> у|[Тв.с.] [арт.] <strong>lily</strong> 
+Song of Songs 4:6 (19712) (ажно) да што <strong>breath</strong> [арт.] дзень і <strong>flee</strong> [арт.] цень хадзіць да|[Д.с.] да гара [арт.] <strong>myrrh</strong> і да <strong>hill</strong> [арт.] <strong>incense</strong> 
+Song of Songs 4:7 (19713) цэлы|увесь прыгожы <strong>girl friend</strong> і <strong>blemish</strong> няма у|[Тв.с.] ס
+Song of Songs 4:8 (19714) разам з з <strong>Lebanon</strong> <strong>bride</strong> разам з з <strong>Lebanon</strong> прыйсці <strong>descend</strong> з галава <strong>Amana</strong> з галава <strong>Senir</strong> і <strong>Hermon</strong> з <strong>hiding place</strong> <strong>lion</strong> з гара <strong>leopard</strong> 
+Song of Songs 4:9 (19715) <strong>stir</strong> <strong>sister</strong> <strong>bride</strong> <strong>stir</strong> у|[Тв.с.] адзін з вока у|[Тв.с.] адзін <strong>necklace</strong> з <strong>necklace</strong> 
+Song of Songs 4:10 (19716) што <strong>be beautiful</strong> <strong>beloved one</strong> <strong>sister</strong> <strong>bride</strong> што <strong>be good</strong> <strong>beloved one</strong> з віно і <strong>scent</strong> алей з цэлы|увесь <strong>balsam-tree</strong> 
+Song of Songs 4:11 (19717) <strong>honey</strong> <strong>drop</strong> губа <strong>bride</strong> <strong>honey</strong> і <strong>milk</strong> пад язык і <strong>scent</strong> <strong>wrapper</strong> як <strong>scent</strong> <strong>Lebanon</strong> ס
+Song of Songs 4:12 (19718) <strong>garden</strong> <strong>lock</strong> <strong>sister</strong> <strong>bride</strong> <strong>wave</strong> <strong>lock</strong> <strong>well</strong> <strong>seal</strong> 
+Song of Songs 4:13 (19719) <strong>channel</strong> <strong>park</strong> <strong>pomegranate</strong> з плод <strong>present</strong> <strong>hennah</strong> з <strong>nard</strong> 
+Song of Songs 4:14 (19720) <strong>nard</strong> і <strong>curcuma</strong> <strong>reed</strong> і <strong>cinnamon</strong> з цэлы|увесь дрэва <strong>incense</strong> <strong>myrrh</strong> і <strong>aloe</strong> з цэлы|увесь галава <strong>balsam-tree</strong> 
+Song of Songs 4:15 (19721) <strong>well</strong> <strong>garden</strong> <strong>well</strong> вада жывы і <strong>flow</strong> з <strong>Lebanon</strong> 
+Song of Songs 4:16 (19722) <strong>be awake</strong> поўнач і прыйсці <strong>south</strong> <strong>breath</strong> <strong>garden</strong> <strong>flow</strong> <strong>balsam-tree</strong> прыйсці <strong>beloved one</strong> да|[Д.с.] <strong>garden</strong> і есці плод <strong>present</strong> 
+Song of Songs 5:1 (19723) прыйсці да|[Д.с.] <strong>garden</strong> <strong>sister</strong> <strong>bride</strong> <strong>pluck</strong> <strong>myrrh</strong> з <strong>balsam-tree</strong> есці <strong>honeycomb</strong> з <strong>honey</strong> піць віно з <strong>milk</strong> есці <strong>fellow</strong> піць і <strong>be drunk</strong> <strong>beloved one</strong> ס
+Song of Songs 5:2 (19724) я <strong>sleeping</strong> і сэрца <strong>be awake</strong> голас <strong>beloved one</strong> <strong>drive</strong> <strong>open</strong> да|[Д.с.] <strong>sister</strong> <strong>girl friend</strong> <strong>dove</strong> <strong>complete</strong> што галава поўніцца <strong>dew</strong> <strong>hairlocks</strong> <strong>drop</strong> ноч 
+Song of Songs 5:3 (19725) <strong>strip off</strong> [В.с.] <strong>tunic</strong> <strong>how</strong> <strong>cloth</strong> <strong>wash</strong> [В.с.] нага <strong>how</strong> <strong>soil</strong> 
+Song of Songs 5:4 (19726) <strong>beloved one</strong> слаць рука з [арт.] <strong>hole</strong> і <strong>bowels</strong> <strong>make noise</strong> на 
+Song of Songs 5:5 (19727) устаць я да|[Д.с.] <strong>open</strong> да|[Д.с.] <strong>beloved one</strong> і рука <strong>drop</strong> <strong>myrrh</strong> і <strong>finger</strong> <strong>myrrh</strong> перайсці на далонь [арт.] <strong>lock</strong> 
+Song of Songs 5:6 (19728) <strong>open</strong> я да|[Д.с.] <strong>beloved one</strong> і <strong>beloved one</strong> <strong>turn away</strong> перайсці душа выйсці у|[Тв.с.] <strong>push back</strong> шукаць і не знайсці зваць і не адказаць 
+Song of Songs 5:7 (19729) знайсці [арт.] захоўваць [арт.] <strong>turn</strong> у|[Тв.с.] [арт.] горад <strong>strike</strong> <strong>squeeze</strong> падняць [В.с.] <strong>wrapper</strong> з на захоўваць [арт.] <strong>wall</strong> 
+Song of Songs 5:8 (19730) <strong>swear</strong> [В.с.] дачка Ерусалім калі[зл.] знайсці [В.с.] <strong>beloved one</strong> што абвяшчаць да|[Д.с.] што <strong>become weak</strong> любоў|каханне я 
+Song of Songs 5:9 (19731) што <strong>beloved one</strong> з <strong>beloved one</strong> [арт.] прыгожы у|[Тв.с.] [арт.] жанчына што <strong>beloved one</strong> з <strong>beloved one</strong> што такім чынам <strong>swear</strong> 
+Song of Songs 5:10 (19732) <strong>beloved one</strong> <strong>clear</strong> і <strong>red</strong> <strong>lift banner</strong> з <strong>multitude</strong> 
+Song of Songs 5:11 (19733) галава <strong>gold</strong> <strong>topaz</strong> <strong>hairlocks</strong> <strong>date-panicle</strong> <strong>black</strong> як [арт.] <strong>raven</strong> 
+Song of Songs 5:12 (19734) вока як <strong>dove</strong> на <strong>stream</strong> вада <strong>wash</strong> у|[Тв.с.] [арт.] <strong>milk</strong> сядзець на <strong>[uncertain]</strong> 
+Song of Songs 5:13 (19735) <strong>jaw</strong> як <strong>garden bed</strong> [арт.] <strong>balsam-tree</strong> <strong>tower</strong> <strong>herb</strong> губа <strong>lily</strong> <strong>drop</strong> <strong>myrrh</strong> перайсці 
+Song of Songs 5:14 (19736) рука <strong>pivot</strong> золата поўніцца у|[Тв.с.] [арт.] <strong>precious stone</strong> <strong>bowels</strong> <strong>plate</strong> <strong>tooth</strong> <strong>cover</strong> <strong>lapis lazuli</strong> 
+Song of Songs 5:15 (19737) <strong>splintbone</strong> <strong>pillar</strong> <strong>alabaster</strong> <strong>found</strong> на <strong>pedestal</strong> <strong>topaz</strong> <strong>sight</strong> як [арт.] <strong>Lebanon</strong> <strong>examine</strong> як [арт.] <strong>cedar</strong> 
+Song of Songs 5:16 (19738) <strong>palate</strong> <strong>sweetness</strong> і цэлы|увесь <strong>desire</strong> гэты <strong>beloved one</strong> і гэты <strong>fellow</strong> дачка Ерусалім 
+Song of Songs 6:1 (19739) <strong>whither</strong> хадзіць <strong>beloved one</strong> [арт.] прыгожы у|[Тв.с.] [арт.] жанчына <strong>whither</strong> <strong>turn</strong> <strong>beloved one</strong> і шукаць з 
+Song of Songs 6:2 (19740) <strong>beloved one</strong> апускацца да|[Д.с.] <strong>garden</strong> да|[Д.с.] <strong>garden bed</strong> [арт.] <strong>balsam-tree</strong> да|[Д.с.] <strong>pasture</strong> у|[Тв.с.] [арт.] <strong>garden</strong> і да|[Д.с.] <strong>gather</strong> <strong>lily</strong> 
+Song of Songs 6:3 (19741) я да|[Д.с.] <strong>beloved one</strong> і <strong>beloved one</strong> да|[Д.с.] [арт.] <strong>pasture</strong> у|[Тв.с.] [арт.] <strong>lily</strong> ס
+Song of Songs 6:4 (19742) прыгожы <strong>you</strong> <strong>girl friend</strong> як <strong>Tirzah</strong> <strong>lovely</strong> як Ерусалім <strong>frightful</strong> як [арт.] <strong>lift banner</strong> 
+Song of Songs 6:5 (19743) <strong>turn</strong> вока з перад што яны [ж.] <strong>storm against</strong> <strong>hair</strong> як <strong>flock</strong> [арт.] <strong>goat</strong> што <strong>go down</strong> з [арт.] Гіл’ад 
+Song of Songs 6:6 (19744) <strong>tooth</strong> як <strong>flock</strong> [арт.] <strong>ewe</strong> што падымацца з [арт.] <strong>washing</strong> што цэлы|увесь <strong>bear twins</strong> і <strong>bereaved of children</strong> няма у|[Тв.с.] 
+Song of Songs 6:7 (19745) як <strong>slice</strong> [арт.] <strong>pomegranate</strong> <strong>temple</strong> з <strong>distance</strong> да|[Д.с.] <strong>veil</strong> 
+Song of Songs 6:8 (19746) <strong>six</strong> яны <strong>queen</strong> і восем <strong>concubine</strong> і <strong>young woman</strong> няма лік 
+Song of Songs 6:9 (19747) адзін яна <strong>dove</strong> <strong>complete</strong> адзін яна да|[Д.с.] маці <strong>pure</strong> яна да|[Д.с.] нарадзіць бачыць дачка і <strong>be happy</strong> <strong>queen</strong> і <strong>concubine</strong> і <strong>praise</strong> ס
+Song of Songs 6:10 (19748) хто <strong>this</strong> [арт.] <strong>look</strong> <strong>like</strong> <strong>dawn</strong> прыгожы як [арт.] <strong>full moon</strong> <strong>pure</strong> як [арт.] <strong>heat</strong> <strong>frightful</strong> як [арт.] <strong>lift banner</strong> ס
+Song of Songs 6:11 (19749) да сад <strong>nut</strong> апускацца да|[Д.с.] бачыць у|[Тв.с.] <strong>bud</strong> [арт.] <strong>wadi</strong> да|[Д.с.] бачыць ці <strong>sprout</strong> [арт.] <strong>vine</strong> <strong>sparkle</strong> [арт.] <strong>pomegranate</strong> 
+Song of Songs 6:12 (19750) не ведаць [+неад.]|займацца сэксам [+адуш.] душа класці|ставіць <strong>chariot</strong> народ <strong>willing</strong> 
+Song of Songs 7:1 (19751) вяртацца вяртацца [арт.] <strong>Shulammite</strong> вяртацца вяртацца і <strong>see</strong> у|[Тв.с.] што <strong>see</strong> у|[Тв.с.] [арт.] <strong>Shulammite</strong> як <strong>round dance</strong> [арт.] <strong>Mahanaim</strong> 
+Song of Songs 7:2 (19752) што <strong>be beautiful</strong> <strong>foot</strong> у|[Тв.с.] [арт.] <strong>sandal</strong> дачка <strong>willing</strong> <strong>turning</strong> <strong>upper thigh</strong> <strong>like</strong> <strong>ornament</strong> учынак|справа рука <strong>artisan</strong> 
+Song of Songs 7:3 (19753) <strong>navel</strong> <strong>bowl</strong> [арт.] <strong>enclosure</strong> не [+заг.лад] <strong>diminish</strong> [арт.] <strong>mixed wine</strong> <strong>belly</strong> <strong>heap</strong> <strong>wheat</strong> <strong>fence</strong> у|[Тв.с.] [арт.] <strong>lily</strong> 
+Song of Songs 7:4 (19754) два <strong>breast</strong> як два <strong>gazelle</strong> <strong>twins</strong> <strong>she-gazelle</strong> 
+Song of Songs 7:5 (19755) <strong>neck</strong> як <strong>tower</strong> [арт.] <strong>tooth</strong> вока <strong>pool</strong> у|[Тв.с.] <strong>Heshbon</strong> на брама <strong>Bath Rabbim</strong> <strong>nose</strong> як <strong>tower</strong> [арт.] <strong>Lebanon</strong> <strong>look out</strong> твар <strong>Damascus</strong> 
+Song of Songs 7:6 (19756) галава на як [арт.] <strong>Carmel</strong> і <strong>thread</strong> галава як [арт.] <strong>purple-wool</strong> цар <strong>bind</strong> у|[Тв.с.] [арт.] <strong>trough</strong> 
+Song of Songs 7:7 (19757) што <strong>be beautiful</strong> і што <strong>be pleasant</strong> любоў|каханне у|[Тв.с.] [арт.] <strong>comfort</strong> 
+Song of Songs 7:8 (19758) <strong>this</strong> <strong>height</strong> <strong>be like</strong> да|[Д.с.] <strong>date-palm</strong> і <strong>breast</strong> да|[Д.с.] <strong>grape</strong> 
+Song of Songs 7:9 (19759) казаць падымацца у|[Тв.с.] <strong>date-palm</strong> <strong>seize</strong> у|[Тв.с.] <strong>date-fruit</strong> і быць ж, -ка [узмацн.] <strong>breast</strong> як <strong>grape</strong> [арт.] <strong>vine</strong> і <strong>scent</strong> <strong>nose</strong> як [арт.] <strong>apple-tree</strong> 
+Song of Songs 7:10 (19760) і <strong>palate</strong> як віно [арт.] <strong>perfume</strong> хадзіць да|[Д.с.] <strong>beloved one</strong> да|[Д.с.] <strong>uprightness</strong> <strong>flow</strong> губа <strong>sleeping</strong> 
+Song of Songs 7:11 (19761) я да|[Д.с.] <strong>beloved one</strong> і на <strong>impulse</strong> ס
+Song of Songs 7:12 (19762) хадзіць <strong>beloved one</strong> выйсці [арт.] поле <strong>lodge</strong> у|[Тв.с.] [арт.] <strong>hennah</strong> 
+Song of Songs 7:13 (19763) <strong>rise early</strong> да|[Д.с.] [арт.] <strong>vineyard</strong> бачыць калі[зл.] <strong>sprout</strong> [арт.] <strong>vine</strong> <strong>open</strong> [арт.] <strong>perule</strong> <strong>sparkle</strong> [арт.] <strong>pomegranate</strong> там даць [В.с.] <strong>beloved one</strong> да|[Д.с.] 
+Song of Songs 7:14 (19764) [арт.] <strong>mandrake</strong> даць <strong>scent</strong> і на <strong>opening</strong> цэлы|увесь <strong>present</strong> новы таксама|нават <strong>old</strong> <strong>beloved one</strong> <strong>hide</strong> да|[Д.с.] 
+Song of Songs 8:1 (19765) хто даць як брат да|[Д.с.] <strong>suck</strong> <strong>breast</strong> маці знайсці у|[Тв.с.] [арт.] <strong>outside</strong> <strong>kiss</strong> таксама|нават не <strong>despise</strong> да|[Д.с.] 
+Song of Songs 8:2 (19766) <strong>drive</strong> прыйсці да дом маці <strong>learn</strong> <strong>give drink</strong> з віно [арт.] <strong>spice</strong> з <strong>juice</strong> <strong>pomegranate</strong> 
+Song of Songs 8:3 (19767) левая частка пад галава і правая частка <strong>embrace</strong> 
+Song of Songs 8:4 (19768) <strong>swear</strong> [В.с.] дачка Ерусалім што <strong>be awake</strong> і што <strong>be awake</strong> [В.с.] [арт.] любоў|каханне (ажно) да што <strong>desire</strong> ס
+Song of Songs 8:5 (19769) хто <strong>this</strong> падымацца з [арт.] <strong>desert</strong> <strong>lean</strong> на <strong>beloved one</strong> пад [арт.] <strong>apple-tree</strong> <strong>be awake</strong> там <strong>be pregnant</strong> маці там <strong>be pregnant</strong> нарадзіць 
+Song of Songs 8:6 (19770) класці|ставіць як [арт.] <strong>seal</strong> на сэрца як [арт.] <strong>seal</strong> на <strong>arm</strong> бо|што <strong>strong</strong> як [арт.] смерць любоў|каханне <strong>hard</strong> як <strong>nether world</strong> <strong>jealousy</strong> <strong>flame</strong> <strong>flame</strong> агонь <strong>big flame</strong> 
+Song of Songs 8:7 (19771) вада шматлікі не магчы да|[Д.с.] <strong>go out</strong> [В.с.] [арт.] любоў|каханне і <strong>stream</strong> не <strong>wash off</strong> калі[зл.] даць чалавек (1) [В.с.] цэлы|увесь <strong>abundance</strong> дом у|[Тв.с.] [арт.] любоў|каханне <strong>despise</strong> <strong>despise</strong> да|[Д.с.] ס
+Song of Songs 8:8 (19772) <strong>sister</strong> да|[Д.с.] <strong>small</strong> і <strong>breast</strong> няма да|[Д.с.] што рабіць да|[Д.с.] <strong>sister</strong> у|[Тв.с.] [арт.] дзень што гаварыць у|[Тв.с.] 
+Song of Songs 8:9 (19773) калі[зл.] <strong>wall</strong> яна будаваць на <strong>encampment</strong> срэбра і калі[зл.] дзверы яна <strong>bind</strong> на <strong>tablet</strong> <strong>cedar</strong> 
+Song of Songs 8:10 (19774) я <strong>wall</strong> і <strong>breast</strong> як [арт.] <strong>tower</strong> тады быць у|[Тв.с.] вока як выйсці згода פ
+Song of Songs 8:11 (19775) <strong>vineyard</strong> быць да|[Д.с.] <strong>Solomon</strong> у|[Тв.с.] <strong>Baal Hamon</strong> даць [В.с.] [арт.] <strong>vineyard</strong> да|[Д.с.] [арт.] <strong>keep</strong> чалавек (1) прыйсці у|[Тв.с.] плод тысяча срэбра 
+Song of Songs 8:12 (19776) <strong>vineyard</strong> што да|[Д.с.] да|[Д.с.] твар [арт.] тысяча да|[Д.с.] <strong>Solomon</strong> і сотня да|[Д.с.] <strong>keep</strong> [В.с.] плод 
+Song of Songs 8:13 (19777) [арт.] сядзець у|[Тв.с.] [арт.] <strong>garden</strong> сабар <strong>give attention</strong> да|[Д.с.] голас чуць 
+Song of Songs 8:14 (19778) <strong>run away</strong> <strong>beloved one</strong> і <strong>be like</strong> да|[Д.с.] да|[Д.с.] <strong>gazelle</strong> ці да|[Д.с.] <strong>gazelle</strong> [арт.] <strong>fallow-buck</strong> на гара <strong>balsam-tree</strong> 

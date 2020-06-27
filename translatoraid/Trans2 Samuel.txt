@@ -1,695 +1,695 @@
-1:1 (7941) 
-1:2 (7942) 
-1:3 (7943) 
-1:4 (7944) 
-1:5 (7945) 
-1:6 (7946) 
-1:7 (7947) 
-1:8 (7948) 
-1:9 (7949) 
-1:10 (7950) 
-1:11 (7951) 
-1:12 (7952) ס
-1:13 (7953) 
-1:14 (7954) 
-1:15 (7955) 
-1:16 (7956) ס
-1:17 (7957) 
-1:18 (7958) 
-1:19 (7959) 
-1:20 (7960) 
-1:21 (7961) 
-1:22 (7962) 
-1:23 (7963) 
-1:24 (7964) 
-1:25 (7965) 
-1:26 (7966) 
-1:27 (7967) פ
-2:1 (7968) 
-2:2 (7969) 
-2:3 (7970) 
-2:4 (7971) ס
-2:5 (7972) 
-2:6 (7973) 
-2:7 (7974) פ
-2:8 (7975) 
-2:9 (7976) פ
-2:10 (7977) 
-2:11 (7978) ס
-2:12 (7979) 
-2:13 (7980) 
-2:14 (7981) 
-2:15 (7982) 
-2:16 (7983) 
-2:17 (7984) 
-2:18 (7985) 
-2:19 (7986) 
-2:20 (7987) 
-2:21 (7988) 
-2:22 (7989) 
-2:23 (7990) 
-2:24 (7991) 
-2:25 (7992) 
-2:26 (7993) 
-2:27 (7994) 
-2:28 (7995) 
-2:29 (7996) 
-2:30 (7997) 
-2:31 (7998) 
-2:32 (7999) 
-3:1 (8000) ס
-3:2 (8001) 
-3:3 (8002) 
-3:4 (8003) 
-3:5 (8004) פ
-3:6 (8005) 
-3:7 (8006) 
-3:8 (8007) 
-3:9 (8008) 
-3:10 (8009) 
-3:11 (8010) ס
-3:12 (8011) 
-3:13 (8012) ס
-3:14 (8013) 
-3:15 (8014) 
-3:16 (8015) 
-3:17 (8016) 
-3:18 (8017) 
-3:19 (8018) 
-3:20 (8019) 
-3:21 (8020) 
-3:22 (8021) 
-3:23 (8022) 
-3:24 (8023) 
-3:25 (8024) 
-3:26 (8025) 
-3:27 (8026) 
-3:28 (8027) 
-3:29 (8028) 
-3:30 (8029) פ
-3:31 (8030) 
-3:32 (8031) פ
-3:33 (8032) 
-3:34 (8033) 
-3:35 (8034) 
-3:36 (8035) 
-3:37 (8036) פ
-3:38 (8037) 
-3:39 (8038) פ
-4:1 (8039) 
-4:2 (8040) 
-4:3 (8041) ס
-4:4 (8042) 
-4:5 (8043) 
-4:6 (8044) 
-4:7 (8045) 
-4:8 (8046) ס
-4:9 (8047) 
-4:10 (8048) 
-4:11 (8049) 
-4:12 (8050) פ
-5:1 (8051) 
-5:2 (8052) 
-5:3 (8053) פ
-5:4 (8054) 
-5:5 (8055) 
-5:6 (8056) 
-5:7 (8057) 
-5:8 (8058) 
-5:9 (8059) 
-5:10 (8060) פ
-5:11 (8061) 
-5:12 (8062) ס
-5:13 (8063) 
-5:14 (8064) 
-5:15 (8065) 
-5:16 (8066) פ
-5:17 (8067) 
-5:18 (8068) 
-5:19 (8069) 
-5:20 (8070) 
-5:21 (8071) פ
-5:22 (8072) 
-5:23 (8073) 
-5:24 (8074) 
-5:25 (8075) פ
-6:1 (8076) 
-6:2 (8077) 
-6:3 (8078) 
-6:4 (8079) 
-6:5 (8080) 
-6:6 (8081) 
-6:7 (8082) 
-6:8 (8083) 
-6:9 (8084) 
-6:10 (8085) 
-6:11 (8086) 
-6:12 (8087) 
-6:13 (8088) 
-6:14 (8089) 
-6:15 (8090) 
-6:16 (8091) 
-6:17 (8092) 
-6:18 (8093) 
-6:19 (8094) 
-6:20 (8095) 
-6:21 (8096) 
-6:22 (8097) 
-6:23 (8098) פ
-7:1 (8099) 
-7:2 (8100) 
-7:3 (8101) ס
-7:4 (8102) 
-7:5 (8103) 
-7:6 (8104) 
-7:7 (8105) 
-7:8 (8106) 
-7:9 (8107) 
-7:10 (8108) 
-7:11 (8109) 
-7:12 (8110) 
-7:13 (8111) 
-7:14 (8112) 
-7:15 (8113) 
-7:16 (8114) 
-7:17 (8115) ס
-7:18 (8116) 
-7:19 (8117) 
-7:20 (8118) 
-7:21 (8119) 
-7:22 (8120) 
-7:23 (8121) 
-7:24 (8122) ס
-7:25 (8123) 
-7:26 (8124) 
-7:27 (8125) 
-7:28 (8126) 
-7:29 (8127) פ
-8:1 (8128) 
-8:2 (8129) 
-8:3 (8130) 
-8:4 (8131) 
-8:5 (8132) 
-8:6 (8133) 
-8:7 (8134) 
-8:8 (8135) ס
-8:9 (8136) 
-8:10 (8137) 
-8:11 (8138) 
-8:12 (8139) 
-8:13 (8140) 
-8:14 (8141) 
-8:15 (8142) 
-8:16 (8143) 
-8:17 (8144) 
-8:18 (8145) פ
-9:1 (8146) 
-9:2 (8147) 
-9:3 (8148) 
-9:4 (8149) 
-9:5 (8150) 
-9:6 (8151) 
-9:7 (8152) 
-9:8 (8153) 
-9:9 (8154) 
-9:10 (8155) 
-9:11 (8156) 
-9:12 (8157) 
-9:13 (8158) פ
-10:1 (8159) 
-10:2 (8160) 
-10:3 (8161) 
-10:4 (8162) 
-10:5 (8163) 
-10:6 (8164) 
-10:7 (8165) 
-10:8 (8166) 
-10:9 (8167) 
-10:10 (8168) 
-10:11 (8169) 
-10:12 (8170) 
-10:13 (8171) 
-10:14 (8172) 
-10:15 (8173) 
-10:16 (8174) 
-10:17 (8175) 
-10:18 (8176) 
-10:19 (8177) פ
-11:1 (8178) ס
-11:2 (8179) 
-11:3 (8180) 
-11:4 (8181) 
-11:5 (8182) 
-11:6 (8183) 
-11:7 (8184) 
-11:8 (8185) 
-11:9 (8186) 
-11:10 (8187) 
-11:11 (8188) 
-11:12 (8189) 
-11:13 (8190) 
-11:14 (8191) 
-11:15 (8192) ס
-11:16 (8193) 
-11:17 (8194) 
-11:18 (8195) 
-11:19 (8196) 
-11:20 (8197) 
-11:21 (8198) 
-11:22 (8199) 
-11:23 (8200) 
-11:24 (8201) ס
-11:25 (8202) 
-11:26 (8203) 
-11:27 (8204) פ
-12:1 (8205) 
-12:2 (8206) 
-12:3 (8207) 
-12:4 (8208) 
-12:5 (8209) 
-12:6 (8210) 
-12:7 (8211) 
-12:8 (8212) 
-12:9 (8213) 
-12:10 (8214) ס
-12:11 (8215) 
-12:12 (8216) ס
-12:13 (8217) 
-12:14 (8218) 
-12:15 (8219) 
-12:16 (8220) 
-12:17 (8221) 
-12:18 (8222) 
-12:19 (8223) 
-12:20 (8224) 
-12:21 (8225) 
-12:22 (8226) 
-12:23 (8227) 
-12:24 (8228) 
-12:25 (8229) פ
-12:26 (8230) 
-12:27 (8231) 
-12:28 (8232) 
-12:29 (8233) 
-12:30 (8234) 
-12:31 (8235) פ
-13:1 (8236) 
-13:2 (8237) 
-13:3 (8238) 
-13:4 (8239) 
-13:5 (8240) 
-13:6 (8241) 
-13:7 (8242) 
-13:8 (8243) 
-13:9 (8244) 
-13:10 (8245) 
-13:11 (8246) 
-13:12 (8247) 
-13:13 (8248) 
-13:14 (8249) 
-13:15 (8250) 
-13:16 (8251) 
-13:17 (8252) 
-13:18 (8253) 
-13:19 (8254) 
-13:20 (8255) 
-13:21 (8256) 
-13:22 (8257) פ
-13:23 (8258) 
-13:24 (8259) 
-13:25 (8260) 
-13:26 (8261) 
-13:27 (8262) ס
-13:28 (8263) 
-13:29 (8264) 
-13:30 (8265) ס
-13:31 (8266) ס
-13:32 (8267) 
-13:33 (8268) פ
-13:34 (8269) 
-13:35 (8270) 
-13:36 (8271) 
-13:37 (8272) 
-13:38 (8273) 
-13:39 (8274) ס
-14:1 (8275) 
-14:2 (8276) 
-14:3 (8277) 
-14:4 (8278) ס
-14:5 (8279) 
-14:6 (8280) 
-14:7 (8281) פ
-14:8 (8282) 
-14:9 (8283) ס
-14:10 (8284) 
-14:11 (8285) 
-14:12 (8286) ס
-14:13 (8287) 
-14:14 (8288) 
-14:15 (8289) 
-14:16 (8290) 
-14:17 (8291) פ
-14:18 (8292) 
-14:19 (8293) 
-14:20 (8294) ס
-14:21 (8295) 
-14:22 (8296) 
-14:23 (8297) פ
-14:24 (8298) ס
-14:25 (8299) 
-14:26 (8300) 
-14:27 (8301) פ
-14:28 (8302) 
-14:29 (8303) 
-14:30 (8304) פ
-14:31 (8305) 
-14:32 (8306) 
-14:33 (8307) פ
-15:1 (8308) 
-15:2 (8309) 
-15:3 (8310) 
-15:4 (8311) 
-15:5 (8312) 
-15:6 (8313) פ
-15:7 (8314) 
-15:8 (8315) 
-15:9 (8316) פ
-15:10 (8317) 
-15:11 (8318) 
-15:12 (8319) 
-15:13 (8320) 
-15:14 (8321) 
-15:15 (8322) 
-15:16 (8323) 
-15:17 (8324) 
-15:18 (8325) 
-15:19 (8326) 
-15:20 (8327) 
-15:21 (8328) 
-15:22 (8329) 
-15:23 (8330) 
-15:24 (8331) 
-15:25 (8332) 
-15:26 (8333) ס
-15:27 (8334) 
-15:28 (8335) 
-15:29 (8336) 
-15:30 (8337) 
-15:31 (8338) 
-15:32 (8339) 
-15:33 (8340) 
-15:34 (8341) 
-15:35 (8342) 
-15:36 (8343) 
-15:37 (8344) 
-16:1 (8345) 
-16:2 (8346) 
-16:3 (8347) 
-16:4 (8348) 
-16:5 (8349) 
-16:6 (8350) 
-16:7 (8351) 
-16:8 (8352) 
-16:9 (8353) ס
-16:10 (8354) ס
-16:11 (8355) 
-16:12 (8356) 
-16:13 (8357) פ
-16:14 (8358) 
-16:15 (8359) 
-16:16 (8360) 
-16:17 (8361) 
-16:18 (8362) 
-16:19 (8363) פ
-16:20 (8364) 
-16:21 (8365) 
-16:22 (8366) 
-16:23 (8367) ס
-17:1 (8368) 
-17:2 (8369) 
-17:3 (8370) 
-17:4 (8371) ס
-17:5 (8372) 
-17:6 (8373) ס
-17:7 (8374) 
-17:8 (8375) 
-17:9 (8376) 
-17:10 (8377) 
-17:11 (8378) 
-17:12 (8379) 
-17:13 (8380) פ
-17:14 (8381) ס
-17:15 (8382) 
-17:16 (8383) 
-17:17 (8384) 
-17:18 (8385) 
-17:19 (8386) 
-17:20 (8387) ס
-17:21 (8388) 
-17:22 (8389) 
-17:23 (8390) ס
-17:24 (8391) 
-17:25 (8392) 
-17:26 (8393) ס
-17:27 (8394) 
-17:28 (8395) 
-17:29 (8396) 
-18:1 (8397) 
-18:2 (8398) 
-18:3 (8399) 
-18:4 (8400) 
-18:5 (8401) 
-18:6 (8402) 
-18:7 (8403) 
-18:8 (8404) 
-18:9 (8405) 
-18:10 (8406) 
-18:11 (8407) 
-18:12 (8408) 
-18:13 (8409) 
-18:14 (8410) 
-18:15 (8411) 
-18:16 (8412) 
-18:17 (8413) 
-18:18 (8414) ס
-18:19 (8415) 
-18:20 (8416) 
-18:21 (8417) 
-18:22 (8418) 
-18:23 (8419) 
-18:24 (8420) 
-18:25 (8421) 
-18:26 (8422) 
-18:27 (8423) 
-18:28 (8424) 
-18:29 (8425) 
-18:30 (8426) 
-18:31 (8427) ס
-18:32 (8428) ס
-19:1 (8429) 
-19:2 (8430) 
-19:3 (8431) 
-19:4 (8432) 
-19:5 (8433) ס
-19:6 (8434) 
-19:7 (8435) 
-19:8 (8436) ס
-19:9 (8437) ס
-19:10 (8438) 
-19:11 (8439) ס
-19:12 (8440) 
-19:13 (8441) 
-19:14 (8442) 
-19:15 (8443) 
-19:16 (8444) 
-19:17 (8445) 
-19:18 (8446) 
-19:19 (8447) 
-19:20 (8448) 
-19:21 (8449) ס
-19:22 (8450) ס
-19:23 (8451) 
-19:24 (8452) ס
-19:25 (8453) 
-19:26 (8454) 
-19:27 (8455) 
-19:28 (8456) 
-19:29 (8457) פ
-19:30 (8458) 
-19:31 (8459) ס
-19:32 (8460) 
-19:33 (8461) 
-19:34 (8462) 
-19:35 (8463) 
-19:36 (8464) 
-19:37 (8465) 
-19:38 (8466) ס
-19:39 (8467) 
-19:40 (8468) ס
-19:41 (8469) 
-19:42 (8470) ס
-19:43 (8471) ס
-19:44 (8472) ס
-20:1 (8473) 
-20:2 (8474) 
-20:3 (8475) ס
-20:4 (8476) 
-20:5 (8477) ס
-20:6 (8478) 
-20:7 (8479) 
-20:8 (8480) ס
-20:9 (8481) 
-20:10 (8482) 
-20:11 (8483) 
-20:12 (8484) 
-20:13 (8485) 
-20:14 (8486) 
-20:15 (8487) 
-20:16 (8488) 
-20:17 (8489) 
-20:18 (8490) 
-20:19 (8491) פ
-20:20 (8492) 
-20:21 (8493) 
-20:22 (8494) ס
-20:23 (8495) 
-20:24 (8496) 
-20:25 (8497) 
-20:26 (8498) ס
-21:1 (8499) 
-21:2 (8500) 
-21:3 (8501) 
-21:4 (8502) 
-21:5 (8503) 
-21:6 (8504) 
-21:7 (8505) 
-21:8 (8506) 
-21:9 (8507) 
-21:10 (8508) 
-21:11 (8509) 
-21:12 (8510) 
-21:13 (8511) 
-21:14 (8512) פ
-21:15 (8513) 
-21:16 (8514) 
-21:17 (8515) פ
-21:18 (8516) פ
-21:19 (8517) ס
-21:20 (8518) 
-21:21 (8519) 
-21:22 (8520) פ
-22:1 (8521) 
-22:2 (8522) 
-22:3 (8523) 
-22:4 (8524) 
-22:5 (8525) 
-22:6 (8526) 
-22:7 (8527) 
-22:8 (8528) 
-22:9 (8529) 
-22:10 (8530) 
-22:11 (8531) 
-22:12 (8532) 
-22:13 (8533) 
-22:14 (8534) 
-22:15 (8535) 
-22:16 (8536) 
-22:17 (8537) 
-22:18 (8538) 
-22:19 (8539) 
-22:20 (8540) 
-22:21 (8541) 
-22:22 (8542) 
-22:23 (8543) 
-22:24 (8544) 
-22:25 (8545) 
-22:26 (8546) 
-22:27 (8547) 
-22:28 (8548) 
-22:29 (8549) 
-22:30 (8550) 
-22:31 (8551) 
-22:32 (8552) 
-22:33 (8553) 
-22:34 (8554) 
-22:35 (8555) 
-22:36 (8556) 
-22:37 (8557) 
-22:38 (8558) 
-22:39 (8559) 
-22:40 (8560) 
-22:41 (8561) 
-22:42 (8562) 
-22:43 (8563) 
-22:44 (8564) 
-22:45 (8565) 
-22:46 (8566) 
-22:47 (8567) 
-22:48 (8568) 
-22:49 (8569) 
-22:50 (8570) 
-22:51 (8571) פ
-23:1 (8572) 
-23:2 (8573) 
-23:3 (8574) 
-23:4 (8575) 
-23:5 (8576) 
-23:6 (8577) 
-23:7 (8578) פ
-23:8 (8579) 
-23:9 (8580) 
-23:10 (8581) ס
-23:11 (8582) 
-23:12 (8583) ס
-23:13 (8584) 
-23:14 (8585) 
-23:15 (8586) 
-23:16 (8587) 
-23:17 (8588) ס
-23:18 (8589) 
-23:19 (8590) ס
-23:20 (8591) 
-23:21 (8592) 
-23:22 (8593) 
-23:23 (8594) ס
-23:24 (8595) 
-23:25 (8596) ס
-23:26 (8597) ס
-23:27 (8598) ס
-23:28 (8599) ס
-23:29 (8600) ס
-23:30 (8601) ס
-23:31 (8602) ס
-23:32 (8603) ס
-23:33 (8604) ס
-23:34 (8605) ס
-23:35 (8606) ס
-23:36 (8607) ס
-23:37 (8608) ס
-23:38 (8609) ס
-23:39 (8610) פ
-24:1 (8611) 
-24:2 (8612) ס
-24:3 (8613) 
-24:4 (8614) 
-24:5 (8615) 
-24:6 (8616) 
-24:7 (8617) 
-24:8 (8618) 
-24:9 (8619) 
-24:10 (8620) 
-24:11 (8621) 
-24:12 (8622) 
-24:13 (8623) ס
-24:14 (8624) 
-24:15 (8625) 
-24:16 (8626) ס
-24:17 (8627) פ
-24:18 (8628) 
-24:19 (8629) 
-24:20 (8630) 
-24:21 (8631) 
-24:22 (8632) 
-24:23 (8633) 
-24:24 (8634) 
-24:25 (8635) 
+2 Samuel 1:1 (7941) і быць пасля смерць <strong>Saul</strong> і Давыд вяртацца з <strong>strike</strong> [В.с.] [арт.] <strong>Amalek</strong> і сядзець Давыд у|[Тв.с.] <strong>Ziklag</strong> дзень два 
+2 Samuel 1:2 (7942) і быць у|[Тв.с.] [арт.] дзень [арт.] <strong>third</strong> і вось чалавек (1) прыйсці з [арт.] <strong>camp</strong> з з <strong>Saul</strong> і адзежа <strong>tear</strong> і <strong>soil</strong> на галава і быць у|[Тв.с.] прыйсці да Давыд і падаць зямля і <strong>bow down</strong> 
+2 Samuel 1:3 (7943) і казаць да|[Д.с.] Давыд <strong>where</strong> з гэты прыйсці і казаць да з <strong>camp</strong> Ісраэль <strong>escape</strong> 
+2 Samuel 1:4 (7944) і казаць да Давыд што быць [арт.] слова|рэч абвяшчаць ж, -ка [узмацн.] да|[Д.с.] і казаць які <strong>flee</strong> [арт.] народ з [арт.] вайна і таксама|нават шмат падаць з [арт.] народ і паміраць і таксама|нават <strong>Saul</strong> і <strong>Jehonathan</strong> сын паміраць 
+2 Samuel 1:5 (7945) і казаць Давыд да [арт.] хлапчук [арт.] абвяшчаць да|[Д.с.] як ведаць [+неад.]|займацца сэксам [+адуш.] бо|што паміраць <strong>Saul</strong> і <strong>Jehonathan</strong> сын 
+2 Samuel 1:6 (7946) і казаць [арт.] хлапчук [арт.] абвяшчаць да|[Д.с.] <strong>encounter</strong> <strong>meet</strong> у|[Тв.с.] гара [арт.] <strong>Gilboa</strong> і вось <strong>Saul</strong> <strong>lean</strong> на <strong>spear</strong> і вось [арт.] <strong>chariot</strong> і хазяін [арт.] <strong>horseman</strong> <strong>cling, cleave to</strong> 
+2 Samuel 1:7 (7947) і <strong>turn</strong> пасля і бачыць і зваць да і казаць вось 
+2 Samuel 1:8 (7948) і казаць да|[Д.с.] хто ты[м.] і казаць да <strong>Amalekite</strong> <strong>i</strong> 
+2 Samuel 1:9 (7949) і казаць да стаяць ж, -ка [узмацн.] на і паміраць бо|што <strong>seize</strong> [арт.] <strong>cramp</strong> бо|што цэлы|увесь яшчэ душа у|[Тв.с.] 
+2 Samuel 1:10 (7950) і стаяць на і паміраць бо|што ведаць [+неад.]|займацца сэксам [+адуш.] бо|што не жыць пасля падаць і браць [арт.] <strong>consecration</strong> які на галава і <strong>bracelet</strong> які на <strong>arm</strong> і прыйсці да <strong>lord</strong> <strong>here</strong> 
+2 Samuel 1:11 (7951) і <strong>be strong</strong> Давыд у|[Тв.с.] адзежа і <strong>tear</strong> і таксама|нават цэлы|увесь [арт.] чалавек (1) які разам з 
+2 Samuel 1:12 (7952) і <strong>lament</strong> і плакаць і <strong>fast</strong> (ажно) да [арт.] вечар на <strong>Saul</strong> і на <strong>Jehonathan</strong> сын і на народ Існы і на дом Ісраэль бо|што падаць у|[Тв.с.] [арт.] <strong>dagger</strong> ס
+2 Samuel 1:13 (7953) і казаць Давыд да [арт.] хлапчук [арт.] абвяшчаць да|[Д.с.] <strong>where</strong> з гэты ты[м.] і казаць сын чалавек (1) <strong>sojourner</strong> <strong>Amalekite</strong> <strong>i</strong> 
+2 Samuel 1:14 (7954) і казаць да Давыд як не баяцца да|[Д.с.] слаць рука да|[Д.с.] <strong>destroy</strong> [В.с.] <strong>anointed</strong> Існы 
+2 Samuel 1:15 (7955) і зваць Давыд да|[Д.с.] адзін з [арт.] хлапчук і казаць <strong>approach</strong> <strong>meet</strong> у|[Тв.с.] і <strong>strike</strong> і паміраць 
+2 Samuel 1:16 (7956) і казаць да Давыд <strong>blood</strong> на галава бо|што рот адказаць у|[Тв.с.] да|[Д.с.] казаць <strong>i</strong> паміраць [В.с.] <strong>anointed</strong> Існы ס
+2 Samuel 1:17 (7957) і <strong>chant elegy</strong> Давыд [В.с.] [арт.] <strong>elegy</strong> [арт.] <strong>this</strong> на <strong>Saul</strong> і на <strong>Jehonathan</strong> сын 
+2 Samuel 1:18 (7958) і казаць да|[Д.с.] <strong>learn</strong> сын Егуда <strong>bow</strong> вось пісанне на ліст [арт.] <strong>right</strong> 
+2 Samuel 1:19 (7959) [арт.] <strong>beauty</strong> Ісраэль на <strong>high place</strong> <strong>pierced</strong> як падаць мужны|моцны 
+2 Samuel 1:20 (7960) не [+заг.лад] абвяшчаць у|[Тв.с.] <strong>Gath</strong> не [+заг.лад] <strong>announce</strong> у|[Тв.с.] <strong>outside</strong> <strong>Ashkelon</strong> <strong>lest</strong> узрадавацца дачка філістынец <strong>lest</strong> <strong>rejoice</strong> дачка [арт.] <strong>uncircumcised</strong> 
+2 Samuel 1:21 (7961) гара у|[Тв.с.] [арт.] <strong>Gilboa</strong> не [+заг.лад] <strong>dew</strong> і не [+заг.лад] <strong>rain</strong> на і поле <strong>contribution</strong> бо|што там <strong>abhor</strong> <strong>shield</strong> мужны|моцны <strong>shield</strong> <strong>Saul</strong> <strong>destruction</strong> <strong>anointed</strong> у|[Тв.с.] [арт.] алей 
+2 Samuel 1:22 (7962) з <strong>blood</strong> <strong>pierced</strong> з <strong>fat</strong> мужны|моцны <strong>bow</strong> <strong>Jehonathan</strong> не <strong>turn</strong> <strong>back(wards)</strong> і <strong>dagger</strong> <strong>Saul</strong> не вяртацца <strong>with empty hands</strong> 
+2 Samuel 1:23 (7963) <strong>Saul</strong> і <strong>Jehonathan</strong> [арт.] любіць|кахаць і [арт.] <strong>pleasant</strong> у|[Тв.с.] <strong>life</strong> і у|[Тв.с.] смерць не <strong>divide</strong> з арол <strong>be slight</strong> з <strong>lion</strong> <strong>be superior</strong> 
+2 Samuel 1:24 (7964) дачка Ісраэль да <strong>Saul</strong> плакаць [арт.] <strong>cloth</strong> <strong>scarlet</strong> з <strong>delight</strong> [арт.] падымацца <strong>ornament</strong> золата на <strong>clothing</strong> 
+2 Samuel 1:25 (7965) як падаць мужны|моцны у|[Тв.с.] <strong>midst</strong> [арт.] вайна <strong>Jehonathan</strong> на <strong>high place</strong> <strong>pierced</strong> 
+2 Samuel 1:26 (7966) <strong>wrap, be narrow</strong> да|[Д.с.] на брат <strong>Jehonathan</strong> <strong>be pleasant</strong> да|[Д.с.] вельмі <strong>be miraculous</strong> любоў|каханне да|[Д.с.] з любоў|каханне жанчына 
+2 Samuel 1:27 (7967) як падаць мужны|моцны і загінуць прылада вайна פ
+2 Samuel 2:1 (7968) і быць пасля так і пытацца Давыд у|[Тв.с.] Існы да|[Д.с.] казаць ці падымацца у|[Тв.с.] адзін горад Егуда і казаць Існы да падымацца і казаць Давыд <strong>whither</strong> падымацца і казаць <strong>Hebron</strong> 
+2 Samuel 2:2 (7969) і падымацца там Давыд і таксама|нават два жанчына <strong>Ahinoam</strong> [арт.] <strong>Jezreelite</strong> і <strong>Abigail</strong> жанчына <strong>Nabal</strong> [арт.] <strong>Carmelite</strong> 
+2 Samuel 2:3 (7970) і чалавек (1) які з падымацца Давыд чалавек (1) і дом і сядзець у|[Тв.с.] горад <strong>Hebron</strong> 
+2 Samuel 2:4 (7971) і прыйсці чалавек (1) Егуда і <strong>smear</strong> там [В.с.] Давыд да|[Д.с.] цар на дом Егуда і абвяшчаць да|[Д.с.] Давыд да|[Д.с.] казаць чалавек (1) <strong>Jabesh</strong> Гіл’ад які пахаваць [В.с.] <strong>Saul</strong> ס
+2 Samuel 2:5 (7972) і слаць Давыд пасланец да чалавек (1) <strong>Jabesh</strong> Гіл’ад і казаць да <strong>bless</strong> <strong>you</strong> да|[Д.с.] Існы які рабіць [арт.] <strong>loyalty</strong> [арт.] гэты з <strong>lord</strong> з <strong>Saul</strong> і пахаваць [В.с.] 
+2 Samuel 2:6 (7973) і <strong>now</strong> рабіць Існы з <strong>loyalty</strong> і праўда і таксама|нават <strong>i</strong> рабіць разам з [арт.] <strong>what is good</strong> [арт.] <strong>this</strong> які рабіць [арт.] слова|рэч [арт.] гэты 
+2 Samuel 2:7 (7974) і <strong>now</strong> <strong>be strong</strong> рука і быць да|[Д.с.] сын моц бо|што паміраць <strong>lord</strong> <strong>Saul</strong> і таксама|нават [В.с.] <strong>smear</strong> дом Егуда да|[Д.с.] цар на פ
+2 Samuel 2:8 (7975) і <strong>Abner</strong> сын <strong>Ner</strong> кіраўнік|міністр <strong>service</strong> які да|[Д.с.] <strong>Saul</strong> браць [В.с.] <strong>Ish-Bosheth</strong> сын <strong>Saul</strong> і перайсці <strong>Mahanaim</strong> 
+2 Samuel 2:9 (7976) і цараваць да [арт.] Гіл’ад і да [арт.] <strong>Ashurite</strong> і да <strong>[town]</strong> і на Эфраі́м і на Бін’ямін і на Ісраэль цэлы|увесь פ
+2 Samuel 2:10 (7977) сын <strong>four</strong> год <strong>Ish-Bosheth</strong> сын <strong>Saul</strong> у|[Тв.с.] цараваць на Ісраэль і два год цараваць <strong>only</strong> дом Егуда быць пасля Давыд 
+2 Samuel 2:11 (7978) і быць лік [арт.] дзень які быць Давыд цар у|[Тв.с.] <strong>Hebron</strong> на дом Егуда сем год і <strong>six</strong> <strong>month</strong> ס
+2 Samuel 2:12 (7979) і выйсці <strong>Abner</strong> сын <strong>Ner</strong> і слуга <strong>Ish-Bosheth</strong> сын <strong>Saul</strong> з <strong>Mahanaim</strong> <strong>Gibeon</strong> 
+2 Samuel 2:13 (7980) і <strong>Joab</strong> сын <strong>Zeruiah</strong> і слуга Давыд выйсці і <strong>meet</strong> на <strong>pool</strong> <strong>Gibeon</strong> <strong>together</strong> і сядзець гэтыя на [арт.] <strong>pool</strong> з гэты і гэтыя на [арт.] <strong>pool</strong> з гэты 
+2 Samuel 2:14 (7981) і казаць <strong>Abner</strong> да <strong>Joab</strong> устаць ж, -ка [узмацн.] [арт.] хлапчук і смяяцца да|[Д.с.] твар і казаць <strong>Joab</strong> устаць 
+2 Samuel 2:15 (7982) і устаць і перайсці у|[Тв.с.] лік два <strong>-teen</strong> да|[Д.с.] Бін’ямін і да|[Д.с.] <strong>Ish-Bosheth</strong> сын <strong>Saul</strong> і два <strong>-teen</strong> з слуга Давыд 
+2 Samuel 2:16 (7983) і <strong>be strong</strong> чалавек (1) у|[Тв.с.] галава <strong>fellow</strong> і <strong>dagger</strong> у|[Тв.с.] <strong>side</strong> <strong>fellow</strong> і падаць <strong>together</strong> і зваць да|[Д.с.] [арт.] месца [арт.] ён <strong>Helkath Hazzurim</strong> які у|[Тв.с.] <strong>Gibeon</strong> 
+2 Samuel 2:17 (7984) і быць [арт.] вайна <strong>hard</strong> (ажно) да вельмі у|[Тв.с.] [арт.] дзень [арт.] ён і <strong>hurt</strong> <strong>Abner</strong> і чалавек (1) Ісраэль да|[Д.с.] твар слуга Давыд 
+2 Samuel 2:18 (7985) і быць там <strong>three</strong> сын <strong>Zeruiah</strong> <strong>Joab</strong> і <strong>Abishai</strong> і <strong>Asahel</strong> і <strong>Asahel</strong> лёгкі у|[Тв.с.] нага як адзін [арт.] <strong>gazelle</strong> які у|[Тв.с.] [арт.] поле 
+2 Samuel 2:19 (7986) і <strong>pursue</strong> <strong>Asahel</strong> пасля <strong>Abner</strong> і не <strong>extend</strong> да|[Д.с.] хадзіць на [арт.] правая частка і на [арт.] левая частка з пасля <strong>Abner</strong> 
+2 Samuel 2:20 (7987) і <strong>turn</strong> <strong>Abner</strong> пасля і казаць ці ты[м.] гэты <strong>Asahel</strong> і казаць <strong>i</strong> 
+2 Samuel 2:21 (7988) і казаць да|[Д.с.] <strong>Abner</strong> <strong>extend</strong> да|[Д.с.] на правая частка ці на левая частка і <strong>seize</strong> да|[Д.с.] адзін з [арт.] хлапчук і браць да|[Д.с.] [В.с.] <strong>stripped</strong> і не <strong>want</strong> <strong>Asahel</strong> да|[Д.с.] збочыць з пасля 
+2 Samuel 2:22 (7989) і дадаць яшчэ <strong>Abner</strong> да|[Д.с.] казаць да <strong>Asahel</strong> збочыць да|[Д.с.] з пасля чаму <strong>strike</strong> зямля і як падняць твар да <strong>Joab</strong> брат 
+2 Samuel 2:23 (7990) і <strong>refuse</strong> да|[Д.с.] збочыць і <strong>strike</strong> <strong>Abner</strong> у|[Тв.с.] пасля [арт.] <strong>spear</strong> да [арт.] <strong>belly</strong> і выйсці [арт.] <strong>spear</strong> з пасля і падаць там і паміраць пад і быць цэлы|увесь [арт.] прыйсці да [арт.] месца які падаць там <strong>Asahel</strong> і паміраць і стаяць 
+2 Samuel 2:24 (7991) і <strong>pursue</strong> <strong>Joab</strong> і <strong>Abishai</strong> пасля <strong>Abner</strong> і [арт.] сонца прыйсці і яны прыйсці (ажно) да <strong>hill</strong> <strong>Ammah</strong> які на твар <strong>Giah</strong> шлях <strong>desert</strong> <strong>Gibeon</strong> 
+2 Samuel 2:25 (7992) і <strong>collect</strong> сын Бін’ямін пасля <strong>Abner</strong> і быць да|[Д.с.] <strong>bundle</strong> адзін і стаяць на галава <strong>hill</strong> адзін 
+2 Samuel 2:26 (7993) і зваць <strong>Abner</strong> да <strong>Joab</strong> і казаць ці да|[Д.с.] <strong>glory</strong> есці <strong>dagger</strong> ці не ведаць [+неад.]|займацца сэксам [+адуш.] бо|што горкі быць у|[Тв.с.] [арт.] апошні і (ажно) да <strong>when</strong> не казаць да|[Д.с.] [арт.] народ да|[Д.с.] вяртацца з пасля брат 
+2 Samuel 2:27 (7994) і казаць <strong>Joab</strong> жывы [арт.] Бог бо|што <strong>unless</strong> гаварыць бо|што тады з [арт.] раніца падымацца [арт.] народ чалавек (1) з пасля брат 
+2 Samuel 2:28 (7995) і <strong>blow</strong> <strong>Joab</strong> у|[Тв.с.] [арт.] <strong>horn</strong> і стаяць цэлы|увесь [арт.] народ і не <strong>pursue</strong> яшчэ пасля Ісраэль і не дадаць яшчэ да|[Д.с.] <strong>fight</strong> 
+2 Samuel 2:29 (7996) і <strong>Abner</strong> і чалавек (1) хадзіць у|[Тв.с.] [арт.] <strong>desert</strong> цэлы|увесь [арт.] ноч [арт.] ён і перайсці [В.с.] [арт.] <strong>Jordan</strong> і хадзіць цэлы|увесь [арт.] <strong>gully</strong> і прыйсці <strong>Mahanaim</strong> 
+2 Samuel 2:30 (7997) і <strong>Joab</strong> вяртацца з пасля <strong>Abner</strong> і <strong>collect</strong> [В.с.] цэлы|увесь [арт.] народ і <strong>miss</strong> з слуга Давыд <strong>nine</strong> <strong>-teen</strong> чалавек (1) і <strong>Asahel</strong> 
+2 Samuel 2:31 (7998) і слуга Давыд <strong>strike</strong> з Бін’ямін і у|[Тв.с.] чалавек (1) <strong>Abner</strong> <strong>three</strong> сотня і <strong>six</strong> чалавек (1) паміраць 
+2 Samuel 2:32 (7999) і падняць [В.с.] <strong>Asahel</strong> і пахаваць у|[Тв.с.] <strong>grave</strong> бацька які <strong>Bethlehem</strong> і хадзіць цэлы|увесь [арт.] ноч <strong>Joab</strong> і чалавек (1) і <strong>be light</strong> да|[Д.с.] у|[Тв.с.] <strong>Hebron</strong> 
+2 Samuel 3:1 (8000) і быць [арт.] вайна <strong>long</strong> між дом <strong>Saul</strong> і між дом Давыд і Давыд хадзіць і <strong>strong</strong> і дом <strong>Saul</strong> хадзіць і <strong>poor</strong> ס
+2 Samuel 3:2 (8001) і нарадзіць да|[Д.с.] Давыд сын у|[Тв.с.] <strong>Hebron</strong> і быць <strong>first-born</strong> <strong>Amnon</strong> да|[Д.с.] <strong>Ahinoam</strong> [арт.] <strong>Jezreelite</strong> 
+2 Samuel 3:3 (8002) і <strong>second</strong> <strong>Kileab</strong> да|[Д.с.] <strong>Abigail</strong> жанчына <strong>Nabal</strong> [арт.] <strong>Carmelite</strong> і [арт.] <strong>third</strong> <strong>Absalom</strong> сын <strong>Maacah</strong> дачка <strong>Talmai</strong> цар <strong>Geshur</strong> 
+2 Samuel 3:4 (8003) і [арт.] <strong>fourth</strong> <strong>Adonijah</strong> сын <strong>Haggith</strong> і [арт.] <strong>fifth</strong> <strong>Shephatiah</strong> сын <strong>Abital</strong> 
+2 Samuel 3:5 (8004) і [арт.] <strong>sixth</strong> <strong>Ithream</strong> да|[Д.с.] <strong>Eglah</strong> жанчына Давыд гэтыя нарадзіць да|[Д.с.] Давыд у|[Тв.с.] <strong>Hebron</strong> פ
+2 Samuel 3:6 (8005) і быць у|[Тв.с.] быць [арт.] вайна між дом <strong>Saul</strong> і між дом Давыд і <strong>Abner</strong> быць <strong>be strong</strong> у|[Тв.с.] дом <strong>Saul</strong> 
+2 Samuel 3:7 (8006) і да|[Д.с.] <strong>Saul</strong> <strong>concubine</strong> і імя <strong>Rizpah</strong> дачка <strong>Ayyah</strong> і казаць да <strong>Abner</strong> <strong>why</strong> прыйсці да <strong>concubine</strong> бацька 
+2 Samuel 3:8 (8007) і <strong>be hot</strong> да|[Д.с.] <strong>Abner</strong> вельмі на слова|рэч <strong>Ish-Bosheth</strong> і казаць ці галава сабака <strong>i</strong> які да|[Д.с.] Егуда [арт.] дзень рабіць <strong>loyalty</strong> з дом <strong>Saul</strong> бацька да брат і да <strong>friend</strong> і не знайсці у|[Тв.с.] рука Давыд і <strong>miss</strong> на <strong>sin</strong> [арт.] жанчына [арт.] дзень 
+2 Samuel 3:9 (8008) такім чынам рабіць Бог да|[Д.с.] <strong>Abner</strong> і такім чынам дадаць да|[Д.с.] бо|што як які <strong>swear</strong> Існы да|[Д.с.] Давыд бо|што так рабіць да|[Д.с.] 
+2 Samuel 3:10 (8009) да|[Д.с.] перайсці [арт.] <strong>kingdom</strong> з дом <strong>Saul</strong> і да|[Д.с.] устаць [В.с.] <strong>seat</strong> Давыд на Ісраэль і на Егуда з <strong>Dan</strong> і (ажно) да <strong>well</strong> <strong>Sheba</strong> 
+2 Samuel 3:11 (8010) і не магчы яшчэ да|[Д.с.] вяртацца [В.с.] <strong>Abner</strong> слова|рэч з баяцца [В.с.] ס
+2 Samuel 3:12 (8011) і слаць <strong>Abner</strong> пасланец да Давыд пад да|[Д.с.] казаць да|[Д.с.] хто зямля да|[Д.с.] казаць выразаць дамова разам з і вось рука з да|[Д.с.] <strong>turn</strong> да [В.с.] цэлы|увесь Ісраэль 
+2 Samuel 3:13 (8012) і казаць добры я выразаць разам з дамова <strong>only</strong> слова|рэч адзін <strong>i</strong> пытацца з разам з да|[Д.с.] казаць не бачыць [В.с.] твар бо|што калі[зл.] да|[Д.с.] твар прыйсці [В.с.] <strong>Michal</strong> дачка <strong>Saul</strong> у|[Тв.с.] прыйсці да|[Д.с.] бачыць [В.с.] твар ס
+2 Samuel 3:14 (8013) і слаць Давыд пасланец да <strong>Ish-Bosheth</strong> сын <strong>Saul</strong> да|[Д.с.] казаць даць [В.с.] жанчына [В.с.] <strong>Michal</strong> які <strong>betroth</strong> да|[Д.с.] у|[Тв.с.] сотня <strong>foreskin</strong> філістынец 
+2 Samuel 3:15 (8014) і слаць <strong>Ish-Bosheth</strong> і браць з з чалавек (1) з з <strong>Paltiel</strong> сын <strong>Laish</strong> 
+2 Samuel 3:16 (8015) і хадзіць разам з чалавек (1) хадзіць і плакаць пасля (ажно) да <strong>Bahurim</strong> і казаць да <strong>Abner</strong> хадзіць вяртацца і вяртацца 
+2 Samuel 3:17 (8016) і слова|рэч <strong>Abner</strong> быць з старадаўні Ісраэль да|[Д.с.] казаць таксама|нават <strong>yesterday</strong> таксама|нават <strong>day before yesterday</strong> быць шукаць [В.с.] Давыд да|[Д.с.] цар на 
+2 Samuel 3:18 (8017) і <strong>now</strong> рабіць бо|што Існы казаць да Давыд да|[Д.с.] казаць у|[Тв.с.] рука Давыд слуга збавіць [В.с.] народ Ісраэль з рука філістынец і з рука цэлы|увесь <strong>be hostile</strong> 
+2 Samuel 3:19 (8018) і гаварыць таксама|нават <strong>Abner</strong> у|[Тв.с.] вуха Бін’ямін і хадзіць таксама|нават <strong>Abner</strong> да|[Д.с.] гаварыць у|[Тв.с.] вуха Давыд у|[Тв.с.] <strong>Hebron</strong> [В.с.] цэлы|увесь які <strong>be good</strong> у|[Тв.с.] вока Ісраэль і у|[Тв.с.] вока цэлы|увесь дом Бін’ямін 
+2 Samuel 3:20 (8019) і прыйсці <strong>Abner</strong> да Давыд <strong>Hebron</strong> і разам з <strong>twenty</strong> чалавек (1) і рабіць Давыд да|[Д.с.] <strong>Abner</strong> і да|[Д.с.] чалавек (1) які разам з <strong>drinking</strong> 
+2 Samuel 3:21 (8020) і казаць <strong>Abner</strong> да Давыд устаць і хадзіць і <strong>collect</strong> да <strong>lord</strong> [арт.] цар [В.с.] цэлы|увесь Ісраэль і выразаць разам з дамова і цараваць у|[Тв.с.] цэлы|увесь які <strong>wish</strong> душа і слаць Давыд [В.с.] <strong>Abner</strong> і хадзіць у|[Тв.с.] згода 
+2 Samuel 3:22 (8021) і вось слуга Давыд і <strong>Joab</strong> прыйсці з [арт.] <strong>band</strong> і <strong>plunder</strong> шматлікі з прыйсці і <strong>Abner</strong> няма з Давыд у|[Тв.с.] <strong>Hebron</strong> бо|што слаць і хадзіць у|[Тв.с.] згода 
+2 Samuel 3:23 (8022) і <strong>Joab</strong> і цэлы|увесь [арт.] <strong>service</strong> які разам з прыйсці і абвяшчаць да|[Д.с.] <strong>Joab</strong> да|[Д.с.] казаць прыйсці <strong>Abner</strong> сын <strong>Ner</strong> да [арт.] цар і слаць і хадзіць у|[Тв.с.] згода 
+2 Samuel 3:24 (8023) і прыйсці <strong>Joab</strong> да [арт.] цар і казаць што рабіць вось прыйсці <strong>Abner</strong> да чаму гэты слаць і хадзіць хадзіць 
+2 Samuel 3:25 (8024) ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] <strong>Abner</strong> сын <strong>Ner</strong> бо|што да|[Д.с.] <strong>seduce</strong> прыйсці і да|[Д.с.] ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] <strong>issue</strong> і [В.с.] <strong>coming</strong> і да|[Д.с.] ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] цэлы|увесь які ты[м.] рабіць 
+2 Samuel 3:26 (8025) і выйсці <strong>Joab</strong> з з Давыд і слаць пасланец пасля <strong>Abner</strong> і вяртацца [В.с.] з <strong>cistern</strong> [арт.] <strong>Sirah</strong> і Давыд не ведаць [+неад.]|займацца сэксам [+адуш.] 
+2 Samuel 3:27 (8026) і вяртацца <strong>Abner</strong> <strong>Hebron</strong> і <strong>extend</strong> <strong>Joab</strong> да <strong>midst</strong> [арт.] брама да|[Д.с.] гаварыць разам з у|[Тв.с.] [арт.] <strong>quiet</strong> і <strong>strike</strong> там [арт.] <strong>belly</strong> і паміраць у|[Тв.с.] <strong>blood</strong> <strong>Asahel</strong> брат 
+2 Samuel 3:28 (8027) і чуць Давыд з пасля так і казаць <strong>innocent</strong> <strong>i</strong> і <strong>kingdom</strong> з з Існы (ажно) да свет|вечнасць з <strong>blood</strong> <strong>Abner</strong> сын <strong>Ner</strong> 
+2 Samuel 3:29 (8028) <strong>dance</strong> на галава <strong>Joab</strong> і да цэлы|увесь дом бацька і не [+заг.лад] выразаць з дом <strong>Joab</strong> <strong>flow</strong> і <strong>have skin-disease</strong> і <strong>be strong</strong> у|[Тв.с.] [арт.] <strong>whirl of spindle</strong> і падаць у|[Тв.с.] [арт.] <strong>dagger</strong> і бракуючы хлеб 
+2 Samuel 3:30 (8029) і <strong>Joab</strong> і <strong>Abishai</strong> брат <strong>kill</strong> да|[Д.с.] <strong>Abner</strong> на які паміраць [В.с.] <strong>Asahel</strong> брат у|[Тв.с.] <strong>Gibeon</strong> у|[Тв.с.] [арт.] вайна פ
+2 Samuel 3:31 (8030) і казаць Давыд да <strong>Joab</strong> і да цэлы|увесь [арт.] народ які разам з <strong>tear</strong> адзежа і <strong>gird</strong> <strong>sack</strong> і <strong>lament</strong> да|[Д.с.] твар <strong>Abner</strong> і [арт.] цар Давыд хадзіць пасля [арт.] <strong>couch</strong> 
+2 Samuel 3:32 (8031) і пахаваць [В.с.] <strong>Abner</strong> у|[Тв.с.] <strong>Hebron</strong> і падняць [арт.] цар [В.с.] голас і плакаць да <strong>grave</strong> <strong>Abner</strong> і плакаць цэлы|увесь [арт.] народ פ
+2 Samuel 3:33 (8032) і <strong>chant elegy</strong> [арт.] цар да <strong>Abner</strong> і казаць ці як смерць <strong>stupid</strong> паміраць <strong>Abner</strong> 
+2 Samuel 3:34 (8033) рука не <strong>bind</strong> і нага не да|[Д.с.] <strong>bronze</strong> <strong>approach</strong> як падаць да|[Д.с.] твар сын <strong>wickedness</strong> падаць і дадаць цэлы|увесь [арт.] народ да|[Д.с.] плакаць на 
+2 Samuel 3:35 (8034) і прыйсці цэлы|увесь [арт.] народ да|[Д.с.] <strong>eat</strong> [В.с.] Давыд хлеб у|[Тв.с.] яшчэ [арт.] дзень і <strong>swear</strong> Давыд да|[Д.с.] казаць такім чынам рабіць да|[Д.с.] Бог і такім чынам дадаць бо|што калі[зл.] да|[Д.с.] твар прыйсці [арт.] сонца <strong>taste</strong> хлеб ці цэлы|увесь <strong>something</strong> 
+2 Samuel 3:36 (8035) і цэлы|увесь [арт.] народ <strong>recognise</strong> і <strong>be good</strong> у|[Тв.с.] вока як цэлы|увесь які рабіць [арт.] цар у|[Тв.с.] вока цэлы|увесь [арт.] народ добры 
+2 Samuel 3:37 (8036) і ведаць [+неад.]|займацца сэксам [+адуш.] цэлы|увесь [арт.] народ і цэлы|увесь Ісраэль у|[Тв.с.] [арт.] дзень [арт.] ён бо|што не быць з [арт.] цар да|[Д.с.] паміраць [В.с.] <strong>Abner</strong> сын <strong>Ner</strong> פ
+2 Samuel 3:38 (8037) і казаць [арт.] цар да слуга ці не ведаць [+неад.]|займацца сэксам [+адуш.] бо|што кіраўнік|міністр і вялікі падаць [арт.] дзень [арт.] гэты у|[Тв.с.] Ісраэль 
+2 Samuel 3:39 (8038) і <strong>i</strong> [арт.] дзень <strong>tender</strong> і <strong>smear</strong> цар і [арт.] чалавек (1) [арт.] гэтыя сын <strong>Zeruiah</strong> <strong>hard</strong> з <strong>be complete</strong> Існы да|[Д.с.] рабіць [арт.] дрэнны як дрэнны פ
+2 Samuel 4:1 (8039) і чуць сын <strong>Saul</strong> бо|што паміраць <strong>Abner</strong> у|[Тв.с.] <strong>Hebron</strong> і <strong>be slack</strong> рука і цэлы|увесь Ісраэль <strong>disturb</strong> 
+2 Samuel 4:2 (8040) і два чалавек (1) кіраўнік|міністр <strong>band</strong> быць сын <strong>Saul</strong> імя [арт.] адзін <strong>Baanah</strong> і імя [арт.] другі <strong>Recab</strong> сын <strong>Rimmon</strong> [арт.] <strong>Beerothite</strong> з сын Бін’ямін бо|што таксама|нават <strong>Beeroth</strong> <strong>account</strong> на Бін’ямін 
+2 Samuel 4:3 (8041) і <strong>run away</strong> [арт.] <strong>Beerothite</strong> <strong>Gittaim</strong> і быць там <strong>dwell</strong> (ажно) да [арт.] дзень [арт.] гэты ס
+2 Samuel 4:4 (8042) і да|[Д.с.] <strong>Jehonathan</strong> сын <strong>Saul</strong> сын <strong>smitten</strong> нага сын <strong>five</strong> год быць у|[Тв.с.] прыйсці звестка <strong>Saul</strong> і <strong>Jehonathan</strong> з <strong>[town]</strong> і падняць <strong>be firm</strong> і <strong>flee</strong> і быць у|[Тв.с.] <strong>hurry</strong> да|[Д.с.] <strong>flee</strong> і падаць і <strong>be lame</strong> і імя <strong>Mephibosheth</strong> 
+2 Samuel 4:5 (8043) і хадзіць сын <strong>Rimmon</strong> [арт.] <strong>Beerothite</strong> <strong>Recab</strong> і <strong>Baanah</strong> і прыйсці як быць спякотным [арт.] дзень да дом <strong>Ish-Bosheth</strong> і ён ляжаць [В.с.] <strong>couch</strong> [арт.] <strong>noon</strong> 
+2 Samuel 4:6 (8044) і <strong>here</strong> прыйсці (ажно) да <strong>midst</strong> [арт.] дом браць <strong>wheat</strong> і <strong>strike</strong> да [арт.] <strong>belly</strong> і <strong>Recab</strong> і <strong>Baanah</strong> брат <strong>escape</strong> 
+2 Samuel 4:7 (8045) і прыйсці [арт.] дом і ён ляжаць на <strong>couch</strong> у|[Тв.с.] пакой <strong>couch</strong> і <strong>strike</strong> і паміраць і збочыць [В.с.] галава і браць [В.с.] галава і хадзіць шлях [арт.] <strong>desert</strong> цэлы|увесь [арт.] ноч 
+2 Samuel 4:8 (8046) і прыйсці [В.с.] галава <strong>Ish-Bosheth</strong> да Давыд <strong>Hebron</strong> і казаць да [арт.] цар вось галава <strong>Ish-Bosheth</strong> сын <strong>Saul</strong> <strong>be hostile</strong> які шукаць [В.с.] душа і даць Існы да|[Д.с.] <strong>lord</strong> [арт.] цар <strong>vengeance</strong> [арт.] дзень [арт.] гэты з <strong>Saul</strong> і з семя ס
+2 Samuel 4:9 (8047) і адказаць Давыд [В.с.] <strong>Recab</strong> і [В.с.] <strong>Baanah</strong> брат сын <strong>Rimmon</strong> [арт.] <strong>Beerothite</strong> і казаць да|[Д.с.] жывы Існы які <strong>buy off</strong> [В.с.] душа з цэлы|увесь бедства 
+2 Samuel 4:10 (8048) бо|што [арт.] абвяшчаць да|[Д.с.] да|[Д.с.] казаць вось паміраць <strong>Saul</strong> і ён быць як <strong>announce</strong> у|[Тв.с.] вока і <strong>seize</strong> у|[Тв.с.] і <strong>kill</strong> у|[Тв.с.] <strong>Ziklag</strong> які да|[Д.с.] даць да|[Д.с.] <strong>report</strong> 
+2 Samuel 4:11 (8049) нават бо|што чалавек (1) вінаваты <strong>kill</strong> [В.с.] чалавек (1) справядлівы|правільны у|[Тв.с.] дом на <strong>couch</strong> і <strong>now</strong> ці не шукаць [В.с.] <strong>blood</strong> з рука і <strong>burn</strong> [В.с.] з [арт.] зямля 
+2 Samuel 4:12 (8050) і <strong>command</strong> Давыд [В.с.] [арт.] хлапчук і <strong>kill</strong> і <strong>cut</strong> [В.с.] рука і [В.с.] нага і <strong>hang</strong> на [арт.] <strong>pool</strong> у|[Тв.с.] <strong>Hebron</strong> і [В.с.] галава <strong>Ish-Bosheth</strong> браць і пахаваць у|[Тв.с.] <strong>grave</strong> <strong>Abner</strong> у|[Тв.с.] <strong>Hebron</strong> פ
+2 Samuel 5:1 (8051) і прыйсці цэлы|увесь <strong>rod</strong> Ісраэль да Давыд <strong>Hebron</strong> і казаць да|[Д.с.] казаць вось костка і мяса|плоць <strong>we</strong> 
+2 Samuel 5:2 (8052) таксама|нават <strong>yesterday</strong> таксама|нават <strong>day before yesterday</strong> у|[Тв.с.] быць <strong>Saul</strong> цар на ты[м.] быць [арт.] выйсці і [арт.] прыйсці [В.с.] Ісраэль і казаць Існы да|[Д.с.] ты[м.] <strong>pasture</strong> [В.с.] народ [В.с.] Ісраэль і ты[м.] быць да|[Д.с.] <strong>chief</strong> на Ісраэль 
+2 Samuel 5:3 (8053) і прыйсці цэлы|увесь старадаўні Ісраэль да [арт.] цар <strong>Hebron</strong> і выразаць да|[Д.с.] [арт.] цар Давыд дамова у|[Тв.с.] <strong>Hebron</strong> да|[Д.с.] твар Існы і <strong>smear</strong> [В.с.] Давыд да|[Д.с.] цар на Ісраэль פ
+2 Samuel 5:4 (8054) сын <strong>three</strong> год Давыд у|[Тв.с.] цараваць <strong>four</strong> год цараваць 
+2 Samuel 5:5 (8055) у|[Тв.с.] <strong>Hebron</strong> цараваць на Егуда сем год і <strong>six</strong> <strong>month</strong> і у|[Тв.с.] Ерусалім цараваць <strong>three</strong> і <strong>three</strong> год на цэлы|увесь Ісраэль і Егуда 
+2 Samuel 5:6 (8056) і хадзіць [арт.] цар і чалавек (1) Ерусалім да [арт.] <strong>Jebusite</strong> сядзець [арт.] зямля і казаць да|[Д.с.] Давыд да|[Д.с.] казаць не прыйсці <strong>here</strong> бо|што калі[зл.] збочыць [арт.] <strong>blind</strong> і [арт.] <strong>lame</strong> да|[Д.с.] казаць не прыйсці Давыд <strong>here</strong> 
+2 Samuel 5:7 (8057) і <strong>seize</strong> Давыд [В.с.] <strong>fortification</strong> Цыё́н яна горад Давыд 
+2 Samuel 5:8 (8058) і казаць Давыд у|[Тв.с.] [арт.] дзень [арт.] ён цэлы|увесь <strong>strike</strong> <strong>Jebusite</strong> і <strong>touch</strong> у|[Тв.с.] [арт.] <strong>water-tunnel</strong> і [В.с.] [арт.] <strong>lame</strong> і [В.с.] [арт.] <strong>blind</strong> ненавідзець душа Давыд на так казаць <strong>blind</strong> і <strong>lame</strong> не прыйсці да [арт.] дом 
+2 Samuel 5:9 (8059) і сядзець Давыд у|[Тв.с.] [арт.] <strong>fortification</strong> і зваць да|[Д.с.] горад Давыд і будаваць Давыд вакол з [арт.] <strong>mound</strong> і дом 
+2 Samuel 5:10 (8060) і хадзіць Давыд хадзіць і узвялічваць і Існы Бог <strong>service</strong> з פ
+2 Samuel 5:11 (8061) і слаць <strong>Hiram</strong> цар <strong>Tyrus</strong> пасланец да Давыд і дрэва <strong>cedar</strong> і <strong>artisan</strong> дрэва і <strong>artisan</strong> камень <strong>wall</strong> і будаваць дом да|[Д.с.] Давыд 
+2 Samuel 5:12 (8062) і ведаць [+неад.]|займацца сэксам [+адуш.] Давыд бо|што <strong>be firm</strong> Існы да|[Д.с.] цар на Ісраэль і бо|што падняць <strong>kingdom</strong> у|[Тв.с.] <strong>way</strong> народ Ісраэль ס
+2 Samuel 5:13 (8063) і браць Давыд яшчэ <strong>concubine</strong> і жанчына з Ерусалім пасля прыйсці з <strong>Hebron</strong> і нарадзіць яшчэ да|[Д.с.] Давыд сын і дачка 
+2 Samuel 5:14 (8064) і гэтыя імя [арт.] <strong>new-born</strong> да|[Д.с.] у|[Тв.с.] Ерусалім <strong>Shammua</strong> і <strong>Shobab</strong> і <strong>Nathan</strong> і <strong>Solomon</strong> 
+2 Samuel 5:15 (8065) і <strong>Ibhar</strong> і <strong>Elishua</strong> і <strong>Nepheg</strong> і <strong>Japhia</strong> 
+2 Samuel 5:16 (8066) і <strong>Elishama</strong> і <strong>Eliada</strong> і <strong>Eliphelet</strong> פ
+2 Samuel 5:17 (8067) і чуць філістынец бо|што <strong>smear</strong> [В.с.] Давыд да|[Д.с.] цар на Ісраэль і падымацца цэлы|увесь філістынец да|[Д.с.] шукаць [В.с.] Давыд і чуць Давыд і апускацца да [арт.] <strong>fortification</strong> 
+2 Samuel 5:18 (8068) і філістынец прыйсці і <strong>abandon</strong> у|[Тв.с.] <strong>valley</strong> <strong>[valley]</strong> 
+2 Samuel 5:19 (8069) і пытацца Давыд у|[Тв.с.] Існы да|[Д.с.] казаць ці падымацца да філістынец ці даць у|[Тв.с.] рука і казаць Існы да Давыд падымацца бо|што даць даць [В.с.] [арт.] філістынец у|[Тв.с.] рука 
+2 Samuel 5:20 (8070) і прыйсці Давыд у|[Тв.с.] <strong>Baal Perazim</strong> і <strong>strike</strong> там Давыд і казаць <strong>break</strong> Існы [В.с.] <strong>be hostile</strong> да|[Д.с.] твар як <strong>breach</strong> вада на так зваць імя [арт.] месца [арт.] ён <strong>Baal Perazim</strong> 
+2 Samuel 5:21 (8071) і <strong>leave</strong> там [В.с.] <strong>image</strong> і падняць Давыд і чалавек (1) פ
+2 Samuel 5:22 (8072) і дадаць яшчэ філістынец да|[Д.с.] падымацца і <strong>abandon</strong> у|[Тв.с.] <strong>valley</strong> <strong>[valley]</strong> 
+2 Samuel 5:23 (8073) і пытацца Давыд у|[Тв.с.] Існы і казаць не падымацца <strong>turn</strong> да пасля і прыйсці да|[Д.с.] з <strong>front</strong> <strong>baka-shrub</strong> 
+2 Samuel 5:24 (8074) і быць як чуць [В.с.] голас <strong>marching</strong> у|[Тв.с.] галава [арт.] <strong>baka-shrub</strong> тады <strong>be eager</strong> бо|што тады выйсці Існы да|[Д.с.] твар да|[Д.с.] <strong>strike</strong> у|[Тв.с.] <strong>camp</strong> філістынец 
+2 Samuel 5:25 (8075) і рабіць Давыд так як які <strong>command</strong> Існы і <strong>strike</strong> [В.с.] філістынец з <strong>Geba</strong> (ажно) да прыйсці <strong>Gezer</strong> פ
+2 Samuel 6:1 (8076) і збіраць яшчэ Давыд [В.с.] цэлы|увесь хлопец у|[Тв.с.] Ісраэль <strong>three</strong> тысяча 
+2 Samuel 6:2 (8077) і устаць і хадзіць Давыд і цэлы|увесь [арт.] народ які разам з з <strong>Baalah of Judah</strong> да|[Д.с.] падымацца з там [В.с.] <strong>ark</strong> [арт.] Бог які зваць імя імя Існы <strong>service</strong> сядзець [арт.] <strong>cherub</strong> на 
+2 Samuel 6:3 (8078) і <strong>ride</strong> [В.с.] <strong>ark</strong> [арт.] Бог да <strong>chariot</strong> новы і падняць з дом <strong>Abinadab</strong> які у|[Тв.с.] [арт.] <strong>hill</strong> і <strong>Uzzah</strong> і <strong>Ahio</strong> сын <strong>Abinadab</strong> <strong>drive</strong> [В.с.] [арт.] <strong>chariot</strong> новы 
+2 Samuel 6:4 (8079) і падняць з дом <strong>Abinadab</strong> які у|[Тв.с.] [арт.] <strong>hill</strong> з <strong>ark</strong> [арт.] Бог і <strong>Ahio</strong> хадзіць да|[Д.с.] твар [арт.] <strong>ark</strong> 
+2 Samuel 6:5 (8080) і Давыд і цэлы|увесь дом Ісраэль смяяцца да|[Д.с.] твар Існы у|[Тв.с.] цэлы|увесь дрэва <strong>juniper</strong> і у|[Тв.с.] <strong>cither</strong> і у|[Тв.с.] <strong>harp</strong> і у|[Тв.с.] <strong>tambourine</strong> і у|[Тв.с.] <strong>sistrum</strong> і у|[Тв.с.] <strong>cymbals</strong> 
+2 Samuel 6:6 (8081) і прыйсці (ажно) да <strong>threshing-floor</strong> <strong>Nacon</strong> і слаць <strong>Uzzah</strong> да <strong>ark</strong> [арт.] Бог і <strong>seize</strong> у|[Тв.с.] бо|што <strong>let loose</strong> [арт.] быдла 
+2 Samuel 6:7 (8082) і <strong>be hot</strong> <strong>nose</strong> Існы у|[Тв.с.] <strong>Uzzah</strong> і <strong>strike</strong> там [арт.] Бог на [арт.] <strong>[uncertain]</strong> і паміраць там з <strong>ark</strong> [арт.] Бог 
+2 Samuel 6:8 (8083) і <strong>be hot</strong> да|[Д.с.] Давыд на які <strong>break</strong> Існы <strong>breach</strong> у|[Тв.с.] <strong>Uzzah</strong> і зваць да|[Д.с.] [арт.] месца [арт.] ён <strong>Perez Uzzah</strong> (ажно) да [арт.] дзень [арт.] гэты 
+2 Samuel 6:9 (8084) і баяцца Давыд [В.с.] Існы у|[Тв.с.] [арт.] дзень [арт.] ён і казаць як прыйсці да <strong>ark</strong> Існы 
+2 Samuel 6:10 (8085) і не <strong>want</strong> Давыд да|[Д.с.] збочыць да [В.с.] <strong>ark</strong> Існы на горад Давыд і <strong>extend</strong> Давыд дом <strong>Obed-edom</strong> [арт.] <strong>Gittite</strong> 
+2 Samuel 6:11 (8086) і сядзець <strong>ark</strong> Існы дом <strong>Obed-edom</strong> [арт.] <strong>Gittite</strong> <strong>three</strong> <strong>month</strong> і <strong>bless</strong> Існы [В.с.] <strong>Obed-edom</strong> і [В.с.] цэлы|увесь дом 
+2 Samuel 6:12 (8087) і абвяшчаць да|[Д.с.] [арт.] цар Давыд да|[Д.с.] казаць <strong>bless</strong> Існы [В.с.] дом <strong>Obed-edom</strong> і [В.с.] цэлы|увесь які да|[Д.с.] у|[Тв.с.] <strong>way</strong> <strong>ark</strong> [арт.] Бог і хадзіць Давыд і падымацца [В.с.] <strong>ark</strong> [арт.] Бог з дом <strong>Obed-edom</strong> горад Давыд у|[Тв.с.] радасць 
+2 Samuel 6:13 (8088) і быць бо|што <strong>march</strong> падняць <strong>ark</strong> Існы <strong>six</strong> <strong>marching</strong> і забіць <strong>bullock</strong> і <strong>fatling</strong> 
+2 Samuel 6:14 (8089) і Давыд <strong>dance</strong> у|[Тв.с.] цэлы|увесь <strong>power</strong> да|[Д.с.] твар Існы і Давыд <strong>gird</strong> <strong>ephod</strong> частка 
+2 Samuel 6:15 (8090) і Давыд і цэлы|увесь дом Ісраэль падымацца [В.с.] <strong>ark</strong> Існы у|[Тв.с.] <strong>shouting</strong> і у|[Тв.с.] голас <strong>horn</strong> 
+2 Samuel 6:16 (8091) і быць <strong>ark</strong> Існы прыйсці горад Давыд і <strong>Michal</strong> дачка <strong>Saul</strong> <strong>look</strong> <strong>distance</strong> [арт.] <strong>window</strong> і бачыць [В.с.] [арт.] цар Давыд <strong>be agile</strong> і <strong>dance</strong> да|[Д.с.] твар Існы і грэбаваць да|[Д.с.] у|[Тв.с.] сэрца 
+2 Samuel 6:17 (8092) і прыйсці [В.с.] <strong>ark</strong> Існы і <strong>set</strong> [В.с.] у|[Тв.с.] месца у|[Тв.с.] <strong>midst</strong> [арт.] <strong>tent</strong> які <strong>extend</strong> да|[Д.с.] Давыд і падымацца Давыд <strong>burnt-offering</strong> да|[Д.с.] твар Існы і <strong>final offer</strong> 
+2 Samuel 6:18 (8093) і <strong>be complete</strong> Давыд з падымацца [арт.] <strong>burnt-offering</strong> і [арт.] <strong>final offer</strong> і <strong>bless</strong> [В.с.] [арт.] народ у|[Тв.с.] імя Існы <strong>service</strong> 
+2 Samuel 6:19 (8094) і <strong>divide</strong> да|[Д.с.] цэлы|увесь [арт.] народ да|[Д.с.] цэлы|увесь <strong>commotion</strong> Ісраэль да|[Д.с.] з чалавек (1) і (ажно) да жанчына да|[Д.с.] чалавек (1) <strong>bread</strong> хлеб адзін і <strong>[type of cake]</strong> адзін і <strong>raisin cake</strong> адзін і хадзіць цэлы|увесь [арт.] народ чалавек (1) да|[Д.с.] дом 
+2 Samuel 6:20 (8095) і вяртацца Давыд да|[Д.с.] <strong>bless</strong> [В.с.] дом і выйсці <strong>Michal</strong> дачка <strong>Saul</strong> да|[Д.с.] <strong>encounter</strong> Давыд і казаць што <strong>be heavy</strong> [арт.] дзень цар Ісраэль які <strong>uncover</strong> [арт.] дзень да|[Д.с.] вока <strong>handmaid</strong> слуга як <strong>uncover</strong> <strong>uncover</strong> адзін [арт.] <strong>empty</strong> 
+2 Samuel 6:21 (8096) і казаць Давыд да <strong>Michal</strong> да|[Д.с.] твар Існы які <strong>examine</strong> у|[Тв.с.] з бацька і з цэлы|увесь дом да|[Д.с.] <strong>command</strong> [В.с.] <strong>chief</strong> на народ Існы на Ісраэль і смяяцца да|[Д.с.] твар Існы 
+2 Samuel 6:22 (8097) і <strong>be slight</strong> яшчэ з <strong>this</strong> і быць <strong>low</strong> у|[Тв.с.] вока і з [арт.] <strong>handmaid</strong> які казаць з <strong>be heavy</strong> 
+2 Samuel 6:23 (8098) і да|[Д.с.] <strong>Michal</strong> дачка <strong>Saul</strong> не быць да|[Д.с.] дзіця [м.] (ажно) да дзень смерць פ
+2 Samuel 7:1 (8099) і быць бо|што сядзець [арт.] цар у|[Тв.с.] дом і Існы асесць да|[Д.с.] з вакол з цэлы|увесь <strong>be hostile</strong> 
+2 Samuel 7:2 (8100) і казаць [арт.] цар да <strong>Nathan</strong> [арт.] <strong>prophet</strong> бачыць ж, -ка [узмацн.] <strong>i</strong> сядзець у|[Тв.с.] дом <strong>cedar</strong> і <strong>ark</strong> [арт.] Бог сядзець у|[Тв.с.] <strong>midst</strong> [арт.] <strong>curtain</strong> 
+2 Samuel 7:3 (8101) і казаць <strong>Nathan</strong> да [арт.] цар цэлы|увесь які у|[Тв.с.] сэрца хадзіць рабіць бо|што Існы з ס
+2 Samuel 7:4 (8102) і быць у|[Тв.с.] [арт.] ноч [арт.] ён і быць слова|рэч Існы да <strong>Nathan</strong> да|[Д.с.] казаць 
+2 Samuel 7:5 (8103) хадзіць і казаць да слуга да Давыд такім чынам казаць Існы ці ты[м.] будаваць да|[Д.с.] дом да|[Д.с.] сядзець 
+2 Samuel 7:6 (8104) бо|што не сядзець у|[Тв.с.] дом да|[Д.с.] з дзень падымацца [В.с.] сын Ісраэль з <strong>Egypt</strong> і (ажно) да [арт.] дзень [арт.] гэты і быць хадзіць у|[Тв.с.] <strong>tent</strong> і у|[Тв.с.] <strong>dwelling-place</strong> 
+2 Samuel 7:7 (8105) у|[Тв.с.] цэлы|увесь які хадзіць у|[Тв.с.] цэлы|увесь сын Ісраэль ці слова|рэч гаварыць разам з адзін <strong>rod</strong> Ісраэль які <strong>command</strong> да|[Д.с.] <strong>pasture</strong> [В.с.] народ [В.с.] Ісраэль да|[Д.с.] казаць чаму не будаваць да|[Д.с.] дом <strong>cedar</strong> 
+2 Samuel 7:8 (8106) і <strong>now</strong> такім чынам казаць да|[Д.с.] слуга да|[Д.с.] Давыд такім чынам казаць Існы <strong>service</strong> я браць з [арт.] <strong>pasture</strong> з пасля [арт.] скаціна да|[Д.с.] быць <strong>chief</strong> на народ на Ісраэль 
+2 Samuel 7:9 (8107) і быць з у|[Тв.с.] цэлы|увесь які хадзіць і выразаць [В.с.] цэлы|увесь <strong>be hostile</strong> з твар і рабіць да|[Д.с.] імя вялікі як імя [арт.] вялікі які у|[Тв.с.] [арт.] зямля 
+2 Samuel 7:10 (8108) і класці|ставіць месца да|[Д.с.] народ да|[Д.с.] Ісраэль і <strong>plant</strong> і насяляць пад і не <strong>quake</strong> яшчэ і не дадаць сын <strong>wickedness</strong> да|[Д.с.] <strong>be lowly</strong> як які у|[Тв.с.] [арт.] першы 
+2 Samuel 7:11 (8109) і да|[Д.с.] з [арт.] дзень які <strong>command</strong> судзіць на народ Ісраэль і асесць да|[Д.с.] з цэлы|увесь <strong>be hostile</strong> і абвяшчаць да|[Д.с.] Існы бо|што дом рабіць да|[Д.с.] Існы 
+2 Samuel 7:12 (8110) бо|што поўніцца дзень і ляжаць разам з бацька і устаць [В.с.] семя пасля які выйсці з <strong>bowels</strong> і <strong>be firm</strong> [В.с.] <strong>kingdom</strong> 
+2 Samuel 7:13 (8111) ён будаваць дом да|[Д.с.] імя і <strong>be firm</strong> [В.с.] <strong>seat</strong> <strong>kingdom</strong> (ажно) да свет|вечнасць 
+2 Samuel 7:14 (8112) я быць да|[Д.с.] да|[Д.с.] бацька і ён быць да|[Д.с.] да|[Д.с.] сын які у|[Тв.с.] <strong>do wrong</strong> і <strong>reprove</strong> у|[Тв.с.] <strong>rod</strong> чалавек (1) і у|[Тв.с.] <strong>stroke</strong> сын чалавек (від) 
+2 Samuel 7:15 (8113) і <strong>loyalty</strong> не збочыць з як які збочыць з з <strong>Saul</strong> які збочыць з да|[Д.с.] твар 
+2 Samuel 7:16 (8114) і <strong>be firm</strong> дом і <strong>kingdom</strong> (ажно) да свет|вечнасць да|[Д.с.] твар <strong>seat</strong> быць <strong>be firm</strong> (ажно) да свет|вечнасць 
+2 Samuel 7:17 (8115) як цэлы|увесь [арт.] слова|рэч [арт.] гэтыя і як цэлы|увесь [арт.] <strong>vision</strong> [арт.] гэты так гаварыць <strong>Nathan</strong> да Давыд ס
+2 Samuel 7:18 (8116) і прыйсці [арт.] цар Давыд і сядзець да|[Д.с.] твар Існы і казаць хто <strong>i</strong> валадар Існы і хто дом бо|што прыйсці (ажно) да <strong>hither</strong> 
+2 Samuel 7:19 (8117) і <strong>be small</strong> яшчэ <strong>this</strong> у|[Тв.с.] вока валадар Існы і гаварыць таксама|нават да дом слуга да|[Д.с.] з далёкі і <strong>this</strong> <strong>instruction</strong> [арт.] чалавек (від) валадар Існы 
+2 Samuel 7:20 (8118) і што дадаць Давыд яшчэ да|[Д.с.] гаварыць да і ты[м.] ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] слуга валадар Існы 
+2 Samuel 7:21 (8119) у|[Тв.с.] <strong>way</strong> слова|рэч і як сэрца рабіць [В.с.] цэлы|увесь [арт.] <strong>greatness</strong> [арт.] <strong>this</strong> да|[Д.с.] ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] слуга 
+2 Samuel 7:22 (8120) на так узвялічваць валадар Існы бо|што няма <strong>like</strong> і няма Бог <strong>except</strong> у|[Тв.с.] цэлы|увесь які чуць у|[Тв.с.] вуха 
+2 Samuel 7:23 (8121) і хто як народ як Ісраэль знешні народ адзін у|[Тв.с.] [арт.] зямля які хадзіць Бог да|[Д.с.] <strong>buy off</strong> да|[Д.с.] да|[Д.с.] народ і да|[Д.с.] класці|ставіць да|[Д.с.] імя і да|[Д.с.] рабіць да|[Д.с.] [арт.] <strong>greatness</strong> і баяцца да|[Д.с.] зямля з твар народ які <strong>buy off</strong> да|[Д.с.] з <strong>Egypt</strong> знешні народ і Бог 
+2 Samuel 7:24 (8122) і <strong>be firm</strong> да|[Д.с.] [В.с.] народ Ісраэль да|[Д.с.] да|[Д.с.] народ (ажно) да свет|вечнасць і ты[м.] Існы быць да|[Д.с.] да|[Д.с.] Бог ס
+2 Samuel 7:25 (8123) і <strong>now</strong> Існы Бог [арт.] слова|рэч які гаварыць на слуга і на дом устаць (ажно) да свет|вечнасць і рабіць як які гаварыць 
+2 Samuel 7:26 (8124) і узвялічваць імя (ажно) да свет|вечнасць да|[Д.с.] казаць Існы <strong>service</strong> Бог на Ісраэль і дом слуга Давыд быць <strong>be firm</strong> да|[Д.с.] твар 
+2 Samuel 7:27 (8125) бо|што ты[м.] Існы <strong>service</strong> Бог Ісраэль <strong>uncover</strong> [В.с.] вуха слуга да|[Д.с.] казаць дом будаваць да|[Д.с.] на так знайсці слуга [В.с.] сэрца да|[Д.с.] <strong>pray</strong> да [В.с.] [арт.] <strong>prayer</strong> [арт.] <strong>this</strong> 
+2 Samuel 7:28 (8126) і <strong>now</strong> валадар Існы ты[м.] ён [арт.] Бог і слова|рэч быць праўда і гаварыць да слуга [В.с.] [арт.] <strong>what is good</strong> [арт.] <strong>this</strong> 
+2 Samuel 7:29 (8127) і <strong>now</strong> <strong>begin</strong> і <strong>bless</strong> [В.с.] дом слуга да|[Д.с.] быць да|[Д.с.] свет|вечнасць да|[Д.с.] твар бо|што ты[м.] валадар Існы гаварыць і з <strong>blessing</strong> <strong>bless</strong> дом слуга да|[Д.с.] свет|вечнасць פ
+2 Samuel 8:1 (8128) і быць пасля так і <strong>strike</strong> Давыд [В.с.] філістынец і <strong>be humble</strong> і браць Давыд [В.с.] <strong>bridle</strong> [арт.] <strong>[uncertain]</strong> з рука філістынец 
+2 Samuel 8:2 (8129) і <strong>strike</strong> [В.с.] <strong>Moab</strong> і <strong>measure</strong> у|[Тв.с.] [арт.] <strong>cord</strong> ляжаць [В.с.] зямля і <strong>measure</strong> два <strong>cord</strong> да|[Д.с.] паміраць і поўнасць [арт.] <strong>cord</strong> да|[Д.с.] жыць і быць <strong>Moab</strong> да|[Д.с.] Давыд да|[Д.с.] слуга падняць <strong>present</strong> 
+2 Samuel 8:3 (8130) і <strong>strike</strong> Давыд [В.с.] <strong>Hadadezer</strong> сын <strong>Rehob</strong> цар <strong>Zobah</strong> у|[Тв.с.] хадзіць да|[Д.с.] вяртацца рука у|[Тв.с.] <strong>stream</strong> <strong>Euphrates</strong> 
+2 Samuel 8:4 (8131) і <strong>seize</strong> Давыд з тысяча і сем сотня <strong>horseman</strong> і <strong>twenty</strong> тысяча чалавек (1) <strong>on foot</strong> і <strong>root up</strong> Давыд [В.с.] цэлы|увесь [арт.] <strong>chariot</strong> і <strong>remain</strong> з сотня <strong>chariot</strong> 
+2 Samuel 8:5 (8132) і прыйсці <strong>Aram</strong> <strong>Damascus</strong> да|[Д.с.] <strong>help</strong> да|[Д.с.] <strong>Hadadezer</strong> цар <strong>Zobah</strong> і <strong>strike</strong> Давыд у|[Тв.с.] <strong>Aram</strong> <strong>twenty</strong> і два тысяча чалавек (1) 
+2 Samuel 8:6 (8133) і класці|ставіць Давыд <strong>pillar</strong> у|[Тв.с.] <strong>Aram</strong> <strong>Damascus</strong> і быць <strong>Aram</strong> да|[Д.с.] Давыд да|[Д.с.] слуга падняць <strong>present</strong> і збавіць Існы [В.с.] Давыд у|[Тв.с.] цэлы|увесь які хадзіць 
+2 Samuel 8:7 (8134) і браць Давыд [В.с.] <strong>shield</strong> [арт.] золата які быць да слуга <strong>Hadadezer</strong> і прыйсці Ерусалім 
+2 Samuel 8:8 (8135) і з <strong>Tebah</strong> і з <strong>Berothai</strong> горад <strong>Hadadezer</strong> браць [арт.] цар Давыд <strong>bronze</strong> шмат вельмі ס
+2 Samuel 8:9 (8136) і чуць <strong>Tou</strong> цар <strong>Hamath</strong> бо|што <strong>strike</strong> Давыд [В.с.] цэлы|увесь моц <strong>Hadadezer</strong> 
+2 Samuel 8:10 (8137) і слаць <strong>Tou</strong> [В.с.] <strong>Joram</strong> сын да [арт.] цар Давыд да|[Д.с.] пытацца да|[Д.с.] да|[Д.с.] згода і да|[Д.с.] <strong>bless</strong> на які <strong>fight</strong> у|[Тв.с.] <strong>Hadadezer</strong> і <strong>strike</strong> бо|што чалавек (1) вайна <strong>Tou</strong> быць <strong>Hadadezer</strong> і у|[Тв.с.] рука быць прылада срэбра і прылада золата і прылада <strong>bronze</strong> 
+2 Samuel 8:11 (8138) таксама|нават [В.с.] <strong>be holy</strong> [арт.] цар Давыд да|[Д.с.] Існы з [арт.] срэбра і [арт.] золата які <strong>be holy</strong> з цэлы|увесь [арт.] знешні народ які <strong>subdue</strong> 
+2 Samuel 8:12 (8139) з <strong>Aram</strong> і з <strong>Moab</strong> і з сын <strong>Ammon</strong> і з філістынец і з <strong>Amalek</strong> і з <strong>plunder</strong> <strong>Hadadezer</strong> сын <strong>Rehob</strong> цар <strong>Zobah</strong> 
+2 Samuel 8:13 (8140) і рабіць Давыд імя у|[Тв.с.] вяртацца з <strong>strike</strong> [В.с.] <strong>Aram</strong> у|[Тв.с.] <strong>the Valley of Salt</strong> восем <strong>-teen</strong> тысяча 
+2 Samuel 8:14 (8141) і класці|ставіць у|[Тв.с.] Эдом <strong>pillar</strong> у|[Тв.с.] цэлы|увесь Эдом класці|ставіць <strong>pillar</strong> і быць цэлы|увесь Эдом слуга да|[Д.с.] Давыд і збавіць Існы [В.с.] Давыд у|[Тв.с.] цэлы|увесь які хадзіць 
+2 Samuel 8:15 (8142) і цараваць Давыд на цэлы|увесь Ісраэль і быць Давыд рабіць правасуддзе і <strong>justice</strong> да|[Д.с.] цэлы|увесь народ 
+2 Samuel 8:16 (8143) і <strong>Joab</strong> сын <strong>Zeruiah</strong> на [арт.] <strong>service</strong> і <strong>Jehoshaphat</strong> сын <strong>Ahilud</strong> помніць 
+2 Samuel 8:17 (8144) і <strong>Zadok</strong> сын <strong>Ahitub</strong> і <strong>Ahimelech</strong> сын <strong>Abiathar</strong> <strong>priest</strong> і <strong>Seraiah</strong> <strong>scribe</strong> 
+2 Samuel 8:18 (8145) і <strong>Benaiah</strong> сын <strong>Jehoiada</strong> і [арт.] <strong>Cherethite</strong> і [арт.] <strong>Pelethite</strong> і сын Давыд <strong>priest</strong> быць פ
+2 Samuel 9:1 (8146) і казаць Давыд ці бо|што ёсць яшчэ які <strong>remain</strong> да|[Д.с.] дом <strong>Saul</strong> і рабіць з <strong>loyalty</strong> у|[Тв.с.] <strong>way</strong> <strong>Jehonathan</strong> 
+2 Samuel 9:2 (8147) і да|[Д.с.] дом <strong>Saul</strong> слуга і імя <strong>Ziba</strong> і зваць да|[Д.с.] да Давыд і казаць [арт.] цар да ці ты[м.] <strong>Ziba</strong> і казаць слуга 
+2 Samuel 9:3 (8148) і казаць [арт.] цар ці <strong>end</strong> яшчэ чалавек (1) да|[Д.с.] дом <strong>Saul</strong> і рабіць з <strong>loyalty</strong> Бог і казаць <strong>Ziba</strong> да [арт.] цар яшчэ сын да|[Д.с.] <strong>Jehonathan</strong> <strong>smitten</strong> нага 
+2 Samuel 9:4 (8149) і казаць да|[Д.с.] [арт.] цар <strong>where</strong> ён і казаць <strong>Ziba</strong> да [арт.] цар вось ён дом <strong>Makir</strong> сын <strong>Ammiel</strong> у|[Тв.с.] <strong>Lo Debar</strong> 
+2 Samuel 9:5 (8150) і слаць [арт.] цар Давыд і браць з дом <strong>Makir</strong> сын <strong>Ammiel</strong> з <strong>Lo Debar</strong> 
+2 Samuel 9:6 (8151) і прыйсці <strong>Mephibosheth</strong> сын <strong>Jehonathan</strong> сын <strong>Saul</strong> да Давыд і падаць на твар і <strong>bow down</strong> і казаць Давыд <strong>Mephibosheth</strong> і казаць вось слуга 
+2 Samuel 9:7 (8152) і казаць да|[Д.с.] Давыд не [+заг.лад] баяцца бо|што рабіць рабіць з <strong>loyalty</strong> у|[Тв.с.] <strong>way</strong> <strong>Jehonathan</strong> бацька і вяртацца да|[Д.с.] [В.с.] цэлы|увесь поле <strong>Saul</strong> бацька і ты[м.] есці хлеб на <strong>table</strong> беззаганнасць 
+2 Samuel 9:8 (8153) і <strong>bow down</strong> і казаць што слуга бо|што <strong>turn</strong> да [арт.] сабака [арт.] паміраць які <strong>like</strong> 
+2 Samuel 9:9 (8154) і зваць [арт.] цар да <strong>Ziba</strong> хлапчук <strong>Saul</strong> і казаць да цэлы|увесь які быць да|[Д.с.] <strong>Saul</strong> і да|[Д.с.] цэлы|увесь дом даць да|[Д.с.] сын <strong>lord</strong> 
+2 Samuel 9:10 (8155) і працаваць да|[Д.с.] [В.с.] [арт.] <strong>soil</strong> ты[м.] і сын і слуга і прыйсці і быць да|[Д.с.] сын <strong>lord</strong> хлеб і есці і <strong>Mephibosheth</strong> сын <strong>lord</strong> есці беззаганнасць хлеб на <strong>table</strong> і да|[Д.с.] <strong>Ziba</strong> <strong>five</strong> <strong>-teen</strong> сын і <strong>twenty</strong> слуга 
+2 Samuel 9:11 (8156) і казаць <strong>Ziba</strong> да [арт.] цар як цэлы|увесь які <strong>command</strong> <strong>lord</strong> [арт.] цар [В.с.] слуга так рабіць слуга і <strong>Mephibosheth</strong> есці на <strong>table</strong> як адзін з сын [арт.] цар 
+2 Samuel 9:12 (8157) і да|[Д.с.] <strong>Mephibosheth</strong> сын <strong>small</strong> і імя <strong>Mica</strong> і цэлы|увесь <strong>seat</strong> дом <strong>Ziba</strong> слуга да|[Д.с.] <strong>Mephibosheth</strong> 
+2 Samuel 9:13 (8158) і <strong>Mephibosheth</strong> сядзець у|[Тв.с.] Ерусалім бо|што на <strong>table</strong> [арт.] цар беззаганнасць ён есці і ён <strong>lame</strong> два нага פ
+2 Samuel 10:1 (8159) і быць пасля так і паміраць цар сын <strong>Ammon</strong> і цараваць <strong>Hanun</strong> сын пад 
+2 Samuel 10:2 (8160) і казаць Давыд рабіць <strong>loyalty</strong> з <strong>Hanun</strong> сын <strong>Nahash</strong> як які рабіць бацька <strong>company</strong> <strong>loyalty</strong> і слаць Давыд да|[Д.с.] <strong>repent, console</strong> у|[Тв.с.] рука слуга да бацька і прыйсці слуга Давыд зямля сын <strong>Ammon</strong> 
+2 Samuel 10:3 (8161) і казаць кіраўнік|міністр сын <strong>Ammon</strong> да <strong>Hanun</strong> <strong>lord</strong> ці <strong>be heavy</strong> Давыд [В.с.] бацька у|[Тв.с.] вока бо|што слаць да|[Д.с.] <strong>repent, console</strong> ці не у|[Тв.с.] <strong>way</strong> <strong>explore</strong> [В.с.] [арт.] горад і да|[Д.с.] <strong>slander</strong> і да|[Д.с.] <strong>turn</strong> слаць Давыд [В.с.] слуга да 
+2 Samuel 10:4 (8162) і браць <strong>Hanun</strong> [В.с.] слуга Давыд і <strong>shave</strong> [В.с.] <strong>half</strong> <strong>beard</strong> і выразаць [В.с.] <strong>garment</strong> у|[Тв.с.] [арт.] <strong>half</strong> (ажно) да <strong>posterior</strong> і слаць 
+2 Samuel 10:5 (8163) і абвяшчаць да|[Д.с.] Давыд і слаць да|[Д.с.] <strong>encounter</strong> бо|што быць [арт.] чалавек (1) <strong>humiliate</strong> вельмі і казаць [арт.] цар сядзець у|[Тв.с.] <strong>Jericho</strong> (ажно) да <strong>sprout</strong> <strong>beard</strong> і вяртацца 
+2 Samuel 10:6 (8164) і бачыць сын <strong>Ammon</strong> бо|што <strong>stink</strong> у|[Тв.с.] Давыд і слаць сын <strong>Ammon</strong> і <strong>hire</strong> разам з <strong>Aram</strong> <strong>Beth Rehob</strong> і разам з <strong>Aram</strong> <strong>Zobah</strong> <strong>twenty</strong> тысяча <strong>on foot</strong> і разам з цар <strong>Maacah</strong> тысяча чалавек (1) і чалавек (1) <strong>Tob</strong> два <strong>-teen</strong> тысяча чалавек (1) 
+2 Samuel 10:7 (8165) і чуць Давыд і слаць [В.с.] <strong>Joab</strong> і [В.с.] цэлы|увесь [арт.] <strong>service</strong> [арт.] мужны|моцны 
+2 Samuel 10:8 (8166) і выйсці сын <strong>Ammon</strong> і <strong>arrange</strong> вайна <strong>opening</strong> [арт.] брама і <strong>Aram</strong> <strong>Zobah</strong> і <strong>Rehob</strong> і чалавек (1) <strong>Tob</strong> і <strong>Maacah</strong> да|[Д.с.] частка у|[Тв.с.] [арт.] поле 
+2 Samuel 10:9 (8167) і бачыць <strong>Joab</strong> бо|што быць да твар [арт.] вайна з твар і з <strong>back(wards)</strong> і <strong>examine</strong> з цэлы|увесь <strong>examine</strong> Ісраэль і <strong>arrange</strong> да|[Д.с.] <strong>encounter</strong> <strong>Aram</strong> 
+2 Samuel 10:10 (8168) і [В.с.] <strong>remainder</strong> [арт.] народ даць у|[Тв.с.] рука <strong>Abishai</strong> брат і <strong>arrange</strong> да|[Д.с.] <strong>encounter</strong> сын <strong>Ammon</strong> 
+2 Samuel 10:11 (8169) і казаць калі[зл.] <strong>be strong</strong> <strong>Aram</strong> з і быць да|[Д.с.] да|[Д.с.] <strong>salvation</strong> і калі[зл.] сын <strong>Ammon</strong> <strong>be strong</strong> з і хадзіць да|[Д.с.] збавіць да|[Д.с.] 
+2 Samuel 10:12 (8170) <strong>be strong</strong> і <strong>be strong</strong> <strong>distance</strong> народ і <strong>distance</strong> горад Бог і Існы рабіць [арт.] добры у|[Тв.с.] вока 
+2 Samuel 10:13 (8171) і <strong>approach</strong> <strong>Joab</strong> і [арт.] народ які з да|[Д.с.] [арт.] вайна у|[Тв.с.] <strong>Aram</strong> і <strong>flee</strong> з твар 
+2 Samuel 10:14 (8172) і сын <strong>Ammon</strong> бачыць бо|што <strong>flee</strong> <strong>Aram</strong> і <strong>flee</strong> з твар <strong>Abishai</strong> і прыйсці [арт.] горад і вяртацца <strong>Joab</strong> з на сын <strong>Ammon</strong> і прыйсці Ерусалім 
+2 Samuel 10:15 (8173) і бачыць <strong>Aram</strong> бо|што <strong>hurt</strong> да|[Д.с.] твар Ісраэль і збіраць <strong>gathering</strong> 
+2 Samuel 10:16 (8174) і слаць <strong>Hadadezer</strong> і выйсці [В.с.] <strong>Aram</strong> які з <strong>opposite</strong> [арт.] <strong>stream</strong> і прыйсці <strong>Helam</strong> і <strong>Shobach</strong> кіраўнік|міністр <strong>service</strong> <strong>Hadadezer</strong> да|[Д.с.] твар 
+2 Samuel 10:17 (8175) і абвяшчаць да|[Д.с.] Давыд і збіраць [В.с.] цэлы|увесь Ісраэль і перайсці [В.с.] [арт.] <strong>Jordan</strong> і прыйсці <strong>Helam</strong> і <strong>arrange</strong> <strong>Aram</strong> да|[Д.с.] <strong>encounter</strong> Давыд і <strong>fight</strong> з 
+2 Samuel 10:18 (8176) і <strong>flee</strong> <strong>Aram</strong> з твар Ісраэль і <strong>kill</strong> Давыд з <strong>Aram</strong> сем сотня <strong>chariot</strong> і <strong>four</strong> тысяча <strong>horseman</strong> і [В.с.] <strong>Shobach</strong> кіраўнік|міністр <strong>service</strong> <strong>strike</strong> і паміраць там 
+2 Samuel 10:19 (8177) і бачыць цэлы|увесь [арт.] цар слуга <strong>Hadadezer</strong> бо|што <strong>hurt</strong> да|[Д.с.] твар Ісраэль і <strong>be complete</strong> разам з Ісраэль і працаваць і баяцца <strong>Aram</strong> да|[Д.с.] збавіць яшчэ [В.с.] сын <strong>Ammon</strong> פ
+2 Samuel 11:1 (8178) і быць да|[Д.с.] <strong>return</strong> [арт.] год да|[Д.с.] момант выйсці [арт.] цар і слаць Давыд [В.с.] <strong>Joab</strong> і [В.с.] слуга з і [В.с.] цэлы|увесь Ісраэль і <strong>destroy</strong> [В.с.] сын <strong>Ammon</strong> і <strong>bind</strong> на <strong>Rabbah</strong> і Давыд сядзець у|[Тв.с.] Ерусалім ס
+2 Samuel 11:2 (8179) і быць да|[Д.с.] момант [арт.] вечар і устаць Давыд з на <strong>couch</strong> і хадзіць на <strong>roof</strong> дом [арт.] цар і бачыць жанчына <strong>wash</strong> з на [арт.] <strong>roof</strong> і [арт.] жанчына добры <strong>sight</strong> вельмі 
+2 Samuel 11:3 (8180) і слаць Давыд і <strong>inquire</strong> да|[Д.с.] [арт.] жанчына і казаць ці не <strong>this</strong> <strong>Bathsheba</strong> дачка <strong>Eliam</strong> жанчына <strong>Uriah</strong> [арт.] <strong>Hittite</strong> 
+2 Samuel 11:4 (8181) і слаць Давыд пасланец і браць і прыйсці да і ляжаць з і яна <strong>be holy</strong> з <strong>uncleanness</strong> і вяртацца да дом 
+2 Samuel 11:5 (8182) і <strong>be pregnant</strong> [арт.] жанчына і слаць і абвяшчаць да|[Д.с.] Давыд і казаць <strong>pregnant</strong> <strong>i</strong> 
+2 Samuel 11:6 (8183) і слаць Давыд да <strong>Joab</strong> слаць да [В.с.] <strong>Uriah</strong> [арт.] <strong>Hittite</strong> і слаць <strong>Joab</strong> [В.с.] <strong>Uriah</strong> да Давыд 
+2 Samuel 11:7 (8184) і прыйсці <strong>Uriah</strong> да і пытацца Давыд да|[Д.с.] згода <strong>Joab</strong> і да|[Д.с.] згода [арт.] народ і да|[Д.с.] згода [арт.] вайна 
+2 Samuel 11:8 (8185) і казаць Давыд да|[Д.с.] <strong>Uriah</strong> апускацца да|[Д.с.] дом і <strong>wash</strong> нага і выйсці <strong>Uriah</strong> з дом [арт.] цар і выйсці пасля <strong>lifting up</strong> [арт.] цар 
+2 Samuel 11:9 (8186) і ляжаць <strong>Uriah</strong> <strong>opening</strong> дом [арт.] цар разам з цэлы|увесь слуга <strong>lord</strong> і не апускацца да дом 
+2 Samuel 11:10 (8187) і абвяшчаць да|[Д.с.] Давыд да|[Д.с.] казаць не апускацца <strong>Uriah</strong> да дом і казаць Давыд да <strong>Uriah</strong> ці не з шлях ты[м.] прыйсці <strong>why</strong> не апускацца да дом 
+2 Samuel 11:11 (8188) і казаць <strong>Uriah</strong> да Давыд [арт.] <strong>ark</strong> і Ісраэль і Егуда сядзець у|[Тв.с.] [арт.] <strong>cover of foliage</strong> і <strong>lord</strong> <strong>Joab</strong> і слуга <strong>lord</strong> на твар [арт.] поле <strong>encamp</strong> і я прыйсці да дом да|[Д.с.] есці і да|[Д.с.] піць і да|[Д.с.] ляжаць з жанчына <strong>life</strong> і жывы душа калі[зл.] рабіць [В.с.] [арт.] слова|рэч [арт.] гэты 
+2 Samuel 11:12 (8189) і казаць Давыд да <strong>Uriah</strong> сядзець у|[Тв.с.] гэты таксама|нават [арт.] дзень і <strong>next day</strong> слаць і сядзець <strong>Uriah</strong> у|[Тв.с.] Ерусалім у|[Тв.с.] [арт.] дзень [арт.] ён і з <strong>next day</strong> 
+2 Samuel 11:13 (8190) і зваць да|[Д.с.] Давыд і есці да|[Д.с.] твар і піць і <strong>be drunk</strong> і выйсці у|[Тв.с.] [арт.] вечар да|[Д.с.] ляжаць у|[Тв.с.] <strong>couch</strong> з слуга <strong>lord</strong> і да дом не апускацца 
+2 Samuel 11:14 (8191) і быць у|[Тв.с.] [арт.] раніца і пісанне Давыд ліст да <strong>Joab</strong> і слаць у|[Тв.с.] рука <strong>Uriah</strong> 
+2 Samuel 11:15 (8192) і пісанне у|[Тв.с.] [арт.] ліст да|[Д.с.] казаць <strong>give</strong> [В.с.] <strong>Uriah</strong> да <strong>front</strong> твар [арт.] вайна [арт.] <strong>strong</strong> і вяртацца з пасля і <strong>strike</strong> і паміраць ס
+2 Samuel 11:16 (8193) і быць у|[Тв.с.] захоўваць <strong>Joab</strong> да [арт.] горад і даць [В.с.] <strong>Uriah</strong> да [арт.] месца які ведаць [+неад.]|займацца сэксам [+адуш.] бо|што чалавек (1) моц там 
+2 Samuel 11:17 (8194) і выйсці чалавек (1) [арт.] горад і <strong>fight</strong> разам з <strong>Joab</strong> і падаць з [арт.] народ з слуга Давыд і паміраць таксама|нават <strong>Uriah</strong> [арт.] <strong>Hittite</strong> 
+2 Samuel 11:18 (8195) і слаць <strong>Joab</strong> і абвяшчаць да|[Д.с.] Давыд [В.с.] цэлы|увесь слова|рэч [арт.] вайна 
+2 Samuel 11:19 (8196) і <strong>command</strong> [В.с.] [арт.] пасланец да|[Д.с.] казаць як <strong>be complete</strong> [В.с.] цэлы|увесь слова|рэч [арт.] вайна да|[Д.с.] гаварыць да [арт.] цар 
+2 Samuel 11:20 (8197) і быць калі[зл.] падымацца <strong>heat</strong> [арт.] цар і казаць да|[Д.с.] <strong>why</strong> <strong>approach</strong> да [арт.] горад да|[Д.с.] <strong>fight</strong> ці не ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] які <strong>cast</strong> з на [арт.] <strong>wall</strong> 
+2 Samuel 11:21 (8198) хто <strong>strike</strong> [В.с.] <strong>Abimelech</strong> сын <strong>Jerub-Besheth</strong> ці не жанчына кінуць на <strong>slice</strong> <strong>chariot</strong> з на [арт.] <strong>wall</strong> і паміраць у|[Тв.с.] <strong>Thebez</strong> чаму <strong>approach</strong> да [арт.] <strong>wall</strong> і казаць таксама|нават слуга <strong>Uriah</strong> [арт.] <strong>Hittite</strong> паміраць 
+2 Samuel 11:22 (8199) і хадзіць [арт.] пасланец і прыйсці і абвяшчаць да|[Д.с.] Давыд [В.с.] цэлы|увесь які слаць <strong>Joab</strong> 
+2 Samuel 11:23 (8200) і казаць [арт.] пасланец да Давыд бо|што <strong>be superior</strong> на [арт.] чалавек (1) і выйсці да [арт.] поле і быць на (ажно) да <strong>opening</strong> [арт.] брама 
+2 Samuel 11:24 (8201) і <strong>cast</strong> [арт.] <strong>cast</strong> да слуга з на [арт.] <strong>wall</strong> і паміраць з слуга [арт.] цар і таксама|нават слуга <strong>Uriah</strong> [арт.] <strong>Hittite</strong> паміраць ס
+2 Samuel 11:25 (8202) і казаць Давыд да [арт.] пасланец такім чынам казаць да <strong>Joab</strong> не [+заг.лад] <strong>be evil</strong> у|[Тв.с.] вока [В.с.] [арт.] слова|рэч [арт.] гэты бо|што як гэта і як гэты есці [арт.] <strong>dagger</strong> <strong>be strong</strong> <strong>war</strong> да [арт.] горад і <strong>tear down</strong> і <strong>be strong</strong> 
+2 Samuel 11:26 (8203) і чуць жанчына <strong>Uriah</strong> бо|што паміраць <strong>Uriah</strong> чалавек (1) і <strong>lament</strong> на хазяін 
+2 Samuel 11:27 (8204) і перайсці [арт.] <strong>mourning rites</strong> і слаць Давыд і збіраць да дом і быць да|[Д.с.] да|[Д.с.] жанчына і нарадзіць да|[Д.с.] сын і <strong>be evil</strong> [арт.] слова|рэч які рабіць Давыд у|[Тв.с.] вока Існы פ
+2 Samuel 12:1 (8205) і слаць Існы [В.с.] <strong>Nathan</strong> да Давыд і прыйсці да і казаць да|[Д.с.] два чалавек (1) быць у|[Тв.с.] горад адзін адзін <strong>rich</strong> і адзін <strong>be poor</strong> 
+2 Samuel 12:2 (8206) да|[Д.с.] <strong>rich</strong> быць скаціна і быдла шмат вельмі 
+2 Samuel 12:3 (8207) і да|[Д.с.] [арт.] <strong>be poor</strong> няма цэлы|увесь бо|што калі[зл.] <strong>young ewe-lamb</strong> адзін <strong>small</strong> які набыць і жыць і узвялічваць з і з сын <strong>together</strong> з <strong>bit</strong> есці і з <strong>cup</strong> піць і у|[Тв.с.] <strong>lap</strong> ляжаць і быць да|[Д.с.] як дачка 
+2 Samuel 12:4 (8208) і прыйсці <strong>going</strong> да|[Д.с.] чалавек (1) [арт.] <strong>rich</strong> і <strong>have compassion</strong> да|[Д.с.] браць з скаціна і з быдла да|[Д.с.] рабіць да|[Д.с.] [арт.] <strong>wander</strong> [арт.] прыйсці да|[Д.с.] і браць [В.с.] <strong>young ewe-lamb</strong> [арт.] чалавек (1) [арт.] <strong>be poor</strong> і рабіць да|[Д.с.] [арт.] чалавек (1) [арт.] прыйсці да 
+2 Samuel 12:5 (8209) і <strong>be hot</strong> <strong>nose</strong> Давыд у|[Тв.с.] [арт.] чалавек (1) вельмі і казаць да <strong>Nathan</strong> жывы Існы бо|што сын смерць [арт.] чалавек (1) [арт.] рабіць <strong>this</strong> 
+2 Samuel 12:6 (8210) і [В.с.] [арт.] <strong>young ewe-lamb</strong> <strong>be complete</strong> <strong>four</strong> <strong>end</strong> які рабіць [В.с.] [арт.] слова|рэч [арт.] гэты і на які не <strong>have compassion</strong> 
+2 Samuel 12:7 (8211) і казаць <strong>Nathan</strong> да Давыд ты[м.] [арт.] чалавек (1) такім чынам казаць Існы Бог Ісраэль <strong>i</strong> <strong>smear</strong> да|[Д.с.] цар на Ісраэль і <strong>i</strong> <strong>deliver</strong> з рука <strong>Saul</strong> 
+2 Samuel 12:8 (8212) і даць да|[Д.с.] [В.с.] дом <strong>lord</strong> і [В.с.] жанчына <strong>lord</strong> у|[Тв.с.] <strong>lap</strong> і даць да|[Д.с.] [В.с.] дом Ісраэль і Егуда і калі[зл.] <strong>little</strong> і дадаць да|[Д.с.] як <strong>they</strong> і як <strong>they</strong> 
+2 Samuel 12:9 (8213) <strong>why</strong> грэбаваць [В.с.] слова|рэч Існы да|[Д.с.] рабіць [арт.] зло у|[Тв.с.] вока [В.с.] <strong>Uriah</strong> [арт.] <strong>Hittite</strong> <strong>strike</strong> у|[Тв.с.] [арт.] <strong>dagger</strong> і [В.с.] жанчына браць да|[Д.с.] да|[Д.с.] жанчына і [В.с.] <strong>kill</strong> у|[Тв.с.] <strong>dagger</strong> сын <strong>Ammon</strong> 
+2 Samuel 12:10 (8214) і <strong>now</strong> не збочыць <strong>dagger</strong> з дом (ажно) да свет|вечнасць <strong>end</strong> бо|што грэбаваць і браць [В.с.] жанчына <strong>Uriah</strong> [арт.] <strong>Hittite</strong> да|[Д.с.] быць да|[Д.с.] да|[Д.с.] жанчына ס
+2 Samuel 12:11 (8215) такім чынам казаць Існы вось устаць на дрэнны з дом і браць [В.с.] жанчына да|[Д.с.] вока і даць да|[Д.с.] <strong>fellow</strong> і ляжаць з жанчына да|[Д.с.] вока [арт.] сонца [арт.] <strong>this</strong> 
+2 Samuel 12:12 (8216) бо|што ты[м.] рабіць у|[Тв.с.] [арт.] <strong>hiding place</strong> і я рабіць [В.с.] [арт.] слова|рэч [арт.] гэты перад цэлы|увесь Ісраэль і перад [арт.] сонца ס
+2 Samuel 12:13 (8217) і казаць Давыд да <strong>Nathan</strong> заблудзіць да|[Д.с.] Існы і казаць <strong>Nathan</strong> да Давыд таксама|нават Існы перайсці <strong>sin</strong> не паміраць 
+2 Samuel 12:14 (8218) <strong>end</strong> бо|што <strong>contemn</strong> <strong>contemn</strong> [В.с.] <strong>be hostile</strong> Існы у|[Тв.с.] [арт.] слова|рэч [арт.] гэты таксама|нават [арт.] сын [арт.] <strong>new-born</strong> да|[Д.с.] паміраць паміраць 
+2 Samuel 12:15 (8219) і хадзіць <strong>Nathan</strong> да дом і <strong>hurt</strong> Існы [В.с.] [арт.] дзіця [м.] які нарадзіць жанчына <strong>Uriah</strong> да|[Д.с.] Давыд і <strong>be sickly</strong> 
+2 Samuel 12:16 (8220) і шукаць Давыд [В.с.] [арт.] Бог <strong>distance</strong> [арт.] хлапчук і <strong>fast</strong> Давыд <strong>fasting</strong> і прыйсці і <strong>lodge</strong> і ляжаць зямля 
+2 Samuel 12:17 (8221) і устаць старадаўні дом на да|[Д.с.] устаць з [арт.] зямля і не <strong>want</strong> і не <strong>eat</strong> разам з хлеб 
+2 Samuel 12:18 (8222) і быць у|[Тв.с.] [арт.] дзень [арт.] <strong>seventh</strong> і паміраць [арт.] дзіця [м.] і баяцца слуга Давыд да|[Д.с.] абвяшчаць да|[Д.с.] бо|што паміраць [арт.] дзіця [м.] бо|што казаць вось у|[Тв.с.] быць [арт.] дзіця [м.] жывы гаварыць да і не чуць у|[Тв.с.] голас і як казаць да паміраць [арт.] дзіця [м.] і рабіць дрэнны 
+2 Samuel 12:19 (8223) і бачыць Давыд бо|што слуга <strong>whisper</strong> і разумець Давыд бо|што паміраць [арт.] дзіця [м.] і казаць Давыд да слуга ці паміраць [арт.] дзіця [м.] і казаць паміраць 
+2 Samuel 12:20 (8224) і устаць Давыд з [арт.] зямля і <strong>wash</strong> і <strong>anoint</strong> і <strong>come after</strong> <strong>mantle</strong> і прыйсці дом Існы і <strong>bow down</strong> і прыйсці да дом і пытацца і класці|ставіць да|[Д.с.] хлеб і есці 
+2 Samuel 12:21 (8225) і казаць слуга да што [арт.] слова|рэч [арт.] гэты які рабіць у|[Тв.с.] <strong>way</strong> [арт.] дзіця [м.] жывы <strong>fast</strong> і плакаць і як які паміраць [арт.] дзіця [м.] устаць і есці хлеб 
+2 Samuel 12:22 (8226) і казаць у|[Тв.с.] яшчэ [арт.] дзіця [м.] жывы <strong>fast</strong> і плакаць бо|што казаць хто ведаць [+неад.]|займацца сэксам [+адуш.] і <strong>favour</strong> Існы і жыць [арт.] дзіця [м.] 
+2 Samuel 12:23 (8227) і <strong>now</strong> паміраць чаму гэты я <strong>fast</strong> ці магчы да|[Д.с.] вяртацца яшчэ я хадзіць да і ён не вяртацца да 
+2 Samuel 12:24 (8228) і <strong>repent, console</strong> Давыд [В.с.] <strong>Bathsheba</strong> жанчына і прыйсці да і ляжаць з і нарадзіць сын і зваць [В.с.] імя <strong>Solomon</strong> і Існы любіць|кахаць 
+2 Samuel 12:25 (8229) і слаць у|[Тв.с.] рука <strong>Nathan</strong> [арт.] <strong>prophet</strong> і зваць [В.с.] імя <strong>Jedidiah</strong> у|[Тв.с.] <strong>way</strong> Існы פ
+2 Samuel 12:26 (8230) і <strong>fight</strong> <strong>Joab</strong> у|[Тв.с.] шматлікі сын <strong>Ammon</strong> і <strong>seize</strong> [В.с.] горад [арт.] цараванне 
+2 Samuel 12:27 (8231) і слаць <strong>Joab</strong> пасланец да Давыд і казаць <strong>fight</strong> у|[Тв.с.] <strong>Rabbah</strong> таксама|нават <strong>seize</strong> [В.с.] горад [арт.] вада 
+2 Samuel 12:28 (8232) і <strong>now</strong> збіраць [В.с.] <strong>remainder</strong> [арт.] народ і <strong>encamp</strong> на [арт.] горад і <strong>seize</strong> <strong>lest</strong> <strong>seize</strong> я [В.с.] [арт.] горад і зваць імя на 
+2 Samuel 12:29 (8233) і збіраць Давыд [В.с.] цэлы|увесь [арт.] народ і хадзіць <strong>Rabbah</strong> і <strong>fight</strong> у|[Тв.с.] і <strong>seize</strong> 
+2 Samuel 12:30 (8234) і браць [В.с.] <strong>wreath</strong> цар з на галава і <strong>weight</strong> <strong>disk</strong> золата і камень <strong>rare</strong> і быць на галава Давыд і <strong>plunder</strong> [арт.] горад выйсці шмат вельмі 
+2 Samuel 12:31 (8235) і [В.с.] [арт.] народ які у|[Тв.с.] выйсці і класці|ставіць у|[Тв.с.] [арт.] <strong>stone-saw</strong> і у|[Тв.с.] <strong>axe</strong> [арт.] жалеза і у|[Тв.с.] <strong>axe</strong> [арт.] жалеза і перайсці [В.с.] у|[Тв.с.] [арт.] <strong>brick</strong> і так рабіць да|[Д.с.] цэлы|увесь горад сын <strong>Ammon</strong> і вяртацца Давыд і цэлы|увесь [арт.] народ Ерусалім פ
+2 Samuel 13:1 (8236) і быць пасля так і да|[Д.с.] <strong>Absalom</strong> сын Давыд <strong>sister</strong> прыгожы і імя <strong>Tamar</strong> і любіць|кахаць <strong>Amnon</strong> сын Давыд 
+2 Samuel 13:2 (8237) і <strong>wrap, be narrow</strong> да|[Д.с.] <strong>Amnon</strong> да|[Д.с.] <strong>become weak</strong> у|[Тв.с.] <strong>way</strong> <strong>Tamar</strong> <strong>sister</strong> бо|што <strong>virgin</strong> яна і <strong>be miraculous</strong> у|[Тв.с.] вока <strong>Amnon</strong> да|[Д.с.] рабіць да|[Д.с.] <strong>something</strong> 
+2 Samuel 13:3 (8238) і да|[Д.с.] <strong>Amnon</strong> <strong>fellow</strong> і імя <strong>Jonadab</strong> сын <strong>Shimeah</strong> брат Давыд і <strong>Jonadab</strong> чалавек (1) разумны вельмі 
+2 Samuel 13:4 (8239) і казаць да|[Д.с.] <strong>why</strong> ты[м.] такім чынам <strong>poor</strong> сын [арт.] цар у|[Тв.с.] [арт.] раніца у|[Тв.с.] [арт.] раніца ці не абвяшчаць да|[Д.с.] і казаць да|[Д.с.] <strong>Amnon</strong> [В.с.] <strong>Tamar</strong> <strong>sister</strong> <strong>Absalom</strong> брат я любіць|кахаць 
+2 Samuel 13:5 (8240) і казаць да|[Д.с.] <strong>Jehonadab</strong> ляжаць на <strong>couch</strong> і <strong>become weak</strong> і прыйсці бацька да|[Д.с.] бачыць і казаць да прыйсці ж, -ка [узмацн.] <strong>Tamar</strong> <strong>sister</strong> і <strong>eat</strong> хлеб і рабіць да|[Д.с.] вока [В.с.] [арт.] <strong>bread of consolation</strong> з-за які бачыць і есці з рука 
+2 Samuel 13:6 (8241) і ляжаць <strong>Amnon</strong> і <strong>become weak</strong> і прыйсці [арт.] цар да|[Д.с.] бачыць і казаць <strong>Amnon</strong> да [арт.] цар прыйсці ж, -ка [узмацн.] <strong>Tamar</strong> <strong>sister</strong> і <strong>bake</strong> да|[Д.с.] вока два <strong>cooky</strong> і <strong>eat</strong> з рука 
+2 Samuel 13:7 (8242) і слаць Давыд да <strong>Tamar</strong> [арт.] дом да|[Д.с.] казаць хадзіць ж, -ка [узмацн.] дом <strong>Amnon</strong> брат і рабіць да|[Д.с.] [арт.] <strong>bread of consolation</strong> 
+2 Samuel 13:8 (8243) і хадзіць <strong>Tamar</strong> дом <strong>Amnon</strong> брат і ён ляжаць і браць [В.с.] [арт.] <strong>dough</strong> і <strong>knead</strong> і <strong>bake</strong> да|[Д.с.] вока і <strong>boil</strong> [В.с.] [арт.] <strong>cooky</strong> 
+2 Samuel 13:9 (8244) і браць [В.с.] [арт.] <strong>pan</strong> і <strong>pour</strong> да|[Д.с.] твар і <strong>refuse</strong> да|[Д.с.] есці і казаць <strong>Amnon</strong> выйсці цэлы|увесь чалавек (1) з на і выйсці цэлы|увесь чалавек (1) з на 
+2 Samuel 13:10 (8245) і казаць <strong>Amnon</strong> да <strong>Tamar</strong> прыйсці [арт.] <strong>bread of consolation</strong> [арт.] пакой і <strong>eat</strong> з рука і браць <strong>Tamar</strong> [В.с.] [арт.] <strong>cooky</strong> які рабіць і прыйсці да|[Д.с.] <strong>Amnon</strong> брат [арт.] пакой 
+2 Samuel 13:11 (8246) і <strong>approach</strong> да да|[Д.с.] есці і <strong>be strong</strong> у|[Тв.с.] і казаць да|[Д.с.] прыйсці ляжаць з <strong>sister</strong> 
+2 Samuel 13:12 (8247) і казаць да|[Д.с.] не [+заг.лад] брат не [+заг.лад] <strong>be lowly</strong> бо|што не рабіць так у|[Тв.с.] Ісраэль не [+заг.лад] рабіць [В.с.] [арт.] <strong>stupidity</strong> [арт.] <strong>this</strong> 
+2 Samuel 13:13 (8248) і я <strong>whither</strong> хадзіць [В.с.] <strong>reproach</strong> і ты[м.] быць як адзін [арт.] <strong>stupid</strong> у|[Тв.с.] Ісраэль і <strong>now</strong> гаварыць ж, -ка [узмацн.] да [арт.] цар бо|што не <strong>withhold</strong> з 
+2 Samuel 13:14 (8249) і не <strong>want</strong> да|[Д.с.] чуць у|[Тв.с.] голас і <strong>be strong</strong> з і <strong>be lowly</strong> і ляжаць [В.с.] 
+2 Samuel 13:15 (8250) і ненавідзець <strong>Amnon</strong> <strong>hatred</strong> вялікі вельмі бо|што вялікі [арт.] <strong>hatred</strong> які ненавідзець з любоў|каханне які любіць|кахаць і казаць да|[Д.с.] <strong>Amnon</strong> устаць хадзіць 
+2 Samuel 13:16 (8251) і казаць да|[Д.с.] не [+заг.лад] <strong>inducement</strong> [арт.] дрэнны [арт.] вялікі [арт.] <strong>this</strong> з іншы які рабіць з да|[Д.с.] слаць і не <strong>want</strong> да|[Д.с.] чуць да|[Д.с.] 
+2 Samuel 13:17 (8252) і зваць [В.с.] хлапчук <strong>serve</strong> і казаць слаць ж, -ка [узмацн.] [В.с.] <strong>this</strong> з на [арт.] <strong>outside</strong> і <strong>lock</strong> [арт.] дзверы пасля 
+2 Samuel 13:18 (8253) і на <strong>tunic</strong> <strong>sole?</strong> бо|што так <strong>cloth</strong> дачка [арт.] цар [арт.] <strong>virgin</strong> <strong>coat</strong> і выйсці [В.с.] <strong>serve</strong> [арт.] <strong>outside</strong> і <strong>lock</strong> [арт.] дзверы пасля 
+2 Samuel 13:19 (8254) і браць <strong>Tamar</strong> <strong>dust</strong> на галава і <strong>tunic</strong> [арт.] <strong>sole?</strong> які на <strong>tear</strong> і класці|ставіць рука на галава і хадзіць хадзіць і <strong>cry</strong> 
+2 Samuel 13:20 (8255) і казаць да <strong>Absalom</strong> брат ці <strong>Amnon</strong> брат быць з і <strong>now</strong> <strong>sister</strong> <strong>be deaf</strong> брат ён не [+заг.лад] <strong>put</strong> [В.с.] сэрца да|[Д.с.] [арт.] слова|рэч [арт.] гэты і сядзець <strong>Tamar</strong> і <strong>be desolate</strong> дом <strong>Absalom</strong> брат 
+2 Samuel 13:21 (8256) і [арт.] цар Давыд чуць [В.с.] цэлы|увесь [арт.] слова|рэч [арт.] гэтыя і <strong>be hot</strong> да|[Д.с.] вельмі 
+2 Samuel 13:22 (8257) і не гаварыць <strong>Absalom</strong> з <strong>Amnon</strong> да|[Д.с.] з зло і (ажно) да добры бо|што ненавідзець <strong>Absalom</strong> [В.с.] <strong>Amnon</strong> на слова|рэч які <strong>be lowly</strong> [В.с.] <strong>Tamar</strong> <strong>sister</strong> פ
+2 Samuel 13:23 (8258) і быць да|[Д.с.] год дзень і быць <strong>shear</strong> да|[Д.с.] <strong>Absalom</strong> у|[Тв.с.] <strong>Baal Hazor</strong> які з Эфраі́м і зваць <strong>Absalom</strong> да|[Д.с.] цэлы|увесь сын [арт.] цар 
+2 Samuel 13:24 (8259) і прыйсці <strong>Absalom</strong> да [арт.] цар і казаць вось ж, -ка [узмацн.] <strong>shear</strong> да|[Д.с.] слуга хадзіць ж, -ка [узмацн.] [арт.] цар і слуга з слуга 
+2 Samuel 13:25 (8260) і казаць [арт.] цар да <strong>Absalom</strong> не [+заг.лад] сын не [+заг.лад] ж, -ка [узмацн.] хадзіць цэлы|увесь і не <strong>be heavy</strong> на і <strong>break</strong> у|[Тв.с.] і не <strong>want</strong> да|[Д.с.] хадзіць і <strong>bless</strong> 
+2 Samuel 13:26 (8261) і казаць <strong>Absalom</strong> і не хадзіць ж, -ка [узмацн.] разам з <strong>Amnon</strong> брат і казаць да|[Д.с.] [арт.] цар чаму хадзіць з 
+2 Samuel 13:27 (8262) і <strong>break</strong> у|[Тв.с.] <strong>Absalom</strong> і слаць разам з [В.с.] <strong>Amnon</strong> і [В.с.] цэлы|увесь сын [арт.] цар ס
+2 Samuel 13:28 (8263) і <strong>command</strong> <strong>Absalom</strong> [В.с.] хлапчук да|[Д.с.] казаць бачыць ж, -ка [узмацн.] як <strong>be good</strong> сэрца <strong>Amnon</strong> у|[Тв.с.] [арт.] віно і казаць да <strong>strike</strong> [В.с.] <strong>Amnon</strong> і паміраць [В.с.] не [+заг.лад] баяцца ці не бо|што <strong>i</strong> <strong>command</strong> [В.с.] <strong>be strong</strong> і быць да|[Д.с.] сын моц 
+2 Samuel 13:29 (8264) і рабіць хлапчук <strong>Absalom</strong> да|[Д.с.] <strong>Amnon</strong> як які <strong>command</strong> <strong>Absalom</strong> і устаць цэлы|увесь сын [арт.] цар і <strong>ride</strong> чалавек (1) на <strong>mule</strong> і <strong>flee</strong> 
+2 Samuel 13:30 (8265) і быць яны у|[Тв.с.] [арт.] шлях і [арт.] звестка прыйсці да Давыд да|[Д.с.] казаць <strong>strike</strong> <strong>Absalom</strong> [В.с.] цэлы|увесь сын [арт.] цар і не <strong>remain</strong> з адзін ס
+2 Samuel 13:31 (8266) і устаць [арт.] цар і <strong>tear</strong> [В.с.] адзежа і ляжаць зямля і цэлы|увесь слуга <strong>stand</strong> <strong>tear</strong> адзежа ס
+2 Samuel 13:32 (8267) і адказаць <strong>Jonadab</strong> сын <strong>Shimeah</strong> брат Давыд і казаць не [+заг.лад] казаць <strong>lord</strong> [В.с.] цэлы|увесь [арт.] хлапчук сын [арт.] цар паміраць бо|што <strong>Amnon</strong> да|[Д.с.] частка паміраць бо|што на рот <strong>Absalom</strong> быць класці|ставіць з дзень <strong>be lowly</strong> [В.с.] <strong>Tamar</strong> <strong>sister</strong> 
+2 Samuel 13:33 (8268) і <strong>now</strong> не [+заг.лад] класці|ставіць <strong>lord</strong> [арт.] цар да сэрца слова|рэч да|[Д.с.] казаць цэлы|увесь сын [арт.] цар паміраць бо|што калі[зл.] <strong>Amnon</strong> да|[Д.с.] частка паміраць פ
+2 Samuel 13:34 (8269) і <strong>run away</strong> <strong>Absalom</strong> і падняць [арт.] хлапчук [арт.] <strong>look out</strong> [В.с.] вока і бачыць і вось народ шматлікі хадзіць з шлях пасля з <strong>side</strong> [арт.] гара 
+2 Samuel 13:35 (8270) і казаць <strong>Jonadab</strong> да [арт.] цар вось сын [арт.] цар прыйсці як слова|рэч слуга так быць 
+2 Samuel 13:36 (8271) і быць як <strong>be complete</strong> да|[Д.с.] гаварыць і вось сын [арт.] цар прыйсці і падняць голас і плакаць і таксама|нават [арт.] цар і цэлы|увесь слуга плакаць <strong>weeping</strong> вялікі вельмі 
+2 Samuel 13:37 (8272) і <strong>Absalom</strong> <strong>run away</strong> і хадзіць да <strong>Talmai</strong> сын <strong>Ammihud</strong> цар <strong>Geshur</strong> і <strong>mourn</strong> на сын цэлы|увесь [арт.] дзень 
+2 Samuel 13:38 (8273) і <strong>Absalom</strong> <strong>run away</strong> і хадзіць <strong>Geshur</strong> і быць там <strong>three</strong> год 
+2 Samuel 13:39 (8274) і <strong>be complete</strong> Давыд [арт.] цар да|[Д.с.] выйсці да <strong>Absalom</strong> бо|што <strong>repent, console</strong> на <strong>Amnon</strong> бо|што паміраць ס
+2 Samuel 14:1 (8275) і ведаць [+неад.]|займацца сэксам [+адуш.] <strong>Joab</strong> сын <strong>Zeruiah</strong> бо|што сэрца [арт.] цар на <strong>Absalom</strong> 
+2 Samuel 14:2 (8276) і слаць <strong>Joab</strong> <strong>Tekoa</strong> і браць з там жанчына разумны і казаць да <strong>mourn</strong> ж, -ка [узмацн.] і <strong>cloth</strong> ж, -ка [узмацн.] адзежа <strong>mourning rites</strong> і не [+заг.лад] <strong>anoint</strong> алей і быць як жанчына гэты дзень шматлікі <strong>mourn</strong> на паміраць 
+2 Samuel 14:3 (8277) і прыйсці да [арт.] цар і гаварыць да як [арт.] слова|рэч [арт.] гэты і класці|ставіць <strong>Joab</strong> [В.с.] [арт.] слова|рэч у|[Тв.с.] рот 
+2 Samuel 14:4 (8278) і казаць [арт.] жанчына [арт.] <strong>Tekoite</strong> да [арт.] цар і падаць на <strong>nose</strong> зямля і <strong>bow down</strong> і казаць збавіць [арт.] цар ס
+2 Samuel 14:5 (8279) і казаць да|[Д.с.] [арт.] цар што да|[Д.с.] і казаць <strong>verily</strong> жанчына <strong>widow</strong> я і паміраць чалавек (1) 
+2 Samuel 14:6 (8280) і да|[Д.с.] <strong>maidservant</strong> два сын і <strong>decay</strong> два у|[Тв.с.] [арт.] поле і няма <strong>deliver</strong> між і <strong>strike</strong> [арт.] адзін [В.с.] [арт.] адзін і паміраць [В.с.] 
+2 Samuel 14:7 (8281) і вось устаць цэлы|увесь [арт.] <strong>clan</strong> на <strong>maidservant</strong> і казаць даць [В.с.] <strong>strike</strong> брат і паміраць у|[Тв.с.] душа брат які <strong>kill</strong> і <strong>destroy</strong> таксама|нават [В.с.] [арт.] заўладаць і <strong>go out</strong> [В.с.] <strong>glow</strong> які пакідаць да|[Д.с.] <strong>failure</strong> класці|ставіць да|[Д.с.] чалавек (1) імя і <strong>rest</strong> на твар [арт.] <strong>soil</strong> פ
+2 Samuel 14:8 (8282) і казаць [арт.] цар да [арт.] жанчына хадзіць да|[Д.с.] дом і я <strong>command</strong> на 
+2 Samuel 14:9 (8283) і казаць [арт.] жанчына [арт.] <strong>Tekoite</strong> да [арт.] цар на <strong>lord</strong> [арт.] цар [арт.] <strong>sin</strong> і на дом бацька і [арт.] цар і <strong>seat</strong> <strong>innocent</strong> ס
+2 Samuel 14:10 (8284) і казаць [арт.] цар [арт.] гаварыць да і прыйсці да і не дадаць яшчэ да|[Д.с.] <strong>touch</strong> у|[Тв.с.] 
+2 Samuel 14:11 (8285) і казаць помніць ж, -ка [узмацн.] [арт.] цар [В.с.] Існы Бог з <strong>[uncertain]</strong> <strong>redeem</strong> [арт.] <strong>blood</strong> да|[Д.с.] <strong>destroy</strong> і не <strong>destroy</strong> [В.с.] сын і казаць жывы Існы калі[зл.] падаць з <strong>single hair</strong> сын зямля 
+2 Samuel 14:12 (8286) і казаць [арт.] жанчына гаварыць ж, -ка [узмацн.] <strong>maidservant</strong> да <strong>lord</strong> [арт.] цар слова|рэч і казаць гаварыць ס
+2 Samuel 14:13 (8287) і казаць [арт.] жанчына і чаму <strong>account</strong> як <strong>this</strong> на народ Бог і з гаварыць [арт.] цар [арт.] слова|рэч [арт.] гэты як <strong>guilty</strong> да|[Д.с.] <strong>failure</strong> вяртацца [арт.] цар [В.с.] <strong>wield</strong> 
+2 Samuel 14:14 (8288) бо|што паміраць паміраць і як [арт.] вада [арт.] <strong>run</strong> зямля які не збіраць і не падняць Бог душа і <strong>account</strong> <strong>thought</strong> да|[Д.с.] <strong>failure</strong> <strong>thrust</strong> з <strong>wield</strong> 
+2 Samuel 14:15 (8289) і <strong>now</strong> які прыйсці да|[Д.с.] гаварыць да [арт.] цар <strong>lord</strong> [В.с.] [арт.] слова|рэч [арт.] гэты бо|што баяцца [арт.] народ і казаць <strong>maidservant</strong> гаварыць ж, -ка [узмацн.] да [арт.] цар <strong>perhaps</strong> рабіць [арт.] цар [В.с.] слова|рэч <strong>handmaid</strong> 
+2 Samuel 14:16 (8290) бо|што чуць [арт.] цар да|[Д.с.] <strong>deliver</strong> [В.с.] <strong>handmaid</strong> з далонь [арт.] чалавек (1) да|[Д.с.] <strong>destroy</strong> [В.с.] і [В.с.] сын <strong>gathering</strong> з уласнасць Бог 
+2 Samuel 14:17 (8291) і казаць <strong>maidservant</strong> быць ж, -ка [узмацн.] слова|рэч <strong>lord</strong> [арт.] цар да|[Д.с.] <strong>resting place</strong> бо|што як пасланец [арт.] Бог так <strong>lord</strong> [арт.] цар да|[Д.с.] чуць [арт.] добры і [арт.] зло і Існы Бог быць з פ
+2 Samuel 14:18 (8292) і адказаць [арт.] цар і казаць да [арт.] жанчына не [+заг.лад] ж, -ка [узмацн.] <strong>hide</strong> з слова|рэч які <strong>i</strong> пытацца [В.с.] і казаць [арт.] жанчына гаварыць ж, -ка [узмацн.] <strong>lord</strong> [арт.] цар 
+2 Samuel 14:19 (8293) і казаць [арт.] цар ці рука <strong>Joab</strong> разам з у|[Тв.с.] цэлы|увесь <strong>this</strong> і адказаць [арт.] жанчына і казаць жывы душа <strong>lord</strong> [арт.] цар калі[зл.] <strong>existence</strong> да|[Д.с.] <strong>go to right</strong> і да|[Д.с.] <strong>turn left</strong> з цэлы|увесь які гаварыць <strong>lord</strong> [арт.] цар бо|што слуга <strong>Joab</strong> ён <strong>command</strong> і ён класці|ставіць у|[Тв.с.] рот <strong>maidservant</strong> [В.с.] цэлы|увесь [арт.] слова|рэч [арт.] гэтыя 
+2 Samuel 14:20 (8294) да|[Д.с.] у|[Тв.с.] <strong>way</strong> <strong>turn</strong> [В.с.] твар [арт.] слова|рэч рабіць слуга <strong>Joab</strong> [В.с.] [арт.] слова|рэч [арт.] гэты і <strong>lord</strong> разумны як разумнасць пасланец [арт.] Бог да|[Д.с.] ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] цэлы|увесь які у|[Тв.с.] [арт.] зямля ס
+2 Samuel 14:21 (8295) і казаць [арт.] цар да <strong>Joab</strong> вось ж, -ка [узмацн.] рабіць [В.с.] [арт.] слова|рэч [арт.] гэты і хадзіць вяртацца [В.с.] [арт.] хлапчук [В.с.] <strong>Absalom</strong> 
+2 Samuel 14:22 (8296) і падаць <strong>Joab</strong> да твар зямля і <strong>bow down</strong> і <strong>bless</strong> [В.с.] [арт.] цар і казаць <strong>Joab</strong> [арт.] дзень ведаць [+неад.]|займацца сэксам [+адуш.] слуга бо|што знайсці ласка у|[Тв.с.] вока <strong>lord</strong> [арт.] цар які рабіць [арт.] цар [В.с.] слова|рэч слуга 
+2 Samuel 14:23 (8297) і устаць <strong>Joab</strong> і хадзіць <strong>Geshur</strong> і прыйсці [В.с.] <strong>Absalom</strong> Ерусалім פ
+2 Samuel 14:24 (8298) і казаць [арт.] цар <strong>turn</strong> да дом і твар не бачыць і <strong>turn</strong> <strong>Absalom</strong> да дом і твар [арт.] цар не бачыць ס
+2 Samuel 14:25 (8299) і як <strong>Absalom</strong> не быць чалавек (1) прыгожы у|[Тв.с.] цэлы|увесь Ісраэль да|[Д.с.] <strong>praise</strong> вельмі з далонь нага і (ажно) да <strong>scalp</strong> не быць у|[Тв.с.] <strong>blemish</strong> 
+2 Samuel 14:26 (8300) і у|[Тв.с.] <strong>shave</strong> [В.с.] галава і быць з <strong>end</strong> дзень да|[Д.с.] [арт.] дзень які <strong>shave</strong> бо|што <strong>heavy</strong> на і <strong>shave</strong> і <strong>weigh</strong> [В.с.] <strong>hair</strong> галава сотня <strong>shekel</strong> у|[Тв.с.] камень [арт.] цар 
+2 Samuel 14:27 (8301) і нарадзіць да|[Д.с.] <strong>Absalom</strong> <strong>three</strong> сын і дачка адзін і імя <strong>Tamar</strong> яна быць жанчына прыгожы <strong>sight</strong> פ
+2 Samuel 14:28 (8302) і сядзець <strong>Absalom</strong> у|[Тв.с.] Ерусалім год дзень і твар [арт.] цар не бачыць 
+2 Samuel 14:29 (8303) і слаць <strong>Absalom</strong> да <strong>Joab</strong> да|[Д.с.] слаць [В.с.] да [арт.] цар і не <strong>want</strong> да|[Д.с.] прыйсці да і слаць яшчэ другі і не <strong>want</strong> да|[Д.с.] прыйсці 
+2 Samuel 14:30 (8304) і казаць да слуга бачыць <strong>plot of land</strong> <strong>Joab</strong> да рука і да|[Д.с.] там <strong>barley</strong> хадзіць і <strong>kindle</strong> у|[Тв.с.] [арт.] агонь і <strong>kindle</strong> слуга <strong>Absalom</strong> [В.с.] [арт.] <strong>plot of land</strong> у|[Тв.с.] [арт.] агонь פ
+2 Samuel 14:31 (8305) і устаць <strong>Joab</strong> і прыйсці да <strong>Absalom</strong> [арт.] дом і казаць да чаму <strong>kindle</strong> слуга [В.с.] [арт.] <strong>plot of land</strong> які да|[Д.с.] у|[Тв.с.] [арт.] агонь 
+2 Samuel 14:32 (8306) і казаць <strong>Absalom</strong> да <strong>Joab</strong> вось слаць да да|[Д.с.] казаць прыйсці <strong>here</strong> і слаць [В.с.] да [арт.] цар да|[Д.с.] казаць чаму прыйсці з <strong>Geshur</strong> добры да|[Д.с.] яшчэ я там і <strong>now</strong> бачыць твар [арт.] цар і калі[зл.] ёсць у|[Тв.с.] <strong>sin</strong> і паміраць 
+2 Samuel 14:33 (8307) і прыйсці <strong>Joab</strong> да [арт.] цар і абвяшчаць да|[Д.с.] і зваць да <strong>Absalom</strong> і прыйсці да [арт.] цар і <strong>bow down</strong> да|[Д.с.] на <strong>nose</strong> зямля да|[Д.с.] твар [арт.] цар і <strong>kiss</strong> [арт.] цар да|[Д.с.] <strong>Absalom</strong> פ
+2 Samuel 15:1 (8308) і быць з пасля так і рабіць да|[Д.с.] <strong>Absalom</strong> <strong>chariot</strong> і конь і <strong>five</strong> чалавек (1) бяжаць да|[Д.с.] твар 
+2 Samuel 15:2 (8309) і <strong>rise early</strong> <strong>Absalom</strong> і стаяць на рука шлях [арт.] брама і быць цэлы|увесь [арт.] чалавек (1) які быць да|[Д.с.] <strong>law-case</strong> да|[Д.с.] прыйсці да [арт.] цар да|[Д.с.] [арт.] правасуддзе і зваць <strong>Absalom</strong> да і казаць <strong>where</strong> з гэты горад ты[м.] і казаць з адзін <strong>rod</strong> Ісраэль слуга 
+2 Samuel 15:3 (8310) і казаць да <strong>Absalom</strong> бачыць слова|рэч добры і <strong>straight</strong> і чуць няма да|[Д.с.] з разам з [арт.] цар 
+2 Samuel 15:4 (8311) і казаць <strong>Absalom</strong> хто класці|ставіць судзіць у|[Тв.с.] [арт.] зямля і на прыйсці цэлы|увесь чалавек (1) які быць да|[Д.с.] <strong>law-case</strong> і правасуддзе і <strong>be just</strong> 
+2 Samuel 15:5 (8312) і быць у|[Тв.с.] набліжацца чалавек (1) да|[Д.с.] <strong>bow down</strong> да|[Д.с.] і слаць [В.с.] рука і <strong>be strong</strong> да|[Д.с.] і <strong>kiss</strong> да|[Д.с.] 
+2 Samuel 15:6 (8313) і рабіць <strong>Absalom</strong> як [арт.] слова|рэч [арт.] гэты да|[Д.с.] цэлы|увесь Ісраэль які прыйсці да|[Д.с.] [арт.] правасуддзе да [арт.] цар і красці <strong>Absalom</strong> [В.с.] сэрца чалавек (1) Ісраэль פ
+2 Samuel 15:7 (8314) і быць з <strong>end</strong> <strong>four</strong> год і казаць <strong>Absalom</strong> да [арт.] цар хадзіць ж, -ка [узмацн.] і <strong>be complete</strong> [В.с.] <strong>vow</strong> які <strong>vow</strong> да|[Д.с.] Існы у|[Тв.с.] <strong>Hebron</strong> 
+2 Samuel 15:8 (8315) бо|што <strong>vow</strong> <strong>vow</strong> слуга у|[Тв.с.] сядзець у|[Тв.с.] <strong>Geshur</strong> у|[Тв.с.] <strong>Aram</strong> да|[Д.с.] казаць калі[зл.] сядзець вяртацца Існы Ерусалім і працаваць [В.с.] Існы 
+2 Samuel 15:9 (8316) і казаць да|[Д.с.] [арт.] цар хадзіць у|[Тв.с.] згода і устаць і хадзіць <strong>Hebron</strong> פ
+2 Samuel 15:10 (8317) і слаць <strong>Absalom</strong> <strong>slander</strong> у|[Тв.с.] цэлы|увесь <strong>rod</strong> Ісраэль да|[Д.с.] казаць як чуць [В.с.] голас [арт.] <strong>horn</strong> і казаць цараваць <strong>Absalom</strong> у|[Тв.с.] <strong>Hebron</strong> 
+2 Samuel 15:11 (8318) і разам з <strong>Absalom</strong> хадзіць сотня чалавек (1) з Ерусалім зваць і хадзіць да|[Д.с.] <strong>completeness</strong> і не ведаць [+неад.]|займацца сэксам [+адуш.] цэлы|увесь слова|рэч 
+2 Samuel 15:12 (8319) і слаць <strong>Absalom</strong> [В.с.] <strong>Ahithophel</strong> [арт.] <strong>Gilonite</strong> <strong>advise</strong> Давыд з горад з <strong>Giloh</strong> у|[Тв.с.] забіць [В.с.] [арт.] <strong>sacrifice</strong> і быць [арт.] <strong>conspiracy</strong> <strong>strong</strong> і [арт.] народ хадзіць і шматлікі разам з <strong>Absalom</strong> 
+2 Samuel 15:13 (8320) і прыйсці [арт.] абвяшчаць да Давыд да|[Д.с.] казаць быць сэрца чалавек (1) Ісраэль пасля <strong>Absalom</strong> 
+2 Samuel 15:14 (8321) і казаць Давыд да|[Д.с.] цэлы|увесь слуга які разам з у|[Тв.с.] Ерусалім устаць і <strong>run away</strong> бо|што не быць да|[Д.с.] збаўленне з твар <strong>Absalom</strong> спяшацца|хутка [як прысл.] да|[Д.с.] хадзіць <strong>lest</strong> спяшацца|хутка [як прысл.] і <strong>overtake</strong> і <strong>wield</strong> на [В.с.] [арт.] дрэнны і <strong>strike</strong> [арт.] горад да|[Д.с.] рот <strong>dagger</strong> 
+2 Samuel 15:15 (8322) і казаць слуга [арт.] цар да [арт.] цар як цэлы|увесь які <strong>examine</strong> <strong>lord</strong> [арт.] цар вось слуга 
+2 Samuel 15:16 (8323) і выйсці [арт.] цар і цэлы|увесь дом у|[Тв.с.] нага і <strong>leave</strong> [арт.] цар [В.с.] <strong>ten</strong> жанчына <strong>concubine</strong> да|[Д.с.] захоўваць [арт.] дом 
+2 Samuel 15:17 (8324) і выйсці [арт.] цар і цэлы|увесь [арт.] народ у|[Тв.с.] нага і стаяць дом [арт.] <strong>distance</strong> 
+2 Samuel 15:18 (8325) і цэлы|увесь слуга перайсці на рука і цэлы|увесь [арт.] <strong>Cherethite</strong> і цэлы|увесь [арт.] <strong>Pelethite</strong> і цэлы|увесь [арт.] <strong>Gittite</strong> <strong>six</strong> сотня чалавек (1) які прыйсці у|[Тв.с.] нага з <strong>Gath</strong> перайсці на твар [арт.] цар 
+2 Samuel 15:19 (8326) і казаць [арт.] цар да <strong>Ittai</strong> [арт.] <strong>Gittite</strong> чаму хадзіць таксама|нават ты[м.] разам з вяртацца і сядзець з [арт.] цар бо|што чужынскі ты[м.] і таксама|нават <strong>uncover</strong> ты[м.] да|[Д.с.] месца 
+2 Samuel 15:20 (8327) <strong>yesterday</strong> прыйсці і [арт.] дзень <strong>quiver</strong> з да|[Д.с.] хадзіць і я хадзіць на які я хадзіць вяртацца і вяртацца [В.с.] брат з <strong>loyalty</strong> і праўда 
+2 Samuel 15:21 (8328) і адказаць <strong>Ittai</strong> [В.с.] [арт.] цар і казаць жывы Існы і жывы <strong>lord</strong> [арт.] цар бо|што калі[зл.] у|[Тв.с.] месца які быць там <strong>lord</strong> [арт.] цар калі[зл.] да|[Д.с.] смерць калі[зл.] да|[Д.с.] <strong>life</strong> бо|што там быць слуга 
+2 Samuel 15:22 (8329) і казаць Давыд да <strong>Ittai</strong> хадзіць і перайсці і перайсці <strong>Ittai</strong> [арт.] <strong>Gittite</strong> і цэлы|увесь чалавек (1) і цэлы|увесь [арт.] <strong>[those unable to march]</strong> які разам з 
+2 Samuel 15:23 (8330) і цэлы|увесь [арт.] зямля плакаць голас вялікі і цэлы|увесь [арт.] народ перайсці і [арт.] цар перайсці у|[Тв.с.] <strong>wadi</strong> <strong>Kidron</strong> і цэлы|увесь [арт.] народ перайсці на твар шлях [В.с.] [арт.] <strong>desert</strong> 
+2 Samuel 15:24 (8331) і вось таксама|нават <strong>Zadok</strong> і цэлы|увесь [арт.] <strong>Levite</strong> разам з падняць [В.с.] <strong>ark</strong> дамова [арт.] Бог і <strong>pour</strong> [В.с.] <strong>ark</strong> [арт.] Бог і падымацца <strong>Abiathar</strong> (ажно) да <strong>be complete</strong> цэлы|увесь [арт.] народ да|[Д.с.] перайсці з [арт.] горад 
+2 Samuel 15:25 (8332) і казаць [арт.] цар да|[Д.с.] <strong>Zadok</strong> вяртацца [В.с.] <strong>ark</strong> [арт.] Бог [арт.] горад калі[зл.] знайсці ласка у|[Тв.с.] вока Існы і вяртацца і бачыць [В.с.] і [В.с.] <strong>pasture</strong> 
+2 Samuel 15:26 (8333) і калі[зл.] такім чынам казаць не <strong>desire</strong> у|[Тв.с.] вось рабіць да|[Д.с.] як які <strong>be good</strong> у|[Тв.с.] вока ס
+2 Samuel 15:27 (8334) і казаць [арт.] цар да <strong>Zadok</strong> [арт.] <strong>priest</strong> ці <strong>seer</strong> ты[м.] вяртацца [арт.] горад у|[Тв.с.] згода і <strong>Ahimaaz</strong> сын і <strong>Jehonathan</strong> сын <strong>Abiathar</strong> два сын разам з 
+2 Samuel 15:28 (8335) бачыць <strong>i</strong> <strong>tarry</strong> у|[Тв.с.] <strong>desert</strong> [арт.] <strong>desert</strong> (ажно) да прыйсці слова|рэч з з да|[Д.с.] абвяшчаць да|[Д.с.] 
+2 Samuel 15:29 (8336) і вяртацца <strong>Zadok</strong> і <strong>Abiathar</strong> [В.с.] <strong>ark</strong> [арт.] Бог Ерусалім і сядзець там 
+2 Samuel 15:30 (8337) і Давыд падымацца у|[Тв.с.] <strong>ascent</strong> [арт.] <strong>olive</strong> падымацца і плакаць і галава да|[Д.с.] <strong>cover</strong> і ён хадзіць <strong>barefoot</strong> і цэлы|увесь [арт.] народ які разам з <strong>cover</strong> чалавек (1) галава і падымацца падымацца і плакаць 
+2 Samuel 15:31 (8338) і Давыд абвяшчаць да|[Д.с.] казаць <strong>Ahithophel</strong> у|[Тв.с.] [арт.] <strong>tie</strong> з <strong>Absalom</strong> і казаць Давыд <strong>be foolish</strong> ж, -ка [узмацн.] [В.с.] <strong>counsel</strong> <strong>Ahithophel</strong> Існы 
+2 Samuel 15:32 (8339) і быць Давыд прыйсці (ажно) да [арт.] галава які <strong>bow down</strong> там да|[Д.с.] Бог і вось да|[Д.с.] <strong>encounter</strong> <strong>Hushai</strong> [арт.] <strong>Arkite</strong> <strong>tear</strong> <strong>tunic</strong> і <strong>soil</strong> на галава 
+2 Samuel 15:33 (8340) і казаць да|[Д.с.] Давыд калі[зл.] перайсці разам з і быць на да|[Д.с.] <strong>burden</strong> 
+2 Samuel 15:34 (8341) і калі[зл.] [арт.] горад вяртацца і казаць да|[Д.с.] <strong>Absalom</strong> слуга я [арт.] цар быць слуга бацька і я з тады і <strong>now</strong> і я слуга і <strong>break</strong> да|[Д.с.] [В.с.] <strong>counsel</strong> <strong>Ahithophel</strong> 
+2 Samuel 15:35 (8342) і ці не з там <strong>Zadok</strong> і <strong>Abiathar</strong> [арт.] <strong>priest</strong> і быць цэлы|увесь [арт.] слова|рэч які чуць з дом [арт.] цар абвяшчаць да|[Д.с.] <strong>Zadok</strong> і да|[Д.с.] <strong>Abiathar</strong> [арт.] <strong>priest</strong> 
+2 Samuel 15:36 (8343) вось там з два сын <strong>Ahimaaz</strong> да|[Д.с.] <strong>Zadok</strong> і <strong>Jehonathan</strong> да|[Д.с.] <strong>Abiathar</strong> і слаць у|[Тв.с.] рука да цэлы|увесь слова|рэч які чуць 
+2 Samuel 15:37 (8344) і прыйсці <strong>Hushai</strong> <strong>fellow</strong> Давыд [арт.] горад і <strong>Absalom</strong> прыйсці Ерусалім 
+2 Samuel 16:1 (8345) і Давыд перайсці <strong>little</strong> з [арт.] галава і вось <strong>Ziba</strong> хлапчук <strong>Mephibosheth</strong> да|[Д.с.] <strong>encounter</strong> і <strong>span</strong> <strong>he-ass</strong> <strong>saddle</strong> і на сотня хлеб і сотня <strong>cakes</strong> і сотня <strong>summer</strong> і <strong>jar</strong> віно 
+2 Samuel 16:2 (8346) і казаць [арт.] цар да <strong>Ziba</strong> што гэтыя да|[Д.с.] і казаць <strong>Ziba</strong> [арт.] <strong>he-ass</strong> да|[Д.с.] дом [арт.] цар да|[Д.с.] <strong>ride</strong> і [арт.] хлеб і [арт.] <strong>summer</strong> да|[Д.с.] есці [арт.] хлапчук і [арт.] віно да|[Д.с.] піць [арт.] <strong>weary</strong> у|[Тв.с.] [арт.] <strong>desert</strong> 
+2 Samuel 16:3 (8347) і казаць [арт.] цар і <strong>where</strong> сын <strong>lord</strong> і казаць <strong>Ziba</strong> да [арт.] цар вось сядзець у|[Тв.с.] Ерусалім бо|што казаць [арт.] дзень вяртацца да|[Д.с.] дом Ісраэль [В.с.] <strong>kingdom</strong> бацька 
+2 Samuel 16:4 (8348) і казаць [арт.] цар да|[Д.с.] <strong>Ziba</strong> вось да|[Д.с.] цэлы|увесь які да|[Д.с.] <strong>Mephibosheth</strong> і казаць <strong>Ziba</strong> <strong>bow down</strong> знайсці ласка у|[Тв.с.] вока <strong>lord</strong> [арт.] цар 
+2 Samuel 16:5 (8349) і прыйсці [арт.] цар Давыд (ажно) да <strong>Bahurim</strong> і вось з там чалавек (1) выйсці з <strong>clan</strong> дом <strong>Saul</strong> і імя <strong>Shimei</strong> сын <strong>Gera</strong> выйсці выйсці і <strong>be slight</strong> 
+2 Samuel 16:6 (8350) і <strong>stone</strong> у|[Тв.с.] [арт.] камень [В.с.] Давыд і [В.с.] цэлы|увесь слуга [арт.] цар Давыд і цэлы|увесь [арт.] народ і цэлы|увесь [арт.] мужны|моцны з правая частка і з левая частка 
+2 Samuel 16:7 (8351) і такім чынам казаць <strong>Shimei</strong> у|[Тв.с.] <strong>be slight</strong> выйсці выйсці чалавек (1) [арт.] <strong>blood</strong> і чалавек (1) [арт.] <strong>wickedness</strong> 
+2 Samuel 16:8 (8352) вяртацца на Існы цэлы|увесь <strong>blood</strong> дом <strong>Saul</strong> які цараваць пад і даць Існы [В.с.] [арт.] цараванне у|[Тв.с.] рука <strong>Absalom</strong> сын і вось у|[Тв.с.] дрэнны бо|што чалавек (1) <strong>blood</strong> ты[м.] 
+2 Samuel 16:9 (8353) і казаць <strong>Abishai</strong> сын <strong>Zeruiah</strong> да [арт.] цар чаму <strong>be slight</strong> [арт.] сабака [арт.] паміраць [арт.] гэты [В.с.] <strong>lord</strong> [арт.] цар перайсці ж, -ка [узмацн.] і збочыць [В.с.] галава ס
+2 Samuel 16:10 (8354) і казаць [арт.] цар што да|[Д.с.] і да|[Д.с.] сын <strong>Zeruiah</strong> такім чынам <strong>be slight</strong> бо|што Існы казаць да|[Д.с.] <strong>be slight</strong> [В.с.] Давыд і хто казаць <strong>why</strong> рабіць так ס
+2 Samuel 16:11 (8355) і казаць Давыд да <strong>Abishai</strong> і да цэлы|увесь слуга вось сын які выйсці з <strong>bowels</strong> шукаць [В.с.] душа і нават бо|што <strong>now</strong> сын [арт.] <strong>Benjaminite</strong> асесць да|[Д.с.] і <strong>be slight</strong> бо|што казаць да|[Д.с.] Існы 
+2 Samuel 16:12 (8356) <strong>perhaps</strong> бачыць Існы у|[Тв.с.] вока і вяртацца Існы да|[Д.с.] <strong>what is good</strong> пад <strong>curse</strong> [арт.] дзень [арт.] гэты 
+2 Samuel 16:13 (8357) і хадзіць Давыд і чалавек (1) у|[Тв.с.] [арт.] шлях і <strong>Shimei</strong> хадзіць у|[Тв.с.] <strong>side</strong> [арт.] гара да|[Д.с.] <strong>side</strong> хадзіць і <strong>be slight</strong> і <strong>stone</strong> у|[Тв.с.] [арт.] камень да|[Д.с.] <strong>side</strong> і <strong>throw</strong> у|[Тв.с.] [арт.] пыл פ
+2 Samuel 16:14 (8358) і прыйсці [арт.] цар і цэлы|увесь [арт.] народ які разам з <strong>faint</strong> і <strong>take breath</strong> там 
+2 Samuel 16:15 (8359) і <strong>Absalom</strong> і цэлы|увесь [арт.] народ чалавек (1) Ісраэль прыйсці Ерусалім і <strong>Ahithophel</strong> разам з 
+2 Samuel 16:16 (8360) і быць як які прыйсці <strong>Hushai</strong> [арт.] <strong>Arkite</strong> <strong>fellow</strong> Давыд да <strong>Absalom</strong> і казаць <strong>Hushai</strong> да <strong>Absalom</strong> жыць [арт.] цар жыць [арт.] цар 
+2 Samuel 16:17 (8361) і казаць <strong>Absalom</strong> да <strong>Hushai</strong> гэты <strong>loyalty</strong> [В.с.] <strong>fellow</strong> чаму не хадзіць разам з <strong>fellow</strong> 
+2 Samuel 16:18 (8362) і казаць <strong>Hushai</strong> да <strong>Absalom</strong> не бо|што які <strong>examine</strong> Існы і [арт.] народ [арт.] гэты і цэлы|увесь чалавек (1) Ісраэль да|[Д.с.] быць і разам з сядзець 
+2 Samuel 16:19 (8363) і [арт.] другі да|[Д.с.] хто я працаваць ці не да|[Д.с.] твар сын як які працаваць да|[Д.с.] твар бацька так быць да|[Д.с.] твар פ
+2 Samuel 16:20 (8364) і казаць <strong>Absalom</strong> да <strong>Ahithophel</strong> <strong>give</strong> да|[Д.с.] <strong>counsel</strong> што рабіць 
+2 Samuel 16:21 (8365) і казаць <strong>Ahithophel</strong> да <strong>Absalom</strong> прыйсці да <strong>concubine</strong> бацька які асесць да|[Д.с.] захоўваць [арт.] дом і чуць цэлы|увесь Ісраэль бо|што <strong>stink</strong> разам з бацька і <strong>be strong</strong> рука цэлы|увесь які разам з 
+2 Samuel 16:22 (8366) і <strong>extend</strong> да|[Д.с.] <strong>Absalom</strong> [арт.] <strong>tent</strong> на [арт.] <strong>roof</strong> і прыйсці <strong>Absalom</strong> да <strong>concubine</strong> бацька да|[Д.с.] вока цэлы|увесь Ісраэль 
+2 Samuel 16:23 (8367) і <strong>counsel</strong> <strong>Ahithophel</strong> які <strong>advise</strong> у|[Тв.с.] [арт.] дзень [арт.] яны [ж.] як які пытацца чалавек (1) у|[Тв.с.] слова|рэч [арт.] Бог так цэлы|увесь <strong>counsel</strong> <strong>Ahithophel</strong> таксама|нават да|[Д.с.] Давыд таксама|нават да|[Д.с.] <strong>Absalom</strong> ס
+2 Samuel 17:1 (8368) і казаць <strong>Ahithophel</strong> да <strong>Absalom</strong> <strong>examine</strong> ж, -ка [узмацн.] два <strong>-teen</strong> тысяча чалавек (1) і устаць і <strong>pursue</strong> пасля Давыд [арт.] ноч 
+2 Samuel 17:2 (8369) і прыйсці на і ён <strong>weary</strong> і <strong>slack</strong> рука і <strong>tremble</strong> [В.с.] і <strong>flee</strong> цэлы|увесь [арт.] народ які разам з і <strong>strike</strong> [В.с.] [арт.] цар да|[Д.с.] частка 
+2 Samuel 17:3 (8370) і вяртацца цэлы|увесь [арт.] народ да як вяртацца [арт.] цэлы|увесь [арт.] чалавек (1) які ты[м.] шукаць цэлы|увесь [арт.] народ быць згода 
+2 Samuel 17:4 (8371) і <strong>be right</strong> [арт.] слова|рэч у|[Тв.с.] вока <strong>Absalom</strong> і у|[Тв.с.] вока цэлы|увесь старадаўні Ісраэль ס
+2 Samuel 17:5 (8372) і казаць <strong>Absalom</strong> зваць ж, -ка [узмацн.] таксама|нават да|[Д.с.] <strong>Hushai</strong> [арт.] <strong>Arkite</strong> і чуць што у|[Тв.с.] рот таксама|нават ён 
+2 Samuel 17:6 (8373) і прыйсці <strong>Hushai</strong> да <strong>Absalom</strong> і казаць <strong>Absalom</strong> да да|[Д.с.] казаць як [арт.] слова|рэч [арт.] гэты гаварыць <strong>Ahithophel</strong> ці рабіць [В.с.] слова|рэч калі[зл.] няма ты[м.] гаварыць ס
+2 Samuel 17:7 (8374) і казаць <strong>Hushai</strong> да <strong>Absalom</strong> не добры [арт.] <strong>counsel</strong> які <strong>advise</strong> <strong>Ahithophel</strong> у|[Тв.с.] [арт.] <strong>foot</strong> [арт.] <strong>this</strong> 
+2 Samuel 17:8 (8375) і казаць <strong>Hushai</strong> ты[м.] ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] бацька і [В.с.] чалавек (1) бо|што мужны|моцны яны і горкі душа яны як <strong>bear</strong> <strong>bereaved of children</strong> у|[Тв.с.] [арт.] поле і бацька чалавек (1) вайна і не <strong>lodge</strong> разам з [арт.] народ 
+2 Samuel 17:9 (8376) вось <strong>now</strong> ён <strong>hide</strong> у|[Тв.с.] адзін [арт.] <strong>pit</strong> ці у|[Тв.с.] адзін [арт.] месца і быць як падаць у|[Тв.с.] у|[Тв.с.] [арт.] <strong>beginning</strong> і чуць [арт.] чуць і казаць быць <strong>blow</strong> у|[Тв.с.] [арт.] народ які пасля <strong>Absalom</strong> 
+2 Samuel 17:10 (8377) і ён таксама|нават сын моц які сэрца як сэрца [арт.] <strong>lion</strong> <strong>melt</strong> <strong>melt</strong> бо|што ведаць [+неад.]|займацца сэксам [+адуш.] цэлы|увесь Ісраэль бо|што мужны|моцны бацька і сын моц які разам з 
+2 Samuel 17:11 (8378) бо|што <strong>advise</strong> збіраць збіраць на цэлы|увесь Ісраэль з <strong>Dan</strong> і (ажно) да <strong>well</strong> <strong>Sheba</strong> як [арт.] <strong>sand</strong> які на [арт.] мора да|[Д.с.] шматлікасць і твар хадзіць у|[Тв.с.] [арт.] бойка 
+2 Samuel 17:12 (8379) і прыйсці да у|[Тв.с.] адзін [арт.] месца які знайсці там і асесць на як які падаць [арт.] <strong>dew</strong> на [арт.] <strong>soil</strong> і не <strong>remain</strong> у|[Тв.с.] і у|[Тв.с.] цэлы|увесь [арт.] чалавек (1) які разам з таксама|нават адзін 
+2 Samuel 17:13 (8380) і калі[зл.] да горад збіраць і падняць цэлы|увесь Ісраэль да [арт.] горад [арт.] яна <strong>cord</strong> і <strong>drag</strong> [В.с.] (ажно) да [арт.] <strong>wadi</strong> (ажно) да які не знайсці там таксама|нават <strong>pebble</strong> פ
+2 Samuel 17:14 (8381) і казаць <strong>Absalom</strong> і цэлы|увесь чалавек (1) Ісраэль добры <strong>counsel</strong> <strong>Hushai</strong> [арт.] <strong>Arkite</strong> з <strong>counsel</strong> <strong>Ahithophel</strong> і Існы <strong>command</strong> да|[Д.с.] <strong>break</strong> [В.с.] <strong>counsel</strong> <strong>Ahithophel</strong> [арт.] добры да|[Д.с.] у|[Тв.с.] <strong>way</strong> прыйсці Існы да <strong>Absalom</strong> [В.с.] [арт.] дрэнны ס
+2 Samuel 17:15 (8382) і казаць <strong>Hushai</strong> да <strong>Zadok</strong> і да <strong>Abiathar</strong> [арт.] <strong>priest</strong> як <strong>this</strong> і як <strong>this</strong> <strong>advise</strong> <strong>Ahithophel</strong> [В.с.] <strong>Absalom</strong> і [В.с.] старадаўні Ісраэль і як <strong>this</strong> і як <strong>this</strong> <strong>advise</strong> я 
+2 Samuel 17:16 (8383) і <strong>now</strong> слаць <strong>haste</strong> і абвяшчаць да|[Д.с.] Давыд да|[Д.с.] казаць не [+заг.лад] <strong>lodge</strong> [арт.] ноч у|[Тв.с.] <strong>desert</strong> [арт.] <strong>desert</strong> і таксама|нават перайсці перайсці <strong>lest</strong> <strong>communicate</strong> да|[Д.с.] [арт.] цар і да|[Д.с.] цэлы|увесь [арт.] народ які разам з 
+2 Samuel 17:17 (8384) і <strong>Jehonathan</strong> і <strong>Ahimaaz</strong> стаяць у|[Тв.с.] <strong>En Rogel</strong> і хадзіць [арт.] <strong>maidservant</strong> і абвяшчаць да|[Д.с.] і яны [ж.] хадзіць і абвяшчаць да|[Д.с.] [арт.] цар Давыд бо|што не магчы да|[Д.с.] бачыць да|[Д.с.] прыйсці [арт.] горад 
+2 Samuel 17:18 (8385) і бачыць [В.с.] хлапчук і абвяшчаць да|[Д.с.] <strong>Absalom</strong> і хадзіць два <strong>haste</strong> і прыйсці да дом чалавек (1) у|[Тв.с.] <strong>Bahurim</strong> і да|[Д.с.] <strong>well</strong> у|[Тв.с.] <strong>court</strong> і апускацца там 
+2 Samuel 17:19 (8386) і браць [арт.] жанчына і <strong>spread out</strong> [В.с.] [арт.] <strong>covering</strong> на твар [арт.] <strong>well</strong> і <strong>spread</strong> на [арт.] <strong>[uncertain]</strong> і не ведаць [+неад.]|займацца сэксам [+адуш.] слова|рэч 
+2 Samuel 17:20 (8387) і прыйсці слуга <strong>Absalom</strong> да [арт.] жанчына [арт.] дом і казаць <strong>where</strong> <strong>Ahimaaz</strong> і <strong>Jehonathan</strong> і казаць да|[Д.с.] [арт.] жанчына перайсці <strong>[uncertain]</strong> [арт.] вада і шукаць і не знайсці і вяртацца Ерусалім ס
+2 Samuel 17:21 (8388) і быць пасля хадзіць і падымацца з [арт.] <strong>well</strong> і хадзіць і абвяшчаць да|[Д.с.] [арт.] цар Давыд і казаць да Давыд устаць і перайсці <strong>haste</strong> [В.с.] [арт.] вада бо|што такім чынам <strong>advise</strong> на <strong>Ahithophel</strong> 
+2 Samuel 17:22 (8389) і устаць Давыд і цэлы|увесь [арт.] народ які разам з і перайсці [В.с.] [арт.] <strong>Jordan</strong> (ажно) да <strong>be light</strong> [арт.] раніца (ажно) да адзін не <strong>be missing</strong> які не перайсці [В.с.] [арт.] <strong>Jordan</strong> 
+2 Samuel 17:23 (8390) і <strong>Ahithophel</strong> бачыць бо|што не рабіць <strong>counsel</strong> і <strong>saddle</strong> [В.с.] [арт.] <strong>he-ass</strong> і устаць і хадзіць да дом да горад і <strong>command</strong> да дом і <strong>strangle</strong> і паміраць і пахаваць у|[Тв.с.] <strong>grave</strong> бацька ס
+2 Samuel 17:24 (8391) і Давыд прыйсці <strong>Mahanaim</strong> і <strong>Absalom</strong> перайсці [В.с.] [арт.] <strong>Jordan</strong> ён і цэлы|увесь чалавек (1) Ісраэль з 
+2 Samuel 17:25 (8392) і [В.с.] <strong>Amasa</strong> класці|ставіць <strong>Absalom</strong> пад <strong>Joab</strong> на [арт.] <strong>service</strong> і <strong>Amasa</strong> сын чалавек (1) і імя <strong>Jether</strong> [арт.] <strong>Israelite</strong> які прыйсці да <strong>Abigail</strong> дачка <strong>Nahash</strong> <strong>sister</strong> <strong>Zeruiah</strong> маці <strong>Joab</strong> 
+2 Samuel 17:26 (8393) і <strong>encamp</strong> Ісраэль і <strong>Absalom</strong> зямля [арт.] Гіл’ад ס
+2 Samuel 17:27 (8394) і быць як прыйсці Давыд <strong>Mahanaim</strong> і <strong>Shobi</strong> сын <strong>Nahash</strong> з шматлікі сын <strong>Ammon</strong> і <strong>Makir</strong> сын <strong>Ammiel</strong> з <strong>Lo Debar</strong> і <strong>Barzillai</strong> [арт.] <strong>Gileadite</strong> з <strong>Rogelim</strong> 
+2 Samuel 17:28 (8395) <strong>couch</strong> і <strong>basin</strong> і прылада <strong>potter</strong> і <strong>wheat</strong> і <strong>barley</strong> і <strong>flour</strong> і <strong>parched grain</strong> і <strong>beans</strong> і <strong>lentil</strong> і <strong>parched grain</strong> 
+2 Samuel 17:29 (8396) і <strong>honey</strong> і <strong>butter</strong> і скаціна і <strong>yoghurt</strong> быдла <strong>approach</strong> да|[Д.с.] Давыд і да|[Д.с.] [арт.] народ які разам з да|[Д.с.] есці бо|што казаць [арт.] народ <strong>hungry</strong> і <strong>faint</strong> і <strong>thirsty</strong> у|[Тв.с.] [арт.] <strong>desert</strong> 
+2 Samuel 18:1 (8397) і <strong>miss</strong> Давыд [В.с.] [арт.] народ які разам з і класці|ставіць на кіраўнік|міністр тысяча і кіраўнік|міністр сотня 
+2 Samuel 18:2 (8398) і слаць Давыд [В.с.] [арт.] народ [арт.] <strong>third part</strong> у|[Тв.с.] рука <strong>Joab</strong> і [арт.] <strong>third part</strong> у|[Тв.с.] рука <strong>Abishai</strong> сын <strong>Zeruiah</strong> брат <strong>Joab</strong> і [арт.] <strong>third part</strong> у|[Тв.с.] рука <strong>Ittai</strong> [арт.] <strong>Gittite</strong> і казаць [арт.] цар да [арт.] народ выйсці выйсці таксама|нават я з 
+2 Samuel 18:3 (8399) і казаць [арт.] народ не выйсці бо|што калі[зл.] <strong>flee</strong> <strong>flee</strong> не класці|ставіць да сэрца і калі[зл.] паміраць <strong>half</strong> не класці|ставіць да сэрца бо|што <strong>now</strong> <strong>like</strong> дзесяць тысяча і <strong>now</strong> добры бо|што быць да|[Д.с.] з горад да|[Д.с.] <strong>help</strong> 
+2 Samuel 18:4 (8400) і казаць да [арт.] цар які <strong>be good</strong> у|[Тв.с.] вока рабіць і стаяць [арт.] цар да рука [арт.] брама і цэлы|увесь [арт.] народ выйсці да|[Д.с.] сотня і да|[Д.с.] тысяча 
+2 Samuel 18:5 (8401) і <strong>command</strong> [арт.] цар [В.с.] <strong>Joab</strong> і [В.с.] <strong>Abishai</strong> і [В.с.] <strong>Ittai</strong> да|[Д.с.] казаць да|[Д.с.] <strong>gentle</strong> да|[Д.с.] да|[Д.с.] [арт.] хлапчук да|[Д.с.] <strong>Absalom</strong> і цэлы|увесь [арт.] народ чуць у|[Тв.с.] <strong>command</strong> [арт.] цар [В.с.] цэлы|увесь [арт.] кіраўнік|міністр на слова|рэч <strong>Absalom</strong> 
+2 Samuel 18:6 (8402) і выйсці [арт.] народ [арт.] поле да|[Д.с.] <strong>encounter</strong> Ісраэль і быць [арт.] вайна у|[Тв.с.] <strong>wood</strong> Эфраі́м 
+2 Samuel 18:7 (8403) і <strong>hurt</strong> там народ Ісраэль да|[Д.с.] твар слуга Давыд і быць там [арт.] <strong>blow</strong> вялікі у|[Тв.с.] [арт.] дзень [арт.] ён <strong>twenty</strong> тысяча 
+2 Samuel 18:8 (8404) і быць там [арт.] вайна <strong>disperse</strong> на твар цэлы|увесь [арт.] зямля і шмат [арт.] <strong>wood</strong> да|[Д.с.] есці у|[Тв.с.] [арт.] народ з які есці [арт.] <strong>dagger</strong> у|[Тв.с.] [арт.] дзень [арт.] ён 
+2 Samuel 18:9 (8405) і <strong>encounter</strong> <strong>Absalom</strong> да|[Д.с.] твар слуга Давыд і <strong>Absalom</strong> <strong>ride</strong> на [арт.] <strong>mule</strong> і прыйсці [арт.] <strong>mule</strong> пад <strong>network of boughs</strong> [арт.] <strong>big tree</strong> [арт.] вялікі і <strong>be strong</strong> галава у|[Тв.с.] [арт.] <strong>big tree</strong> і даць між [арт.] неба і між [арт.] зямля і [арт.] <strong>mule</strong> які пад перайсці 
+2 Samuel 18:10 (8406) і бачыць чалавек (1) адзін і абвяшчаць да|[Д.с.] <strong>Joab</strong> і казаць вось бачыць [В.с.] <strong>Absalom</strong> <strong>hang</strong> у|[Тв.с.] [арт.] <strong>big tree</strong> 
+2 Samuel 18:11 (8407) і казаць <strong>Joab</strong> да|[Д.с.] [арт.] чалавек (1) [арт.] абвяшчаць да|[Д.с.] і вось бачыць і <strong>why</strong> не <strong>strike</strong> там зямля і на да|[Д.с.] даць да|[Д.с.] дзесяць срэбра і <strong>girdle</strong> адзін 
+2 Samuel 18:12 (8408) і казаць [арт.] чалавек (1) да <strong>Joab</strong> і <strong>if only</strong> <strong>i</strong> <strong>weigh</strong> на далонь тысяча срэбра не слаць рука да сын [арт.] цар бо|што у|[Тв.с.] вуха <strong>command</strong> [арт.] цар [В.с.] і [В.с.] <strong>Abishai</strong> і [В.с.] <strong>Ittai</strong> да|[Д.с.] казаць захоўваць хто у|[Тв.с.] [арт.] хлапчук у|[Тв.с.] <strong>Absalom</strong> 
+2 Samuel 18:13 (8409) ці рабіць у|[Тв.с.] душа <strong>lie</strong> і цэлы|увесь слова|рэч не <strong>hide</strong> з [арт.] цар і ты[м.] <strong>stand</strong> з перад 
+2 Samuel 18:14 (8410) і казаць <strong>Joab</strong> не так <strong>wait, to hope</strong> да|[Д.с.] твар і браць <strong>three</strong> <strong>rod</strong> у|[Тв.с.] далонь і <strong>blow</strong> у|[Тв.с.] сэрца <strong>Absalom</strong> яшчэ жывы у|[Тв.с.] сэрца [арт.] <strong>big tree</strong> 
+2 Samuel 18:15 (8411) і <strong>turn</strong> дзесяць хлапчук падняць прылада <strong>Joab</strong> і <strong>strike</strong> [В.с.] <strong>Absalom</strong> і паміраць 
+2 Samuel 18:16 (8412) і <strong>blow</strong> <strong>Joab</strong> у|[Тв.с.] [арт.] <strong>horn</strong> і вяртацца [арт.] народ з <strong>pursue</strong> пасля Ісраэль бо|што <strong>withhold</strong> <strong>Joab</strong> [В.с.] [арт.] народ 
+2 Samuel 18:17 (8413) і браць [В.с.] <strong>Absalom</strong> і кінуць [В.с.] у|[Тв.с.] [арт.] <strong>wood</strong> да [арт.] <strong>pit</strong> [арт.] вялікі і <strong>stand</strong> на <strong>heap</strong> камень вялікі вельмі і цэлы|увесь Ісраэль <strong>flee</strong> чалавек (1) да|[Д.с.] <strong>tent</strong> 
+2 Samuel 18:18 (8414) і <strong>Absalom</strong> браць і <strong>stand</strong> да|[Д.с.] у|[Тв.с.] <strong>life</strong> [В.с.] <strong>stump</strong> які у|[Тв.с.] <strong>valley</strong> [арт.] цар бо|што казаць няма да|[Д.с.] сын у|[Тв.с.] <strong>way</strong> помніць імя і зваць да|[Д.с.] [арт.] <strong>stump</strong> на імя і зваць да|[Д.с.] рука <strong>Absalom</strong> (ажно) да [арт.] дзень [арт.] гэты ס
+2 Samuel 18:19 (8415) і <strong>Ahimaaz</strong> сын <strong>Zadok</strong> казаць бяжаць ж, -ка [узмацн.] і <strong>announce</strong> [В.с.] [арт.] цар бо|што судзіць Існы з рука <strong>be hostile</strong> 
+2 Samuel 18:20 (8416) і казаць да|[Д.с.] <strong>Joab</strong> не чалавек (1) <strong>report</strong> ты[м.] [арт.] дзень [арт.] гэты і <strong>announce</strong> у|[Тв.с.] дзень іншы і [арт.] дзень [арт.] гэты не <strong>announce</strong> бо|што на так сын [арт.] цар паміраць 
+2 Samuel 18:21 (8417) і казаць <strong>Joab</strong> да|[Д.с.] [арт.] <strong>Ethiopian</strong> хадзіць абвяшчаць да|[Д.с.] [арт.] цар які бачыць і <strong>bow down</strong> <strong>Ethiopian</strong> да|[Д.с.] <strong>Joab</strong> і бяжаць 
+2 Samuel 18:22 (8418) і дадаць яшчэ <strong>Ahimaaz</strong> сын <strong>Zadok</strong> і казаць да <strong>Joab</strong> і быць што бяжаць ж, -ка [узмацн.] таксама|нават я пасля [арт.] <strong>Ethiopian</strong> і казаць <strong>Joab</strong> чаму гэты ты[м.] бяжаць сын і да|[Д.с.] няма <strong>report</strong> выйсці 
+2 Samuel 18:23 (8419) і быць што бяжаць і казаць да|[Д.с.] бяжаць і бяжаць <strong>Ahimaaz</strong> шлях [арт.] <strong>disk</strong> і перайсці [В.с.] [арт.] <strong>Ethiopian</strong> 
+2 Samuel 18:24 (8420) і Давыд сядзець між два [арт.] брама і хадзіць [арт.] <strong>look out</strong> да <strong>roof</strong> [арт.] брама да [арт.] <strong>wall</strong> і падняць [В.с.] вока і бачыць і вось чалавек (1) бяжаць да|[Д.с.] частка 
+2 Samuel 18:25 (8421) і зваць [арт.] <strong>look out</strong> і абвяшчаць да|[Д.с.] [арт.] цар і казаць [арт.] цар калі[зл.] да|[Д.с.] частка <strong>report</strong> у|[Тв.с.] рот і хадзіць хадзіць і <strong>approaching</strong> 
+2 Samuel 18:26 (8422) і бачыць [арт.] <strong>look out</strong> чалавек (1) іншы бяжаць і зваць [арт.] <strong>look out</strong> да [арт.] <strong>porter</strong> і казаць вось чалавек (1) бяжаць да|[Д.с.] частка і казаць [арт.] цар таксама|нават гэты <strong>announce</strong> 
+2 Samuel 18:27 (8423) і казаць [арт.] <strong>look out</strong> я бачыць [В.с.] <strong>running</strong> [арт.] першы як <strong>running</strong> <strong>Ahimaaz</strong> сын <strong>Zadok</strong> і казаць [арт.] цар чалавек (1) добры гэты і да <strong>report</strong> добры прыйсці 
+2 Samuel 18:28 (8424) і зваць <strong>Ahimaaz</strong> і казаць да [арт.] цар згода і <strong>bow down</strong> да|[Д.с.] [арт.] цар да|[Д.с.] <strong>nose</strong> зямля і казаць <strong>bless</strong> Існы Бог які зачыняць [В.с.] [арт.] чалавек (1) які падняць [В.с.] рука у|[Тв.с.] <strong>lord</strong> [арт.] цар 
+2 Samuel 18:29 (8425) і казаць [арт.] цар згода да|[Д.с.] [арт.] хлапчук да|[Д.с.] <strong>Absalom</strong> і казаць <strong>Ahimaaz</strong> бачыць [арт.] <strong>commotion</strong> [арт.] вялікі да|[Д.с.] слаць [В.с.] слуга [арт.] цар <strong>Joab</strong> і [В.с.] слуга і не ведаць [+неад.]|займацца сэксам [+адуш.] што 
+2 Samuel 18:30 (8426) і казаць [арт.] цар <strong>turn</strong> <strong>stand</strong> такім чынам і <strong>turn</strong> і стаяць 
+2 Samuel 18:31 (8427) і вось [арт.] <strong>Ethiopian</strong> прыйсці і казаць [арт.] <strong>Ethiopian</strong> <strong>announce</strong> <strong>lord</strong> [арт.] цар бо|што судзіць Існы [арт.] дзень з рука цэлы|увесь [арт.] устаць на ס
+2 Samuel 18:32 (8428) і казаць [арт.] цар да [арт.] <strong>Ethiopian</strong> ці згода да|[Д.с.] [арт.] хлапчук да|[Д.с.] <strong>Absalom</strong> і казаць [арт.] <strong>Ethiopian</strong> быць як [арт.] хлапчук <strong>be hostile</strong> <strong>lord</strong> [арт.] цар і цэлы|увесь які устаць на да|[Д.с.] дрэнны ס
+2 Samuel 19:1 (8429) і <strong>quake</strong> [арт.] цар і падымацца на <strong>upper room</strong> [арт.] брама і плакаць і такім чынам казаць у|[Тв.с.] хадзіць сын <strong>Absalom</strong> сын сын <strong>Absalom</strong> хто даць паміраць я пад <strong>Absalom</strong> сын сын 
+2 Samuel 19:2 (8430) і абвяшчаць да|[Д.с.] <strong>Joab</strong> вось [арт.] цар плакаць і <strong>mourn</strong> на <strong>Absalom</strong> 
+2 Samuel 19:3 (8431) і быць [арт.] <strong>salvation</strong> у|[Тв.с.] [арт.] дзень [арт.] ён да|[Д.с.] <strong>mourning rites</strong> да|[Д.с.] цэлы|увесь [арт.] народ бо|што чуць [арт.] народ у|[Тв.с.] [арт.] дзень [арт.] ён да|[Д.с.] казаць <strong>hurt</strong> [арт.] цар на сын 
+2 Samuel 19:4 (8432) і красці [арт.] народ у|[Тв.с.] [арт.] дзень [арт.] ён да|[Д.с.] прыйсці [арт.] горад як які красці [арт.] народ [арт.] <strong>humiliate</strong> у|[Тв.с.] <strong>flee</strong> у|[Тв.с.] [арт.] вайна 
+2 Samuel 19:5 (8433) і [арт.] цар <strong>enwrap</strong> [В.с.] твар і <strong>cry</strong> [арт.] цар голас вялікі сын <strong>Absalom</strong> <strong>Absalom</strong> сын сын ס
+2 Samuel 19:6 (8434) і прыйсці <strong>Joab</strong> да [арт.] цар [арт.] дом і казаць <strong>be dry</strong> [арт.] дзень [В.с.] твар цэлы|увесь слуга [арт.] <strong>escape</strong> [В.с.] душа [арт.] дзень і [В.с.] душа сын і дачка і душа жанчына і душа <strong>concubine</strong> 
+2 Samuel 19:7 (8435) да|[Д.с.] любіць|кахаць [В.с.] ненавідзець і да|[Д.с.] ненавідзець [В.с.] любіць|кахаць бо|што абвяшчаць [арт.] дзень бо|што няма да|[Д.с.] кіраўнік|міністр і слуга бо|што ведаць [+неад.]|займацца сэксам [+адуш.] [арт.] дзень бо|што <strong>if only</strong> <strong>Absalom</strong> жывы і цэлы|увесь [арт.] дзень паміраць бо|што тады <strong>right</strong> у|[Тв.с.] вока 
+2 Samuel 19:8 (8436) і <strong>now</strong> устаць выйсці і гаварыць на сэрца слуга бо|што у|[Тв.с.] Існы <strong>swear</strong> бо|што няма выйсці калі[зл.] <strong>lodge</strong> чалавек (1) разам з [арт.] ноч і <strong>be evil</strong> да|[Д.с.] <strong>this</strong> з цэлы|увесь [арт.] дрэнны які прыйсці на з <strong>youth</strong> (ажно) да <strong>now</strong> ס
+2 Samuel 19:9 (8437) і устаць [арт.] цар і сядзець у|[Тв.с.] [арт.] брама і да|[Д.с.] цэлы|увесь [арт.] народ абвяшчаць да|[Д.с.] казаць вось [арт.] цар сядзець у|[Тв.с.] [арт.] брама і прыйсці цэлы|увесь [арт.] народ да|[Д.с.] твар [арт.] цар і Ісраэль <strong>flee</strong> чалавек (1) да|[Д.с.] <strong>tent</strong> ס
+2 Samuel 19:10 (8438) і быць цэлы|увесь [арт.] народ <strong>judge</strong> у|[Тв.с.] цэлы|увесь <strong>rod</strong> Ісраэль да|[Д.с.] казаць [арт.] цар <strong>deliver</strong> з далонь <strong>be hostile</strong> і ён <strong>escape</strong> з далонь філістынец і <strong>now</strong> <strong>run away</strong> з [арт.] зямля з на <strong>Absalom</strong> 
+2 Samuel 19:11 (8439) і <strong>Absalom</strong> які <strong>smear</strong> на паміраць у|[Тв.с.] [арт.] вайна і <strong>now</strong> чаму <strong>you</strong> <strong>be deaf</strong> да|[Д.с.] вяртацца [В.с.] [арт.] цар ס
+2 Samuel 19:12 (8440) і [арт.] цар Давыд слаць да <strong>Zadok</strong> і да <strong>Abiathar</strong> [арт.] <strong>priest</strong> да|[Д.с.] казаць гаварыць да старадаўні Егуда да|[Д.с.] казаць чаму быць апошні да|[Д.с.] вяртацца [В.с.] [арт.] цар да дом і слова|рэч цэлы|увесь Ісраэль прыйсці да [арт.] цар да дом 
+2 Samuel 19:13 (8441) брат <strong>you</strong> костка і мяса|плоць <strong>you</strong> і чаму быць апошні да|[Д.с.] вяртацца [В.с.] [арт.] цар 
+2 Samuel 19:14 (8442) і да|[Д.с.] <strong>Amasa</strong> казаць ці не костка і мяса|плоць ты[м.] такім чынам рабіць да|[Д.с.] Бог і такім чынам дадаць калі[зл.] не кіраўнік|міністр <strong>service</strong> быць да|[Д.с.] твар цэлы|увесь [арт.] дзень пад <strong>Joab</strong> 
+2 Samuel 19:15 (8443) і <strong>extend</strong> [В.с.] сэрца цэлы|увесь чалавек (1) Егуда як чалавек (1) адзін і слаць да [арт.] цар вяртацца ты[м.] і цэлы|увесь слуга 
+2 Samuel 19:16 (8444) і вяртацца [арт.] цар і прыйсці (ажно) да [арт.] <strong>Jordan</strong> і Егуда прыйсці [арт.] <strong>Gilgal</strong> да|[Д.с.] хадзіць да|[Д.с.] <strong>encounter</strong> [арт.] цар да|[Д.с.] перайсці [В.с.] [арт.] цар [В.с.] [арт.] <strong>Jordan</strong> 
+2 Samuel 19:17 (8445) і спяшацца|хутка [як прысл.] <strong>Shimei</strong> сын <strong>Gera</strong> сын [арт.] <strong>Benjaminite</strong> які з <strong>Bahurim</strong> і апускацца з чалавек (1) Егуда да|[Д.с.] <strong>encounter</strong> [арт.] цар Давыд 
+2 Samuel 19:18 (8446) і тысяча чалавек (1) з з Бін’ямін і <strong>Ziba</strong> хлапчук дом <strong>Saul</strong> і <strong>five</strong> <strong>-teen</strong> сын і <strong>twenty</strong> слуга разам з і <strong>be strong</strong> [арт.] <strong>Jordan</strong> да|[Д.с.] твар [арт.] цар 
+2 Samuel 19:19 (8447) і перайсці [арт.] <strong>crossing</strong> да|[Д.с.] перайсці [В.с.] дом [арт.] цар і да|[Д.с.] рабіць [арт.] добры у|[Тв.с.] вока і <strong>Shimei</strong> сын <strong>Gera</strong> падаць да|[Д.с.] твар [арт.] цар у|[Тв.с.] перайсці у|[Тв.с.] [арт.] <strong>Jordan</strong> 
+2 Samuel 19:20 (8448) і казаць да [арт.] цар не [+заг.лад] <strong>account</strong> да|[Д.с.] <strong>lord</strong> <strong>sin</strong> і не [+заг.лад] помніць [В.с.] які <strong>do wrong</strong> слуга у|[Тв.с.] [арт.] дзень які выйсці <strong>lord</strong> [арт.] цар з Ерусалім да|[Д.с.] класці|ставіць [арт.] цар да сэрца 
+2 Samuel 19:21 (8449) бо|што ведаць [+неад.]|займацца сэксам [+адуш.] слуга бо|што я заблудзіць і вось прыйсці [арт.] дзень першы да|[Д.с.] цэлы|увесь дом Ёсэ́ф да|[Д.с.] апускацца да|[Д.с.] <strong>encounter</strong> <strong>lord</strong> [арт.] цар ס
+2 Samuel 19:22 (8450) і адказаць <strong>Abishai</strong> сын <strong>Zeruiah</strong> і казаць ці пад <strong>this</strong> не паміраць <strong>Shimei</strong> бо|што <strong>be slight</strong> [В.с.] <strong>anointed</strong> Існы ס
+2 Samuel 19:23 (8451) і казаць Давыд што да|[Д.с.] і да|[Д.с.] сын <strong>Zeruiah</strong> бо|што быць да|[Д.с.] [арт.] дзень да|[Д.с.] <strong>adversary</strong> [арт.] дзень паміраць чалавек (1) у|[Тв.с.] Ісраэль бо|што ці не ведаць [+неад.]|займацца сэксам [+адуш.] бо|што [арт.] дзень я цар на Ісраэль 
+2 Samuel 19:24 (8452) і казаць [арт.] цар да <strong>Shimei</strong> не паміраць і <strong>swear</strong> да|[Д.с.] [арт.] цар ס
+2 Samuel 19:25 (8453) і <strong>Mephibosheth</strong> сын <strong>Saul</strong> апускацца да|[Д.с.] <strong>encounter</strong> [арт.] цар і не рабіць нага і не рабіць <strong>moustache</strong> і [В.с.] адзежа не <strong>wash</strong> да|[Д.с.] з [арт.] дзень хадзіць [арт.] цар (ажно) да [арт.] дзень які прыйсці у|[Тв.с.] згода 
+2 Samuel 19:26 (8454) і быць бо|што прыйсці Ерусалім да|[Д.с.] <strong>encounter</strong> [арт.] цар і казаць да|[Д.с.] [арт.] цар чаму не хадзіць з <strong>Mephibosheth</strong> 
+2 Samuel 19:27 (8455) і казаць <strong>lord</strong> [арт.] цар слуга <strong>deceive</strong> бо|што казаць слуга <strong>saddle</strong> да|[Д.с.] [арт.] <strong>he-ass</strong> і <strong>ride</strong> на і хадзіць разам з [арт.] цар бо|што <strong>lame</strong> слуга 
+2 Samuel 19:28 (8456) і <strong>slander</strong> у|[Тв.с.] слуга да <strong>lord</strong> [арт.] цар і <strong>lord</strong> [арт.] цар як пасланец [арт.] Бог і рабіць [арт.] добры у|[Тв.с.] вока 
+2 Samuel 19:29 (8457) бо|што не быць цэлы|увесь дом бацька бо|што калі[зл.] чалавек (1) смерць да|[Д.с.] <strong>lord</strong> [арт.] цар і <strong>put</strong> [В.с.] слуга у|[Тв.с.] есці <strong>table</strong> і што ёсць да|[Д.с.] яшчэ <strong>justice</strong> і да|[Д.с.] <strong>cry</strong> яшчэ да [арт.] цар פ
+2 Samuel 19:30 (8458) і казаць да|[Д.с.] [арт.] цар чаму гаварыць яшчэ слова|рэч казаць ты[м.] і <strong>Ziba</strong> <strong>divide</strong> [В.с.] [арт.] поле 
+2 Samuel 19:31 (8459) і казаць <strong>Mephibosheth</strong> да [арт.] цар таксама|нават [В.с.] [арт.] цэлы|увесь браць пасля які прыйсці <strong>lord</strong> [арт.] цар у|[Тв.с.] згода да дом ס
+2 Samuel 19:32 (8460) і <strong>Barzillai</strong> [арт.] <strong>Gileadite</strong> апускацца з <strong>Rogelim</strong> і перайсці разам з [арт.] цар [арт.] <strong>Jordan</strong> да|[Д.с.] слаць [В.с.] [арт.] <strong>Jordan</strong> 
+2 Samuel 19:33 (8461) і <strong>Barzillai</strong> <strong>be old</strong> вельмі сын восем год і ён <strong>comprehend</strong> [В.с.] [арт.] цар у|[Тв.с.] <strong>[uncertain]</strong> у|[Тв.с.] <strong>Mahanaim</strong> бо|што чалавек (1) вялікі ён вельмі 
+2 Samuel 19:34 (8462) і казаць [арт.] цар да <strong>Barzillai</strong> ты[м.] перайсці разам з і <strong>comprehend</strong> [В.с.] <strong>company</strong> у|[Тв.с.] Ерусалім 
+2 Samuel 19:35 (8463) і казаць <strong>Barzillai</strong> да [арт.] цар як што дзень год <strong>life</strong> бо|што падымацца разам з [арт.] цар Ерусалім 
+2 Samuel 19:36 (8464) сын восем год <strong>i</strong> [арт.] дзень ці ведаць [+неад.]|займацца сэксам [+адуш.] між добры да|[Д.с.] зло калі[зл.] <strong>taste</strong> слуга [В.с.] які есці і [В.с.] які піць калі[зл.] чуць яшчэ у|[Тв.с.] голас <strong>sing</strong> і <strong>sing</strong> і чаму быць слуга яшчэ да|[Д.с.] <strong>burden</strong> да <strong>lord</strong> [арт.] цар 
+2 Samuel 19:37 (8465) як <strong>little</strong> перайсці слуга [В.с.] [арт.] <strong>Jordan</strong> разам з [арт.] цар і чаму <strong>deal fully</strong> [арт.] цар [арт.] <strong>recompense</strong> [арт.] <strong>this</strong> 
+2 Samuel 19:38 (8466) вяртацца ж, -ка [узмацн.] слуга і паміраць у|[Тв.с.] горад з <strong>grave</strong> бацька і маці і вось слуга <strong>Kimham</strong> перайсці з <strong>lord</strong> [арт.] цар і рабіць да|[Д.с.] [В.с.] які <strong>be good</strong> у|[Тв.с.] вока ס
+2 Samuel 19:39 (8467) і казаць [арт.] цар разам з перайсці <strong>Kimham</strong> і я рабіць да|[Д.с.] [В.с.] [арт.] добры у|[Тв.с.] вока і цэлы|увесь які <strong>examine</strong> на рабіць да|[Д.с.] 
+2 Samuel 19:40 (8468) і перайсці цэлы|увесь [арт.] народ [В.с.] [арт.] <strong>Jordan</strong> і [арт.] цар перайсці і <strong>kiss</strong> [арт.] цар да|[Д.с.] <strong>Barzillai</strong> і <strong>bless</strong> і вяртацца да|[Д.с.] месца ס
+2 Samuel 19:41 (8469) і перайсці [арт.] цар [арт.] <strong>Gilgal</strong> і <strong>Kimham</strong> перайсці з і цэлы|увесь народ Егуда перайсці [В.с.] [арт.] цар і таксама|нават <strong>half</strong> народ Ісраэль 
+2 Samuel 19:42 (8470) і вось цэлы|увесь чалавек (1) Ісраэль прыйсці да [арт.] цар і казаць да [арт.] цар <strong>why</strong> красці брат чалавек (1) Егуда і перайсці [В.с.] [арт.] цар і [В.с.] дом [В.с.] [арт.] <strong>Jordan</strong> і цэлы|увесь чалавек (1) Давыд з ס
+2 Samuel 19:43 (8471) і адказаць цэлы|увесь чалавек (1) Егуда на чалавек (1) Ісраэль бо|што блізкі [арт.] цар да і чаму гэты <strong>be hot</strong> да|[Д.с.] на [арт.] слова|рэч [арт.] гэты ці есці есці з [арт.] цар калі[зл.] падняць падняць да|[Д.с.] ס
+2 Samuel 19:44 (8472) і адказаць чалавек (1) Ісраэль [В.с.] чалавек (1) Егуда і казаць <strong>ten</strong> рука да|[Д.с.] у|[Тв.с.] [арт.] цар і таксама|нават у|[Тв.с.] Давыд я з і <strong>why</strong> <strong>be slight</strong> і не быць слова|рэч першы да|[Д.с.] да|[Д.с.] вяртацца [В.с.] цар і <strong>be hard</strong> слова|рэч чалавек (1) Егуда з слова|рэч чалавек (1) Ісраэль ס
+2 Samuel 20:1 (8473) і там <strong>encounter</strong> чалавек (1) <strong>wickedness</strong> і імя <strong>Sheba</strong> сын <strong>Bicri</strong> чалавек (1) <strong>Benjaminite</strong> і <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> і казаць няма да|[Д.с.] частка у|[Тв.с.] Давыд і не уласнасць да|[Д.с.] у|[Тв.с.] сын <strong>Jesse</strong> чалавек (1) да|[Д.с.] <strong>tent</strong> Ісраэль 
+2 Samuel 20:2 (8474) і падымацца цэлы|увесь чалавек (1) Ісраэль з пасля Давыд пасля <strong>Sheba</strong> сын <strong>Bicri</strong> і чалавек (1) Егуда <strong>cling, cleave to</strong> у|[Тв.с.] цар з [арт.] <strong>Jordan</strong> і (ажно) да Ерусалім 
+2 Samuel 20:3 (8475) і прыйсці Давыд да дом Ерусалім і браць [арт.] цар [В.с.] <strong>ten</strong> жанчына <strong>concubine</strong> які асесць да|[Д.с.] захоўваць [арт.] дом і даць дом <strong>guard-post</strong> і <strong>comprehend</strong> і да не прыйсці і быць <strong>wrap, be narrow</strong> (ажно) да дзень паміраць <strong>widowhood</strong> <strong>lifetime</strong> ס
+2 Samuel 20:4 (8476) і казаць [арт.] цар да <strong>Amasa</strong> <strong>cry</strong> да|[Д.с.] [В.с.] чалавек (1) Егуда <strong>three</strong> дзень і ты[м.] <strong>here</strong> стаяць 
+2 Samuel 20:5 (8477) і хадзіць <strong>Amasa</strong> да|[Д.с.] <strong>cry</strong> [В.с.] Егуда і <strong>be behind</strong> з [арт.] <strong>appointment</strong> які <strong>appoint</strong> ס
+2 Samuel 20:6 (8478) і казаць Давыд да <strong>Abishai</strong> <strong>now</strong> <strong>be evil</strong> да|[Д.с.] <strong>Sheba</strong> сын <strong>Bicri</strong> з <strong>Absalom</strong> ты[м.] браць [В.с.] слуга <strong>lord</strong> і <strong>pursue</strong> пасля <strong>lest</strong> знайсці да|[Д.с.] горад <strong>fortified</strong> і <strong>deliver</strong> вока 
+2 Samuel 20:7 (8479) і выйсці пасля чалавек (1) <strong>Joab</strong> і [арт.] <strong>Cherethite</strong> і [арт.] <strong>Pelethite</strong> і цэлы|увесь [арт.] мужны|моцны і выйсці з Ерусалім да|[Д.с.] <strong>pursue</strong> пасля <strong>Sheba</strong> сын <strong>Bicri</strong> 
+2 Samuel 20:8 (8480) яны [ж.] з [арт.] камень [арт.] вялікі які у|[Тв.с.] <strong>Gibeon</strong> і <strong>Amasa</strong> прыйсці да|[Д.с.] твар і <strong>Joab</strong> <strong>gird</strong> <strong>cloth</strong> <strong>clothing</strong> і на <strong>girdle</strong> <strong>dagger</strong> <strong>attach</strong> на <strong>hips</strong> у|[Тв.с.] <strong>knife</strong> і ён выйсці і падаць ס
+2 Samuel 20:9 (8481) і казаць <strong>Joab</strong> да|[Д.с.] <strong>Amasa</strong> ці згода ты[м.] брат і <strong>seize</strong> рука правая частка <strong>Joab</strong> у|[Тв.с.] <strong>beard</strong> <strong>Amasa</strong> да|[Д.с.] <strong>kiss</strong> да|[Д.с.] 
+2 Samuel 20:10 (8482) і <strong>Amasa</strong> не захоўваць у|[Тв.с.] [арт.] <strong>dagger</strong> які у|[Тв.с.] рука <strong>Joab</strong> і <strong>strike</strong> у|[Тв.с.] да [арт.] <strong>belly</strong> і <strong>pour</strong> <strong>bowels</strong> зямля і не <strong>change</strong> да|[Д.с.] і паміраць і <strong>Joab</strong> і <strong>Abishai</strong> брат <strong>pursue</strong> пасля <strong>Sheba</strong> сын <strong>Bicri</strong> 
+2 Samuel 20:11 (8483) і чалавек (1) стаяць на з хлапчук <strong>Joab</strong> і казаць хто які <strong>desire</strong> у|[Тв.с.] <strong>Joab</strong> і хто які да|[Д.с.] Давыд пасля <strong>Joab</strong> 
+2 Samuel 20:12 (8484) і <strong>Amasa</strong> <strong>roll</strong> у|[Тв.с.] [арт.] <strong>blood</strong> у|[Тв.с.] <strong>midst</strong> [арт.] <strong>highway</strong> і бачыць [арт.] чалавек (1) бо|што стаяць цэлы|увесь [арт.] народ і <strong>turn</strong> [В.с.] <strong>Amasa</strong> з [арт.] <strong>highway</strong> [арт.] поле і кінуць на адзежа як які бачыць цэлы|увесь [арт.] прыйсці на і стаяць 
+2 Samuel 20:13 (8485) як які <strong>thrust away</strong> з [арт.] <strong>highway</strong> перайсці цэлы|увесь чалавек (1) пасля <strong>Joab</strong> да|[Д.с.] <strong>pursue</strong> пасля <strong>Sheba</strong> сын <strong>Bicri</strong> 
+2 Samuel 20:14 (8486) і перайсці у|[Тв.с.] цэлы|увесь <strong>rod</strong> Ісраэль <strong>Abel</strong> і дом <strong>Maacah</strong> і цэлы|увесь [арт.] <strong>[uncertain]</strong> і <strong>assemble</strong> і прыйсці нават пасля 
+2 Samuel 20:15 (8487) і прыйсці і <strong>bind</strong> на у|[Тв.с.] <strong>Abel</strong> дом [арт.] <strong>Maacah</strong> і <strong>pour</strong> <strong>rampart</strong> да [арт.] горад і стаяць у|[Тв.с.] [арт.] вал|знешняе ўмацаванне і цэлы|увесь [арт.] народ які разам з <strong>Joab</strong> <strong>destroy</strong> да|[Д.с.] падаць [арт.] <strong>wall</strong> 
+2 Samuel 20:16 (8488) і зваць жанчына разумны з [арт.] горад чуць чуць казаць ж, -ка [узмацн.] да <strong>Joab</strong> набліжацца (ажно) да <strong>here</strong> і гаварыць да 
+2 Samuel 20:17 (8489) і набліжацца да і казаць [арт.] жанчына ці ты[м.] <strong>Joab</strong> і казаць я і казаць да|[Д.с.] чуць слова|рэч <strong>handmaid</strong> і казаць чуць <strong>i</strong> 
+2 Samuel 20:18 (8490) і казаць да|[Д.с.] казаць гаварыць гаварыць у|[Тв.с.] [арт.] першы да|[Д.с.] казаць пытацца пытацца у|[Тв.с.] <strong>Abel</strong> і так <strong>be complete</strong> 
+2 Samuel 20:19 (8491) <strong>i</strong> <strong>be complete</strong> <strong>faithful</strong> Ісраэль ты[м.] шукаць да|[Д.с.] паміраць горад і маці у|[Тв.с.] Ісраэль чаму <strong>swallow</strong> уласнасць Існы פ
+2 Samuel 20:20 (8492) і адказаць <strong>Joab</strong> і казаць <strong>be it far</strong> <strong>be it far</strong> да|[Д.с.] калі[зл.] <strong>swallow</strong> і калі[зл.] <strong>destroy</strong> 
+2 Samuel 20:21 (8493) не так [арт.] слова|рэч бо|што чалавек (1) з гара Эфраі́м <strong>Sheba</strong> сын <strong>Bicri</strong> імя падняць рука у|[Тв.с.] [арт.] цар у|[Тв.с.] Давыд даць [В.с.] да|[Д.с.] частка і хадзіць з на [арт.] горад і казаць [арт.] жанчына да <strong>Joab</strong> вось галава кінуць да <strong>distance</strong> [арт.] <strong>wall</strong> 
+2 Samuel 20:22 (8494) і прыйсці [арт.] жанчына да цэлы|увесь [арт.] народ у|[Тв.с.] разумнасць і выразаць [В.с.] галава <strong>Sheba</strong> сын <strong>Bicri</strong> і кінуць да <strong>Joab</strong> і <strong>blow</strong> у|[Тв.с.] [арт.] <strong>horn</strong> і <strong>disperse</strong> з на [арт.] горад чалавек (1) да|[Д.с.] <strong>tent</strong> і <strong>Joab</strong> вяртацца Ерусалім да [арт.] цар ס
+2 Samuel 20:23 (8495) і <strong>Joab</strong> да цэлы|увесь [арт.] <strong>service</strong> Ісраэль і <strong>Benaiah</strong> сын <strong>Jehoiada</strong> на [арт.] <strong>Cherethite</strong> і на [арт.] <strong>Pelethite</strong> 
+2 Samuel 20:24 (8496) і <strong>Adoniram</strong> на [арт.] <strong>forced labour</strong> і <strong>Jehoshaphat</strong> сын <strong>Ahilud</strong> [арт.] помніць 
+2 Samuel 20:25 (8497) і <strong>Sheva</strong> <strong>scribe</strong> і <strong>Zadok</strong> і <strong>Abiathar</strong> <strong>priest</strong> 
+2 Samuel 20:26 (8498) і таксама|нават <strong>Ira</strong> [арт.] <strong>Jairite</strong> быць <strong>priest</strong> да|[Д.с.] Давыд ס
+2 Samuel 21:1 (8499) і быць <strong>hunger</strong> у|[Тв.с.] дзень Давыд <strong>three</strong> год год пасля год і шукаць Давыд [В.с.] твар Існы і казаць Існы да <strong>Saul</strong> і да дом [арт.] <strong>blood</strong> на які паміраць [В.с.] [арт.] <strong>Gibeonite</strong> 
+2 Samuel 21:2 (8500) і зваць [арт.] цар да|[Д.с.] [арт.] <strong>Gibeonite</strong> і казаць да і [арт.] <strong>Gibeonite</strong> не з сын Ісраэль яны бо|што калі[зл.] з <strong>remainder</strong> [арт.] <strong>Amorite</strong> і сын Ісраэль <strong>swear</strong> да|[Д.с.] і шукаць <strong>Saul</strong> да|[Д.с.] <strong>strike</strong> у|[Тв.с.] <strong>be jealous</strong> да|[Д.с.] сын Ісраэль і Егуда 
+2 Samuel 21:3 (8501) і казаць Давыд да [арт.] <strong>Gibeonite</strong> што рабіць да|[Д.с.] і у|[Тв.с.] што <strong>cover</strong> і <strong>bless</strong> [В.с.] уласнасць Існы 
+2 Samuel 21:4 (8502) і казаць да|[Д.с.] [арт.] <strong>Gibeonite</strong> няма да|[Д.с.] срэбра і золата з <strong>Saul</strong> і з дом і няма да|[Д.с.] чалавек (1) да|[Д.с.] паміраць у|[Тв.с.] Ісраэль і казаць што <strong>you</strong> казаць рабіць да|[Д.с.] 
+2 Samuel 21:5 (8503) і казаць да [арт.] цар [арт.] чалавек (1) які <strong>be complete</strong> і які <strong>be like</strong> да|[Д.с.] <strong>destroy</strong> з <strong>stand</strong> у|[Тв.с.] цэлы|увесь мяжа Ісраэль 
+2 Samuel 21:6 (8504) даць да|[Д.с.] сем чалавек (1) з сын і <strong>turn</strong> да|[Д.с.] Існы у|[Тв.с.] <strong>hill</strong> <strong>Saul</strong> <strong>chosen</strong> Існы і казаць [арт.] цар я даць 
+2 Samuel 21:7 (8505) і <strong>have compassion</strong> [арт.] цар на <strong>Mephibosheth</strong> сын <strong>Jehonathan</strong> сын <strong>Saul</strong> на <strong>oath</strong> Існы які між між Давыд і між <strong>Jehonathan</strong> сын <strong>Saul</strong> 
+2 Samuel 21:8 (8506) і браць [арт.] цар [В.с.] два сын <strong>Rizpah</strong> дачка <strong>Ayyah</strong> які нарадзіць да|[Д.с.] <strong>Saul</strong> [В.с.] <strong>Armoni</strong> і [В.с.] <strong>Mephibosheth</strong> і [В.с.] <strong>five</strong> сын <strong>Michal</strong> дачка <strong>Saul</strong> які нарадзіць да|[Д.с.] <strong>Adriel</strong> сын <strong>Barzillai</strong> [арт.] <strong>Meholathite</strong> 
+2 Samuel 21:9 (8507) і даць у|[Тв.с.] рука [арт.] <strong>Gibeonite</strong> і <strong>turn</strong> у|[Тв.с.] [арт.] гара да|[Д.с.] твар Існы і падаць сем <strong>gathering</strong> і яны паміраць у|[Тв.с.] дзень <strong>harvest</strong> у|[Тв.с.] [арт.] першы у|[Тв.с.] <strong>beginning</strong> <strong>harvest</strong> <strong>barley</strong> 
+2 Samuel 21:10 (8508) і браць <strong>Rizpah</strong> дачка <strong>Ayyah</strong> [В.с.] [арт.] <strong>sack</strong> і <strong>extend</strong> да|[Д.с.] да [арт.] <strong>rock</strong> з <strong>beginning</strong> <strong>harvest</strong> (ажно) да <strong>pour</strong> вада на з [арт.] неба і не даць птушкі [арт.] неба да|[Д.с.] асесць на <strong>by day</strong> і [В.с.] <strong>wild animal</strong> [арт.] поле ноч 
+2 Samuel 21:11 (8509) і абвяшчаць да|[Д.с.] Давыд [В.с.] які рабіць <strong>Rizpah</strong> дачка <strong>Ayyah</strong> <strong>concubine</strong> <strong>Saul</strong> 
+2 Samuel 21:12 (8510) і хадзіць Давыд і браць [В.с.] костка <strong>Saul</strong> і [В.с.] костка <strong>Jehonathan</strong> сын з разам з хазяін <strong>Jabesh</strong> Гіл’ад які красці [В.с.] з <strong>open place</strong> <strong>Beth Shan</strong> які <strong>hang</strong> там філістынец у|[Тв.с.] дзень <strong>strike</strong> філістынец [В.с.] <strong>Saul</strong> у|[Тв.с.] [арт.] <strong>Gilboa</strong> 
+2 Samuel 21:13 (8511) і падымацца з там [В.с.] костка <strong>Saul</strong> і [В.с.] костка <strong>Jehonathan</strong> сын і збіраць [В.с.] костка [арт.] <strong>turn</strong> 
+2 Samuel 21:14 (8512) і пахаваць [В.с.] костка <strong>Saul</strong> і <strong>Jehonathan</strong> сын у|[Тв.с.] зямля Бін’ямін у|[Тв.с.] <strong>Zela</strong> у|[Тв.с.] <strong>grave</strong> <strong>Kish</strong> бацька і рабіць цэлы|увесь які <strong>command</strong> [арт.] цар і <strong>entreat</strong> Бог да|[Д.с.] [арт.] зямля пасля так פ
+2 Samuel 21:15 (8513) і быць яшчэ вайна да|[Д.с.] [арт.] філістынец разам з Ісраэль і апускацца Давыд і слуга з і <strong>fight</strong> разам з філістынец і <strong>be faint</strong> Давыд 
+2 Samuel 21:16 (8514) і <strong>Ishbi-Benob</strong> у|[Тв.с.] <strong>Nob</strong> які у|[Тв.с.] <strong>son</strong> [арт.] <strong>Rapha</strong> і <strong>weight</strong> <strong>spear</strong> <strong>three</strong> сотня <strong>weight</strong> <strong>bronze</strong> і ён <strong>gird</strong> новы і казаць да|[Д.с.] <strong>strike</strong> [В.с.] Давыд 
+2 Samuel 21:17 (8515) і <strong>help</strong> да|[Д.с.] <strong>Abishai</strong> сын <strong>Zeruiah</strong> і <strong>strike</strong> [В.с.] [арт.] філістынец і паміраць тады <strong>swear</strong> чалавек (1) Давыд да|[Д.с.] да|[Д.с.] казаць не выйсці яшчэ разам з да|[Д.с.] [арт.] вайна і не <strong>go out</strong> [В.с.] <strong>lamp</strong> Ісраэль פ
+2 Samuel 21:18 (8516) і быць пасля так і быць яшчэ [арт.] вайна у|[Тв.с.] <strong>Gob</strong> з філістынец тады <strong>strike</strong> <strong>Sibbecai</strong> [арт.] <strong>Hushathite</strong> [В.с.] <strong>Saph</strong> які у|[Тв.с.] <strong>son</strong> [арт.] <strong>Rapha</strong> פ
+2 Samuel 21:19 (8517) і быць яшчэ [арт.] вайна у|[Тв.с.] <strong>Gob</strong> з філістынец і <strong>strike</strong> <strong>Elhanan</strong> сын <strong>Jaare-oregim</strong> <strong>weave</strong> дом [арт.] <strong>-lehemite</strong> [В.с.] <strong>Goliath</strong> [арт.] <strong>Gittite</strong> і дрэва <strong>spear</strong> як <strong>weaver's beam</strong> <strong>weave</strong> ס
+2 Samuel 21:20 (8518) і быць яшчэ вайна у|[Тв.с.] <strong>Gath</strong> і быць чалавек (1) <strong>contention</strong> і <strong>finger</strong> рука і <strong>finger</strong> нага <strong>six</strong> і <strong>six</strong> <strong>twenty</strong> і <strong>four</strong> лік і таксама|нават ён нарадзіць да|[Д.с.] [арт.] <strong>Rapha</strong> 
+2 Samuel 21:21 (8519) і <strong>reproach</strong> [В.с.] Ісраэль і <strong>strike</strong> <strong>Jehonathan</strong> сын <strong>Shimeah</strong> брат Давыд 
+2 Samuel 21:22 (8520) [В.с.] <strong>four</strong> гэтыя нарадзіць да|[Д.с.] [арт.] <strong>Rapha</strong> у|[Тв.с.] <strong>Gath</strong> і падаць у|[Тв.с.] рука Давыд і у|[Тв.с.] рука слуга פ
+2 Samuel 22:1 (8521) і гаварыць Давыд да|[Д.с.] Існы [В.с.] слова|рэч [арт.] <strong>song</strong> [арт.] <strong>this</strong> у|[Тв.с.] дзень <strong>deliver</strong> Існы [В.с.] з далонь цэлы|увесь <strong>be hostile</strong> і з далонь <strong>Saul</strong> 
+2 Samuel 22:2 (8522) і казаць Існы скала і <strong>fortification</strong> і <strong>escape</strong> да|[Д.с.] 
+2 Samuel 22:3 (8523) Бог <strong>rock</strong> <strong>seek refuge</strong> у|[Тв.с.] <strong>shield</strong> і <strong>horn</strong> <strong>help</strong> <strong>secure height</strong> і <strong>refuge</strong> збавіць з гвалт збавіць 
+2 Samuel 22:4 (8524) <strong>praise</strong> зваць Існы і з <strong>be hostile</strong> збавіць 
+2 Samuel 22:5 (8525) бо|што <strong>encompass</strong> <strong>breaker</strong> смерць <strong>wadi</strong> <strong>wickedness</strong> <strong>terrify</strong> 
+2 Samuel 22:6 (8526) <strong>cord</strong> <strong>nether world</strong> <strong>turn</strong> <strong>be in front</strong> <strong>bait</strong> смерць 
+2 Samuel 22:7 (8527) у|[Тв.с.] [арт.] <strong>narrow</strong> да|[Д.с.] зваць Існы і да Бог зваць і чуць з <strong>palace</strong> голас і <strong>cry</strong> у|[Тв.с.] вуха 
+2 Samuel 22:8 (8528) і <strong>shake</strong> і <strong>quake</strong> [арт.] зямля <strong>foundation</strong> [арт.] неба <strong>quake</strong> і <strong>shake</strong> бо|што <strong>be hot</strong> да|[Д.с.] 
+2 Samuel 22:9 (8529) падымацца <strong>smoke</strong> у|[Тв.с.] <strong>nose</strong> і агонь з рот есці <strong>charcoals</strong> <strong>burn</strong> з 
+2 Samuel 22:10 (8530) і <strong>extend</strong> неба і апускацца і <strong>darkness</strong> пад нага 
+2 Samuel 22:11 (8531) і <strong>ride</strong> на <strong>cherub</strong> і <strong>fly</strong> і бачыць на крыло вецер 
+2 Samuel 22:12 (8532) і <strong>put</strong> цемра вакол <strong>cover of foliage</strong> <strong>[uncertain]</strong> вада воблака|хмара <strong>dust</strong> 
+2 Samuel 22:13 (8533) з <strong>brightness</strong> перад <strong>burn</strong> <strong>charcoals</strong> агонь 
+2 Samuel 22:14 (8534) <strong>thunder</strong> з неба Існы і <strong>upper</strong> даць голас 
+2 Samuel 22:15 (8535) і слаць <strong>arrow</strong> і <strong>disperse</strong> <strong>lightning</strong> і <strong>confuse</strong> 
+2 Samuel 22:16 (8536) і бачыць <strong>stream</strong> мора <strong>uncover</strong> <strong>foundation</strong> <strong>world</strong> у|[Тв.с.] <strong>rebuke</strong> Існы з <strong>breath</strong> вецер <strong>nose</strong> 
+2 Samuel 22:17 (8537) слаць з узвышанасць браць <strong>draw out</strong> з вада шматлікі 
+2 Samuel 22:18 (8538) <strong>deliver</strong> з <strong>be hostile</strong> <strong>strong</strong> з ненавідзець бо|што <strong>be strong</strong> з 
+2 Samuel 22:19 (8539) <strong>be in front</strong> у|[Тв.с.] дзень няшчасце і быць Існы <strong>support</strong> да|[Д.с.] 
+2 Samuel 22:20 (8540) і выйсці да|[Д.с.] [арт.] <strong>wide place</strong> [В.с.] <strong>draw off</strong> бо|што <strong>desire</strong> у|[Тв.с.] 
+2 Samuel 22:21 (8541) <strong>deal fully</strong> Існы як <strong>justice</strong> як <strong>cleanness</strong> рука вяртацца да|[Д.с.] 
+2 Samuel 22:22 (8542) бо|што захоўваць шлях Існы і не <strong>be guilty</strong> з Бог 
+2 Samuel 22:23 (8543) бо|што цэлы|увесь правасуддзе да|[Д.с.] перад і <strong>regulation</strong> не збочыць з 
+2 Samuel 22:24 (8544) і быць <strong>complete</strong> да|[Д.с.] і захоўваць з <strong>sin</strong> 
+2 Samuel 22:25 (8545) і вяртацца Існы да|[Д.с.] як <strong>justice</strong> як <strong>cleanness</strong> да|[Д.с.] перад вока 
+2 Samuel 22:26 (8546) з <strong>loyal</strong> <strong>act piously</strong> з мужны|моцны <strong>complete</strong> <strong>be complete</strong> 
+2 Samuel 22:27 (8547) з <strong>purge</strong> <strong>[uncertain]</strong> і з <strong>crooked</strong> <strong>be silly</strong> 
+2 Samuel 22:28 (8548) і [В.с.] народ <strong>humble</strong> збавіць і вока на <strong>be high</strong> <strong>be low</strong> 
+2 Samuel 22:29 (8549) бо|што ты[м.] <strong>lamp</strong> Існы і Існы <strong>shine</strong> цемра 
+2 Samuel 22:30 (8550) бо|што у|[Тв.с.] бяжаць <strong>band</strong> у|[Тв.с.] Бог <strong>ascend</strong> <strong>wall</strong> 
+2 Samuel 22:31 (8551) [арт.] <strong>god</strong> <strong>complete</strong> шлях <strong>word</strong> Існы <strong>melt</strong> <strong>shield</strong> ён да|[Д.с.] цэлы|увесь [арт.] <strong>seek refuge</strong> у|[Тв.с.] 
+2 Samuel 22:32 (8552) бо|што хто <strong>god</strong> з <strong>without</strong> Існы і хто <strong>rock</strong> з <strong>without</strong> Бог 
+2 Samuel 22:33 (8553) [арт.] <strong>god</strong> <strong>fort</strong> моц і <strong>run</strong> <strong>complete</strong> шлях 
+2 Samuel 22:34 (8554) <strong>be like</strong> нага як [арт.] <strong>doe</strong> і на <strong>high place</strong> стаяць 
+2 Samuel 22:35 (8555) <strong>learn</strong> рука да|[Д.с.] [арт.] вайна і <strong>descend</strong> <strong>bow</strong> <strong>bronze</strong> <strong>arm</strong> 
+2 Samuel 22:36 (8556) і даць да|[Д.с.] <strong>shield</strong> <strong>help</strong> і адказаць шмат 
+2 Samuel 22:37 (8557) <strong>be wide</strong> <strong>marching</strong> пад і не <strong>shake</strong> <strong>ankle</strong> 
+2 Samuel 22:38 (8558) <strong>pursue</strong> <strong>be hostile</strong> і <strong>destroy</strong> і не вяртацца (ажно) да <strong>be complete</strong> 
+2 Samuel 22:39 (8559) і <strong>be complete</strong> і <strong>break</strong> і не устаць і падаць пад нага 
+2 Samuel 22:40 (8560) і <strong>put on</strong> моц да|[Д.с.] [арт.] вайна <strong>kneel</strong> устаць пад 
+2 Samuel 22:41 (8561) і <strong>be hostile</strong> даць да|[Д.с.] <strong>neck</strong> ненавідзець і <strong>be silent</strong> 
+2 Samuel 22:42 (8562) <strong>look</strong> і няма збавіць да Існы і не адказаць 
+2 Samuel 22:43 (8563) і <strong>pulverise</strong> як пыл зямля як <strong>clay</strong> <strong>outside</strong> <strong>crush</strong> <strong>stamp</strong> 
+2 Samuel 22:44 (8564) і <strong>escape</strong> з <strong>law-case</strong> народ захоўваць да|[Д.с.] галава знешні народ народ не ведаць [+неад.]|займацца сэксам [+адуш.] працаваць 
+2 Samuel 22:45 (8565) сын <strong>foreigner</strong> <strong>grow lean</strong> да|[Д.с.] да|[Д.с.] чуць вуха чуць да|[Д.с.] 
+2 Samuel 22:46 (8566) сын <strong>foreigner</strong> <strong>wither</strong> і <strong>gird</strong> з <strong>bulwark</strong> 
+2 Samuel 22:47 (8567) жывы Існы і <strong>bless</strong> <strong>rock</strong> і <strong>be high</strong> Бог <strong>rock</strong> <strong>help</strong> 
+2 Samuel 22:48 (8568) [арт.] <strong>god</strong> [арт.] даць <strong>vengeance</strong> да|[Д.с.] і апускацца народ пад 
+2 Samuel 22:49 (8569) і выйсці з <strong>be hostile</strong> і з устаць <strong>be high</strong> з чалавек (1) гвалт <strong>deliver</strong> 
+2 Samuel 22:50 (8570) на так <strong>praise</strong> Існы у|[Тв.с.] [арт.] знешні народ і да|[Д.с.] імя <strong>sing</strong> 
+2 Samuel 22:51 (8571) <strong>[uncertain]</strong> <strong>salvation</strong> цар і рабіць <strong>loyalty</strong> да|[Д.с.] <strong>anointed</strong> да|[Д.с.] Давыд і да|[Д.с.] семя (ажно) да свет|вечнасць פ
+2 Samuel 23:1 (8572) і гэтыя слова|рэч Давыд [арт.] апошні прароцтва Давыд сын <strong>Jesse</strong> і прароцтва [арт.] <strong>vigorous man</strong> устаць <strong>height</strong> <strong>anointed</strong> Бог Яако́ў і <strong>pleasant</strong> <strong>song</strong> Ісраэль 
+2 Samuel 23:2 (8573) вецер Існы гаварыць у|[Тв.с.] і <strong>word</strong> на язык 
+2 Samuel 23:3 (8574) казаць Бог Ісраэль да|[Д.с.] гаварыць <strong>rock</strong> Ісраэль <strong>rule</strong> у|[Тв.с.] [арт.] чалавек (від) справядлівы|правільны <strong>rule</strong> <strong>fear</strong> Бог 
+2 Samuel 23:4 (8575) і як святло раніца <strong>flash up</strong> сонца раніца не воблака|хмара з <strong>brightness</strong> з <strong>rain</strong> <strong>young grass</strong> з зямля 
+2 Samuel 23:5 (8576) бо|што не так дом з <strong>god</strong> бо|што дамова свет|вечнасць класці|ставіць да|[Д.с.] <strong>arrange</strong> у|[Тв.с.] [арт.] цэлы|увесь і захоўваць бо|што цэлы|увесь <strong>help</strong> і цэлы|увесь <strong>pleasure</strong> бо|што не <strong>sprout</strong> 
+2 Samuel 23:6 (8577) і <strong>wickedness</strong> як <strong>snuff</strong> <strong>flee</strong> цэлы|увесь бо|што не у|[Тв.с.] рука браць 
+2 Samuel 23:7 (8578) і чалавек (1) <strong>touch</strong> у|[Тв.с.] поўніцца жалеза і дрэва <strong>spear</strong> і у|[Тв.с.] [арт.] агонь <strong>burn</strong> <strong>burn</strong> у|[Тв.с.] [арт.] <strong>inaction</strong> פ
+2 Samuel 23:8 (8579) гэтыя імя [арт.] мужны|моцны які да|[Д.с.] Давыд сядзець у|[Тв.с.] [арт.] <strong>inaction</strong> <strong>Tahkemonite</strong> галава [арт.] <strong>third</strong> ён <strong>Adino</strong> [арт.] <strong>[uncertain]</strong> на восем сотня <strong>pierced</strong> у|[Тв.с.] <strong>foot</strong> адзін 
+2 Samuel 23:9 (8580) і пасля <strong>Eleazar</strong> сын <strong>Dodo</strong> сын <strong>Ahohite</strong> у|[Тв.с.] <strong>three</strong> [арт.] мужны|моцны з Давыд у|[Тв.с.] <strong>reproach</strong> у|[Тв.с.] [арт.] філістынец збіраць там да|[Д.с.] [арт.] вайна і падымацца чалавек (1) Ісраэль 
+2 Samuel 23:10 (8581) ён устаць і <strong>strike</strong> у|[Тв.с.] [арт.] філістынец (ажно) да бо|што <strong>be weary</strong> рука і <strong>cling, cleave to</strong> рука да [арт.] <strong>dagger</strong> і рабіць Існы <strong>salvation</strong> вялікі у|[Тв.с.] [арт.] дзень [арт.] ён і [арт.] народ вяртацца пасля <strong>only</strong> да|[Д.с.] <strong>strip off</strong> ס
+2 Samuel 23:11 (8582) і пасля <strong>Shamma</strong> сын <strong>Agee</strong> <strong>Hararite</strong> і збіраць філістынец да|[Д.с.] [арт.] <strong>wild animal</strong> і быць там <strong>plot of land</strong> [арт.] поле поўніцца <strong>lentil</strong> і [арт.] народ <strong>flee</strong> з твар філістынец 
+2 Samuel 23:12 (8583) і <strong>stand</strong> у|[Тв.с.] <strong>midst</strong> [арт.] <strong>plot of land</strong> і <strong>deliver</strong> і <strong>strike</strong> [В.с.] філістынец і рабіць Існы <strong>salvation</strong> вялікі ס
+2 Samuel 23:13 (8584) і апускацца <strong>three</strong> з [арт.] <strong>three</strong> галава і прыйсці да <strong>harvest</strong> да Давыд да <strong>cave</strong> <strong>Adullam</strong> і <strong>tent camp</strong> філістынец <strong>encamp</strong> у|[Тв.с.] <strong>valley</strong> <strong>[valley]</strong> 
+2 Samuel 23:14 (8585) і Давыд тады у|[Тв.с.] [арт.] <strong>fortification</strong> і <strong>standing place</strong> філістынец тады <strong>Bethlehem</strong> 
+2 Samuel 23:15 (8586) і <strong>wish</strong> Давыд і казаць хто <strong>give drink</strong> вада з <strong>cistern</strong> <strong>Bethlehem</strong> які у|[Тв.с.] [арт.] брама 
+2 Samuel 23:16 (8587) і <strong>split</strong> <strong>three</strong> [арт.] мужны|моцны у|[Тв.с.] <strong>camp</strong> філістынец і <strong>draw water</strong> вада з <strong>cistern</strong> <strong>Bethlehem</strong> які у|[Тв.с.] [арт.] брама і падняць і прыйсці да Давыд і не <strong>want</strong> да|[Д.с.] піць і <strong>pour</strong> [В.с.] да|[Д.с.] Існы 
+2 Samuel 23:17 (8588) і казаць <strong>be it far</strong> да|[Д.с.] Існы з рабіць <strong>this</strong> ці <strong>blood</strong> [арт.] чалавек (1) [арт.] хадзіць у|[Тв.с.] душа і не <strong>want</strong> да|[Д.с.] піць гэтыя рабіць <strong>three</strong> [арт.] мужны|моцны ס
+2 Samuel 23:18 (8589) і <strong>Abishai</strong> брат <strong>Joab</strong> сын <strong>Zeruiah</strong> ён галава [арт.] <strong>three</strong> і ён <strong>be awake</strong> [В.с.] <strong>spear</strong> на <strong>three</strong> сотня <strong>pierced</strong> і да|[Д.с.] імя у|[Тв.с.] [арт.] <strong>three</strong> 
+2 Samuel 23:19 (8590) з [арт.] <strong>three</strong> ці бо|што <strong>be heavy</strong> і быць да|[Д.с.] да|[Д.с.] кіраўнік|міністр і (ажно) да [арт.] <strong>three</strong> не прыйсці ס
+2 Samuel 23:20 (8591) і <strong>Benaiah</strong> сын <strong>Jehoiada</strong> сын чалавек (1) моц шматлікі <strong>doing</strong> з <strong>Kabzeel</strong> ён <strong>strike</strong> [В.с.] два <strong>Ariel</strong> <strong>Moab</strong> і ён апускацца і <strong>strike</strong> [В.с.] [арт.] <strong>lion</strong> у|[Тв.с.] <strong>midst</strong> [арт.] <strong>cistern</strong> у|[Тв.с.] дзень [арт.] <strong>snow</strong> 
+2 Samuel 23:21 (8592) і ён <strong>strike</strong> [В.с.] чалавек (1) <strong>Egyptian</strong> чалавек (1) <strong>sight</strong> і у|[Тв.с.] рука [арт.] <strong>Egyptian</strong> <strong>spear</strong> і апускацца да у|[Тв.с.] [арт.] <strong>rod</strong> і <strong>tear away</strong> [В.с.] [арт.] <strong>spear</strong> з рука [арт.] <strong>Egyptian</strong> і <strong>kill</strong> у|[Тв.с.] <strong>spear</strong> 
+2 Samuel 23:22 (8593) гэтыя рабіць <strong>Benaiah</strong> сын <strong>Jehoiada</strong> і да|[Д.с.] імя у|[Тв.с.] <strong>three</strong> [арт.] мужны|моцны 
+2 Samuel 23:23 (8594) з [арт.] <strong>three</strong> <strong>be heavy</strong> і да [арт.] <strong>three</strong> не прыйсці і класці|ставіць Давыд да <strong>subject</strong> ס
+2 Samuel 23:24 (8595) <strong>Asahel</strong> брат <strong>Joab</strong> у|[Тв.с.] [арт.] <strong>three</strong> <strong>Elhanan</strong> сын <strong>Dodo</strong> <strong>Bethlehem</strong> 
+2 Samuel 23:25 (8596) <strong>Shammah</strong> [арт.] <strong>Harodite</strong> <strong>Elika</strong> [арт.] <strong>Harodite</strong> ס
+2 Samuel 23:26 (8597) <strong>Helez</strong> [арт.] <strong>Paltite</strong> <strong>Ira</strong> сын <strong>Ikkesh</strong> [арт.] <strong>Tekoite</strong> ס
+2 Samuel 23:27 (8598) <strong>Abiezer</strong> [арт.] <strong>Anathothite</strong> <strong>Mebunnai</strong> [арт.] <strong>Hushathite</strong> ס
+2 Samuel 23:28 (8599) <strong>Zalmon</strong> [арт.] <strong>Ahohite</strong> <strong>Maharai</strong> [арт.] <strong>Netophathite</strong> ס
+2 Samuel 23:29 (8600) <strong>Heled</strong> сын <strong>Baanah</strong> [арт.] <strong>Netophathite</strong> <strong>Ittai</strong> сын <strong>Ribai</strong> з <strong>hill</strong> сын Бін’ямін ס
+2 Samuel 23:30 (8601) <strong>Benaiah</strong> <strong>Pirathonite</strong> <strong>Hiddai</strong> з <strong>wadi</strong> <strong>Gaash</strong> ס
+2 Samuel 23:31 (8602) <strong>Abi-albon</strong> [арт.] <strong>Arbathite</strong> <strong>Azmaveth</strong> [арт.] <strong>Barhumite</strong> ס
+2 Samuel 23:32 (8603) <strong>Eliahba</strong> [арт.] <strong>Shaalbonite</strong> сын <strong>Jashen</strong> <strong>Jehonathan</strong> ס
+2 Samuel 23:33 (8604) <strong>Shammah</strong> [арт.] <strong>Hararite</strong> <strong>Ahiam</strong> сын <strong>Sharar</strong> [арт.] <strong>[uncertain]</strong> ס
+2 Samuel 23:34 (8605) <strong>Eliphelet</strong> сын <strong>Ahasbai</strong> сын [арт.] <strong>Maacathite</strong> <strong>Eliam</strong> сын <strong>Ahithophel</strong> [арт.] <strong>Gilonite</strong> ס
+2 Samuel 23:35 (8606) <strong>Hezro</strong> [арт.] <strong>Carmelite</strong> <strong>Paarai</strong> [арт.] <strong>Arbite</strong> ס
+2 Samuel 23:36 (8607) <strong>Igal</strong> сын <strong>Nathan</strong> з <strong>Zobah</strong> <strong>Bani</strong> [арт.] <strong>Gadite</strong> ס
+2 Samuel 23:37 (8608) <strong>Zelek</strong> [арт.] <strong>Ammonite</strong> <strong>Naharai</strong> [арт.] <strong>Beerothite</strong> падняць прылада <strong>Joab</strong> сын <strong>Zeruiah</strong> ס
+2 Samuel 23:38 (8609) <strong>Ira</strong> [арт.] <strong>Ithrite</strong> <strong>Gareb</strong> [арт.] <strong>Ithrite</strong> ס
+2 Samuel 23:39 (8610) <strong>Uriah</strong> [арт.] <strong>Hittite</strong> цэлы|увесь <strong>three</strong> і сем פ
+2 Samuel 24:1 (8611) і дадаць <strong>nose</strong> Існы да|[Д.с.] <strong>be hot</strong> у|[Тв.с.] Ісраэль і <strong>incite</strong> [В.с.] Давыд у|[Тв.с.] да|[Д.с.] казаць хадзіць <strong>count</strong> [В.с.] Ісраэль і [В.с.] Егуда 
+2 Samuel 24:2 (8612) і казаць [арт.] цар да <strong>Joab</strong> кіраўнік|міністр [арт.] моц які разам з <strong>rove about</strong> ж, -ка [узмацн.] у|[Тв.с.] цэлы|увесь <strong>rod</strong> Ісраэль з <strong>Dan</strong> і (ажно) да <strong>well</strong> <strong>Sheba</strong> і <strong>miss</strong> [В.с.] [арт.] народ і ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] лік [арт.] народ ס
+2 Samuel 24:3 (8613) і казаць <strong>Joab</strong> да [арт.] цар і дадаць Існы Бог да [арт.] народ як і як сотня <strong>foot</strong> і вока <strong>lord</strong> [арт.] цар бачыць і <strong>lord</strong> [арт.] цар чаму <strong>desire</strong> у|[Тв.с.] [арт.] слова|рэч [арт.] гэты 
+2 Samuel 24:4 (8614) і <strong>be strong</strong> слова|рэч [арт.] цар да <strong>Joab</strong> і на кіраўнік|міністр [арт.] моц і выйсці <strong>Joab</strong> і кіраўнік|міністр [арт.] моц да|[Д.с.] твар [арт.] цар да|[Д.с.] <strong>miss</strong> [В.с.] [арт.] народ [В.с.] Ісраэль 
+2 Samuel 24:5 (8615) і перайсці [В.с.] [арт.] <strong>Jordan</strong> і <strong>encamp</strong> у|[Тв.с.] <strong>Aroer</strong> правая частка [арт.] горад які у|[Тв.с.] <strong>midst</strong> [арт.] <strong>wadi</strong> [арт.] <strong>Gad</strong> і да <strong>Jazer</strong> 
+2 Samuel 24:6 (8616) і прыйсці [арт.] Гіл’ад і да зямля <strong>Tahtim Hodshi</strong> і прыйсці <strong>Dan</strong> <strong>motive</strong> і вакол да <strong>Sidon</strong> 
+2 Samuel 24:7 (8617) і прыйсці <strong>fortification</strong> <strong>Tyrus</strong> і цэлы|увесь горад [арт.] <strong>Hivite</strong> і [арт.] канаанец і выйсці да поўдзеь Егуда <strong>well</strong> <strong>Sheba</strong> 
+2 Samuel 24:8 (8618) і <strong>rove about</strong> у|[Тв.с.] цэлы|увесь [арт.] зямля і прыйсці з <strong>end</strong> <strong>nine</strong> <strong>month</strong> і <strong>twenty</strong> дзень Ерусалім 
+2 Samuel 24:9 (8619) і даць <strong>Joab</strong> [В.с.] лік <strong>order</strong> [арт.] народ да [арт.] цар і быць Ісраэль восем сотня тысяча чалавек (1) моц <strong>draw</strong> <strong>dagger</strong> і чалавек (1) Егуда <strong>five</strong> сотня тысяча чалавек (1) 
+2 Samuel 24:10 (8620) і <strong>strike</strong> сэрца Давыд [В.с.] пасля так <strong>count</strong> [В.с.] [арт.] народ і казаць Давыд да Існы заблудзіць вельмі які рабіць і <strong>now</strong> Існы перайсці ж, -ка [узмацн.] [В.с.] <strong>sin</strong> слуга бо|што <strong>be foolish</strong> вельмі 
+2 Samuel 24:11 (8621) і устаць Давыд у|[Тв.с.] [арт.] раніца і слова|рэч Існы быць да <strong>Gad</strong> [арт.] <strong>prophet</strong> <strong>seer</strong> Давыд да|[Д.с.] казаць 
+2 Samuel 24:12 (8622) хадзіць і гаварыць да Давыд такім чынам казаць Існы <strong>three</strong> <strong>i</strong> <strong>lay upon</strong> на <strong>examine</strong> да|[Д.с.] адзін з і рабіць да|[Д.с.] 
+2 Samuel 24:13 (8623) і прыйсці <strong>Gad</strong> да Давыд і абвяшчаць да|[Д.с.] і казаць да|[Д.с.] ці прыйсці да|[Д.с.] сем год <strong>hunger</strong> у|[Тв.с.] зямля калі[зл.] <strong>three</strong> <strong>month</strong> <strong>flee</strong> да|[Д.с.] твар <strong>adversary</strong> і ён <strong>pursue</strong> і калі[зл.] быць <strong>three</strong> дзень <strong>pest</strong> у|[Тв.с.] зямля <strong>now</strong> ведаць [+неад.]|займацца сэксам [+адуш.] і бачыць што вяртацца слаць слова|рэч ס
+2 Samuel 24:14 (8624) і казаць Давыд да <strong>Gad</strong> <strong>wrap, be narrow</strong> да|[Д.с.] вельмі падаць ж, -ка [узмацн.] у|[Тв.с.] рука Існы бо|што шматлікі <strong>compassion</strong> і у|[Тв.с.] рука чалавек (від) не [+заг.лад] падаць 
+2 Samuel 24:15 (8625) і даць Існы <strong>pest</strong> у|[Тв.с.] Ісраэль з [арт.] раніца і (ажно) да момант <strong>appointment</strong> і паміраць з [арт.] народ з <strong>Dan</strong> і (ажно) да <strong>well</strong> <strong>Sheba</strong> сем тысяча чалавек (1) 
+2 Samuel 24:16 (8626) і слаць рука [арт.] пасланец Ерусалім да|[Д.с.] <strong>destroy</strong> і <strong>repent, console</strong> Існы да [арт.] дрэнны і казаць да|[Д.с.] [арт.] пасланец [арт.] <strong>destroy</strong> у|[Тв.с.] [арт.] народ шматлікі <strong>now</strong> <strong>be slack</strong> рука і пасланец Існы быць з <strong>threshing-floor</strong> [арт.] <strong>Araunah</strong> [арт.] <strong>Jebusite</strong> ס
+2 Samuel 24:17 (8627) і казаць Давыд да Існы у|[Тв.с.] бачыць [В.с.] [арт.] пасланец [арт.] <strong>strike</strong> у|[Тв.с.] [арт.] народ і казаць вось <strong>i</strong> заблудзіць і <strong>i</strong> <strong>do wrong</strong> і гэтыя [арт.] скаціна што рабіць быць ж, -ка [узмацн.] рука у|[Тв.с.] і у|[Тв.с.] дом бацька פ
+2 Samuel 24:18 (8628) і прыйсці <strong>Gad</strong> да Давыд у|[Тв.с.] [арт.] дзень [арт.] ён і казаць да|[Д.с.] падымацца устаць да|[Д.с.] Існы <strong>altar</strong> у|[Тв.с.] <strong>threshing-floor</strong> <strong>Araunah</strong> [арт.] <strong>Jebusite</strong> 
+2 Samuel 24:19 (8629) і падымацца Давыд як слова|рэч <strong>Gad</strong> як які <strong>command</strong> Існы 
+2 Samuel 24:20 (8630) і <strong>look</strong> <strong>Araunah</strong> і бачыць [В.с.] [арт.] цар і [В.с.] слуга перайсці на і выйсці <strong>Araunah</strong> і <strong>bow down</strong> да|[Д.с.] [арт.] цар <strong>nose</strong> зямля 
+2 Samuel 24:21 (8631) і казаць <strong>Araunah</strong> <strong>why</strong> прыйсці <strong>lord</strong> [арт.] цар да слуга і казаць Давыд да|[Д.с.] набыць з з [В.с.] [арт.] <strong>threshing-floor</strong> да|[Д.с.] будаваць <strong>altar</strong> да|[Д.с.] Існы і <strong>restrain</strong> [арт.] <strong>blow</strong> з на [арт.] народ 
+2 Samuel 24:22 (8632) і казаць <strong>Araunah</strong> да Давыд браць і падымацца <strong>lord</strong> [арт.] цар [арт.] добры у|[Тв.с.] вока бачыць [арт.] быдла да|[Д.с.] [арт.] <strong>burnt-offering</strong> і [арт.] <strong>threshing-sledge</strong> і прылада [арт.] быдла да|[Д.с.] [арт.] дрэва 
+2 Samuel 24:23 (8633) [арт.] цэлы|увесь даць <strong>Araunah</strong> [арт.] цар да|[Д.с.] [арт.] цар і казаць <strong>Araunah</strong> да [арт.] цар Існы Бог <strong>like</strong> 
+2 Samuel 24:24 (8634) і казаць [арт.] цар да <strong>Araunah</strong> не бо|што набыць набыць з [В.с.] у|[Тв.с.] <strong>price</strong> і не падымацца да|[Д.с.] Існы Бог <strong>burnt-offering</strong> <strong>in vain</strong> і набыць Давыд [В.с.] [арт.] <strong>threshing-floor</strong> і [В.с.] [арт.] быдла у|[Тв.с.] срэбра <strong>shekel</strong> <strong>five</strong> 
+2 Samuel 24:25 (8635) і будаваць там Давыд <strong>altar</strong> да|[Д.с.] Існы і падымацца <strong>burnt-offering</strong> і <strong>final offer</strong> і <strong>entreat</strong> Існы да|[Д.с.] [арт.] зямля і <strong>restrain</strong> [арт.] <strong>blow</strong> з на Ісраэль 

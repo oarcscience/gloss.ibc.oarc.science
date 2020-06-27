@@ -1,197 +1,197 @@
-1:1 (14100) 
-1:2 (14101) 
-1:3 (14102) 
-1:4 (14103) 
-1:5 (14104) 
-1:6 (14105) 
-1:7 (14106) 
-1:8 (14107) 
-1:9 (14108) ס
-2:1 (14109) 
-2:2 (14110) 
-2:3 (14111) 
-2:4 (14112) 
-2:5 (14113) 
-2:6 (14114) 
-2:7 (14115) 
-2:8 (14116) 
-2:9 (14117) 
-2:10 (14118) 
-2:11 (14119) 
-2:12 (14120) 
-2:13 (14121) 
-2:14 (14122) 
-2:15 (14123) פ
-2:16 (14124) 
-2:17 (14125) ס
-2:18 (14126) 
-2:19 (14127) 
-2:20 (14128) 
-2:21 (14129) 
-2:22 (14130) ס
-2:23 (14131) 
-2:24 (14132) 
-2:25 (14133) פ
-3:1 (14134) 
-3:2 (14135) 
-3:3 (14136) 
-3:4 (14137) 
-3:5 (14138) פ
-4:1 (14139) 
-4:2 (14140) 
-4:3 (14141) 
-4:4 (14142) 
-4:5 (14143) 
-4:6 (14144) 
-4:7 (14145) 
-4:8 (14146) 
-4:9 (14147) 
-4:10 (14148) 
-4:11 (14149) 
-4:12 (14150) 
-4:13 (14151) 
-4:14 (14152) 
-4:15 (14153) 
-4:16 (14154) 
-4:17 (14155) 
-4:18 (14156) 
-4:19 (14157) ס
-5:1 (14158) 
-5:2 (14159) 
-5:3 (14160) 
-5:4 (14161) 
-5:5 (14162) 
-5:6 (14163) 
-5:7 (14164) ס
-5:8 (14165) 
-5:9 (14166) 
-5:10 (14167) 
-5:11 (14168) 
-5:12 (14169) 
-5:13 (14170) 
-5:14 (14171) 
-5:15 (14172) 
-6:1 (14173) 
-6:2 (14174) 
-6:3 (14175) 
-6:4 (14176) 
-6:5 (14177) 
-6:6 (14178) 
-6:7 (14179) 
-6:8 (14180) 
-6:9 (14181) 
-6:10 (14182) 
-6:11 (14183) פ
-7:1 (14184) 
-7:2 (14185) 
-7:3 (14186) 
-7:4 (14187) 
-7:5 (14188) 
-7:6 (14189) 
-7:7 (14190) 
-7:8 (14191) 
-7:9 (14192) 
-7:10 (14193) 
-7:11 (14194) 
-7:12 (14195) ס
-7:13 (14196) 
-7:14 (14197) 
-7:15 (14198) 
-7:16 (14199) 
-8:1 (14200) 
-8:2 (14201) 
-8:3 (14202) 
-8:4 (14203) 
-8:5 (14204) 
-8:6 (14205) 
-8:7 (14206) 
-8:8 (14207) 
-8:9 (14208) 
-8:10 (14209) 
-8:11 (14210) 
-8:12 (14211) 
-8:13 (14212) 
-8:14 (14213) ס
-9:1 (14214) 
-9:2 (14215) 
-9:3 (14216) 
-9:4 (14217) 
-9:5 (14218) 
-9:6 (14219) 
-9:7 (14220) 
-9:8 (14221) 
-9:9 (14222) ס
-9:10 (14223) 
-9:11 (14224) 
-9:12 (14225) 
-9:13 (14226) 
-9:14 (14227) 
-9:15 (14228) 
-9:16 (14229) ס
-9:17 (14230) ס
-10:1 (14231) 
-10:2 (14232) 
-10:3 (14233) 
-10:4 (14234) 
-10:5 (14235) 
-10:6 (14236) 
-10:7 (14237) 
-10:8 (14238) ס
-10:9 (14239) 
-10:10 (14240) 
-10:11 (14241) 
-10:12 (14242) 
-10:13 (14243) 
-10:14 (14244) 
-10:15 (14245) 
-11:1 (14246) 
-11:2 (14247) 
-11:3 (14248) 
-11:4 (14249) 
-11:5 (14250) 
-11:6 (14251) 
-11:7 (14252) 
-11:8 (14253) 
-11:9 (14254) 
-11:10 (14255) 
-11:11 (14256) ס
-12:1 (14257) 
-12:2 (14258) 
-12:3 (14259) 
-12:4 (14260) 
-12:5 (14261) 
-12:6 (14262) 
-12:7 (14263) 
-12:8 (14264) 
-12:9 (14265) 
-12:10 (14266) 
-12:11 (14267) 
-12:12 (14268) 
-12:13 (14269) 
-12:14 (14270) 
-12:15 (14271) 
-13:1 (14272) 
-13:2 (14273) 
-13:3 (14274) 
-13:4 (14275) 
-13:5 (14276) 
-13:6 (14277) 
-13:7 (14278) 
-13:8 (14279) 
-13:9 (14280) 
-13:10 (14281) 
-13:11 (14282) ס
-13:12 (14283) 
-13:13 (14284) 
-13:14 (14285) 
-13:15 (14286) 
-14:1 (14287) פ
-14:2 (14288) 
-14:3 (14289) 
-14:4 (14290) 
-14:5 (14291) 
-14:6 (14292) 
-14:7 (14293) 
-14:8 (14294) ס
-14:9 (14295) 
-14:10 (14296) 
+Hosea 1:1 (14100) слова|рэч Існы які быць да <strong>Hosea</strong> сын <strong>Beeri</strong> у|[Тв.с.] дзень <strong>Uzziah</strong> <strong>Jotham</strong> <strong>Ahaz</strong> <strong>Hezekiah</strong> цар Егуда і у|[Тв.с.] дзень <strong>Jeroboam</strong> сын <strong>Joash</strong> цар Ісраэль 
+Hosea 1:2 (14101) <strong>beginning</strong> гаварыць Існы у|[Тв.с.] <strong>Hosea</strong> і казаць Існы да <strong>Hosea</strong> хадзіць браць да|[Д.с.] жанчына <strong>fornication</strong> і дзіця [м.] <strong>fornication</strong> бо|што <strong>fornicate</strong> <strong>fornicate</strong> [арт.] зямля з пасля Існы 
+Hosea 1:3 (14102) і хадзіць і браць [В.с.] <strong>Gomer</strong> дачка <strong>Diblaim</strong> і <strong>be pregnant</strong> і нарадзіць да|[Д.с.] сын 
+Hosea 1:4 (14103) і казаць Існы да зваць імя <strong>Jezreel</strong> бо|што яшчэ <strong>little</strong> і <strong>miss</strong> [В.с.] <strong>blood</strong> <strong>[town]</strong> на дом <strong>Jehu</strong> і <strong>cease</strong> <strong>kingdom</strong> дом Ісраэль 
+Hosea 1:5 (14104) і быць у|[Тв.с.] [арт.] дзень [арт.] ён і разбіць [В.с.] <strong>bow</strong> Ісраэль у|[Тв.с.] <strong>valley</strong> <strong>[town]</strong> 
+Hosea 1:6 (14105) і <strong>be pregnant</strong> яшчэ і нарадзіць дачка і казаць да|[Д.с.] зваць імя <strong>Lo-Ruhamah</strong> бо|што не дадаць яшчэ <strong>have compassion</strong> [В.с.] дом Ісраэль бо|што падняць падняць да|[Д.с.] 
+Hosea 1:7 (14106) і [В.с.] дом Егуда <strong>have compassion</strong> і збавіць у|[Тв.с.] Існы Бог і не збавіць у|[Тв.с.] <strong>bow</strong> і у|[Тв.с.] <strong>dagger</strong> і у|[Тв.с.] вайна у|[Тв.с.] конь і у|[Тв.с.] <strong>horseman</strong> 
+Hosea 1:8 (14107) і <strong>deal fully</strong> [В.с.] <strong>Lo-Ruhamah</strong> і <strong>be pregnant</strong> і нарадзіць сын 
+Hosea 1:9 (14108) і казаць зваць імя <strong>Lo-Ammi</strong> бо|што <strong>you</strong> не народ і <strong>i</strong> не быць да|[Д.с.] ס
+Hosea 2:1 (14109) і быць лік сын Ісраэль як <strong>sand</strong> [арт.] мора які не <strong>measure</strong> і не <strong>count</strong> і быць у|[Тв.с.] месца які казаць да|[Д.с.] не народ <strong>you</strong> казаць да|[Д.с.] сын <strong>god</strong> жывы 
+Hosea 2:2 (14110) і <strong>collect</strong> сын Егуда і сын Ісраэль <strong>together</strong> і класці|ставіць да|[Д.с.] галава адзін і падымацца з [арт.] зямля бо|што вялікі дзень <strong>[town]</strong> 
+Hosea 2:3 (14111) казаць да|[Д.с.] брат <strong>Ammi</strong> і да|[Д.с.] <strong>sister</strong> <strong>Ruhamah</strong> 
+Hosea 2:4 (14112) <strong>contend</strong> у|[Тв.с.] маці <strong>contend</strong> бо|што яна не жанчына і <strong>i</strong> не чалавек (1) і збочыць <strong>fornication</strong> з твар і <strong>adultery</strong> з між <strong>breast</strong> 
+Hosea 2:5 (14113) <strong>lest</strong> <strong>strip off</strong> голы і <strong>set</strong> як дзень нарадзіць і класці|ставіць як [арт.] <strong>desert</strong> і <strong>put</strong> як зямля <strong>dry country</strong> і паміраць у|[Тв.с.] [арт.] <strong>thirst</strong> 
+Hosea 2:6 (14114) і [В.с.] сын не <strong>have compassion</strong> бо|што сын <strong>fornication</strong> яны 
+Hosea 2:7 (14115) бо|што <strong>fornicate</strong> маці <strong>be dry</strong> <strong>be pregnant</strong> бо|што казаць хадзіць пасля любіць|кахаць даць хлеб і вада <strong>wool</strong> і <strong>flax</strong> алей і <strong>drink</strong> 
+Hosea 2:8 (14116) <strong>therefore</strong> вось <strong>fence</strong> [В.с.] шлях у|[Тв.с.] [арт.] <strong>hook</strong> і <strong>heap stones</strong> [В.с.] сцяна|мур і <strong>path</strong> не знайсці 
+Hosea 2:9 (14117) і <strong>pursue</strong> [В.с.] любіць|кахаць і не <strong>overtake</strong> [В.с.] і шукаць і не знайсці і казаць хадзіць і вяртацца да чалавек (1) [арт.] першы бо|што <strong>be good</strong> да|[Д.с.] тады з <strong>now</strong> 
+Hosea 2:10 (14118) і яна не ведаць [+неад.]|займацца сэксам [+адуш.] бо|што <strong>i</strong> даць да|[Д.с.] [арт.] <strong>corn</strong> і [арт.] <strong>wine</strong> і [арт.] <strong>oil</strong> і срэбра шмат да|[Д.с.] і золата рабіць да|[Д.с.] [арт.] хазяін 
+Hosea 2:11 (14119) <strong>therefore</strong> вяртацца і браць <strong>corn</strong> у|[Тв.с.] момант і <strong>wine</strong> у|[Тв.с.] <strong>appointment</strong> і <strong>deliver</strong> <strong>wool</strong> і <strong>flax</strong> да|[Д.с.] пакрыць [В.с.] <strong>nakedness</strong> 
+Hosea 2:12 (14120) і <strong>now</strong> <strong>uncover</strong> [В.с.] <strong>vagina</strong> да|[Д.с.] вока любіць|кахаць і чалавек (1) не <strong>deliver</strong> з рука 
+Hosea 2:13 (14121) і <strong>cease</strong> цэлы|увесь <strong>joy</strong> <strong>festival</strong> <strong>month</strong> і <strong>sabbath</strong> і цэлы|увесь <strong>appointment</strong> 
+Hosea 2:14 (14122) і <strong>be desolate</strong> <strong>vine</strong> і <strong>fig</strong> які казаць <strong>reward</strong> яны да|[Д.с.] які даць да|[Д.с.] любіць|кахаць і класці|ставіць да|[Д.с.] <strong>wood</strong> і есці <strong>wild animal</strong> [арт.] поле 
+Hosea 2:15 (14123) і <strong>miss</strong> на [В.с.] дзень [арт.] хазяін які <strong>smoke</strong> да|[Д.с.] і <strong>adorn</strong> <strong>nose-ring</strong> і <strong>ornament</strong> і хадзіць пасля любіць|кахаць і [В.с.] забыць прароцтва Існы פ
+Hosea 2:16 (14124) <strong>therefore</strong> вось <strong>i</strong> <strong>seduce</strong> і хадзіць [арт.] <strong>desert</strong> і гаварыць на сэрца 
+Hosea 2:17 (14125) і даць да|[Д.с.] [В.с.] <strong>vineyard</strong> з там і [В.с.] <strong>valley</strong> <strong>Achor</strong> да|[Д.с.] <strong>opening</strong> <strong>hope</strong> і адказаць там як дзень <strong>youth</strong> і як дзень падымацца з зямля <strong>Egypt</strong> ס
+Hosea 2:18 (14126) і быць у|[Тв.с.] [арт.] дзень [арт.] ён прароцтва Існы зваць чалавек (1) і не зваць да|[Д.с.] яшчэ хазяін 
+Hosea 2:19 (14127) і збочыць [В.с.] імя [арт.] хазяін з рот і не помніць яшчэ у|[Тв.с.] імя 
+Hosea 2:20 (14128) і выразаць да|[Д.с.] дамова у|[Тв.с.] [арт.] дзень [арт.] ён з <strong>wild animal</strong> [арт.] поле і з птушкі [арт.] неба і <strong>creeping animals</strong> [арт.] <strong>soil</strong> і <strong>bow</strong> і <strong>dagger</strong> і вайна разбіць з [арт.] зямля і ляжаць да|[Д.с.] <strong>trust</strong> 
+Hosea 2:21 (14129) і <strong>betroth</strong> да|[Д.с.] да|[Д.с.] свет|вечнасць і <strong>betroth</strong> да|[Д.с.] у|[Тв.с.] <strong>justice</strong> і у|[Тв.с.] правасуддзе і у|[Тв.с.] <strong>loyalty</strong> і у|[Тв.с.] <strong>compassion</strong> 
+Hosea 2:22 (14130) і <strong>betroth</strong> да|[Д.с.] у|[Тв.с.] <strong>steadiness</strong> і ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] Існы ס
+Hosea 2:23 (14131) і быць у|[Тв.с.] [арт.] дзень [арт.] ён адказаць прароцтва Існы адказаць [В.с.] [арт.] неба і яны [ж.] адказаць [В.с.] [арт.] зямля 
+Hosea 2:24 (14132) і [арт.] зямля адказаць [В.с.] [арт.] <strong>corn</strong> і [В.с.] [арт.] <strong>wine</strong> і [В.с.] [арт.] <strong>oil</strong> і яны [ж.] адказаць [В.с.] <strong>Jezreel</strong> 
+Hosea 2:25 (14133) і <strong>sow</strong> да|[Д.с.] у|[Тв.с.] [арт.] зямля і <strong>have compassion</strong> [В.с.] <strong>Lo-Ruhamah</strong> і казаць да|[Д.с.] <strong>Lo-Ammi</strong> народ ты[м.] і ён казаць Бог פ
+Hosea 3:1 (14134) і казаць Існы да яшчэ хадзіць любіць|кахаць жанчына любіць|кахаць <strong>fellow</strong> і <strong>commit adultery</strong> як любіць|кахаць Існы [В.с.] сын Ісраэль і яны [ж.] <strong>turn</strong> да Бог іншы і любіць|кахаць <strong>raisin cake</strong> <strong>grape</strong> 
+Hosea 3:2 (14135) і <strong>purchase</strong> да|[Д.с.] у|[Тв.с.] <strong>five</strong> <strong>-teen</strong> срэбра і <strong>homer</strong> <strong>barley</strong> і <strong>letek</strong> <strong>barley</strong> 
+Hosea 3:3 (14136) і казаць да дзень шматлікі сядзець да|[Д.с.] не <strong>fornicate</strong> і не быць да|[Д.с.] чалавек (1) і таксама|нават я да 
+Hosea 3:4 (14137) бо|што дзень шматлікі сядзець сын Ісраэль няма цар і няма кіраўнік|міністр і няма <strong>sacrifice</strong> і няма <strong>massebe</strong> і няма <strong>ephod</strong> і <strong>teraphim</strong> 
+Hosea 3:5 (14138) пасля вяртацца сын Ісраэль і шукаць [В.с.] Існы Бог і [В.с.] Давыд цар і <strong>tremble</strong> да Існы і да <strong>best</strong> у|[Тв.с.] прыканец [арт.] дзень פ
+Hosea 4:1 (14139) чуць слова|рэч Існы сын Ісраэль бо|што <strong>law-case</strong> да|[Д.с.] Існы з сядзець [арт.] зямля бо|што няма праўда і няма <strong>loyalty</strong> і няма веды [акрамя адуш.] Бог у|[Тв.с.] [арт.] зямля 
+Hosea 4:2 (14140) <strong>swear</strong> і <strong>grow lean</strong> і <strong>kill</strong> і красці і <strong>commit adultery</strong> <strong>break</strong> і <strong>blood</strong> у|[Тв.с.] <strong>blood</strong> <strong>touch</strong> 
+Hosea 4:3 (14141) на так <strong>mourn</strong> [арт.] зямля і <strong>wither</strong> цэлы|увесь сядзець у|[Тв.с.] у|[Тв.с.] <strong>wild animal</strong> [арт.] поле і у|[Тв.с.] птушкі [арт.] неба і таксама|нават рыба [арт.] мора збіраць 
+Hosea 4:4 (14142) <strong>only</strong> чалавек (1) не [+заг.лад] <strong>contend</strong> і не [+заг.лад] <strong>reprove</strong> чалавек (1) і народ як <strong>contend</strong> <strong>priest</strong> 
+Hosea 4:5 (14143) і <strong>stumble</strong> [арт.] дзень і <strong>stumble</strong> таксама|нават <strong>prophet</strong> з ноч і маўчаць маці 
+Hosea 4:6 (14144) маўчаць народ з <strong>destruction</strong> [арт.] веды [акрамя адуш.] бо|што ты[м.] [арт.] веды [акрамя адуш.] <strong>retract</strong> і <strong>retract</strong> з <strong>act as priest</strong> да|[Д.с.] і забыць <strong>instruction</strong> Бог забыць сын таксама|нават я 
+Hosea 4:7 (14145) як <strong>be much</strong> так заблудзіць да|[Д.с.] вага у|[Тв.с.] <strong>dishonour</strong> <strong>exchange</strong> 
+Hosea 4:8 (14146) <strong>sin</strong> народ есці і да <strong>sin</strong> падняць душа 
+Hosea 4:9 (14147) і быць як [арт.] народ як [арт.] <strong>priest</strong> і <strong>miss</strong> на шлях і <strong>deed</strong> вяртацца да|[Д.с.] 
+Hosea 4:10 (14148) і есці і не <strong>be sated</strong> <strong>fornicate</strong> і не <strong>break</strong> бо|што [В.с.] Існы <strong>leave</strong> да|[Д.с.] захоўваць 
+Hosea 4:11 (14149) <strong>fornication</strong> і віно і <strong>wine</strong> браць сэрца 
+Hosea 4:12 (14150) народ у|[Тв.с.] дрэва пытацца і <strong>rod</strong> абвяшчаць да|[Д.с.] бо|што вецер <strong>fornication</strong> <strong>err</strong> і <strong>fornicate</strong> з пад Бог 
+Hosea 4:13 (14151) на галава [арт.] гара забіць і на [арт.] <strong>hill</strong> <strong>smoke</strong> пад <strong>big tree</strong> і <strong>storax tree</strong> і <strong>big tree</strong> бо|што добры цень на так <strong>fornicate</strong> дачка і <strong>bride</strong> <strong>commit adultery</strong> 
+Hosea 4:14 (14152) не <strong>miss</strong> на дачка бо|што <strong>fornicate</strong> і на <strong>bride</strong> бо|што <strong>commit adultery</strong> бо|што яны [ж.] з [арт.] <strong>fornicate</strong> <strong>divide</strong> і з [арт.] <strong>temple prostitute</strong> забіць і народ не разумець <strong>trample</strong> 
+Hosea 4:15 (14153) калі[зл.] <strong>fornicate</strong> ты[м.] Ісраэль не [+заг.лад] <strong>do wrong</strong> Егуда і не [+заг.лад] прыйсці [арт.] <strong>Gilgal</strong> і не [+заг.лад] падымацца <strong>Beth Aven</strong> і не [+заг.лад] <strong>swear</strong> жывы Існы 
+Hosea 4:16 (14154) бо|што як <strong>cow</strong> <strong>rebel</strong> <strong>rebel</strong> Ісраэль <strong>now</strong> <strong>pasture</strong> Існы як <strong>young ram</strong> у|[Тв.с.] [арт.] <strong>wide place</strong> 
+Hosea 4:17 (14155) <strong>be united</strong> <strong>image</strong> Эфраі́м асесць да|[Д.с.] 
+Hosea 4:18 (14156) збочыць <strong>drink</strong> <strong>fornicate</strong> <strong>fornicate</strong> любіць|кахаць <strong>give</strong> <strong>dishonour</strong> <strong>insolent</strong> 
+Hosea 4:19 (14157) <strong>wrap, be narrow</strong> вецер [В.с.] у|[Тв.с.] крыло і <strong>be ashamed</strong> з <strong>sacrifice</strong> ס
+Hosea 5:1 (14158) чуць <strong>this</strong> [арт.] <strong>priest</strong> і <strong>give attention</strong> дом Ісраэль і дом [арт.] цар <strong>listen</strong> бо|што да|[Д.с.] [арт.] правасуддзе бо|што <strong>bird-trap</strong> быць да|[Д.с.] <strong>Mizpah</strong> і <strong>net</strong> <strong>spread out</strong> на <strong>Tabor</strong> 
+Hosea 5:2 (14159) і <strong>oppression</strong> <strong>[uncertain]</strong> <strong>be deep</strong> і я <strong>chastening</strong> да|[Д.с.] цэлы|увесь 
+Hosea 5:3 (14160) я ведаць [+неад.]|займацца сэксам [+адуш.] Эфраі́м і Ісраэль не <strong>hide</strong> з бо|што <strong>now</strong> <strong>fornicate</strong> Эфраі́м <strong>be unclean</strong> Ісраэль 
+Hosea 5:4 (14161) не даць <strong>deed</strong> да|[Д.с.] вяртацца да Бог бо|што вецер <strong>fornication</strong> у|[Тв.с.] <strong>interior</strong> і [В.с.] Існы не ведаць [+неад.]|займацца сэксам [+адуш.] 
+Hosea 5:5 (14162) і адказаць <strong>height</strong> Ісраэль у|[Тв.с.] твар і Ісраэль і Эфраі́м <strong>stumble</strong> у|[Тв.с.] <strong>sin</strong> <strong>stumble</strong> таксама|нават Егуда з 
+Hosea 5:6 (14163) у|[Тв.с.] скаціна і у|[Тв.с.] быдла хадзіць да|[Д.с.] шукаць [В.с.] Існы і не знайсці <strong>draw off</strong> з 
+Hosea 5:7 (14164) у|[Тв.с.] Існы <strong>deal treacherously</strong> бо|што сын чужы нарадзіць <strong>now</strong> есці <strong>month</strong> разам з частка ס
+Hosea 5:8 (14165) <strong>blow</strong> <strong>horn</strong> у|[Тв.с.] [арт.] <strong>Gibeah</strong> <strong>clarion</strong> у|[Тв.с.] [арт.] <strong>Ramah</strong> <strong>shout</strong> <strong>Beth Aven</strong> пасля Бін’ямін 
+Hosea 5:9 (14166) Эфраі́м да|[Д.с.] <strong>destruction</strong> быць у|[Тв.с.] дзень <strong>rebuke</strong> у|[Тв.с.] <strong>rod</strong> Ісраэль ведаць [+неад.]|займацца сэксам [+адуш.] <strong>be firm</strong> 
+Hosea 5:10 (14167) быць кіраўнік|міністр Егуда як <strong>turn</strong> мяжа на <strong>pour</strong> як [арт.] вада <strong>anger</strong> 
+Hosea 5:11 (14168) <strong>oppress</strong> Эфраі́м <strong>crush</strong> правасуддзе бо|што <strong>begin</strong> хадзіць пасля <strong>[untranslatable]</strong> 
+Hosea 5:12 (14169) і я як [арт.] <strong>putrefaction</strong> да|[Д.с.] Эфраі́м і як [арт.] <strong>rottenness</strong> да|[Д.с.] дом Егуда 
+Hosea 5:13 (14170) і бачыць Эфраі́м [В.с.] <strong>sickness</strong> і Егуда [В.с.] <strong>ulcer</strong> і хадзіць Эфраі́м да <strong>Asshur</strong> і слаць да цар <strong>the great king</strong> і ён не магчы да|[Д.с.] <strong>heal</strong> да|[Д.с.] і не <strong>heal</strong> з <strong>ulcer</strong> 
+Hosea 5:14 (14171) бо|што <strong>i</strong> як [арт.] <strong>young lion</strong> да|[Д.с.] Эфраі́м і як [арт.] <strong>young lion</strong> да|[Д.с.] дом Егуда я я <strong>tear</strong> і хадзіць падняць і няма <strong>deliver</strong> 
+Hosea 5:15 (14172) хадзіць вяртацца да месца (ажно) да які <strong>do wrong</strong> і шукаць твар у|[Тв.с.] [арт.] <strong>narrow</strong> да|[Д.с.] <strong>look for</strong> 
+Hosea 6:1 (14173) хадзіць і вяртацца да Існы бо|што ён <strong>tear</strong> і <strong>heal</strong> <strong>strike</strong> і <strong>saddle</strong> 
+Hosea 6:2 (14174) жыць з дзень у|[Тв.с.] [арт.] дзень [арт.] <strong>third</strong> устаць і жыць да|[Д.с.] твар 
+Hosea 6:3 (14175) і ведаць [+неад.]|займацца сэксам [+адуш.] <strong>pursue</strong> да|[Д.с.] ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] Існы як <strong>dawn</strong> <strong>be firm</strong> <strong>issue</strong> і прыйсці як [арт.] дождж да|[Д.с.] як <strong>spring-rain</strong> <strong>[uncertain]</strong> зямля 
+Hosea 6:4 (14176) што рабіць да|[Д.с.] Эфраі́м што рабіць да|[Д.с.] Егуда і <strong>loyalty</strong> як <strong>cloud</strong> раніца і як [арт.] <strong>dew</strong> <strong>rise early</strong> хадзіць 
+Hosea 6:5 (14177) на так <strong>hew</strong> у|[Тв.с.] [арт.] <strong>prophet</strong> <strong>kill</strong> у|[Тв.с.] <strong>word</strong> рот і правасуддзе святло выйсці 
+Hosea 6:6 (14178) бо|што <strong>loyalty</strong> <strong>desire</strong> і не <strong>sacrifice</strong> і веды [акрамя адуш.] Бог з <strong>burnt-offering</strong> 
+Hosea 6:7 (14179) і яны як <strong>Adam</strong> перайсці дамова там <strong>deal treacherously</strong> у|[Тв.с.] 
+Hosea 6:8 (14180) Гіл’ад <strong>town</strong> <strong>make</strong> <strong>wickedness</strong> <strong>something knobby</strong> з <strong>blood</strong> 
+Hosea 6:9 (14181) і як <strong>wait</strong> чалавек (1) <strong>band</strong> <strong>company</strong> <strong>priest</strong> шлях <strong>kill</strong> <strong>Shechem</strong> бо|што <strong>loose conduct</strong> рабіць 
+Hosea 6:10 (14182) у|[Тв.с.] дом Ісраэль бачыць <strong>horrible</strong> там <strong>fornication</strong> да|[Д.с.] Эфраі́м <strong>be unclean</strong> Ісраэль 
+Hosea 6:11 (14183) таксама|нават Егуда <strong>put</strong> <strong>harvest</strong> да|[Д.с.] у|[Тв.с.] <strong>gather</strong> <strong>captivity</strong> народ פ
+Hosea 7:1 (14184) як <strong>heal</strong> да|[Д.с.] Ісраэль і <strong>uncover</strong> <strong>sin</strong> Эфраі́м і дрэнны Самарыя бо|што <strong>make</strong> <strong>lie</strong> і злодзей прыйсці <strong>strip off</strong> <strong>band</strong> у|[Тв.с.] [арт.] <strong>outside</strong> 
+Hosea 7:2 (14185) і <strong>not</strong> казаць да|[Д.с.] сэрца цэлы|увесь дрэнны помніць <strong>now</strong> <strong>turn</strong> <strong>deed</strong> перад твар быць 
+Hosea 7:3 (14186) у|[Тв.с.] дрэнны узрадавацца цар і у|[Тв.с.] <strong>leanness</strong> кіраўнік|міністр 
+Hosea 7:4 (14187) цэлы|увесь <strong>commit adultery</strong> <strong>like</strong> <strong>furnace</strong> <strong>burn</strong> з <strong>baker</strong> <strong>cease</strong> <strong>be awake</strong> з <strong>knead</strong> <strong>dough</strong> (ажно) да <strong>be leavened</strong> 
+Hosea 7:5 (14188) дзень цар <strong>become weak</strong> кіраўнік|міністр <strong>heat</strong> з віно <strong>draw</strong> рука разам з <strong>boast</strong> 
+Hosea 7:6 (14189) бо|што набліжацца як [арт.] <strong>furnace</strong> сэрца у|[Тв.с.] <strong>ambush</strong> цэлы|увесь [арт.] ноч <strong>sleeping</strong> <strong>baker</strong> раніца ён <strong>burn</strong> як агонь полымя 
+Hosea 7:7 (14190) цэлы|увесь быць спякотным як [арт.] <strong>furnace</strong> і есці [В.с.] судзіць цэлы|увесь цар падаць няма зваць у|[Тв.с.] да 
+Hosea 7:8 (14191) Эфраі́м у|[Тв.с.] [арт.] народ ён <strong>moisten, confound</strong> Эфраі́м быць <strong>cake</strong> <strong>destruction</strong> <strong>turn</strong> 
+Hosea 7:9 (14192) есці чужы сіла і ён не ведаць [+неад.]|займацца сэксам [+адуш.] таксама|нават <strong>age</strong> <strong>be white</strong> у|[Тв.с.] і ён не ведаць [+неад.]|займацца сэксам [+адуш.] 
+Hosea 7:10 (14193) і адказаць <strong>height</strong> Ісраэль у|[Тв.с.] твар і не вяртацца да Існы Бог і не шукаць у|[Тв.с.] цэлы|увесь <strong>this</strong> 
+Hosea 7:11 (14194) і быць Эфраі́м як <strong>dove</strong> <strong>seduce</strong> няма сэрца <strong>Egypt</strong> зваць <strong>Asshur</strong> хадзіць 
+Hosea 7:12 (14195) як які хадзіць <strong>spread out</strong> на <strong>net</strong> як птушкі [арт.] неба апускацца <strong>admonish</strong> як <strong>hearsay</strong> да|[Д.с.] <strong>gathering</strong> ס
+Hosea 7:13 (14196) <strong>woe</strong> да|[Д.с.] бо|што <strong>flee</strong> з <strong>violence</strong> да|[Д.с.] бо|што <strong>rebel</strong> у|[Тв.с.] і <strong>i</strong> <strong>buy off</strong> і яны гаварыць на <strong>lie</strong> 
+Hosea 7:14 (14197) і не <strong>cry</strong> да у|[Тв.с.] сэрца бо|што <strong>howl</strong> на <strong>couch</strong> на <strong>corn</strong> і <strong>wine</strong> <strong>dwell</strong> збочыць у|[Тв.с.] 
+Hosea 7:15 (14198) і я <strong>admonish</strong> <strong>be strong</strong> <strong>arm</strong> і да <strong>account</strong> зло 
+Hosea 7:16 (14199) вяртацца не <strong>height</strong> быць як <strong>bow</strong> <strong>looseness</strong> падаць у|[Тв.с.] [арт.] <strong>dagger</strong> кіраўнік|міністр з <strong>curse</strong> язык <strong>this</strong> <strong>derision</strong> у|[Тв.с.] зямля <strong>Egypt</strong> 
+Hosea 8:1 (14200) да <strong>palate</strong> <strong>horn</strong> як [арт.] арол на дом Існы <strong>motive</strong> перайсці дамова і на <strong>instruction</strong> <strong>rebel</strong> 
+Hosea 8:2 (14201) да|[Д.с.] <strong>cry</strong> Бог ведаць [+неад.]|займацца сэксам [+адуш.] Ісраэль 
+Hosea 8:3 (14202) <strong>reject</strong> Ісраэль добры <strong>be hostile</strong> <strong>pursue</strong> 
+Hosea 8:4 (14203) яны [ж.] цараваць і не з <strong>[uncertain]</strong> і не ведаць [+неад.]|займацца сэксам [+адуш.] срэбра і золата рабіць да|[Д.с.] <strong>image</strong> з-за выразаць 
+Hosea 8:5 (14204) <strong>reject</strong> <strong>bull</strong> Самарыя <strong>be hot</strong> <strong>nose</strong> у|[Тв.с.] (ажно) да <strong>when</strong> не магчы <strong>innocence</strong> 
+Hosea 8:6 (14205) бо|што з Ісраэль і ён <strong>artisan</strong> рабіць і не Бог ён бо|што <strong>splinter</strong> быць <strong>bull</strong> Самарыя 
+Hosea 8:7 (14206) бо|што вецер <strong>sow</strong> і <strong>storm</strong> <strong>harvest</strong> <strong>standing grain</strong> няма да|[Д.с.] <strong>sprout</strong> <strong>destruction</strong> рабіць <strong>flour</strong> <strong>perhaps</strong> рабіць чужы <strong>swallow</strong> 
+Hosea 8:8 (14207) <strong>swallow</strong> Ісраэль <strong>now</strong> быць у|[Тв.с.] [арт.] знешні народ як прылада няма <strong>pleasure</strong> у|[Тв.с.] 
+Hosea 8:9 (14208) бо|што яны падымацца <strong>Asshur</strong> <strong>zebra</strong> <strong>be alone</strong> да|[Д.с.] Эфраі́м <strong>recount</strong> <strong>love</strong> 
+Hosea 8:10 (14209) таксама|нават бо|што <strong>recount</strong> у|[Тв.с.] [арт.] знешні народ <strong>now</strong> <strong>collect</strong> і <strong>defile</strong> <strong>little</strong> з <strong>burden</strong> цар кіраўнік|міністр 
+Hosea 8:11 (14210) бо|што шмат Эфраі́м <strong>altar</strong> да|[Д.с.] заблудзіць быць да|[Д.с.] <strong>altar</strong> да|[Д.с.] заблудзіць 
+Hosea 8:12 (14211) пісанне да|[Д.с.] шматлікасць <strong>instruction</strong> <strong>like</strong> чужы <strong>account</strong> 
+Hosea 8:13 (14212) <strong>sacrifice</strong> <strong>[uncertain]</strong> забіць мяса|плоць і есці Існы не <strong>like</strong> <strong>now</strong> помніць <strong>sin</strong> і <strong>miss</strong> <strong>sin</strong> яны <strong>Egypt</strong> вяртацца 
+Hosea 8:14 (14213) і забыць Ісраэль [В.с.] рабіць і будаваць <strong>palace</strong> і Егуда шмат горад <strong>fortified</strong> і слаць агонь у|[Тв.с.] горад і есці <strong>dwelling tower</strong> ס
+Hosea 9:1 (14214) не [+заг.лад] узрадавацца Ісраэль да <strong>rejoicing</strong> як [арт.] народ бо|што <strong>fornicate</strong> з на Бог любіць|кахаць <strong>gift</strong> на цэлы|увесь <strong>threshing-floor</strong> <strong>corn</strong> 
+Hosea 9:2 (14215) <strong>threshing-floor</strong> і <strong>pit</strong> не <strong>pasture</strong> і <strong>wine</strong> <strong>grow lean</strong> у|[Тв.с.] 
+Hosea 9:3 (14216) не сядзець у|[Тв.с.] зямля Існы і вяртацца Эфраі́м <strong>Egypt</strong> і у|[Тв.с.] <strong>Asshur</strong> нячысты есці 
+Hosea 9:4 (14217) не <strong>pour</strong> да|[Д.с.] Існы віно і не <strong>be pleasing</strong> да|[Д.с.] <strong>sacrifice</strong> як хлеб <strong>time of mourning</strong> да|[Д.с.] цэлы|увесь есці <strong>be unclean</strong> бо|што хлеб да|[Д.с.] душа не прыйсці дом Існы 
+Hosea 9:5 (14218) што рабіць да|[Д.с.] дзень <strong>appointment</strong> і да|[Д.с.] дзень <strong>festival</strong> Існы 
+Hosea 9:6 (14219) бо|што вось хадзіць з <strong>violence</strong> <strong>Egypt</strong> <strong>collect</strong> <strong>Memphis</strong> пахаваць <strong>desire</strong> да|[Д.с.] срэбра <strong>weed</strong> заўладаць <strong>thorn</strong> у|[Тв.с.] <strong>tent</strong> 
+Hosea 9:7 (14220) прыйсці дзень [арт.] <strong>commission</strong> прыйсці дзень [арт.] <strong>reward</strong> ведаць [+неад.]|займацца сэксам [+адуш.] Ісраэль <strong>foolish</strong> [арт.] <strong>prophet</strong> <strong>be mad</strong> чалавек (1) [арт.] вецер на шматлікасць <strong>sin</strong> і <strong>be much</strong> <strong>animosity</strong> 
+Hosea 9:8 (14221) <strong>look out</strong> Эфраі́м з Бог <strong>prophet</strong> <strong>bird-trap</strong> <strong>fowler</strong> на цэлы|увесь шлях <strong>animosity</strong> у|[Тв.с.] дом Бог 
+Hosea 9:9 (14222) <strong>be deep</strong> <strong>destroy</strong> як дзень [арт.] <strong>Gibeah</strong> помніць <strong>sin</strong> <strong>miss</strong> <strong>sin</strong> ס
+Hosea 9:10 (14223) як <strong>grape</strong> у|[Тв.с.] [арт.] <strong>desert</strong> знайсці Ісраэль як <strong>early fig</strong> у|[Тв.с.] <strong>fig</strong> у|[Тв.с.] зачын бачыць бацька яны прыйсці <strong>Baal Peor</strong> і <strong>dedicate</strong> да|[Д.с.] [арт.] <strong>shame</strong> і быць <strong>idol</strong> як <strong>display of love</strong> 
+Hosea 9:11 (14224) Эфраі́м як [арт.] птушкі <strong>fly</strong> вага з <strong>birth</strong> і з <strong>belly</strong> і з <strong>conception</strong> 
+Hosea 9:12 (14225) бо|што калі[зл.] узвялічваць [В.с.] сын і <strong>be bereaved of children</strong> з чалавек (від) бо|што таксама|нават <strong>woe</strong> да|[Д.с.] у|[Тв.с.] <strong>[uncertain]</strong> з 
+Hosea 9:13 (14226) Эфраі́м як які бачыць да|[Д.с.] <strong>Tyrus</strong> <strong>transplant</strong> у|[Тв.с.] <strong>pasture</strong> і Эфраі́м да|[Д.с.] выйсці да <strong>kill</strong> сын 
+Hosea 9:14 (14227) даць да|[Д.с.] Існы што даць даць да|[Д.с.] <strong>womb</strong> <strong>be bereaved of children</strong> і <strong>breast</strong> <strong>shrivel</strong> 
+Hosea 9:15 (14228) цэлы|увесь дрэнны у|[Тв.с.] [арт.] <strong>Gilgal</strong> бо|што там ненавідзець на <strong>wickedness</strong> <strong>deed</strong> з дом <strong>drive out</strong> не дадаць любіць|кахаць цэлы|увесь кіраўнік|міністр <strong>rebel</strong> 
+Hosea 9:16 (14229) <strong>strike</strong> Эфраі́м <strong>root</strong> <strong>be dry</strong> плод <strong>not</strong> рабіць таксама|нават бо|што нарадзіць і паміраць <strong>desire</strong> <strong>belly</strong> ס
+Hosea 9:17 (14230) <strong>retract</strong> Бог бо|што не чуць да|[Д.с.] і быць <strong>flee</strong> у|[Тв.с.] [арт.] знешні народ ס
+Hosea 10:1 (14231) <strong>vine</strong> <strong>lay waste</strong> Ісраэль плод <strong>place</strong> да|[Д.с.] як шматлікасць да|[Д.с.] плод шмат да|[Д.с.] [арт.] <strong>altar</strong> як <strong>be good</strong> да|[Д.с.] зямля <strong>be good</strong> <strong>massebe</strong> 
+Hosea 10:2 (14232) <strong>be smooth</strong> сэрца <strong>now</strong> <strong>do wrong</strong> ён <strong>break</strong> <strong>altar</strong> быць спустошаным <strong>massebe</strong> 
+Hosea 10:3 (14233) бо|што <strong>now</strong> казаць няма цар да|[Д.с.] бо|што не баяцца [В.с.] Існы і [арт.] цар што рабіць да|[Д.с.] 
+Hosea 10:4 (14234) гаварыць слова|рэч <strong>swear</strong> <strong>vanity</strong> выразаць дамова і <strong>sprout</strong> як [арт.] <strong>poison</strong> правасуддзе на <strong>furrow</strong> <strong>open field</strong> 
+Hosea 10:5 (14235) да|[Д.с.] <strong>cow</strong> <strong>Beth Aven</strong> <strong>be afraid</strong> <strong>inhabitant</strong> Самарыя бо|што <strong>mourn</strong> на народ і <strong>idol priest</strong> на <strong>rejoice</strong> на вага бо|што <strong>uncover</strong> з 
+Hosea 10:6 (14236) таксама|нават [В.с.] да|[Д.с.] <strong>Asshur</strong> <strong>bring</strong> <strong>present</strong> да|[Д.с.] цар <strong>the great king</strong> <strong>shame</strong> Эфраі́м браць і <strong>be ashamed</strong> Ісраэль з <strong>counsel</strong> 
+Hosea 10:7 (14237) маўчаць Самарыя цар як <strong>bough</strong> на твар вада 
+Hosea 10:8 (14238) і <strong>destroy</strong> <strong>high place</strong> <strong>wickedness</strong> <strong>sin</strong> Ісраэль <strong>thorn-bush</strong> і <strong>thistles</strong> падымацца на <strong>altar</strong> і казаць да|[Д.с.] [арт.] гара пакрыць і да|[Д.с.] [арт.] <strong>hill</strong> падаць на ס
+Hosea 10:9 (14239) з дзень [арт.] <strong>Gibeah</strong> заблудзіць Ісраэль там стаяць не <strong>overtake</strong> у|[Тв.с.] [арт.] <strong>Gibeah</strong> вайна на сын <strong>disobedience</strong> 
+Hosea 10:10 (14240) у|[Тв.с.] <strong>desire</strong> і <strong>admonish</strong> і збіраць на народ у|[Тв.с.] <strong>bind</strong> да|[Д.с.] два <strong>sin</strong> 
+Hosea 10:11 (14241) і Эфраі́м <strong>cow</strong> <strong>learn</strong> любіць|кахаць да|[Д.с.] <strong>tread on</strong> і я перайсці на <strong>best</strong> <strong>neck</strong> <strong>ride</strong> Эфраі́м <strong>plough</strong> Егуда <strong>draw</strong> да|[Д.с.] Яако́ў 
+Hosea 10:12 (14242) <strong>sow</strong> да|[Д.с.] да|[Д.с.] <strong>justice</strong> <strong>harvest</strong> да|[Д.с.] рот <strong>loyalty</strong> <strong>till</strong> да|[Д.с.] <strong>tilled ground</strong> і момант да|[Д.с.] <strong>inquire</strong> [В.с.] Існы (ажно) да прыйсці і <strong>[uncertain]</strong> <strong>justice</strong> да|[Д.с.] 
+Hosea 10:13 (14243) <strong>plough</strong> <strong>guilt</strong> <strong>wickedness</strong> <strong>harvest</strong> есці плод <strong>leanness</strong> бо|што <strong>trust</strong> у|[Тв.с.] шлях у|[Тв.с.] шматлікасць мужны|моцны 
+Hosea 10:14 (14244) і устаць <strong>roar</strong> у|[Тв.с.] народ і цэлы|увесь <strong>fortification</strong> быць спустошаным як <strong>violence</strong> <strong>Shalman</strong> <strong>Beth Arbel</strong> у|[Тв.с.] дзень вайна маці на сын <strong>dash</strong> 
+Hosea 10:15 (14245) такім чынам рабіць да|[Д.с.] <strong>Bethel</strong> з твар дрэнны дрэнны у|[Тв.с.] [арт.] <strong>dawn</strong> маўчаць маўчаць цар Ісраэль 
+Hosea 11:1 (14246) бо|што хлапчук Ісраэль і любіць|кахаць і з <strong>Egypt</strong> зваць да|[Д.с.] сын 
+Hosea 11:2 (14247) зваць да|[Д.с.] так хадзіць з твар да|[Д.с.] [арт.] хазяін забіць і да|[Д.с.] [арт.] <strong>idol</strong> <strong>smoke</strong> 
+Hosea 11:3 (14248) і <strong>i</strong> <strong>slander</strong> да|[Д.с.] Эфраі́м браць на <strong>arm</strong> і не ведаць [+неад.]|займацца сэксам [+адуш.] бо|што <strong>heal</strong> 
+Hosea 11:4 (14249) у|[Тв.с.] <strong>cord</strong> чалавек (від) <strong>draw</strong> у|[Тв.с.] <strong>rope</strong> любоў|каханне і быць да|[Д.с.] як <strong>be high</strong> <strong>yoke</strong> на <strong>jaw</strong> і <strong>extend</strong> да есці 
+Hosea 11:5 (14250) не вяртацца да зямля <strong>Egypt</strong> і <strong>Asshur</strong> ён цар бо|што <strong>refuse</strong> да|[Д.с.] вяртацца 
+Hosea 11:6 (14251) і <strong>dance</strong> <strong>dagger</strong> у|[Тв.с.] горад і <strong>be complete</strong> частка і есці з <strong>counsel</strong> 
+Hosea 11:7 (14252) і народ <strong>hang</strong> да|[Д.с.] <strong>apostasy</strong> і да <strong>height</strong> зваць <strong>gathering</strong> не <strong>be high</strong> 
+Hosea 11:8 (14253) як даць Эфраі́м <strong>deliver</strong> Ісраэль як даць як <strong>Admah</strong> класці|ставіць як <strong>Zeboiim</strong> <strong>turn</strong> на сэрца <strong>gathering</strong> <strong>grow hot</strong> <strong>comfort</strong> 
+Hosea 11:9 (14254) не рабіць <strong>anger</strong> <strong>nose</strong> не вяртацца да|[Д.с.] <strong>destroy</strong> Эфраі́м бо|што <strong>god</strong> <strong>i</strong> і не чалавек (1) у|[Тв.с.] <strong>interior</strong> святы і не прыйсці у|[Тв.с.] <strong>excitement</strong> 
+Hosea 11:10 (14255) пасля Існы хадзіць як <strong>lion</strong> <strong>roar</strong> бо|што ён <strong>roar</strong> і <strong>tremble</strong> сын з мора 
+Hosea 11:11 (14256) <strong>tremble</strong> як птушка з <strong>Egypt</strong> і як <strong>dove</strong> з зямля <strong>Asshur</strong> і сядзець на дом прароцтва Існы ס
+Hosea 12:1 (14257) <strong>turn</strong> у|[Тв.с.] <strong>leanness</strong> Эфраі́м і у|[Тв.с.] <strong>deceit</strong> дом Ісраэль і Егуда яшчэ <strong>roam</strong> з <strong>god</strong> і з святы <strong>be firm</strong> 
+Hosea 12:2 (14258) Эфраі́м <strong>pasture</strong> вецер і <strong>pursue</strong> <strong>east</strong> цэлы|увесь [арт.] дзень <strong>lie</strong> і <strong>violence</strong> шмат і дамова з <strong>Asshur</strong> выразаць і алей да|[Д.с.] <strong>Egypt</strong> <strong>bring</strong> 
+Hosea 12:3 (14259) і <strong>law-case</strong> да|[Д.с.] Існы з Егуда і да|[Д.с.] <strong>miss</strong> на Яако́ў як шлях як <strong>deed</strong> вяртацца да|[Д.с.] 
+Hosea 12:4 (14260) у|[Тв.с.] [арт.] <strong>belly</strong> <strong>seize at heel</strong> [В.с.] брат і у|[Тв.с.] <strong>generative power</strong> <strong>contend</strong> [В.с.] Бог 
+Hosea 12:5 (14261) і <strong>[uncertain]</strong> да пасланец і магчы плакаць і <strong>favour</strong> да|[Д.с.] <strong>Bethel</strong> знайсці і там гаварыць з 
+Hosea 12:6 (14262) і Існы Бог [арт.] <strong>service</strong> Існы <strong>mention</strong> 
+Hosea 12:7 (14263) і ты[м.] у|[Тв.с.] Бог вяртацца <strong>loyalty</strong> і правасуддзе захоўваць і <strong>wait for</strong> да Бог беззаганнасць 
+Hosea 12:8 (14264) <strong>Canaan</strong> у|[Тв.с.] рука <strong>balances</strong> <strong>deceit</strong> да|[Д.с.] <strong>oppress</strong> любіць|кахаць 
+Hosea 12:9 (14265) і казаць Эфраі́м <strong>only</strong> <strong>become rich</strong> знайсці <strong>generative power</strong> да|[Д.с.] цэлы|увесь <strong>toil</strong> не знайсці да|[Д.с.] <strong>sin</strong> які <strong>offence</strong> 
+Hosea 12:10 (14266) і <strong>i</strong> Існы Бог з зямля <strong>Egypt</strong> яшчэ сядзець у|[Тв.с.] <strong>tent</strong> як дзень <strong>appointment</strong> 
+Hosea 12:11 (14267) і гаварыць на [арт.] <strong>prophet</strong> і <strong>i</strong> зданак шмат і у|[Тв.с.] рука [арт.] <strong>prophet</strong> <strong>be like</strong> 
+Hosea 12:12 (14268) калі[зл.] Гіл’ад <strong>wickedness</strong> <strong>only</strong> <strong>vanity</strong> быць у|[Тв.с.] [арт.] <strong>Gilgal</strong> <strong>bullock</strong> забіць таксама|нават <strong>altar</strong> як <strong>heap</strong> на <strong>furrow</strong> <strong>open field</strong> 
+Hosea 12:13 (14269) і <strong>run away</strong> Яако́ў поле <strong>Aram</strong> і працаваць Ісраэль у|[Тв.с.] жанчына і у|[Тв.с.] жанчына захоўваць 
+Hosea 12:14 (14270) і у|[Тв.с.] <strong>prophet</strong> падымацца Існы [В.с.] Ісраэль з <strong>Egypt</strong> і у|[Тв.с.] <strong>prophet</strong> захоўваць 
+Hosea 12:15 (14271) <strong>be discontent</strong> Эфраі́м <strong>bitterness</strong> і <strong>blood</strong> на <strong>abandon</strong> і <strong>reproach</strong> вяртацца да|[Д.с.] <strong>lord</strong> 
+Hosea 13:1 (14272) як гаварыць Эфраі́м <strong>trembling</strong> падняць ён у|[Тв.с.] Ісраэль і <strong>do wrong</strong> у|[Тв.с.] [арт.] хазяін і паміраць 
+Hosea 13:2 (14273) і <strong>now</strong> дадаць да|[Д.с.] заблудзіць і рабіць да|[Д.с.] <strong>molten image</strong> з срэбра як разуменне <strong>image</strong> учынак|справа <strong>artisan</strong> цэлы|увесь да|[Д.с.] яны [ж.] казаць забіць чалавек (від) <strong>bull</strong> <strong>kiss</strong> 
+Hosea 13:3 (14274) <strong>therefore</strong> быць як <strong>cloud</strong> раніца і як [арт.] <strong>dew</strong> <strong>rise early</strong> хадзіць як <strong>chaff</strong> <strong>be stormy</strong> з <strong>threshing-floor</strong> і як <strong>smoke</strong> з <strong>hole</strong> 
+Hosea 13:4 (14275) і <strong>i</strong> Існы Бог з зямля <strong>Egypt</strong> і Бог <strong>except</strong> не ведаць [+неад.]|займацца сэксам [+адуш.] і збавіць няма <strong>failure</strong> 
+Hosea 13:5 (14276) я ведаць [+неад.]|займацца сэксам [+адуш.] у|[Тв.с.] [арт.] <strong>desert</strong> у|[Тв.с.] зямля <strong>fevers</strong> 
+Hosea 13:6 (14277) як <strong>pasturage</strong> і <strong>be sated</strong> <strong>be sated</strong> і <strong>be high</strong> сэрца на так забыць 
+Hosea 13:7 (14278) і быць да|[Д.с.] <strong>like</strong> <strong>young lion</strong> як <strong>leopard</strong> на шлях <strong>regard</strong> 
+Hosea 13:8 (14279) <strong>meet</strong> як <strong>bear</strong> <strong>bereaved of children</strong> і <strong>tear</strong> <strong>enclosure</strong> сэрца і есці там як <strong>lion</strong> <strong>wild animal</strong> [арт.] поле <strong>split</strong> 
+Hosea 13:9 (14280) <strong>destroy</strong> Ісраэль бо|што у|[Тв.с.] у|[Тв.с.] <strong>help, helper</strong> 
+Hosea 13:10 (14281) <strong>where</strong> цар <strong>then</strong> і збавіць у|[Тв.с.] цэлы|увесь горад і судзіць які казаць даць да|[Д.с.] цар і кіраўнік|міністр 
+Hosea 13:11 (14282) даць да|[Д.с.] цар у|[Тв.с.] <strong>nose</strong> і браць у|[Тв.с.] <strong>anger</strong> ס
+Hosea 13:12 (14283) <strong>wrap, be narrow</strong> <strong>sin</strong> Эфраі́м <strong>hide</strong> <strong>sin</strong> 
+Hosea 13:13 (14284) <strong>labour pains</strong> нарадзіць прыйсці да|[Д.с.] ён сын не разумны бо|што момант не стаяць у|[Тв.с.] <strong>mouth of womb</strong> сын 
+Hosea 13:14 (14285) з рука <strong>nether world</strong> <strong>buy off</strong> з смерць <strong>redeem</strong> <strong>where</strong> <strong>sting</strong> смерць <strong>where</strong> <strong>sting</strong> <strong>nether world</strong> <strong>compassion</strong> <strong>hide</strong> з вока 
+Hosea 13:15 (14286) бо|што ён сын брат <strong>be fertile</strong> прыйсці <strong>east</strong> вецер Існы з <strong>desert</strong> падымацца і <strong>be ashamed</strong> <strong>well</strong> і <strong>be dry</strong> <strong>well</strong> ён <strong>spoil</strong> <strong>supply</strong> цэлы|увесь прылада <strong>what is desirable</strong> 
+Hosea 14:1 (14287) <strong>do wrong</strong> Самарыя бо|што <strong>rebel</strong> у|[Тв.с.] Бог у|[Тв.с.] [арт.] <strong>dagger</strong> падаць <strong>child</strong> <strong>dash</strong> і <strong>pregnant</strong> <strong>split</strong> פ
+Hosea 14:2 (14288) вяртацца Ісраэль (ажно) да Існы Бог бо|што <strong>stumble</strong> у|[Тв.с.] <strong>sin</strong> 
+Hosea 14:3 (14289) браць з слова|рэч і вяртацца да Існы казаць да цэлы|увесь падняць <strong>sin</strong> і браць добры і <strong>be complete</strong> <strong>young bull</strong> губа 
+Hosea 14:4 (14290) <strong>Asshur</strong> не збавіць на конь не <strong>ride</strong> і не казаць яшчэ Бог да|[Д.с.] учынак|справа рука які у|[Тв.с.] <strong>have compassion</strong> <strong>orphan</strong> 
+Hosea 14:5 (14291) <strong>heal</strong> <strong>apostasy</strong> любіць|кахаць <strong>free will</strong> бо|што вяртацца <strong>nose</strong> з 
+Hosea 14:6 (14292) быць як [арт.] <strong>dew</strong> да|[Д.с.] Ісраэль <strong>sprout</strong> як [арт.] <strong>lily</strong> і <strong>strike</strong> <strong>root</strong> як [арт.] <strong>Lebanon</strong> 
+Hosea 14:7 (14293) хадзіць <strong>shoot</strong> і быць як [арт.] <strong>olive</strong> <strong>splendour</strong> і <strong>scent</strong> да|[Д.с.] як [арт.] <strong>Lebanon</strong> 
+Hosea 14:8 (14294) вяртацца сядзець у|[Тв.с.] цень жыць <strong>corn</strong> і <strong>sprout</strong> як [арт.] <strong>vine</strong> <strong>mention</strong> як віно <strong>Lebanon</strong> ס
+Hosea 14:9 (14295) Эфраі́м што да|[Д.с.] яшчэ да|[Д.с.] [арт.] <strong>image</strong> я адказаць і <strong>regard</strong> я як <strong>juniper</strong> <strong>luxuriant</strong> з плод знайсці 
+Hosea 14:10 (14296) хто разумны і разумець гэтыя разумець і ведаць [+неад.]|займацца сэксам [+адуш.] бо|што <strong>right</strong> шлях Існы і справядлівы|правільны хадзіць у|[Тв.с.] і <strong>rebel</strong> <strong>stumble</strong> у|[Тв.с.] 

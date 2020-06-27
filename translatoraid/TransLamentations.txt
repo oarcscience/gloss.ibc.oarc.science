@@ -1,154 +1,154 @@
-1:1 (19864) ס
-1:2 (19865) ס
-1:3 (19866) ס
-1:4 (19867) ס
-1:5 (19868) ס
-1:6 (19869) ס
-1:7 (19870) ס
-1:8 (19871) ס
-1:9 (19872) ס
-1:10 (19873) ס
-1:11 (19874) ס
-1:12 (19875) ס
-1:13 (19876) ס
-1:14 (19877) ס
-1:15 (19878) ס
-1:16 (19879) ס
-1:17 (19880) ס
-1:18 (19881) ס
-1:19 (19882) ס
-1:20 (19883) ס
-1:21 (19884) ס
-1:22 (19885) פ
-2:1 (19886) ס
-2:2 (19887) ס
-2:3 (19888) ס
-2:4 (19889) ס
-2:5 (19890) ס
-2:6 (19891) ס
-2:7 (19892) ס
-2:8 (19893) ס
-2:9 (19894) ס
-2:10 (19895) ס
-2:11 (19896) ס
-2:12 (19897) ס
-2:13 (19898) ס
-2:14 (19899) ס
-2:15 (19900) ס
-2:16 (19901) ס
-2:17 (19902) ס
-2:18 (19903) ס
-2:19 (19904) ס
-2:20 (19905) ס
-2:21 (19906) ס
-2:22 (19907) פ
-3:1 (19908) 
-3:2 (19909) 
-3:3 (19910) ס
-3:4 (19911) 
-3:5 (19912) 
-3:6 (19913) ס
-3:7 (19914) 
-3:8 (19915) 
-3:9 (19916) ס
-3:10 (19917) 
-3:11 (19918) 
-3:12 (19919) ס
-3:13 (19920) 
-3:14 (19921) 
-3:15 (19922) ס
-3:16 (19923) 
-3:17 (19924) 
-3:18 (19925) ס
-3:19 (19926) 
-3:20 (19927) 
-3:21 (19928) ס
-3:22 (19929) 
-3:23 (19930) 
-3:24 (19931) ס
-3:25 (19932) 
-3:26 (19933) 
-3:27 (19934) ס
-3:28 (19935) 
-3:29 (19936) 
-3:30 (19937) ס
-3:31 (19938) 
-3:32 (19939) 
-3:33 (19940) ס
-3:34 (19941) 
-3:35 (19942) 
-3:36 (19943) ס
-3:37 (19944) 
-3:38 (19945) 
-3:39 (19946) 
-3:40 (19947) 
-3:41 (19948) 
-3:42 (19949) ס
-3:43 (19950) 
-3:44 (19951) 
-3:45 (19952) ס
-3:46 (19953) 
-3:47 (19954) 
-3:48 (19955) ס
-3:49 (19956) 
-3:50 (19957) 
-3:51 (19958) ס
-3:52 (19959) 
-3:53 (19960) 
-3:54 (19961) ס
-3:55 (19962) 
-3:56 (19963) 
-3:57 (19964) ס
-3:58 (19965) 
-3:59 (19966) 
-3:60 (19967) ס
-3:61 (19968) 
-3:62 (19969) 
-3:63 (19970) ס
-3:64 (19971) 
-3:65 (19972) 
-3:66 (19973) פ
-4:1 (19974) ס
-4:2 (19975) ס
-4:3 (19976) ס
-4:4 (19977) ס
-4:5 (19978) ס
-4:6 (19979) ס
-4:7 (19980) ס
-4:8 (19981) ס
-4:9 (19982) ס
-4:10 (19983) ס
-4:11 (19984) ס
-4:12 (19985) ס
-4:13 (19986) ס
-4:14 (19987) ס
-4:15 (19988) ס
-4:16 (19989) ס
-4:17 (19990) ס
-4:18 (19991) ס
-4:19 (19992) ס
-4:20 (19993) ס
-4:21 (19994) ס
-4:22 (19995) פ
-5:1 (19996) 
-5:2 (19997) 
-5:3 (19998) 
-5:4 (19999) 
-5:5 (20000) 
-5:6 (20001) 
-5:7 (20002) 
-5:8 (20003) 
-5:9 (20004) 
-5:10 (20005) 
-5:11 (20006) 
-5:12 (20007) 
-5:13 (20008) 
-5:14 (20009) 
-5:15 (20010) 
-5:16 (20011) 
-5:17 (20012) 
-5:18 (20013) פ
-5:19 (20014) 
-5:20 (20015) 
-5:21 (20016) 
-5:22 (20017) 
+Lamentations 1:1 (19864) <strong>how</strong> сядзець <strong>alone</strong> [арт.] горад шматлікі народ быць як <strong>widow</strong> шматлікі у|[Тв.с.] [арт.] знешні народ <strong>mistress</strong> у|[Тв.с.] [арт.] <strong>district</strong> быць да|[Д.с.] <strong>forced labour</strong> ס
+Lamentations 1:2 (19865) плакаць плакаць у|[Тв.с.] [арт.] ноч і <strong>tear</strong> на <strong>jaw</strong> няма да|[Д.с.] <strong>repent, console</strong> з цэлы|увесь любіць|кахаць цэлы|увесь <strong>fellow</strong> <strong>deal treacherously</strong> у|[Тв.с.] быць да|[Д.с.] да|[Д.с.] <strong>be hostile</strong> ס
+Lamentations 1:3 (19866) <strong>uncover</strong> Егуда з <strong>poverty</strong> і з шматлікасць <strong>work</strong> яна сядзець у|[Тв.с.] [арт.] знешні народ не знайсці <strong>resting place</strong> цэлы|увесь <strong>pursue</strong> <strong>overtake</strong> між [арт.] <strong>distress</strong> ס
+Lamentations 1:4 (19867) шлях Цыё́н <strong>mourning</strong> з <strong>destruction</strong> прыйсці <strong>appointment</strong> цэлы|увесь брама <strong>be desolate</strong> <strong>priest</strong> <strong>gasp</strong> <strong>virgin</strong> <strong>grieve</strong> і яна <strong>be bitter</strong> да|[Д.с.] ס
+Lamentations 1:5 (19868) быць <strong>adversary</strong> да|[Д.с.] галава <strong>be hostile</strong> <strong>be easy</strong> бо|што Існы <strong>grieve</strong> на шматлікасць <strong>rebellion</strong> <strong>child</strong> хадзіць <strong>captive</strong> да|[Д.с.] твар <strong>adversary</strong> ס
+Lamentations 1:6 (19869) і выйсці з дачка Цыё́н цэлы|увесь <strong>ornament</strong> быць кіраўнік|міністр як <strong>fallow-buck</strong> не знайсці <strong>pasture</strong> і хадзіць у|[Тв.с.] не сіла да|[Д.с.] твар <strong>pursue</strong> ס
+Lamentations 1:7 (19870) помніць Ерусалім дзень <strong>poverty</strong> і <strong>homelessness</strong> цэлы|увесь <strong>something precious</strong> які быць з дзень <strong>front</strong> у|[Тв.с.] падаць народ у|[Тв.с.] рука <strong>adversary</strong> і няма <strong>help</strong> да|[Д.с.] бачыць <strong>adversary</strong> смяяцца на <strong>ruin</strong> ס
+Lamentations 1:8 (19871) <strong>offence</strong> заблудзіць Ерусалім на так да|[Д.с.] <strong>menstruation</strong> быць цэлы|увесь <strong>be heavy</strong> <strong>be lavish</strong> бо|што бачыць <strong>nakedness</strong> таксама|нават яна <strong>gasp</strong> і вяртацца <strong>back(wards)</strong> ס
+Lamentations 1:9 (19872) <strong>uncleanness</strong> у|[Тв.с.] <strong>skirt</strong> не помніць прыканец і апускацца <strong>miracle</strong> няма <strong>repent, console</strong> да|[Д.с.] бачыць Існы [В.с.] <strong>poverty</strong> бо|што узвялічваць <strong>be hostile</strong> ס
+Lamentations 1:10 (19873) рука <strong>spread out</strong> <strong>adversary</strong> на цэлы|увесь <strong>desire</strong> бо|што бачыць знешні народ прыйсці <strong>sanctuary</strong> які <strong>command</strong> не прыйсці у|[Тв.с.] [арт.] <strong>assembly</strong> да|[Д.с.] ס
+Lamentations 1:11 (19874) цэлы|увесь народ <strong>gasp</strong> шукаць хлеб даць <strong>desire</strong> у|[Тв.с.] <strong>food</strong> да|[Д.с.] вяртацца душа бачыць Існы і <strong>look at</strong> бо|што быць <strong>be lavish</strong> ס
+Lamentations 1:12 (19875) не да цэлы|увесь перайсці шлях <strong>look at</strong> і бачыць калі[зл.] ёсць <strong>pain</strong> як <strong>pain</strong> які <strong>deal with</strong> да|[Д.с.] які <strong>grieve</strong> Існы у|[Тв.с.] дзень <strong>anger</strong> <strong>nose</strong> ס
+Lamentations 1:13 (19876) з узвышанасць слаць агонь у|[Тв.с.] костка і <strong>tread, to rule</strong> <strong>spread out</strong> <strong>net</strong> да|[Д.с.] нага вяртацца <strong>back(wards)</strong> даць <strong>be desolate</strong> цэлы|увесь [арт.] дзень <strong>unwell</strong> ס
+Lamentations 1:14 (19877) <strong>[uncertain]</strong> <strong>yoke</strong> <strong>rebellion</strong> у|[Тв.с.] рука <strong>intertwine</strong> падымацца на <strong>neck</strong> <strong>stumble</strong> сіла даць валадар у|[Тв.с.] рука не магчы устаць ס
+Lamentations 1:15 (19878) <strong>reject</strong> цэлы|увесь <strong>strong</strong> валадар у|[Тв.с.] <strong>interior</strong> зваць на <strong>appointment</strong> да|[Д.с.] разбіць хлопец <strong>wine-press</strong> <strong>tread</strong> валадар да|[Д.с.] <strong>virgin</strong> дачка Егуда ס
+Lamentations 1:16 (19879) на гэтыя я плакаць вока вока апускацца вада бо|што <strong>be far</strong> з <strong>repent, console</strong> вяртацца душа быць сын <strong>be desolate</strong> бо|што <strong>be superior</strong> <strong>be hostile</strong> ס
+Lamentations 1:17 (19880) <strong>spread out</strong> Цыё́н у|[Тв.с.] рука няма <strong>repent, console</strong> да|[Д.с.] <strong>command</strong> Існы да|[Д.с.] Яако́ў вакол <strong>adversary</strong> быць Ерусалім да|[Д.с.] <strong>menstruation</strong> між ס
+Lamentations 1:18 (19881) справядлівы|правільны ён Існы бо|што рот <strong>rebel</strong> чуць ж, -ка [узмацн.] цэлы|увесь [арт.] народ і бачыць <strong>pain</strong> <strong>virgin</strong> і хлопец хадзіць у|[Тв.с.] [арт.] <strong>captive</strong> ס
+Lamentations 1:19 (19882) зваць да|[Д.с.] [арт.] любіць|кахаць яны <strong>deceive</strong> <strong>priest</strong> і старадаўні у|[Тв.с.] [арт.] горад <strong>expire</strong> бо|што шукаць <strong>food</strong> да|[Д.с.] і вяртацца [В.с.] душа ס
+Lamentations 1:20 (19883) бачыць Існы бо|што <strong>wrap, be narrow</strong> да|[Д.с.] <strong>bowels</strong> <strong>cover</strong> <strong>turn</strong> сэрца у|[Тв.с.] <strong>interior</strong> бо|што <strong>rebel</strong> <strong>rebel</strong> з <strong>outside</strong> <strong>be bereaved of children</strong> <strong>dagger</strong> у|[Тв.с.] [арт.] дом як [арт.] смерць ס
+Lamentations 1:21 (19884) чуць бо|што <strong>gasp</strong> я няма <strong>repent, console</strong> да|[Д.с.] цэлы|увесь <strong>be hostile</strong> чуць дрэнны <strong>rejoice</strong> бо|што ты[м.] рабіць прыйсці дзень зваць і быць <strong>like</strong> ס
+Lamentations 1:22 (19885) прыйсці цэлы|увесь дрэнны да|[Д.с.] твар і <strong>deal with</strong> да|[Д.с.] як які <strong>deal with</strong> да|[Д.с.] на цэлы|увесь <strong>rebellion</strong> бо|што шматлікі <strong>sigh</strong> і сэрца <strong>ill</strong> פ
+Lamentations 2:1 (19886) <strong>how</strong> <strong>becloud</strong> у|[Тв.с.] <strong>nose</strong> валадар [В.с.] дачка Цыё́н кінуць з неба зямля <strong>splendour</strong> Ісраэль і не помніць <strong>foot-stool</strong> нага у|[Тв.с.] дзень <strong>nose</strong> ס
+Lamentations 2:2 (19887) <strong>swallow</strong> валадар і не <strong>have compassion</strong> [В.с.] цэлы|увесь <strong>pasture</strong> Яако́ў <strong>tear down</strong> у|[Тв.с.] <strong>anger</strong> <strong>fortification</strong> дачка Егуда <strong>touch</strong> да|[Д.с.] [арт.] зямля <strong>defile</strong> <strong>kingdom</strong> і кіраўнік|міністр ס
+Lamentations 2:3 (19888) <strong>cut off</strong> у|[Тв.с.] <strong>heat</strong> <strong>nose</strong> цэлы|увесь <strong>horn</strong> Ісраэль вяртацца <strong>back(wards)</strong> правая частка з твар <strong>be hostile</strong> і <strong>burn</strong> у|[Тв.с.] Яако́ў як агонь полымя есці вакол ס
+Lamentations 2:4 (19889) <strong>tread</strong> <strong>bow</strong> як <strong>be hostile</strong> <strong>stand</strong> правая частка як <strong>adversary</strong> і <strong>kill</strong> цэлы|увесь <strong>desire</strong> вока у|[Тв.с.] <strong>tent</strong> дачка Цыё́н <strong>pour</strong> як [арт.] агонь <strong>heat</strong> ס
+Lamentations 2:5 (19890) быць валадар як <strong>be hostile</strong> <strong>swallow</strong> Ісраэль <strong>swallow</strong> цэлы|увесь <strong>dwelling tower</strong> <strong>destroy</strong> <strong>fortification</strong> і шмат у|[Тв.с.] дачка Егуда <strong>mourning</strong> і <strong>mourning</strong> ס
+Lamentations 2:6 (19891) і <strong>treat violently</strong> як [арт.] <strong>garden</strong> <strong>[uncertain]</strong> <strong>destroy</strong> <strong>appointment</strong> забыць Існы у|[Тв.с.] Цыё́н <strong>appointment</strong> і <strong>sabbath</strong> і <strong>contemn</strong> у|[Тв.с.] <strong>curse</strong> <strong>nose</strong> цар і <strong>priest</strong> ס
+Lamentations 2:7 (19892) <strong>reject</strong> валадар <strong>altar</strong> <strong>abandon</strong> <strong>sanctuary</strong> зачыняць у|[Тв.с.] рука <strong>be hostile</strong> <strong>wall</strong> <strong>dwelling tower</strong> голас даць у|[Тв.с.] дом Існы як дзень <strong>appointment</strong> ס
+Lamentations 2:8 (19893) <strong>account</strong> Існы да|[Д.с.] <strong>destroy</strong> <strong>wall</strong> дачка Цыё́н <strong>extend</strong> <strong>line</strong> не вяртацца рука з <strong>swallow</strong> і <strong>mourn</strong> вал|знешняе ўмацаванне і <strong>wall</strong> <strong>together</strong> <strong>wither</strong> ס
+Lamentations 2:9 (19894) <strong>sink</strong> у|[Тв.с.] [арт.] зямля брама загінуць і разбіць <strong>bar</strong> цар і кіраўнік|міністр у|[Тв.с.] [арт.] знешні народ няма <strong>instruction</strong> таксама|нават <strong>prophet</strong> не знайсці зданак з Існы ס
+Lamentations 2:10 (19895) сядзець да|[Д.с.] [арт.] зямля <strong>rest</strong> старадаўні дачка Цыё́н падымацца пыл на галава <strong>gird</strong> <strong>sack</strong> апускацца да|[Д.с.] [арт.] зямля галава <strong>virgin</strong> Ерусалім ס
+Lamentations 2:11 (19896) <strong>be complete</strong> у|[Тв.с.] [арт.] <strong>tear</strong> вока <strong>cover</strong> <strong>bowels</strong> <strong>pour</strong> да|[Д.с.] [арт.] зямля <strong>liver</strong> на <strong>breaking</strong> дачка народ у|[Тв.с.] <strong>faint</strong> <strong>child</strong> і <strong>suck</strong> у|[Тв.с.] <strong>open place</strong> <strong>town</strong> ס
+Lamentations 2:12 (19897) да|[Д.с.] маці казаць <strong>where</strong> <strong>corn</strong> і віно у|[Тв.с.] <strong>faint</strong> як [арт.] <strong>pierced</strong> у|[Тв.с.] <strong>open place</strong> горад у|[Тв.с.] <strong>pour</strong> душа да <strong>lap</strong> маці ס
+Lamentations 2:13 (19898) што <strong>warn, to witness</strong> што <strong>be like</strong> да|[Д.с.] [арт.] дачка Ерусалім што <strong>be like</strong> да|[Д.с.] і <strong>repent, console</strong> <strong>virgin</strong> дачка Цыё́н бо|што вялікі як [арт.] мора <strong>breaking</strong> хто <strong>heal</strong> да|[Д.с.] ס
+Lamentations 2:14 (19899) <strong>prophet</strong> <strong>see</strong> да|[Д.с.] <strong>vanity</strong> і <strong>something tasteless</strong> і не <strong>uncover</strong> на <strong>sin</strong> да|[Д.с.] вяртацца <strong>captivity</strong> і <strong>see</strong> да|[Д.с.] <strong>utterance</strong> <strong>vanity</strong> і <strong>enticement</strong> ס
+Lamentations 2:15 (19900) <strong>clap hands</strong> на далонь цэлы|увесь перайсці шлях <strong>whistle</strong> і <strong>quiver</strong> галава на дачка Ерусалім ці <strong>this</strong> [арт.] горад што казаць <strong>entire</strong> <strong>beauty</strong> <strong>joy</strong> да|[Д.с.] цэлы|увесь [арт.] зямля ס
+Lamentations 2:16 (19901) <strong>open</strong> на рот цэлы|увесь <strong>be hostile</strong> <strong>whistle</strong> і <strong>grind</strong> <strong>tooth</strong> казаць <strong>swallow</strong> <strong>only</strong> гэты [арт.] дзень што <strong>wait for</strong> знайсці бачыць ס
+Lamentations 2:17 (19902) рабіць Існы які <strong>ponder</strong> <strong>cut off</strong> <strong>word</strong> які <strong>command</strong> з дзень <strong>front</strong> <strong>tear down</strong> і не <strong>have compassion</strong> і узрадавацца на <strong>be hostile</strong> <strong>be high</strong> <strong>horn</strong> <strong>adversary</strong> ס
+Lamentations 2:18 (19903) <strong>cry</strong> сэрца да валадар <strong>wall</strong> дачка Цыё́н апускацца як [арт.] <strong>wadi</strong> <strong>tear</strong> <strong>by day</strong> і ноч не [+заг.лад] даць <strong>benumbing</strong> да|[Д.с.] не [+заг.лад] <strong>rest</strong> дачка вока ס
+Lamentations 2:19 (19904) устаць <strong>cry of joy</strong> у|[Тв.с.] [арт.] ноч да|[Д.с.] галава <strong>night watch</strong> <strong>pour</strong> як [арт.] вада сэрца <strong>straightness</strong> твар валадар падняць да далонь на душа <strong>child</strong> [арт.] <strong>feeble</strong> у|[Тв.с.] <strong>hunger</strong> у|[Тв.с.] галава цэлы|увесь <strong>outside</strong> ס
+Lamentations 2:20 (19905) бачыць Існы і <strong>look at</strong> да|[Д.с.] хто <strong>deal with</strong> такім чынам калі[зл.] есці жанчына плод <strong>child</strong> <strong>healthy ones</strong> калі[зл.] <strong>kill</strong> у|[Тв.с.] <strong>sanctuary</strong> валадар <strong>priest</strong> і <strong>prophet</strong> ס
+Lamentations 2:21 (19906) ляжаць да|[Д.с.] [арт.] зямля <strong>outside</strong> хлапчук і старадаўні <strong>virgin</strong> і хлопец падаць у|[Тв.с.] [арт.] <strong>dagger</strong> <strong>kill</strong> у|[Тв.с.] дзень <strong>nose</strong> <strong>slaughter</strong> не <strong>have compassion</strong> ס
+Lamentations 2:22 (19907) зваць як дзень <strong>appointment</strong> <strong>neighbourhood</strong> з вакол і не быць у|[Тв.с.] дзень <strong>nose</strong> Існы збяжаўшы і выжыўшы які <strong>bring forth</strong> і шмат <strong>be hostile</strong> <strong>be complete</strong> פ
+Lamentations 3:1 (19908) я [арт.] <strong>vigorous man</strong> бачыць <strong>poverty</strong> у|[Тв.с.] <strong>rod</strong> <strong>anger</strong> 
+Lamentations 3:2 (19909) [В.с.] <strong>drive</strong> і хадзіць цемра і не святло 
+Lamentations 3:3 (19910) <strong>only</strong> у|[Тв.с.] вяртацца <strong>turn</strong> рука цэлы|увесь [арт.] дзень ס
+Lamentations 3:4 (19911) <strong>be worn out</strong> мяса|плоць і <strong>skin</strong> разбіць костка 
+Lamentations 3:5 (19912) будаваць на і <strong>go around</strong> <strong>poison</strong> і <strong>weariness</strong> 
+Lamentations 3:6 (19913) у|[Тв.с.] <strong>dark place</strong> сядзець як паміраць свет|вечнасць ס
+Lamentations 3:7 (19914) <strong>heap stones</strong> <strong>distance</strong> і не выйсці <strong>be heavy</strong> <strong>bronze</strong> 
+Lamentations 3:8 (19915) таксама|нават бо|што <strong>cry</strong> і <strong>cry</strong> <strong>stop</strong> <strong>prayer</strong> 
+Lamentations 3:9 (19916) <strong>heap stones</strong> шлях у|[Тв.с.] <strong>hewn stone</strong> <strong>path</strong> <strong>do wrong</strong> ס
+Lamentations 3:10 (19917) <strong>bear</strong> <strong>lie in ambush</strong> ён да|[Д.с.] <strong>lion</strong> у|[Тв.с.] <strong>hiding-place</strong> 
+Lamentations 3:11 (19918) шлях збочыць і <strong>be untilled</strong> класці|ставіць <strong>be desolate</strong> 
+Lamentations 3:12 (19919) <strong>tread</strong> <strong>bow</strong> і <strong>stand</strong> як [арт.] <strong>target</strong> да|[Д.с.] [арт.] <strong>arrow</strong> ס
+Lamentations 3:13 (19920) прыйсці у|[Тв.с.] <strong>kidney</strong> сын <strong>quiver</strong> 
+Lamentations 3:14 (19921) быць смех да|[Д.с.] цэлы|увесь народ <strong>music</strong> цэлы|увесь [арт.] дзень 
+Lamentations 3:15 (19922) <strong>be sated</strong> у|[Тв.с.] [арт.] <strong>bitter</strong> <strong>drink</strong> <strong>wormwood</strong> ס
+Lamentations 3:16 (19923) і <strong>be crushed</strong> у|[Тв.с.] [арт.] <strong>pebble</strong> <strong>tooth</strong> <strong>cower</strong> у|[Тв.с.] [арт.] <strong>dust</strong> 
+Lamentations 3:17 (19924) і <strong>reject</strong> з згода душа <strong>forget</strong> <strong>what is good</strong> 
+Lamentations 3:18 (19925) і казаць загінуць <strong>glory</strong> і <strong>hope</strong> з Існы ס
+Lamentations 3:19 (19926) помніць <strong>poverty</strong> і <strong>homelessness</strong> <strong>wormwood</strong> і <strong>poison</strong> 
+Lamentations 3:20 (19927) помніць помніць і <strong>bow down</strong> на душа 
+Lamentations 3:21 (19928) <strong>this</strong> вяртацца да сэрца на так <strong>wait, to hope</strong> ס
+Lamentations 3:22 (19929) <strong>loyalty</strong> Існы бо|што не <strong>be complete</strong> бо|што не <strong>be complete</strong> <strong>compassion</strong> 
+Lamentations 3:23 (19930) новы да|[Д.с.] [арт.] раніца шматлікі <strong>steadiness</strong> 
+Lamentations 3:24 (19931) частка Існы казаць душа на так <strong>wait, to hope</strong> да|[Д.с.] ס
+Lamentations 3:25 (19932) добры Існы да|[Д.с.] <strong>wait for</strong> да|[Д.с.] душа <strong>inquire</strong> 
+Lamentations 3:26 (19933) добры і <strong>[uncertain]</strong> і <strong>silently</strong> да|[Д.с.] <strong>salvation</strong> Існы 
+Lamentations 3:27 (19934) добры да|[Д.с.] [арт.] <strong>vigorous man</strong> бо|што падняць <strong>yoke</strong> у|[Тв.с.] <strong>youth</strong> ס
+Lamentations 3:28 (19935) сядзець <strong>alone</strong> і <strong>rest</strong> бо|што <strong>lay upon</strong> на 
+Lamentations 3:29 (19936) даць у|[Тв.с.] [арт.] пыл рот <strong>perhaps</strong> ёсць <strong>hope</strong> 
+Lamentations 3:30 (19937) даць да|[Д.с.] <strong>strike</strong> <strong>jaw</strong> <strong>be sated</strong> у|[Тв.с.] <strong>reproach</strong> ס
+Lamentations 3:31 (19938) бо|што не <strong>reject</strong> да|[Д.с.] свет|вечнасць валадар 
+Lamentations 3:32 (19939) бо|што калі[зл.] <strong>grieve</strong> і <strong>have compassion</strong> як шматлікасць <strong>loyalty</strong> 
+Lamentations 3:33 (19940) бо|што не <strong>be lowly</strong> з сэрца і <strong>grieve</strong> сын чалавек (1) ס
+Lamentations 3:34 (19941) да|[Д.с.] <strong>oppress</strong> пад нага цэлы|увесь <strong>prisoner</strong> зямля 
+Lamentations 3:35 (19942) да|[Д.с.] <strong>extend</strong> правасуддзе <strong>vigorous man</strong> перад твар <strong>upper</strong> 
+Lamentations 3:36 (19943) да|[Д.с.] <strong>be crooked</strong> чалавек (від) у|[Тв.с.] <strong>law-case</strong> валадар не бачыць ס
+Lamentations 3:37 (19944) хто гэты казаць і быць валадар не <strong>command</strong> 
+Lamentations 3:38 (19945) з рот <strong>upper</strong> не выйсці [арт.] дрэнны і [арт.] добры 
+Lamentations 3:39 (19946) што <strong>complain</strong> чалавек (від) жывы <strong>vigorous man</strong> на <strong>offence</strong> 
+Lamentations 3:40 (19947) маскіравацца шлях і <strong>explore</strong> і вяртацца (ажно) да Існы 
+Lamentations 3:41 (19948) падняць сэрца да далонь да <strong>god</strong> у|[Тв.с.] [арт.] неба 
+Lamentations 3:42 (19949) <strong>we</strong> <strong>rebel</strong> і <strong>rebel</strong> ты[м.] не <strong>forgive</strong> ס
+Lamentations 3:43 (19950) <strong>block</strong> у|[Тв.с.] [арт.] <strong>nose</strong> і <strong>pursue</strong> <strong>kill</strong> не <strong>have compassion</strong> 
+Lamentations 3:44 (19951) <strong>block</strong> у|[Тв.с.] [арт.] <strong>cloud</strong> да|[Д.с.] з перайсці <strong>prayer</strong> 
+Lamentations 3:45 (19952) <strong>refuse</strong> і <strong>retract</strong> класці|ставіць у|[Тв.с.] <strong>interior</strong> [арт.] народ ס
+Lamentations 3:46 (19953) <strong>open</strong> на рот цэлы|увесь <strong>be hostile</strong> 
+Lamentations 3:47 (19954) <strong>trembling</strong> і <strong>pit</strong> быць да|[Д.с.] [арт.] <strong>desolation</strong> і [арт.] <strong>breaking</strong> 
+Lamentations 3:48 (19955) <strong>division</strong> вада апускацца вока на <strong>breaking</strong> дачка народ ס
+Lamentations 3:49 (19956) вока <strong>run</strong> і не маўчаць з няма <strong>stop</strong> 
+Lamentations 3:50 (19957) (ажно) да <strong>look</strong> і бачыць Існы з неба 
+Lamentations 3:51 (19958) вока <strong>deal with</strong> да|[Д.с.] душа з цэлы|увесь дачка горад ס
+Lamentations 3:52 (19959) <strong>hunt</strong> <strong>hunt</strong> як [арт.] птушка <strong>be hostile</strong> <strong>in vain</strong> 
+Lamentations 3:53 (19960) <strong>be silent</strong> у|[Тв.с.] [арт.] <strong>cistern</strong> <strong>life</strong> і <strong>shoot</strong> камень у|[Тв.с.] 
+Lamentations 3:54 (19961) <strong>flow</strong> вада на галава казаць <strong>cut</strong> ס
+Lamentations 3:55 (19962) зваць імя Існы з <strong>cistern</strong> <strong>lower</strong> 
+Lamentations 3:56 (19963) голас чуць не [+заг.лад] <strong>hide</strong> вуха да|[Д.с.] <strong>relief</strong> да|[Д.с.] <strong>cry</strong> 
+Lamentations 3:57 (19964) набліжацца у|[Тв.с.] дзень зваць казаць не [+заг.лад] баяцца ס
+Lamentations 3:58 (19965) <strong>contend</strong> валадар <strong>law-case</strong> душа <strong>redeem</strong> <strong>life</strong> 
+Lamentations 3:59 (19966) бачыць Існы <strong>oppression</strong> судзіць правасуддзе 
+Lamentations 3:60 (19967) бачыць цэлы|увесь <strong>vengeance</strong> цэлы|увесь <strong>thought</strong> да|[Д.с.] ס
+Lamentations 3:61 (19968) чуць <strong>reproach</strong> Існы цэлы|увесь <strong>thought</strong> на 
+Lamentations 3:62 (19969) губа устаць і <strong>groaning</strong> на цэлы|увесь [арт.] дзень 
+Lamentations 3:63 (19970) сядзець і <strong>rising up</strong> <strong>look at</strong> я <strong>mocking song</strong> ס
+Lamentations 3:64 (19971) вяртацца да|[Д.с.] учынак Існы як учынак|справа рука 
+Lamentations 3:65 (19972) даць да|[Д.с.] <strong>insolence</strong> сэрца <strong>curse</strong> да|[Д.с.] 
+Lamentations 3:66 (19973) <strong>pursue</strong> у|[Тв.с.] <strong>nose</strong> і <strong>destroy</strong> з пад неба Існы פ
+Lamentations 4:1 (19974) <strong>how</strong> <strong>be dark</strong> золата <strong>shine</strong> [арт.] <strong>gold</strong> [арт.] добры <strong>pour</strong> камень святасць у|[Тв.с.] галава цэлы|увесь <strong>outside</strong> ס
+Lamentations 4:2 (19975) сын Цыё́н [арт.] <strong>rare</strong> [арт.] <strong>pay</strong> у|[Тв.с.] [арт.] <strong>topaz</strong> <strong>how</strong> <strong>account</strong> да|[Д.с.] <strong>jar</strong> <strong>clay</strong> учынак|справа рука <strong>potter</strong> ס
+Lamentations 4:3 (19976) таксама|нават <strong>jackal</strong> <strong>draw off</strong> <strong>breast</strong> <strong>suck</strong> <strong>lion</strong> дачка народ да|[Д.с.] <strong>cruel</strong> як [арт.] <strong>[uncertain]</strong> у|[Тв.с.] [арт.] <strong>desert</strong> ס
+Lamentations 4:4 (19977) <strong>cling, cleave to</strong> язык <strong>suck</strong> да <strong>palate</strong> у|[Тв.с.] [арт.] <strong>thirst</strong> <strong>child</strong> пытацца хлеб <strong>spread out</strong> няма да|[Д.с.] ס
+Lamentations 4:5 (19978) [арт.] есці да|[Д.с.] <strong>dainty</strong> <strong>be desolate</strong> у|[Тв.с.] [арт.] <strong>outside</strong> [арт.] <strong>be firm</strong> на <strong>scarlet worm</strong> <strong>embrace</strong> <strong>ash pit</strong> ס
+Lamentations 4:6 (19979) і узвялічваць <strong>sin</strong> дачка народ з <strong>sin</strong> <strong>Sodom</strong> [арт.] <strong>turn</strong> <strong>like</strong> <strong>moment</strong> і не <strong>dance</strong> у|[Тв.с.] рука ס
+Lamentations 4:7 (19980) <strong>be clean</strong> <strong>singled out</strong> з <strong>snow</strong> <strong>be white</strong> з <strong>milk</strong> <strong>be ruddy</strong> костка з <strong>corals</strong> <strong>lapis lazuli</strong> <strong>room</strong> ס
+Lamentations 4:8 (19981) <strong>be dark</strong> з <strong>blackness</strong> <strong>form</strong> не <strong>recognise</strong> у|[Тв.с.] [арт.] <strong>outside</strong> <strong>shrivel</strong> <strong>skin</strong> на костка <strong>dry</strong> быць як [арт.] дрэва ס
+Lamentations 4:9 (19982) добры быць <strong>pierced</strong> <strong>dagger</strong> з <strong>pierced</strong> <strong>hunger</strong> што яны [ж.] <strong>flow</strong> <strong>pierce</strong> з <strong>produce</strong> <strong>open field</strong> ס
+Lamentations 4:10 (19983) рука жанчына <strong>compassionate</strong> <strong>boil</strong> дзіця [м.] быць да|[Д.с.] <strong>bread of consolation</strong> да|[Д.с.] у|[Тв.с.] <strong>breaking</strong> дачка народ ס
+Lamentations 4:11 (19984) <strong>be complete</strong> Існы [В.с.] <strong>heat</strong> <strong>pour</strong> <strong>anger</strong> <strong>nose</strong> і <strong>kindle</strong> агонь у|[Тв.с.] Цыё́н і есці <strong>foundation</strong> ס
+Lamentations 4:12 (19985) не <strong>be firm</strong> цар зямля цэлы|увесь сядзець <strong>world</strong> бо|што прыйсці <strong>adversary</strong> і <strong>be hostile</strong> у|[Тв.с.] брама Ерусалім ס
+Lamentations 4:13 (19986) з <strong>sin</strong> <strong>prophet</strong> <strong>sin</strong> <strong>priest</strong> [арт.] <strong>pour</strong> у|[Тв.с.] <strong>interior</strong> <strong>blood</strong> справядлівы|правільны ס
+Lamentations 4:14 (19987) <strong>quiver</strong> <strong>blind</strong> у|[Тв.с.] [арт.] <strong>outside</strong> <strong>pollute</strong> у|[Тв.с.] [арт.] <strong>blood</strong> у|[Тв.с.] не магчы <strong>touch</strong> у|[Тв.с.] <strong>clothing</strong> ס
+Lamentations 4:15 (19988) збочыць нячысты зваць да|[Д.с.] збочыць збочыць не [+заг.лад] <strong>touch</strong> бо|што <strong>depart</strong> таксама|нават <strong>quiver</strong> казаць у|[Тв.с.] [арт.] знешні народ не дадаць да|[Д.с.] <strong>dwell</strong> ס
+Lamentations 4:16 (19989) твар Існы <strong>divide</strong> не дадаць да|[Д.с.] <strong>look at</strong> твар <strong>priest</strong> не падняць і старадаўні не <strong>favour</strong> ס
+Lamentations 4:17 (19990) яшчэ <strong>be complete</strong> вока да <strong>help</strong> подых у|[Тв.с.] <strong>outlook</strong> <strong>look out</strong> да знешні народ не збавіць ס
+Lamentations 4:18 (19991) <strong>hunt</strong> <strong>marching</strong> з хадзіць у|[Тв.с.] <strong>open place</strong> набліжацца <strong>end</strong> поўніцца дзень бо|што прыйсці <strong>end</strong> ס
+Lamentations 4:19 (19992) лёгкі быць <strong>pursue</strong> з арол неба на [арт.] гара падпальваць у|[Тв.с.] [арт.] <strong>desert</strong> <strong>lie in ambush</strong> да|[Д.с.] ס
+Lamentations 4:20 (19993) вецер <strong>nose</strong> <strong>anointed</strong> Існы <strong>seize</strong> у|[Тв.с.] <strong>pit</strong> які казаць у|[Тв.с.] цень жыць у|[Тв.с.] [арт.] знешні народ ס
+Lamentations 4:21 (19994) <strong>rejoice</strong> і узрадавацца дачка Эдом сядзець у|[Тв.с.] зямля <strong>[land of hiob]</strong> таксама|нават на перайсці <strong>cup</strong> <strong>be drunk</strong> і <strong>pour out</strong> ס
+Lamentations 4:22 (19995) <strong>be complete</strong> <strong>sin</strong> дачка Цыё́н не дадаць да|[Д.с.] <strong>uncover</strong> <strong>miss</strong> <strong>sin</strong> дачка Эдом <strong>uncover</strong> на <strong>sin</strong> פ
+Lamentations 5:1 (19996) помніць Існы што быць да|[Д.с.] <strong>look at</strong> і бачыць [В.с.] <strong>reproach</strong> 
+Lamentations 5:2 (19997) уласнасць <strong>turn</strong> да|[Д.с.] чужы дом да|[Д.с.] чужынскі 
+Lamentations 5:3 (19998) <strong>orphan</strong> быць і няма бацька маці як <strong>widow</strong> 
+Lamentations 5:4 (19999) вада у|[Тв.с.] срэбра піць дрэва у|[Тв.с.] <strong>price</strong> прыйсці 
+Lamentations 5:5 (20000) на <strong>neck</strong> <strong>pursue</strong> <strong>be weary</strong> і не асесць да|[Д.с.] 
+Lamentations 5:6 (20001) <strong>Egypt</strong> даць рука <strong>Asshur</strong> да|[Д.с.] <strong>be sated</strong> хлеб 
+Lamentations 5:7 (20002) бацька заблудзіць і няма і <strong>we</strong> <strong>sin</strong> <strong>bear</strong> 
+Lamentations 5:8 (20003) слуга <strong>rule</strong> у|[Тв.с.] <strong>tear away</strong> няма з рука 
+Lamentations 5:9 (20004) у|[Тв.с.] душа прыйсці хлеб з твар <strong>dagger</strong> [арт.] <strong>desert</strong> 
+Lamentations 5:10 (20005) <strong>skin</strong> як <strong>furnace</strong> <strong>grow hot</strong> з твар <strong>irritation</strong> <strong>hunger</strong> 
+Lamentations 5:11 (20006) жанчына у|[Тв.с.] Цыё́н <strong>be lowly</strong> <strong>virgin</strong> у|[Тв.с.] горад Егуда 
+Lamentations 5:12 (20007) кіраўнік|міністр у|[Тв.с.] рука <strong>hang</strong> твар старадаўні не <strong>honour</strong> 
+Lamentations 5:13 (20008) хлопец <strong>hand-mill</strong> падняць і хлапчук у|[Тв.с.] [арт.] дрэва <strong>stumble</strong> 
+Lamentations 5:14 (20009) старадаўні з брама <strong>cease</strong> хлопец з <strong>music</strong> 
+Lamentations 5:15 (20010) <strong>cease</strong> <strong>joy</strong> сэрца <strong>turn</strong> да|[Д.с.] <strong>mourning rites</strong> <strong>round dance</strong> 
+Lamentations 5:16 (20011) падаць <strong>wreath</strong> галава <strong>woe</strong> ж, -ка [узмацн.] да|[Д.с.] бо|што заблудзіць 
+Lamentations 5:17 (20012) на гэты быць <strong>unwell</strong> сэрца на гэтыя <strong>be dark</strong> вока 
+Lamentations 5:18 (20013) на гара Цыё́н што <strong>desolate</strong> <strong>fox</strong> хадзіць у|[Тв.с.] פ
+Lamentations 5:19 (20014) ты[м.] Існы да|[Д.с.] свет|вечнасць сядзець <strong>seat</strong> да|[Д.с.] <strong>generation</strong> і <strong>generation</strong> 
+Lamentations 5:20 (20015) чаму да|[Д.с.] <strong>glory</strong> забыць <strong>leave</strong> да|[Д.с.] <strong>length</strong> дзень 
+Lamentations 5:21 (20016) вяртацца Існы да і вяртацца <strong>be new</strong> дзень як <strong>front</strong> 
+Lamentations 5:22 (20017) бо|што калі[зл.] <strong>retract</strong> <strong>retract</strong> <strong>be angry</strong> на (ажно) да вельмі 

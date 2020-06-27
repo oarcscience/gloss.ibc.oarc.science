@@ -1,53 +1,53 @@
-1:1 (14793) 
-1:2 (14794) 
-1:3 (14795) 
-1:4 (14796) 
-1:5 (14797) 
-1:6 (14798) 
-1:7 (14799) 
-1:8 (14800) 
-1:9 (14801) ס
-1:10 (14802) 
-1:11 (14803) 
-1:12 (14804) 
-1:13 (14805) 
-1:14 (14806) 
-1:15 (14807) 
-1:16 (14808) 
-1:17 (14809) 
-1:18 (14810) ס
-2:1 (14811) 
-2:2 (14812) 
-2:3 (14813) 
-2:4 (14814) ס
-2:5 (14815) 
-2:6 (14816) 
-2:7 (14817) 
-2:8 (14818) 
-2:9 (14819) 
-2:10 (14820) 
-2:11 (14821) 
-2:12 (14822) 
-2:13 (14823) 
-2:14 (14824) 
-2:15 (14825) ס
-3:1 (14826) 
-3:2 (14827) 
-3:3 (14828) 
-3:4 (14829) 
-3:5 (14830) 
-3:6 (14831) 
-3:7 (14832) 
-3:8 (14833) 
-3:9 (14834) 
-3:10 (14835) 
-3:11 (14836) 
-3:12 (14837) 
-3:13 (14838) ס
-3:14 (14839) 
-3:15 (14840) 
-3:16 (14841) 
-3:17 (14842) 
-3:18 (14843) 
-3:19 (14844) 
-3:20 (14845) 
+Zephaniah 1:1 (14793) слова|рэч Існы які быць да <strong>Zephaniah</strong> сын <strong>Cushi</strong> сын <strong>Gedaliah</strong> сын <strong>Amariah</strong> сын <strong>Hizkiah</strong> у|[Тв.с.] дзень <strong>Josiah</strong> сын <strong>Amon</strong> цар Егуда 
+Zephaniah 1:2 (14794) збіраць збіраць цэлы|увесь з на твар [арт.] <strong>soil</strong> прароцтва Існы 
+Zephaniah 1:3 (14795) збіраць чалавек (від) і звяры збіраць птушкі [арт.] неба і рыба [арт.] мора і [арт.] <strong>decay</strong> [В.с.] [арт.] вінаваты і выразаць [В.с.] [арт.] чалавек (від) з на твар [арт.] <strong>soil</strong> прароцтва Існы 
+Zephaniah 1:4 (14796) і <strong>extend</strong> рука на Егуда і на цэлы|увесь сядзець Ерусалім і выразаць з [арт.] месца [арт.] гэты [В.с.] <strong>rest</strong> [арт.] хазяін [В.с.] імя [арт.] <strong>idol priest</strong> з [арт.] <strong>priest</strong> 
+Zephaniah 1:5 (14797) і [В.с.] [арт.] <strong>bow down</strong> на [арт.] <strong>roof</strong> да|[Д.с.] <strong>service</strong> [арт.] неба і [В.с.] [арт.] <strong>bow down</strong> [арт.] <strong>swear</strong> да|[Д.с.] Існы і [арт.] <strong>swear</strong> у|[Тв.с.] <strong>Malcam</strong> 
+Zephaniah 1:6 (14798) і [В.с.] [арт.] <strong>turn</strong> з пасля Існы і які не шукаць [В.с.] Існы і не <strong>inquire</strong> 
+Zephaniah 1:7 (14799) <strong>be still</strong> з твар валадар Існы бо|што блізкі дзень Існы бо|што <strong>be firm</strong> Існы <strong>sacrifice</strong> <strong>be holy</strong> зваць 
+Zephaniah 1:8 (14800) і быць у|[Тв.с.] дзень <strong>sacrifice</strong> Існы і <strong>miss</strong> на [арт.] кіраўнік|міністр і на сын [арт.] цар і на цэлы|увесь [арт.] <strong>cloth</strong> <strong>garment</strong> чужынскі 
+Zephaniah 1:9 (14801) і <strong>miss</strong> на цэлы|увесь [арт.] <strong>ascend</strong> на [арт.] <strong>podium</strong> у|[Тв.с.] [арт.] дзень [арт.] ён [арт.] поўніцца дом <strong>lord</strong> гвалт і <strong>deceit</strong> ס
+Zephaniah 1:10 (14802) і быць у|[Тв.с.] [арт.] дзень [арт.] ён прароцтва Існы голас <strong>cry</strong> з брама [арт.] рыба і <strong>howling</strong> з [арт.] <strong>second</strong> і <strong>breaking</strong> вялікі з [арт.] <strong>hill</strong> 
+Zephaniah 1:11 (14803) <strong>howl</strong> сядзець [арт.] <strong>grinder</strong> бо|што маўчаць цэлы|увесь народ <strong>Canaan</strong> выразаць цэлы|увесь <strong>weighing</strong> срэбра 
+Zephaniah 1:12 (14804) і быць у|[Тв.с.] [арт.] момант [арт.] яна маскіравацца [В.с.] Ерусалім у|[Тв.с.] [арт.] <strong>lamp</strong> і <strong>miss</strong> на [арт.] чалавек (1) [арт.] <strong>condense</strong> на <strong>dregs</strong> [арт.] казаць у|[Тв.с.] сэрца не <strong>be good</strong> Існы і не <strong>be evil</strong> 
+Zephaniah 1:13 (14805) і быць моц да|[Д.с.] <strong>plunder</strong> і дом да|[Д.с.] <strong>desolation</strong> і будаваць дом і не сядзець і <strong>plant</strong> <strong>vineyard</strong> і не піць [В.с.] віно 
+Zephaniah 1:14 (14806) блізкі дзень Існы [арт.] вялікі набліжацца і спяшацца|хутка [як прысл.] вельмі голас дзень Існы горкі <strong>cry</strong> там мужны|моцны 
+Zephaniah 1:15 (14807) дзень <strong>anger</strong> [арт.] дзень [арт.] ён дзень бедства і <strong>stress</strong> дзень <strong>trouble</strong> і <strong>desolation</strong> дзень цемра і <strong>darkness</strong> дзень <strong>cloud</strong> і <strong>darkness</strong> 
+Zephaniah 1:16 (14808) дзень <strong>horn</strong> і <strong>shouting</strong> на [арт.] горад [арт.] <strong>fortified</strong> і на [арт.] <strong>corner</strong> [арт.] высокі 
+Zephaniah 1:17 (14809) і <strong>wrap, be narrow</strong> да|[Д.с.] [арт.] чалавек (від) і хадзіць як [арт.] <strong>blind</strong> бо|што да|[Д.с.] Існы заблудзіць і <strong>pour</strong> <strong>blood</strong> як [арт.] пыл і <strong>[uncertain]</strong> як [арт.] <strong>dung</strong> 
+Zephaniah 1:18 (14810) таксама|нават срэбра таксама|нават золата не магчы да|[Д.с.] <strong>deliver</strong> у|[Тв.с.] дзень <strong>anger</strong> Існы і у|[Тв.с.] агонь <strong>jealousy</strong> есці цэлы|увесь [арт.] зямля бо|што <strong>destruction</strong> <strong>only</strong> <strong>disturb</strong> рабіць [В.с.] цэлы|увесь сядзець [арт.] зямля ס
+Zephaniah 2:1 (14811) <strong>collect</strong> і <strong>collect</strong> [арт.] знешні народ не <strong>long</strong> 
+Zephaniah 2:2 (14812) у|[Тв.с.] <strong>beginning</strong> нарадзіць <strong>portion</strong> як <strong>chaff</strong> перайсці дзень у|[Тв.с.] <strong>beginning</strong> не прыйсці на <strong>anger</strong> <strong>nose</strong> Існы у|[Тв.с.] <strong>beginning</strong> не прыйсці на дзень <strong>nose</strong> Існы 
+Zephaniah 2:3 (14813) шукаць [В.с.] Існы цэлы|увесь <strong>humble</strong> [арт.] зямля які правасуддзе <strong>make</strong> шукаць <strong>justice</strong> шукаць <strong>humility</strong> <strong>perhaps</strong> <strong>hide</strong> у|[Тв.с.] дзень <strong>nose</strong> Існы 
+Zephaniah 2:4 (14814) бо|што <strong>Gaza</strong> <strong>leave</strong> быць і <strong>Ashkelon</strong> да|[Д.с.] <strong>desolation</strong> <strong>Ashdod</strong> у|[Тв.с.] [арт.] <strong>noon</strong> <strong>drive out</strong> і <strong>Ekron</strong> <strong>root up</strong> ס
+Zephaniah 2:5 (14815) <strong>alas</strong> сядзець <strong>cord</strong> [арт.] мора знешні народ <strong>Cherethite</strong> слова|рэч Існы на <strong>Canaan</strong> зямля філістынец і загінуць з няма сядзець 
+Zephaniah 2:6 (14816) і быць <strong>cord</strong> [арт.] мора <strong>pasture</strong> <strong>[uncertain]</strong> <strong>pasture</strong> і <strong>heap of stones</strong> скаціна 
+Zephaniah 2:7 (14817) і быць <strong>cord</strong> да|[Д.с.] <strong>rest</strong> дом Егуда на <strong>pasture</strong> у|[Тв.с.] дом <strong>Ashkelon</strong> у|[Тв.с.] [арт.] вечар <strong>lie down</strong> бо|што <strong>miss</strong> Існы Бог і <strong>gather</strong> <strong>captivity</strong> 
+Zephaniah 2:8 (14818) чуць <strong>reproach</strong> <strong>Moab</strong> і <strong>reviling word</strong> сын <strong>Ammon</strong> які <strong>reproach</strong> [В.с.] народ і узвялічваць на мяжа 
+Zephaniah 2:9 (14819) <strong>therefore</strong> жывы я прароцтва Існы <strong>service</strong> Бог Ісраэль бо|што <strong>Moab</strong> як <strong>Sodom</strong> быць і сын <strong>Ammon</strong> як <strong>Gomorrah</strong> <strong>[uncertain]</strong> <strong>chickling</strong> і <strong>pit</strong> <strong>salt</strong> і <strong>desolation</strong> (ажно) да свет|вечнасць <strong>rest</strong> народ <strong>spoil</strong> і <strong>remainder</strong> знешні народ <strong>take possession</strong> 
+Zephaniah 2:10 (14820) <strong>this</strong> да|[Д.с.] пад <strong>height</strong> бо|што <strong>reproach</strong> і узвялічваць на народ Існы <strong>service</strong> 
+Zephaniah 2:11 (14821) баяцца Існы на бо|што <strong>diminish</strong> [В.с.] цэлы|увесь Бог [арт.] зямля і <strong>bow down</strong> да|[Д.с.] чалавек (1) з месца цэлы|увесь <strong>coast, island</strong> [арт.] знешні народ 
+Zephaniah 2:12 (14822) таксама|нават <strong>you</strong> <strong>Ethiopian</strong> <strong>pierced</strong> <strong>dagger</strong> яны 
+Zephaniah 2:13 (14823) і <strong>extend</strong> рука на поўнач і загінуць [В.с.] <strong>Asshur</strong> і класці|ставіць [В.с.] <strong>Nineveh</strong> да|[Д.с.] <strong>desolation</strong> <strong>dry country</strong> як [арт.] <strong>desert</strong> 
+Zephaniah 2:14 (14824) і <strong>lie down</strong> у|[Тв.с.] <strong>midst</strong> <strong>flock</strong> цэлы|увесь <strong>wild animal</strong> знешні народ таксама|нават <strong>owl?</strong> таксама|нават <strong>hedgehog</strong> у|[Тв.с.] <strong>bulb</strong> <strong>lodge</strong> голас <strong>sing</strong> у|[Тв.с.] [арт.] <strong>window</strong> <strong>dryness</strong> у|[Тв.с.] [арт.] <strong>threshold</strong> бо|што <strong>wainscot</strong> <strong>pour out</strong> 
+Zephaniah 2:15 (14825) <strong>this</strong> [арт.] горад [арт.] <strong>rejoicing</strong> [арт.] сядзець да|[Д.с.] <strong>trust</strong> [арт.] казаць у|[Тв.с.] сэрца я і <strong>end</strong> яшчэ як быць да|[Д.с.] <strong>destruction</strong> <strong>resting place</strong> да|[Д.с.] [арт.] <strong>wild animal</strong> цэлы|увесь перайсці на <strong>whistle</strong> <strong>quiver</strong> рука ס
+Zephaniah 3:1 (14826) <strong>alas</strong> <strong>be rebellious</strong> і <strong>pollute</strong> [арт.] горад [арт.] <strong>oppress</strong> 
+Zephaniah 3:2 (14827) не чуць у|[Тв.с.] голас не браць <strong>chastening</strong> у|[Тв.с.] Існы не <strong>trust</strong> да Бог не набліжацца 
+Zephaniah 3:3 (14828) кіраўнік|міністр у|[Тв.с.] <strong>interior</strong> <strong>lion</strong> <strong>roar</strong> судзіць <strong>wolf</strong> вечар не <strong>gnaw</strong> да|[Д.с.] [арт.] раніца 
+Zephaniah 3:4 (14829) <strong>prophet</strong> <strong>be insolent</strong> чалавек (1) <strong>treachery</strong> <strong>priest</strong> <strong>defile</strong> святасць <strong>treat violently</strong> <strong>instruction</strong> 
+Zephaniah 3:5 (14830) Існы справядлівы|правільны у|[Тв.с.] <strong>interior</strong> не рабіць <strong>wickedness</strong> у|[Тв.с.] [арт.] раніца у|[Тв.с.] [арт.] раніца правасуддзе даць да|[Д.с.] [арт.] святло не <strong>be missing</strong> і не ведаць [+неад.]|займацца сэксам [+адуш.] <strong>evildoer</strong> <strong>shame</strong> 
+Zephaniah 3:6 (14831) выразаць знешні народ <strong>be desolate</strong> <strong>corner</strong> <strong>be dry</strong> <strong>outside</strong> з <strong>destruction</strong> перайсці <strong>waste</strong> горад з <strong>destruction</strong> чалавек (1) з няма сядзець 
+Zephaniah 3:7 (14832) казаць <strong>only</strong> баяцца [В.с.] браць <strong>chastening</strong> і не выразаць <strong>dwelling</strong> цэлы|увесь які <strong>miss</strong> на <strong>surely</strong> <strong>rise early</strong> <strong>destroy</strong> цэлы|увесь <strong>deed</strong> 
+Zephaniah 3:8 (14833) <strong>therefore</strong> <strong>wait</strong> да|[Д.с.] прароцтва Існы да|[Д.с.] дзень устаць да|[Д.с.] <strong>prey</strong> бо|што правасуддзе да|[Д.с.] збіраць знешні народ да|[Д.с.] <strong>collect</strong> <strong>kingdom</strong> да|[Д.с.] <strong>pour</strong> на <strong>curse</strong> цэлы|увесь <strong>anger</strong> <strong>nose</strong> бо|што у|[Тв.с.] агонь <strong>jealousy</strong> есці цэлы|увесь [арт.] зямля 
+Zephaniah 3:9 (14834) бо|што тады <strong>turn</strong> да народ губа <strong>pure</strong> да|[Д.с.] зваць цэлы|увесь у|[Тв.с.] імя Існы да|[Д.с.] працаваць <strong>shoulder</strong> адзін 
+Zephaniah 3:10 (14835) з <strong>opposite</strong> да|[Д.с.] <strong>stream</strong> <strong>Cush</strong> <strong>perfume</strong> дачка <strong>[uncertain]</strong> <strong>bring</strong> <strong>present</strong> 
+Zephaniah 3:11 (14836) у|[Тв.с.] [арт.] дзень [арт.] ён не <strong>be ashamed</strong> з цэлы|увесь <strong>deed</strong> які <strong>rebel</strong> у|[Тв.с.] бо|што тады збочыць з <strong>interior</strong> <strong>rejoicing</strong> <strong>uproar</strong> і не дадаць да|[Д.с.] высіцца яшчэ у|[Тв.с.] гара святасць 
+Zephaniah 3:12 (14837) і пакідаць у|[Тв.с.] <strong>interior</strong> народ <strong>humble</strong> і <strong>poor</strong> і <strong>seek refuge</strong> у|[Тв.с.] імя Існы 
+Zephaniah 3:13 (14838) <strong>rest</strong> Ісраэль не рабіць <strong>wickedness</strong> і не гаварыць <strong>lie</strong> і не знайсці у|[Тв.с.] рот язык <strong>deceitfulness</strong> бо|што яны <strong>pasture</strong> і <strong>lie down</strong> і няма <strong>tremble</strong> ס
+Zephaniah 3:14 (14839) <strong>cry of joy</strong> дачка Цыё́н <strong>shout</strong> Ісраэль узрадавацца і <strong>rejoice</strong> у|[Тв.с.] цэлы|увесь сэрца дачка Ерусалім 
+Zephaniah 3:15 (14840) збочыць Існы правасуддзе <strong>turn</strong> <strong>be hostile</strong> цар Ісраэль Існы у|[Тв.с.] <strong>interior</strong> не баяцца зло яшчэ 
+Zephaniah 3:16 (14841) у|[Тв.с.] [арт.] дзень [арт.] ён казаць да|[Д.с.] Ерусалім не [+заг.лад] баяцца Цыё́н не [+заг.лад] <strong>be slack</strong> рука 
+Zephaniah 3:17 (14842) Існы Бог у|[Тв.с.] <strong>interior</strong> мужны|моцны збавіць <strong>rejoice</strong> на у|[Тв.с.] радасць <strong>be deaf</strong> у|[Тв.с.] любоў|каханне <strong>rejoice</strong> на у|[Тв.с.] <strong>cry of joy</strong> 
+Zephaniah 3:18 (14843) <strong>grieve</strong> з <strong>appointment</strong> збіраць з быць <strong>lifting up</strong> на <strong>reproach</strong> 
+Zephaniah 3:19 (14844) вось рабіць [В.с.] цэлы|увесь <strong>be lowly</strong> у|[Тв.с.] [арт.] момант [арт.] яна і збавіць [В.с.] [арт.] <strong>limp</strong> і [арт.] <strong>wield</strong> <strong>collect</strong> і класці|ставіць да|[Д.с.] <strong>praise</strong> і да|[Д.с.] імя у|[Тв.с.] цэлы|увесь [арт.] зямля <strong>shame</strong> 
+Zephaniah 3:20 (14845) у|[Тв.с.] [арт.] момант [арт.] яна прыйсці [В.с.] і у|[Тв.с.] [арт.] момант <strong>collect</strong> [В.с.] бо|што даць [В.с.] да|[Д.с.] імя і да|[Д.с.] <strong>praise</strong> у|[Тв.с.] цэлы|увесь народ [арт.] зямля у|[Тв.с.] <strong>gather</strong> [В.с.] <strong>captivity</strong> да|[Д.с.] вока казаць Існы 

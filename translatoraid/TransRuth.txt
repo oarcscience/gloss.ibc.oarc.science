@@ -1,85 +1,85 @@
-1:1 (19779) 
-1:2 (19780) 
-1:3 (19781) 
-1:4 (19782) 
-1:5 (19783) 
-1:6 (19784) 
-1:7 (19785) 
-1:8 (19786) 
-1:9 (19787) 
-1:10 (19788) 
-1:11 (19789) 
-1:12 (19790) 
-1:13 (19791) 
-1:14 (19792) 
-1:15 (19793) 
-1:16 (19794) 
-1:17 (19795) 
-1:18 (19796) 
-1:19 (19797) 
-1:20 (19798) 
-1:21 (19799) 
-1:22 (19800) 
-2:1 (19801) 
-2:2 (19802) 
-2:3 (19803) 
-2:4 (19804) 
-2:5 (19805) 
-2:6 (19806) 
-2:7 (19807) 
-2:8 (19808) 
-2:9 (19809) 
-2:10 (19810) 
-2:11 (19811) 
-2:12 (19812) 
-2:13 (19813) 
-2:14 (19814) 
-2:15 (19815) 
-2:16 (19816) 
-2:17 (19817) 
-2:18 (19818) 
-2:19 (19819) 
-2:20 (19820) 
-2:21 (19821) 
-2:22 (19822) 
-2:23 (19823) 
-3:1 (19824) 
-3:2 (19825) 
-3:3 (19826) 
-3:4 (19827) 
-3:5 (19828) 
-3:6 (19829) 
-3:7 (19830) 
-3:8 (19831) 
-3:9 (19832) 
-3:10 (19833) 
-3:11 (19834) 
-3:12 (19835) 
-3:13 (19836) 
-3:14 (19837) 
-3:15 (19838) 
-3:16 (19839) 
-3:17 (19840) 
-3:18 (19841) 
-4:1 (19842) 
-4:2 (19843) 
-4:3 (19844) 
-4:4 (19845) 
-4:5 (19846) 
-4:6 (19847) 
-4:7 (19848) 
-4:8 (19849) 
-4:9 (19850) 
-4:10 (19851) 
-4:11 (19852) 
-4:12 (19853) 
-4:13 (19854) 
-4:14 (19855) 
-4:15 (19856) 
-4:16 (19857) 
-4:17 (19858) פ
-4:18 (19859) 
-4:19 (19860) 
-4:20 (19861) 
-4:21 (19862) 
-4:22 (19863) 
+Ruth 1:1 (19779) і быць у|[Тв.с.] дзень судзіць [арт.] судзіць і быць <strong>hunger</strong> у|[Тв.с.] [арт.] зямля і хадзіць чалавек (1) з <strong>Bethlehem</strong> Егуда да|[Д.с.] <strong>dwell</strong> у|[Тв.с.] поле <strong>Moab</strong> ён і жанчына і два сын 
+Ruth 1:2 (19780) і імя [арт.] чалавек (1) <strong>Elimelech</strong> і імя жанчына <strong>Naomi</strong> і імя два сын <strong>Mahlon</strong> і <strong>Kilion</strong> <strong>Ephrathite</strong> з <strong>Bethlehem</strong> Егуда і прыйсці поле <strong>Moab</strong> і быць там 
+Ruth 1:3 (19781) і паміраць <strong>Elimelech</strong> чалавек (1) <strong>Naomi</strong> і пакідаць яна і два сын 
+Ruth 1:4 (19782) і падняць да|[Д.с.] жанчына <strong>Moabite</strong> імя [арт.] адзін <strong>Orpah</strong> і імя [арт.] другі <strong>Ruth</strong> і сядзець там як <strong>ten</strong> год 
+Ruth 1:5 (19783) і паміраць таксама|нават два <strong>Mahlon</strong> і <strong>Kilion</strong> і пакідаць [арт.] жанчына з два дзіця [м.] і з чалавек (1) 
+Ruth 1:6 (19784) і устаць яна і <strong>bride</strong> і вяртацца з поле <strong>Moab</strong> бо|што чуць у|[Тв.с.] поле <strong>Moab</strong> бо|што <strong>miss</strong> Існы [В.с.] народ да|[Д.с.] даць да|[Д.с.] хлеб 
+Ruth 1:7 (19785) і выйсці з [арт.] месца які быць там і два <strong>bride</strong> з і хадзіць у|[Тв.с.] [арт.] шлях да|[Д.с.] вяртацца да зямля Егуда 
+Ruth 1:8 (19786) і казаць <strong>Naomi</strong> да|[Д.с.] два <strong>bride</strong> хадзіць вяртацца жанчына да|[Д.с.] дом маці рабіць Існы з <strong>loyalty</strong> як які рабіць з [арт.] паміраць і <strong>company</strong> 
+Ruth 1:9 (19787) даць Існы да|[Д.с.] і знайсці <strong>resting place</strong> жанчына дом чалавек (1) і <strong>kiss</strong> да|[Д.с.] і падняць голас і плакаць 
+Ruth 1:10 (19788) і казаць да|[Д.с.] бо|што разам з вяртацца да|[Д.с.] народ 
+Ruth 1:11 (19789) і казаць <strong>Naomi</strong> вяртацца дачка чаму хадзіць з ці яшчэ да|[Д.с.] сын у|[Тв.с.] <strong>bowels</strong> і быць да|[Д.с.] да|[Д.с.] чалавек (1) 
+Ruth 1:12 (19790) вяртацца дачка хадзіць бо|што <strong>be old</strong> з быць да|[Д.с.] чалавек (1) бо|што казаць ёсць да|[Д.с.] <strong>hope</strong> таксама|нават быць [арт.] ноч да|[Д.с.] чалавек (1) і таксама|нават нарадзіць сын 
+Ruth 1:13 (19791) ці <strong>therefore</strong> <strong>examine</strong> (ажно) да які узвялічваць ці <strong>therefore</strong> <strong>withdraw</strong> да|[Д.с.] <strong>failure</strong> быць да|[Д.с.] чалавек (1) не [+заг.лад] дачка бо|што <strong>be bitter</strong> да|[Д.с.] вельмі з бо|што выйсці у|[Тв.с.] рука Існы 
+Ruth 1:14 (19792) і падняць голас і плакаць яшчэ і <strong>kiss</strong> <strong>Orpah</strong> да|[Д.с.] <strong>mother-in-law</strong> і <strong>Ruth</strong> <strong>cling, cleave to</strong> у|[Тв.с.] 
+Ruth 1:15 (19793) і казаць вось вяртацца <strong>brother's widow</strong> да народ і да Бог вяртацца пасля <strong>brother's widow</strong> 
+Ruth 1:16 (19794) і казаць <strong>Ruth</strong> не [+заг.лад] <strong>meet</strong> у|[Тв.с.] да|[Д.с.] <strong>leave</strong> да|[Д.с.] вяртацца з пасля бо|што да які хадзіць хадзіць і у|[Тв.с.] які <strong>lodge</strong> <strong>lodge</strong> народ народ і Бог Бог 
+Ruth 1:17 (19795) у|[Тв.с.] які паміраць паміраць і там пахаваць такім чынам рабіць Існы да|[Д.с.] і такім чынам дадаць бо|што [арт.] смерць <strong>divide</strong> між і між 
+Ruth 1:18 (19796) і бачыць бо|што <strong>be strong</strong> яна да|[Д.с.] хадзіць разам з і <strong>cease</strong> да|[Д.с.] гаварыць да 
+Ruth 1:19 (19797) і хадзіць два (ажно) да прыйсці <strong>Bethlehem</strong> і быць як прыйсці <strong>Bethlehem</strong> і <strong>stir</strong> цэлы|увесь [арт.] горад на і казаць ці <strong>this</strong> <strong>Naomi</strong> 
+Ruth 1:20 (19798) і казаць да не [+заг.лад] зваць да|[Д.с.] <strong>Naomi</strong> зваць да|[Д.с.] горкі бо|што <strong>be bitter</strong> <strong>Almighty</strong> да|[Д.с.] вельмі 
+Ruth 1:21 (19799) я <strong>full</strong> хадзіць і <strong>with empty hands</strong> вяртацца Існы чаму зваць да|[Д.с.] <strong>Naomi</strong> і Існы адказаць у|[Тв.с.] і <strong>Almighty</strong> <strong>be evil</strong> да|[Д.с.] 
+Ruth 1:22 (19800) і вяртацца <strong>Naomi</strong> і <strong>Ruth</strong> [арт.] <strong>Moabite</strong> <strong>bride</strong> з [арт.] вяртацца з поле <strong>Moab</strong> і яны прыйсці <strong>Bethlehem</strong> у|[Тв.с.] <strong>beginning</strong> <strong>harvest</strong> <strong>barley</strong> 
+Ruth 2:1 (19801) і да|[Д.с.] <strong>Naomi</strong> <strong>kinsman</strong> да|[Д.с.] чалавек (1) чалавек (1) мужны|моцны моц з <strong>clan</strong> <strong>Elimelech</strong> і імя <strong>Boaz</strong> 
+Ruth 2:2 (19802) і казаць <strong>Ruth</strong> [арт.] <strong>Moabite</strong> да <strong>Naomi</strong> хадзіць ж, -ка [узмацн.] [арт.] поле і <strong>gather</strong> у|[Тв.с.] [арт.] <strong>grain</strong> пасля які знайсці ласка у|[Тв.с.] вока і казаць да|[Д.с.] хадзіць дачка 
+Ruth 2:3 (19803) і хадзіць і прыйсці і <strong>gather</strong> у|[Тв.с.] [арт.] поле пасля [арт.] <strong>harvest</strong> і <strong>meet</strong> выпадак <strong>plot of land</strong> [арт.] поле да|[Д.с.] <strong>Boaz</strong> які з <strong>clan</strong> <strong>Elimelech</strong> 
+Ruth 2:4 (19804) і вось <strong>Boaz</strong> прыйсці з <strong>Bethlehem</strong> і казаць да|[Д.с.] [арт.] <strong>harvest</strong> Існы з і казаць да|[Д.с.] <strong>bless</strong> Існы 
+Ruth 2:5 (19805) і казаць <strong>Boaz</strong> да|[Д.с.] хлапчук [арт.] <strong>stand</strong> на [арт.] <strong>harvest</strong> да|[Д.с.] хто [арт.] <strong>girl</strong> [арт.] <strong>this</strong> 
+Ruth 2:6 (19806) і адказаць [арт.] хлапчук [арт.] <strong>stand</strong> на [арт.] <strong>harvest</strong> і казаць <strong>girl</strong> <strong>Moabite</strong> яна [арт.] вяртацца з <strong>Naomi</strong> з поле <strong>Moab</strong> 
+Ruth 2:7 (19807) і казаць <strong>gather</strong> ж, -ка [узмацн.] і збіраць у|[Тв.с.] [арт.] <strong>cut grain</strong> пасля [арт.] <strong>harvest</strong> і прыйсці і стаяць з тады [арт.] раніца і (ажно) да <strong>now</strong> гэты сядзець [арт.] дом <strong>little</strong> 
+Ruth 2:8 (19808) і казаць <strong>Boaz</strong> да <strong>Ruth</strong> ці не чуць дачка не [+заг.лад] хадзіць да|[Д.с.] <strong>gather</strong> у|[Тв.с.] поле іншы і таксама|нават не перайсці з гэты і такім чынам <strong>cling, cleave to</strong> з <strong>girl</strong> 
+Ruth 2:9 (19809) вока у|[Тв.с.] [арт.] поле які <strong>harvest</strong> і хадзіць пасля ці не <strong>command</strong> [В.с.] [арт.] хлапчук да|[Д.с.] <strong>failure</strong> <strong>touch</strong> і <strong>be thirsty</strong> і хадзіць да [арт.] прылада і піць з які <strong>draw water</strong> [арт.] хлапчук 
+Ruth 2:10 (19810) і падаць на твар і <strong>bow down</strong> зямля і казаць да <strong>why</strong> знайсці ласка у|[Тв.с.] вока да|[Д.с.] <strong>recognise</strong> і <strong>i</strong> чужынскі 
+Ruth 2:11 (19811) і адказаць <strong>Boaz</strong> і казаць да|[Д.с.] абвяшчаць абвяшчаць да|[Д.с.] цэлы|увесь які рабіць разам з <strong>mother-in-law</strong> пасля смерць чалавек (1) і <strong>leave</strong> бацька і маці і зямля <strong>offspring</strong> і хадзіць да народ які не ведаць [+неад.]|займацца сэксам [+адуш.] <strong>yesterday</strong> <strong>day before yesterday</strong> 
+Ruth 2:12 (19812) <strong>be complete</strong> Існы <strong>doing</strong> і быць <strong>wage</strong> <strong>complete</strong> з з Існы Бог Ісраэль які прыйсці да|[Д.с.] <strong>seek refuge</strong> пад крыло 
+Ruth 2:13 (19813) і казаць знайсці ласка у|[Тв.с.] вока <strong>lord</strong> бо|што <strong>repent, console</strong> і бо|што гаварыць на сэрца <strong>maidservant</strong> і <strong>i</strong> не быць як адзін <strong>maidservant</strong> 
+Ruth 2:14 (19814) і казаць да|[Д.с.] <strong>Boaz</strong> да|[Д.с.] момант [арт.] <strong>food</strong> <strong>approach</strong> <strong>hither</strong> і есці з [арт.] хлеб і <strong>dip</strong> <strong>bit</strong> у|[Тв.с.] [арт.] <strong>vinegar</strong> і сядзець з <strong>side</strong> [арт.] <strong>harvest</strong> і <strong>hold out</strong> да|[Д.с.] <strong>parched grain</strong> і есці і <strong>be sated</strong> і <strong>remain</strong> 
+Ruth 2:15 (19815) і устаць да|[Д.с.] <strong>gather</strong> і <strong>command</strong> <strong>Boaz</strong> [В.с.] хлапчук да|[Д.с.] казаць таксама|нават між [арт.] <strong>cut grain</strong> <strong>gather</strong> і не <strong>humiliate</strong> 
+Ruth 2:16 (19816) і таксама|нават <strong>draw out</strong> <strong>draw out</strong> да|[Д.с.] з [арт.] <strong>bundle</strong> і <strong>leave</strong> і <strong>gather</strong> і не <strong>rebuke</strong> у|[Тв.с.] 
+Ruth 2:17 (19817) і <strong>gather</strong> у|[Тв.с.] [арт.] поле (ажно) да [арт.] вечар і <strong>beat off</strong> [В.с.] які <strong>gather</strong> і быць як <strong>ephah</strong> <strong>barley</strong> 
+Ruth 2:18 (19818) і падняць і прыйсці [арт.] горад і бачыць <strong>mother-in-law</strong> [В.с.] які <strong>gather</strong> і выйсці і даць да|[Д.с.] [В.с.] які <strong>remain</strong> з <strong>satiety</strong> 
+Ruth 2:19 (19819) і казаць да|[Д.с.] <strong>mother-in-law</strong> <strong>where</strong> <strong>gather</strong> [арт.] дзень і <strong>whither</strong> рабіць быць <strong>recognise</strong> <strong>bless</strong> і абвяшчаць да|[Д.с.] <strong>mother-in-law</strong> [В.с.] які рабіць з і казаць імя [арт.] чалавек (1) які рабіць з [арт.] дзень <strong>Boaz</strong> 
+Ruth 2:20 (19820) і казаць <strong>Naomi</strong> да|[Д.с.] <strong>bride</strong> <strong>bless</strong> ён да|[Д.с.] Існы які не <strong>leave</strong> <strong>loyalty</strong> разам з [арт.] жывы і разам з [арт.] паміраць і казаць да|[Д.с.] <strong>Naomi</strong> блізкі да|[Д.с.] [арт.] чалавек (1) з <strong>redeem</strong> ён 
+Ruth 2:21 (19821) і казаць <strong>Ruth</strong> [арт.] <strong>Moabite</strong> таксама|нават бо|што казаць да з [арт.] хлапчук які да|[Д.с.] <strong>cling, cleave to</strong> (ажно) да калі[зл.] <strong>be complete</strong> [В.с.] цэлы|увесь [арт.] <strong>harvest</strong> які да|[Д.с.] 
+Ruth 2:22 (19822) і казаць <strong>Naomi</strong> да <strong>Ruth</strong> <strong>bride</strong> добры дачка бо|што выйсці з <strong>girl</strong> і не <strong>meet</strong> у|[Тв.с.] у|[Тв.с.] поле іншы 
+Ruth 2:23 (19823) і <strong>cling, cleave to</strong> у|[Тв.с.] <strong>girl</strong> <strong>Boaz</strong> да|[Д.с.] <strong>gather</strong> (ажно) да <strong>be complete</strong> <strong>harvest</strong> [арт.] <strong>barley</strong> і <strong>harvest</strong> [арт.] <strong>wheat</strong> і сядзець разам з <strong>mother-in-law</strong> 
+Ruth 3:1 (19824) і казаць да|[Д.с.] <strong>Naomi</strong> <strong>mother-in-law</strong> дачка ці не шукаць да|[Д.с.] <strong>resting place</strong> які <strong>be good</strong> да|[Д.с.] 
+Ruth 3:2 (19825) і <strong>now</strong> ці не <strong>Boaz</strong> <strong>kinsman</strong> які быць разам з <strong>girl</strong> вось ён <strong>scatter</strong> разам з <strong>threshing-floor</strong> [арт.] <strong>barley</strong> [арт.] ноч 
+Ruth 3:3 (19826) і <strong>wash</strong> і <strong>anoint</strong> і класці|ставіць <strong>mantle</strong> на і апускацца [арт.] <strong>threshing-floor</strong> не [+заг.лад] ведаць [+неад.]|займацца сэксам [+адуш.] да|[Д.с.] [арт.] чалавек (1) (ажно) да <strong>be complete</strong> да|[Д.с.] есці і да|[Д.с.] піць 
+Ruth 3:4 (19827) і быць у|[Тв.с.] ляжаць і ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] [арт.] месца які ляжаць там і прыйсці і <strong>uncover</strong> <strong>feet-place</strong> і ляжаць і ён абвяшчаць да|[Д.с.] [В.с.] які рабіць 
+Ruth 3:5 (19828) і казаць да цэлы|увесь які казаць да рабіць 
+Ruth 3:6 (19829) і апускацца [арт.] <strong>threshing-floor</strong> і рабіць як цэлы|увесь які <strong>command</strong> <strong>mother-in-law</strong> 
+Ruth 3:7 (19830) і есці <strong>Boaz</strong> і піць і <strong>be good</strong> сэрца і прыйсці да|[Д.с.] ляжаць у|[Тв.с.] <strong>end</strong> [арт.] <strong>heap</strong> і прыйсці у|[Тв.с.] [арт.] <strong>secrecy</strong> і <strong>uncover</strong> <strong>feet-place</strong> і ляжаць 
+Ruth 3:8 (19831) і быць у|[Тв.с.] <strong>half</strong> [арт.] ноч і <strong>tremble</strong> [арт.] чалавек (1) і <strong>grasp</strong> і вось жанчына ляжаць <strong>feet-place</strong> 
+Ruth 3:9 (19832) і казаць хто <strong>you</strong> і казаць <strong>i</strong> <strong>Ruth</strong> <strong>handmaid</strong> і <strong>spread out</strong> крыло на <strong>handmaid</strong> бо|што <strong>redeem</strong> ты[м.] 
+Ruth 3:10 (19833) і казаць <strong>bless</strong> <strong>you</strong> да|[Д.с.] Існы дачка <strong>be good</strong> <strong>loyalty</strong> [арт.] апошні з [арт.] першы да|[Д.с.] <strong>failure</strong> хадзіць пасля [арт.] хлопец калі[зл.] <strong>poor</strong> і калі[зл.] <strong>rich</strong> 
+Ruth 3:11 (19834) і <strong>now</strong> дачка не [+заг.лад] баяцца цэлы|увесь які казаць рабіць да|[Д.с.] бо|што ведаць [+неад.]|займацца сэксам [+адуш.] цэлы|увесь брама народ бо|што жанчына моц <strong>you</strong> 
+Ruth 3:12 (19835) і <strong>now</strong> бо|што <strong>really</strong> бо|што <strong>redeem</strong> <strong>i</strong> і таксама|нават ёсць <strong>redeem</strong> блізкі з 
+Ruth 3:13 (19836) <strong>lodge</strong> [арт.] ноч і быць у|[Тв.с.] [арт.] раніца калі[зл.] <strong>redeem</strong> добры <strong>redeem</strong> і калі[зл.] не <strong>desire</strong> да|[Д.с.] <strong>redeem</strong> і <strong>redeem</strong> <strong>i</strong> жывы Існы ляжаць (ажно) да [арт.] раніца 
+Ruth 3:14 (19837) і ляжаць <strong>feet-place</strong> (ажно) да [арт.] раніца і устаць у|[Тв.с.] <strong>beginning</strong> <strong>recognise</strong> чалавек (1) [В.с.] <strong>fellow</strong> і казаць не [+заг.лад] ведаць [+неад.]|займацца сэксам [+адуш.] бо|што прыйсці [арт.] жанчына [арт.] <strong>threshing-floor</strong> 
+Ruth 3:15 (19838) і казаць <strong>give</strong> [арт.] <strong>cloak</strong> які на і <strong>seize</strong> у|[Тв.с.] і <strong>seize</strong> у|[Тв.с.] і <strong>measure</strong> <strong>six</strong> <strong>barley</strong> і <strong>put</strong> на і прыйсці [арт.] горад 
+Ruth 3:16 (19839) і прыйсці да <strong>mother-in-law</strong> і казаць хто <strong>you</strong> дачка і абвяшчаць да|[Д.с.] [В.с.] цэлы|увесь які рабіць да|[Д.с.] [арт.] чалавек (1) 
+Ruth 3:17 (19840) і казаць <strong>six</strong> [арт.] <strong>barley</strong> [арт.] гэтыя даць да|[Д.с.] бо|што казаць да не [+заг.лад] прыйсці <strong>with empty hands</strong> да <strong>mother-in-law</strong> 
+Ruth 3:18 (19841) і казаць сядзець дачка (ажно) да які ведаць [+неад.]|займацца сэксам [+адуш.] як падаць слова|рэч бо|што не <strong>be at peace</strong> [арт.] чалавек (1) бо|што калі[зл.] <strong>be complete</strong> [арт.] слова|рэч [арт.] дзень 
+Ruth 4:1 (19842) і <strong>Boaz</strong> падымацца [арт.] брама і сядзець там і вось [арт.] <strong>redeem</strong> перайсці які гаварыць <strong>Boaz</strong> і казаць збочыць сядзець <strong>here</strong> <strong>a certain</strong> <strong>stranger</strong> і збочыць і сядзець 
+Ruth 4:2 (19843) і браць дзесяць чалавек (1) з старадаўні [арт.] горад і казаць сядзець <strong>here</strong> і сядзець 
+Ruth 4:3 (19844) і казаць да|[Д.с.] [арт.] <strong>redeem</strong> <strong>plot of land</strong> [арт.] поле які да|[Д.с.] брат да|[Д.с.] <strong>Elimelech</strong> <strong>sell</strong> <strong>Naomi</strong> [арт.] вяртацца з поле <strong>Moab</strong> 
+Ruth 4:4 (19845) і я казаць <strong>uncover</strong> вуха да|[Д.с.] казаць набыць перад [арт.] сядзець і перад старадаўні народ калі[зл.] <strong>redeem</strong> <strong>redeem</strong> і калі[зл.] не <strong>redeem</strong> абвяшчаць да|[Д.с.] і ведаць [+неад.]|займацца сэксам [+адуш.] бо|што няма <strong>except</strong> да|[Д.с.] <strong>redeem</strong> і <strong>i</strong> пасля і казаць <strong>i</strong> <strong>redeem</strong> 
+Ruth 4:5 (19846) і казаць <strong>Boaz</strong> у|[Тв.с.] дзень набыць [арт.] поле з рука <strong>Naomi</strong> і з разам з <strong>Ruth</strong> [арт.] <strong>Moabite</strong> жанчына [арт.] паміраць набыць да|[Д.с.] устаць імя [арт.] паміраць на уласнасць 
+Ruth 4:6 (19847) і казаць [арт.] <strong>redeem</strong> не магчы да|[Д.с.] <strong>redeem</strong> да|[Д.с.] <strong>lest</strong> <strong>destroy</strong> [В.с.] уласнасць <strong>redeem</strong> да|[Д.с.] ты[м.] [В.с.] <strong>right of buying back</strong> бо|што не магчы да|[Д.с.] <strong>redeem</strong> 
+Ruth 4:7 (19848) і <strong>this</strong> да|[Д.с.] твар у|[Тв.с.] Ісраэль на [арт.] <strong>right of buying back</strong> і на [арт.] <strong>exchange</strong> да|[Д.с.] устаць цэлы|увесь слова|рэч <strong>draw</strong> чалавек (1) <strong>sandal</strong> і даць да|[Д.с.] <strong>fellow</strong> і <strong>this</strong> [арт.] <strong>attestation</strong> у|[Тв.с.] Ісраэль 
+Ruth 4:8 (19849) і казаць [арт.] <strong>redeem</strong> да|[Д.с.] <strong>Boaz</strong> набыць да|[Д.с.] і <strong>draw</strong> <strong>sandal</strong> 
+Ruth 4:9 (19850) і казаць <strong>Boaz</strong> да|[Д.с.] [арт.] старадаўні і цэлы|увесь [арт.] народ <strong>witness</strong> <strong>you</strong> [арт.] дзень бо|што набыць [В.с.] цэлы|увесь які да|[Д.с.] <strong>Elimelech</strong> і [В.с.] цэлы|увесь які да|[Д.с.] <strong>Kilion</strong> і <strong>Mahlon</strong> з рука <strong>Naomi</strong> 
+Ruth 4:10 (19851) і таксама|нават [В.с.] <strong>Ruth</strong> [арт.] <strong>Moabite</strong> жанчына <strong>Mahlon</strong> набыць да|[Д.с.] да|[Д.с.] жанчына да|[Д.с.] устаць імя [арт.] паміраць на уласнасць і не выразаць імя [арт.] паміраць з з брат і з брама месца <strong>witness</strong> <strong>you</strong> [арт.] дзень 
+Ruth 4:11 (19852) і казаць цэлы|увесь [арт.] народ які у|[Тв.с.] [арт.] брама і [арт.] старадаўні <strong>witness</strong> даць Існы [В.с.] [арт.] жанчына [арт.] прыйсці да дом як <strong>Rachel</strong> і як <strong>Leah</strong> які будаваць два [В.с.] дом Ісраэль і рабіць моц у|[Тв.с.] <strong>Ephrathah</strong> і зваць імя у|[Тв.с.] <strong>Bethlehem</strong> 
+Ruth 4:12 (19853) і быць дом як дом <strong>Perez</strong> які нарадзіць <strong>Tamar</strong> да|[Д.с.] Егуда з [арт.] семя які даць Існы да|[Д.с.] з [арт.] <strong>girl</strong> [арт.] <strong>this</strong> 
+Ruth 4:13 (19854) і браць <strong>Boaz</strong> [В.с.] <strong>Ruth</strong> і быць да|[Д.с.] да|[Д.с.] жанчына і прыйсці да і даць Існы да|[Д.с.] <strong>conception</strong> і нарадзіць сын 
+Ruth 4:14 (19855) і казаць [арт.] жанчына да <strong>Naomi</strong> <strong>bless</strong> Існы які не <strong>cease</strong> да|[Д.с.] <strong>redeem</strong> [арт.] дзень і зваць імя у|[Тв.с.] Ісраэль 
+Ruth 4:15 (19856) і быць да|[Д.с.] да|[Д.с.] вяртацца душа і да|[Д.с.] <strong>comprehend</strong> [В.с.] <strong>age</strong> бо|што <strong>bride</strong> які любіць|кахаць нарадзіць які яна добры да|[Д.с.] з сем сын 
+Ruth 4:16 (19857) і браць <strong>Naomi</strong> [В.с.] [арт.] дзіця [м.] і <strong>put</strong> у|[Тв.с.] <strong>lap</strong> і быць да|[Д.с.] да|[Д.с.] <strong>be firm</strong> 
+Ruth 4:17 (19858) і зваць да|[Д.с.] [арт.] <strong>inhabitant</strong> імя да|[Д.с.] казаць нарадзіць сын да|[Д.с.] <strong>Naomi</strong> і зваць імя <strong>Obed</strong> ён бацька <strong>Jesse</strong> бацька Давыд פ
+Ruth 4:18 (19859) і гэтыя <strong>generations</strong> <strong>Perez</strong> <strong>Perez</strong> нарадзіць [В.с.] <strong>Hezron</strong> 
+Ruth 4:19 (19860) і <strong>Hezron</strong> нарадзіць [В.с.] <strong>Ram</strong> і <strong>Ram</strong> нарадзіць [В.с.] <strong>Amminadab</strong> 
+Ruth 4:20 (19861) і <strong>Amminadab</strong> нарадзіць [В.с.] <strong>Nahshon</strong> і <strong>Nahshon</strong> нарадзіць [В.с.] <strong>Salmon</strong> 
+Ruth 4:21 (19862) і <strong>Salmon</strong> нарадзіць [В.с.] <strong>Boaz</strong> і <strong>Boaz</strong> нарадзіць [В.с.] <strong>Obed</strong> 
+Ruth 4:22 (19863) і <strong>Obed</strong> нарадзіць [В.с.] <strong>Jesse</strong> і <strong>Jesse</strong> нарадзіць [В.с.] Давыд 

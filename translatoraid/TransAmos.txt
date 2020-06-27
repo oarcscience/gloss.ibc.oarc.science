@@ -1,146 +1,146 @@
-1:1 (14370) 
-1:2 (14371) פ
-1:3 (14372) 
-1:4 (14373) 
-1:5 (14374) פ
-1:6 (14375) 
-1:7 (14376) 
-1:8 (14377) פ
-1:9 (14378) 
-1:10 (14379) פ
-1:11 (14380) 
-1:12 (14381) פ
-1:13 (14382) 
-1:14 (14383) 
-1:15 (14384) פ
-2:1 (14385) 
-2:2 (14386) 
-2:3 (14387) פ
-2:4 (14388) 
-2:5 (14389) פ
-2:6 (14390) 
-2:7 (14391) 
-2:8 (14392) 
-2:9 (14393) 
-2:10 (14394) 
-2:11 (14395) 
-2:12 (14396) 
-2:13 (14397) 
-2:14 (14398) 
-2:15 (14399) 
-2:16 (14400) פ
-3:1 (14401) 
-3:2 (14402) 
-3:3 (14403) 
-3:4 (14404) 
-3:5 (14405) 
-3:6 (14406) 
-3:7 (14407) 
-3:8 (14408) 
-3:9 (14409) 
-3:10 (14410) פ
-3:11 (14411) 
-3:12 (14412) 
-3:13 (14413) 
-3:14 (14414) 
-3:15 (14415) ס
-4:1 (14416) 
-4:2 (14417) 
-4:3 (14418) 
-4:4 (14419) 
-4:5 (14420) 
-4:6 (14421) 
-4:7 (14422) 
-4:8 (14423) 
-4:9 (14424) ס
-4:10 (14425) 
-4:11 (14426) ס
-4:12 (14427) 
-4:13 (14428) ס
-5:1 (14429) 
-5:2 (14430) 
-5:3 (14431) ס
-5:4 (14432) 
-5:5 (14433) 
-5:6 (14434) 
-5:7 (14435) 
-5:8 (14436) ס
-5:9 (14437) 
-5:10 (14438) 
-5:11 (14439) 
-5:12 (14440) 
-5:13 (14441) 
-5:14 (14442) 
-5:15 (14443) ס
-5:16 (14444) 
-5:17 (14445) ס
-5:18 (14446) 
-5:19 (14447) 
-5:20 (14448) 
-5:21 (14449) 
-5:22 (14450) 
-5:23 (14451) 
-5:24 (14452) 
-5:25 (14453) 
-5:26 (14454) 
-5:27 (14455) פ
-6:1 (14456) 
-6:2 (14457) 
-6:3 (14458) 
-6:4 (14459) 
-6:5 (14460) 
-6:6 (14461) 
-6:7 (14462) פ
-6:8 (14463) 
-6:9 (14464) 
-6:10 (14465) 
-6:11 (14466) 
-6:12 (14467) 
-6:13 (14468) 
-6:14 (14469) ס
-7:1 (14470) 
-7:2 (14471) 
-7:3 (14472) 
-7:4 (14473) 
-7:5 (14474) 
-7:6 (14475) ס
-7:7 (14476) 
-7:8 (14477) 
-7:9 (14478) פ
-7:10 (14479) 
-7:11 (14480) ס
-7:12 (14481) 
-7:13 (14482) ס
-7:14 (14483) 
-7:15 (14484) 
-7:16 (14485) 
-7:17 (14486) ס
-8:1 (14487) 
-8:2 (14488) 
-8:3 (14489) פ
-8:4 (14490) 
-8:5 (14491) 
-8:6 (14492) 
-8:7 (14493) 
-8:8 (14494) ס
-8:9 (14495) 
-8:10 (14496) 
-8:11 (14497) 
-8:12 (14498) 
-8:13 (14499) 
-8:14 (14500) ס
-9:1 (14501) 
-9:2 (14502) 
-9:3 (14503) 
-9:4 (14504) 
-9:5 (14505) 
-9:6 (14506) 
-9:7 (14507) 
-9:8 (14508) 
-9:9 (14509) 
-9:10 (14510) 
-9:11 (14511) 
-9:12 (14512) פ
-9:13 (14513) 
-9:14 (14514) 
-9:15 (14515) 
+Amos 1:1 (14370) слова|рэч <strong>Amos</strong> які быць у|[Тв.с.] [арт.] <strong>sheep-raiser</strong> з <strong>Tekoa</strong> які <strong>see</strong> на Ісраэль у|[Тв.с.] дзень <strong>Uzziah</strong> цар Егуда і у|[Тв.с.] дзень <strong>Jeroboam</strong> сын <strong>Joash</strong> цар Ісраэль год да|[Д.с.] твар [арт.] <strong>quaking</strong> 
+Amos 1:2 (14371) і казаць Існы з Цыё́н <strong>roar</strong> і з Ерусалім даць голас і <strong>dry up</strong> <strong>pasture</strong> [арт.] <strong>pasture</strong> і <strong>be dry</strong> галава [арт.] <strong>Carmel</strong> פ
+Amos 1:3 (14372) такім чынам казаць Існы на <strong>three</strong> <strong>rebellion</strong> <strong>Damascus</strong> і на <strong>four</strong> не вяртацца на <strong>tread on</strong> у|[Тв.с.] <strong>threshing instrument</strong> [арт.] жалеза [В.с.] [арт.] Гіл’ад 
+Amos 1:4 (14373) і слаць агонь у|[Тв.с.] дом <strong>Hazael</strong> і есці <strong>dwelling tower</strong> <strong>Ben-Hadad</strong> 
+Amos 1:5 (14374) і разбіць <strong>bar</strong> <strong>Damascus</strong> і выразаць сядзець з <strong>the Valley of Aven</strong> і <strong>grasp</strong> <strong>rod</strong> з <strong>Beth Eden</strong> і <strong>uncover</strong> народ <strong>Aram</strong> <strong>Kir</strong> казаць Існы פ
+Amos 1:6 (14375) такім чынам казаць Існы на <strong>three</strong> <strong>rebellion</strong> <strong>Gaza</strong> і на <strong>four</strong> не вяртацца на <strong>uncover</strong> выгнанне <strong>complete</strong> да|[Д.с.] зачыняць да|[Д.с.] Эдом 
+Amos 1:7 (14376) і слаць агонь у|[Тв.с.] <strong>wall</strong> <strong>Gaza</strong> і есці <strong>dwelling tower</strong> 
+Amos 1:8 (14377) і выразаць сядзець з <strong>Ashdod</strong> і <strong>grasp</strong> <strong>rod</strong> з <strong>Ashkelon</strong> і вяртацца рука на <strong>Ekron</strong> і загінуць <strong>rest</strong> філістынец казаць валадар Існы פ
+Amos 1:9 (14378) такім чынам казаць Існы на <strong>three</strong> <strong>rebellion</strong> <strong>Tyrus</strong> і на <strong>four</strong> не вяртацца на зачыняць выгнанне <strong>complete</strong> да|[Д.с.] Эдом і не помніць дамова брат 
+Amos 1:10 (14379) і слаць агонь у|[Тв.с.] <strong>wall</strong> <strong>Tyrus</strong> і есці <strong>dwelling tower</strong> פ
+Amos 1:11 (14380) такім чынам казаць Існы на <strong>three</strong> <strong>rebellion</strong> Эдом і на <strong>four</strong> не вяртацца на <strong>pursue</strong> у|[Тв.с.] [арт.] <strong>dagger</strong> брат і <strong>destroy</strong> <strong>compassion</strong> і <strong>tear</strong> да|[Д.с.] <strong>future</strong> <strong>nose</strong> і <strong>anger</strong> захоўваць <strong>glory</strong> 
+Amos 1:12 (14381) і слаць агонь у|[Тв.с.] Тэман і есці <strong>dwelling tower</strong> <strong>Bozrah</strong> פ
+Amos 1:13 (14382) такім чынам казаць Існы на <strong>three</strong> <strong>rebellion</strong> сын <strong>Ammon</strong> і на <strong>four</strong> не вяртацца на <strong>split</strong> <strong>pregnant</strong> [арт.] Гіл’ад з-за <strong>be wide</strong> [В.с.] мяжа 
+Amos 1:14 (14383) і <strong>kindle</strong> агонь у|[Тв.с.] <strong>wall</strong> <strong>Rabbah</strong> і есці <strong>dwelling tower</strong> у|[Тв.с.] <strong>shouting</strong> у|[Тв.с.] дзень вайна у|[Тв.с.] <strong>storm</strong> у|[Тв.с.] дзень <strong>storm</strong> 
+Amos 1:15 (14384) і хадзіць цар у|[Тв.с.] [арт.] <strong>exile</strong> ён і кіраўнік|міністр <strong>together</strong> казаць Існы פ
+Amos 2:1 (14385) такім чынам казаць Існы на <strong>three</strong> <strong>rebellion</strong> <strong>Moab</strong> і на <strong>four</strong> не вяртацца на <strong>burn</strong> костка цар Эдом да|[Д.с.] [арт.] <strong>lime</strong> 
+Amos 2:2 (14386) і слаць агонь у|[Тв.с.] <strong>Moab</strong> і есці <strong>dwelling tower</strong> [арт.] <strong>Kerioth</strong> і паміраць у|[Тв.с.] <strong>roar</strong> <strong>Moab</strong> у|[Тв.с.] <strong>shouting</strong> у|[Тв.с.] голас <strong>horn</strong> 
+Amos 2:3 (14387) і выразаць судзіць з <strong>interior</strong> і цэлы|увесь кіраўнік|міністр <strong>kill</strong> з казаць Існы פ
+Amos 2:4 (14388) такім чынам казаць Існы на <strong>three</strong> <strong>rebellion</strong> Егуда і на <strong>four</strong> не вяртацца на <strong>retract</strong> [В.с.] <strong>instruction</strong> Існы і <strong>portion</strong> не захоўваць і <strong>err</strong> <strong>lie</strong> які хадзіць бацька пасля 
+Amos 2:5 (14389) і слаць агонь у|[Тв.с.] Егуда і есці <strong>dwelling tower</strong> Ерусалім פ
+Amos 2:6 (14390) такім чынам казаць Існы на <strong>three</strong> <strong>rebellion</strong> Ісраэль і на <strong>four</strong> не вяртацца на <strong>sell</strong> у|[Тв.с.] [арт.] срэбра справядлівы|правільны і <strong>poor</strong> у|[Тв.с.] <strong>way</strong> <strong>sandal</strong> 
+Amos 2:7 (14391) [арт.] <strong>gasp</strong> на пыл зямля у|[Тв.с.] галава <strong>poor</strong> і шлях <strong>humble</strong> <strong>extend</strong> і чалавек (1) і бацька хадзіць да [арт.] <strong>girl</strong> з-за <strong>defile</strong> [В.с.] імя святасць 
+Amos 2:8 (14392) і на адзежа <strong>take a pledge</strong> <strong>extend</strong> <strong>side</strong> цэлы|увесь <strong>altar</strong> і віно <strong>fines</strong> піць дом Бог 
+Amos 2:9 (14393) і <strong>i</strong> <strong>destroy</strong> [В.с.] [арт.] <strong>Amorite</strong> з твар які як <strong>height</strong> <strong>cedar</strong> <strong>height</strong> і <strong>strong</strong> ён як [арт.] <strong>big tree</strong> і <strong>destroy</strong> плод з верх і <strong>root</strong> з пад 
+Amos 2:10 (14394) і <strong>i</strong> падымацца [В.с.] з зямля <strong>Egypt</strong> і хадзіць [В.с.] у|[Тв.с.] [арт.] <strong>desert</strong> <strong>four</strong> год да|[Д.с.] заўладаць [В.с.] зямля [арт.] <strong>Amorite</strong> 
+Amos 2:11 (14395) і устаць з сын да|[Д.с.] <strong>prophet</strong> і з хлопец да|[Д.с.] <strong>singled out</strong> ці нават няма <strong>this</strong> сын Ісраэль прароцтва Існы 
+Amos 2:12 (14396) і <strong>give drink</strong> [В.с.] [арт.] <strong>singled out</strong> віно і на [арт.] <strong>prophet</strong> <strong>command</strong> да|[Д.с.] казаць не <strong>speak as prophet</strong> 
+Amos 2:13 (14397) вось <strong>i</strong> <strong>totter</strong> пад як які <strong>totter</strong> [арт.] <strong>chariot</strong> [арт.] <strong>full</strong> да|[Д.с.] <strong>grass</strong> 
+Amos 2:14 (14398) і загінуць <strong>refuge</strong> з лёгкі і <strong>strong</strong> не <strong>be strong</strong> сіла і мужны|моцны не <strong>escape</strong> душа 
+Amos 2:15 (14399) і <strong>seize</strong> [арт.] <strong>bow</strong> не стаяць і лёгкі у|[Тв.с.] нага не <strong>escape</strong> і <strong>ride</strong> [арт.] конь не <strong>escape</strong> душа 
+Amos 2:16 (14400) і <strong>strong</strong> сэрца у|[Тв.с.] [арт.] мужны|моцны голы <strong>flee</strong> у|[Тв.с.] [арт.] дзень [арт.] ён прароцтва Існы פ
+Amos 3:1 (14401) чуць [В.с.] [арт.] слова|рэч [арт.] гэты які гаварыць Існы на сын Ісраэль на цэлы|увесь [арт.] <strong>clan</strong> які падымацца з зямля <strong>Egypt</strong> да|[Д.с.] казаць 
+Amos 3:2 (14402) <strong>only</strong> [В.с.] ведаць [+неад.]|займацца сэксам [+адуш.] з цэлы|увесь <strong>clan</strong> [арт.] <strong>soil</strong> на так <strong>miss</strong> на [В.с.] цэлы|увесь <strong>sin</strong> 
+Amos 3:3 (14403) ці хадзіць два <strong>together</strong> <strong>failure</strong> калі[зл.] <strong>appoint</strong> 
+Amos 3:4 (14404) ці <strong>roar</strong> <strong>lion</strong> у|[Тв.с.] [арт.] <strong>wood</strong> і <strong>prey</strong> няма да|[Д.с.] ці даць <strong>young lion</strong> голас з <strong>hiding place</strong> <strong>failure</strong> калі[зл.] <strong>seize</strong> 
+Amos 3:5 (14405) ці падаць птушка на <strong>bird-trap</strong> [арт.] зямля і <strong>bait</strong> няма да|[Д.с.] ці падымацца <strong>bird-trap</strong> з [арт.] <strong>soil</strong> і <strong>seize</strong> не <strong>seize</strong> 
+Amos 3:6 (14406) калі[зл.] <strong>blow</strong> <strong>horn</strong> у|[Тв.с.] горад і народ не <strong>tremble</strong> калі[зл.] быць дрэнны у|[Тв.с.] горад і Існы не рабіць 
+Amos 3:7 (14407) бо|што не рабіць валадар Існы слова|рэч бо|што калі[зл.] <strong>uncover</strong> <strong>confidential talk</strong> да слуга [арт.] <strong>prophet</strong> 
+Amos 3:8 (14408) <strong>lion</strong> <strong>roar</strong> хто не баяцца валадар Існы гаварыць хто не <strong>speak as prophet</strong> 
+Amos 3:9 (14409) чуць на <strong>dwelling tower</strong> у|[Тв.с.] <strong>Ashdod</strong> і на <strong>dwelling tower</strong> у|[Тв.с.] зямля <strong>Egypt</strong> і казаць збіраць на гара Самарыя і бачыць <strong>discomfiture</strong> шматлікі у|[Тв.с.] <strong>midst</strong> і <strong>oppression</strong> у|[Тв.с.] <strong>interior</strong> 
+Amos 3:10 (14410) і не ведаць [+неад.]|займацца сэксам [+адуш.] рабіць <strong>straight</strong> прароцтва Існы [арт.] <strong>store</strong> гвалт і <strong>violence</strong> у|[Тв.с.] <strong>dwelling tower</strong> פ
+Amos 3:11 (14411) <strong>therefore</strong> такім чынам казаць валадар Існы <strong>adversary</strong> і вакол [арт.] зямля і апускацца з <strong>power</strong> і <strong>spoil</strong> <strong>dwelling tower</strong> 
+Amos 3:12 (14412) такім чынам казаць Існы як які <strong>deliver</strong> [арт.] <strong>pasture</strong> з рот [арт.] <strong>lion</strong> два <strong>shank</strong> ці <strong>piece</strong> вуха так <strong>deliver</strong> сын Ісраэль [арт.] сядзець у|[Тв.с.] Самарыя у|[Тв.с.] <strong>splendour</strong> <strong>couch</strong> і у|[Тв.с.] <strong>[uncertain]</strong> <strong>couch</strong> 
+Amos 3:13 (14413) чуць і <strong>warn, to witness</strong> у|[Тв.с.] дом Яако́ў прароцтва валадар Існы Бог [арт.] <strong>service</strong> 
+Amos 3:14 (14414) бо|што у|[Тв.с.] дзень <strong>miss</strong> <strong>rebellion</strong> Ісраэль на і <strong>miss</strong> на <strong>altar</strong> <strong>Bethel</strong> і <strong>cut off</strong> <strong>horn</strong> [арт.] <strong>altar</strong> і падаць да|[Д.с.] [арт.] зямля 
+Amos 3:15 (14415) і <strong>strike</strong> дом [арт.] <strong>autumn</strong> на дом [арт.] <strong>summer</strong> і загінуць дом [арт.] <strong>tooth</strong> і <strong>end</strong> дом шматлікі прароцтва Існы ס
+Amos 4:1 (14416) чуць [арт.] слова|рэч [арт.] гэты <strong>cow</strong> [арт.] <strong>Bashan</strong> які у|[Тв.с.] гара Самарыя [арт.] <strong>oppress</strong> <strong>poor</strong> [арт.] <strong>crush</strong> <strong>poor</strong> [арт.] казаць да|[Д.с.] <strong>lord</strong> прыйсці і піць 
+Amos 4:2 (14417) <strong>swear</strong> валадар Існы у|[Тв.с.] святасць бо|што вось дзень прыйсці на і падняць [В.с.] у|[Тв.с.] <strong>[uncertain]</strong> і прыканец у|[Тв.с.] <strong>hook</strong> <strong>fishery</strong> 
+Amos 4:3 (14418) і <strong>breach</strong> выйсці жанчына перад і кінуць [арт.] <strong>Harmon</strong> прароцтва Існы 
+Amos 4:4 (14419) прыйсці <strong>Bethel</strong> і <strong>rebel</strong> [арт.] <strong>Gilgal</strong> шмат да|[Д.с.] <strong>rebel</strong> і прыйсці да|[Д.с.] [арт.] раніца <strong>sacrifice</strong> да|[Д.с.] <strong>three</strong> дзень <strong>tenth</strong> 
+Amos 4:5 (14420) і <strong>smoke</strong> з <strong>leaven</strong> <strong>thanksgiving</strong> і зваць <strong>free will</strong> чуць бо|што так любіць|кахаць сын Ісраэль прароцтва валадар Існы 
+Amos 4:6 (14421) і таксама|нават я даць да|[Д.с.] <strong>innocence</strong> <strong>tooth</strong> у|[Тв.с.] цэлы|увесь горад і <strong>want</strong> хлеб у|[Тв.с.] цэлы|увесь месца і не вяртацца (ажно) да прароцтва Існы 
+Amos 4:7 (14422) і таксама|нават <strong>i</strong> <strong>withhold</strong> з [В.с.] [арт.] дождж у|[Тв.с.] яшчэ <strong>three</strong> <strong>month</strong> да|[Д.с.] [арт.] <strong>harvest</strong> і <strong>rain</strong> на горад адзін і на горад адзін не <strong>rain</strong> <strong>plot of land</strong> адзін <strong>rain</strong> і <strong>plot of land</strong> які не <strong>rain</strong> на <strong>be dry</strong> 
+Amos 4:8 (14423) і <strong>quiver</strong> два <strong>three</strong> горад да горад адзін да|[Д.с.] піць вада і не <strong>be sated</strong> і не вяртацца (ажно) да прароцтва Існы 
+Amos 4:9 (14424) <strong>strike</strong> [В.с.] у|[Тв.с.] [арт.] <strong>scorching</strong> і у|[Тв.с.] [арт.] <strong>paleness</strong> шмат сад і <strong>vineyard</strong> і <strong>fig</strong> і <strong>olive</strong> есці [арт.] <strong>locust</strong> і не вяртацца (ажно) да прароцтва Існы ס
+Amos 4:10 (14425) слаць у|[Тв.с.] <strong>pest</strong> у|[Тв.с.] шлях <strong>Egypt</strong> <strong>kill</strong> у|[Тв.с.] [арт.] <strong>dagger</strong> хлопец з <strong>captive</strong> конь і падымацца <strong>stench</strong> <strong>camp</strong> і у|[Тв.с.] <strong>nose</strong> і не вяртацца (ажно) да прароцтва Існы 
+Amos 4:11 (14426) <strong>turn</strong> у|[Тв.с.] як <strong>overthrow</strong> Бог [В.с.] <strong>Sodom</strong> і [В.с.] <strong>Gomorrah</strong> і быць як <strong>log</strong> <strong>deliver</strong> з <strong>burning</strong> і не вяртацца (ажно) да прароцтва Існы ס
+Amos 4:12 (14427) <strong>therefore</strong> такім чынам рабіць да|[Д.с.] Ісраэль <strong>end</strong> бо|што <strong>this</strong> рабіць да|[Д.с.] <strong>be firm</strong> да|[Д.с.] <strong>encounter</strong> Бог Ісраэль 
+Amos 4:13 (14428) бо|што вось <strong>shape</strong> гара і <strong>create</strong> вецер і абвяшчаць да|[Д.с.] чалавек (від) што <strong>thought</strong> рабіць <strong>dawn</strong> <strong>darkness</strong> і <strong>tread</strong> на <strong>high place</strong> зямля Існы Бог <strong>service</strong> імя ס
+Amos 5:1 (14429) чуць [В.с.] [арт.] слова|рэч [арт.] гэты які <strong>i</strong> падняць на <strong>elegy</strong> дом Ісраэль 
+Amos 5:2 (14430) падаць не дадаць устаць <strong>virgin</strong> Ісраэль <strong>abandon</strong> на <strong>soil</strong> няма устаць 
+Amos 5:3 (14431) бо|што такім чынам казаць валадар Існы [арт.] горад [арт.] выйсці тысяча пакідаць сотня і [арт.] выйсці сотня пакідаць дзесяць да|[Д.с.] дом Ісраэль ס
+Amos 5:4 (14432) бо|што такім чынам казаць Існы да|[Д.с.] дом Ісраэль <strong>inquire</strong> і жыць 
+Amos 5:5 (14433) і не [+заг.лад] <strong>inquire</strong> <strong>Bethel</strong> і [арт.] <strong>Gilgal</strong> не прыйсці і <strong>well</strong> <strong>Sheba</strong> не перайсці бо|што [арт.] <strong>Gilgal</strong> <strong>uncover</strong> <strong>uncover</strong> і <strong>Bethel</strong> быць да|[Д.с.] <strong>wickedness</strong> 
+Amos 5:6 (14434) <strong>inquire</strong> [В.с.] Існы і жыць <strong>lest</strong> <strong>be strong</strong> як [арт.] агонь дом Ёсэ́ф і есці і няма <strong>go out</strong> да|[Д.с.] <strong>Bethel</strong> 
+Amos 5:7 (14435) [арт.] <strong>turn</strong> да|[Д.с.] <strong>wormwood</strong> правасуддзе і <strong>justice</strong> да|[Д.с.] [арт.] зямля асесць 
+Amos 5:8 (14436) рабіць <strong>pleiads</strong> і <strong>orion</strong> і <strong>turn</strong> да|[Д.с.] [арт.] раніца <strong>darkness</strong> і дзень ноч <strong>be dark</strong> [арт.] зваць да|[Д.с.] вада [арт.] мора і <strong>pour</strong> на твар [арт.] зямля Існы імя ס
+Amos 5:9 (14437) [арт.] <strong>gleam</strong> <strong>violence</strong> на <strong>strong</strong> і <strong>violence</strong> на <strong>fortification</strong> прыйсці 
+Amos 5:10 (14438) ненавідзець у|[Тв.с.] [арт.] брама <strong>reprove</strong> і гаварыць <strong>complete</strong> <strong>be abhorrent</strong> 
+Amos 5:11 (14439) <strong>therefore</strong> <strong>motive</strong> <strong>draw farm-rent</strong> на <strong>poor</strong> і <strong>lifting up</strong> <strong>grain</strong> браць з дом <strong>hewn stone</strong> будаваць і не сядзець у|[Тв.с.] <strong>vineyard</strong> <strong>splendour</strong> <strong>plant</strong> і не піць [В.с.] віно 
+Amos 5:12 (14440) бо|што ведаць [+неад.]|займацца сэксам [+адуш.] шматлікі <strong>rebellion</strong> і <strong>mighty</strong> <strong>sin</strong> <strong>be hostile</strong> справядлівы|правільны браць <strong>ransom</strong> і <strong>poor</strong> у|[Тв.с.] [арт.] брама <strong>extend</strong> 
+Amos 5:13 (14441) <strong>therefore</strong> [арт.] <strong>prosper</strong> у|[Тв.с.] [арт.] момант [арт.] яна <strong>rest</strong> бо|што момант зло яна 
+Amos 5:14 (14442) <strong>inquire</strong> добры і не [+заг.лад] зло з-за жыць і быць <strong>correct</strong> Існы Бог <strong>service</strong> разам з як які казаць 
+Amos 5:15 (14443) ненавідзець зло і любіць|кахаць добры і <strong>set</strong> у|[Тв.с.] [арт.] брама правасуддзе <strong>perhaps</strong> <strong>favour</strong> Існы Бог <strong>service</strong> <strong>rest</strong> Ёсэ́ф ס
+Amos 5:16 (14444) <strong>therefore</strong> такім чынам казаць Існы Бог <strong>service</strong> валадар у|[Тв.с.] цэлы|увесь <strong>open place</strong> <strong>wailing</strong> і у|[Тв.с.] цэлы|увесь <strong>outside</strong> казаць <strong>ah</strong> <strong>ah</strong> і зваць <strong>farmer</strong> да <strong>mourning rites</strong> і <strong>wailing</strong> да ведаць [+неад.]|займацца сэксам [+адуш.] <strong>lamentation</strong> 
+Amos 5:17 (14445) і у|[Тв.с.] цэлы|увесь <strong>vineyard</strong> <strong>wailing</strong> бо|што перайсці у|[Тв.с.] <strong>interior</strong> казаць Існы ס
+Amos 5:18 (14446) <strong>alas</strong> [арт.] <strong>wish</strong> [В.с.] дзень Існы чаму гэты да|[Д.с.] дзень Існы ён цемра і не святло 
+Amos 5:19 (14447) як які <strong>flee</strong> чалавек (1) з твар [арт.] <strong>lion</strong> і <strong>meet</strong> [арт.] <strong>bear</strong> і прыйсці [арт.] дом і <strong>support</strong> рука на [арт.] <strong>wall</strong> і <strong>bite</strong> [арт.] цмок 
+Amos 5:20 (14448) ці не цемра дзень Існы і не святло і <strong>darkness</strong> і не <strong>brightness</strong> да|[Д.с.] 
+Amos 5:21 (14449) ненавідзець <strong>retract</strong> <strong>festival</strong> і не <strong>be spacious</strong> у|[Тв.с.] <strong>assembly</strong> 
+Amos 5:22 (14450) бо|што калі[зл.] падымацца да|[Д.с.] <strong>burnt-offering</strong> і <strong>present</strong> не <strong>like</strong> і <strong>final offer</strong> <strong>fatling</strong> не <strong>look at</strong> 
+Amos 5:23 (14451) збочыць з на <strong>commotion</strong> песня і <strong>melody</strong> <strong>harp</strong> не чуць 
+Amos 5:24 (14452) і <strong>roll</strong> як [арт.] вада правасуддзе і <strong>justice</strong> як <strong>wadi</strong> <strong>ever-flowing</strong> 
+Amos 5:25 (14453) [арт.] <strong>sacrifice</strong> і <strong>present</strong> <strong>approach</strong> да|[Д.с.] у|[Тв.с.] [арт.] <strong>desert</strong> <strong>four</strong> год дом Ісраэль 
+Amos 5:26 (14454) і падняць [В.с.] <strong>Sakkuth</strong> цар і [В.с.] <strong>Kaiwan</strong> <strong>image</strong> зорка Бог які рабіць да|[Д.с.] 
+Amos 5:27 (14455) і <strong>uncover</strong> [В.с.] з <strong>further</strong> да|[Д.с.] <strong>Damascus</strong> казаць Існы Бог <strong>service</strong> імя פ
+Amos 6:1 (14456) <strong>alas</strong> [арт.] <strong>at ease</strong> у|[Тв.с.] Цыё́н і [арт.] <strong>trust</strong> у|[Тв.с.] гара Самарыя <strong>bore</strong> зачын [арт.] знешні народ і прыйсці да|[Д.с.] дом Ісраэль 
+Amos 6:2 (14457) перайсці <strong>Calneh</strong> і бачыць і хадзіць з там <strong>Hamath</strong> шматлікі і апускацца <strong>Gath</strong> філістынец ці добры з [арт.] <strong>kingdom</strong> [арт.] гэтыя калі[зл.] шматлікі мяжа з мяжа 
+Amos 6:3 (14458) [арт.] <strong>exclude</strong> да|[Д.с.] дзень зло і <strong>approach</strong> <strong>inaction</strong> гвалт 
+Amos 6:4 (14459) [арт.] ляжаць на <strong>couch</strong> <strong>tooth</strong> і <strong>overhanging</strong> на <strong>couch</strong> і есці <strong>ram</strong> з скаціна і <strong>bull</strong> з <strong>midst</strong> <strong>fatted calf</strong> 
+Amos 6:5 (14460) [арт.] <strong>improvise</strong> на рот [арт.] <strong>harp</strong> як Давыд <strong>account</strong> да|[Д.с.] прылада песня 
+Amos 6:6 (14461) [арт.] піць у|[Тв.с.] <strong>bowl</strong> віно і зачын алей <strong>smear</strong> і не <strong>become weak</strong> на <strong>breaking</strong> Ёсэ́ф 
+Amos 6:7 (14462) <strong>therefore</strong> <strong>now</strong> <strong>uncover</strong> у|[Тв.с.] галава <strong>uncover</strong> і збочыць <strong>banquet</strong> <strong>overhanging</strong> פ
+Amos 6:8 (14463) <strong>swear</strong> валадар Існы у|[Тв.с.] душа прароцтва Існы Бог <strong>service</strong> <strong>[uncertain]</strong> <strong>i</strong> [В.с.] <strong>height</strong> Яако́ў і <strong>dwelling tower</strong> ненавідзець і зачыняць горад і поўнасць 
+Amos 6:9 (14464) і быць калі[зл.] <strong>remain</strong> дзесяць чалавек (1) у|[Тв.с.] дом адзін і паміраць 
+Amos 6:10 (14465) і падняць <strong>beloved one</strong> і <strong>burn</strong> да|[Д.с.] выйсці костка з [арт.] дом і казаць да|[Д.с.] які у|[Тв.с.] <strong>backside</strong> [арт.] дом ці яшчэ з і казаць <strong>end</strong> і казаць <strong>be still</strong> бо|што не да|[Д.с.] помніць у|[Тв.с.] імя Існы 
+Amos 6:11 (14466) бо|што вось Існы <strong>command</strong> і <strong>strike</strong> [арт.] дом [арт.] вялікі <strong>fragment</strong> і [арт.] дом [арт.] малы|дробны <strong>breach</strong> 
+Amos 6:12 (14467) ці бяжаць у|[Тв.с.] [арт.] скала конь калі[зл.] <strong>plough</strong> у|[Тв.с.] [арт.] быдла бо|што <strong>turn</strong> да|[Д.с.] <strong>poison</strong> правасуддзе і плод <strong>justice</strong> да|[Д.с.] <strong>wormwood</strong> 
+Amos 6:13 (14468) [арт.] <strong>joyful</strong> да|[Д.с.] <strong>Lo Debar</strong> [арт.] казаць ці не у|[Тв.с.] <strong>strength</strong> браць да|[Д.с.] <strong>Karnaim</strong> 
+Amos 6:14 (14469) бо|што вось устаць на дом Ісраэль прароцтва Існы Бог [арт.] <strong>service</strong> знешні народ і <strong>press</strong> [В.с.] з да|[Д.с.] прыйсці <strong>Hamath</strong> (ажно) да <strong>wadi</strong> [арт.] <strong>desert</strong> ס
+Amos 7:1 (14470) такім чынам бачыць валадар Існы і вось <strong>shape</strong> <strong>swarm</strong> у|[Тв.с.] <strong>beginning</strong> падымацца [арт.] <strong>late sowing</strong> і вось <strong>late sowing</strong> пасля <strong>grass</strong> [арт.] цар 
+Amos 7:2 (14471) і быць калі[зл.] <strong>be complete</strong> да|[Д.с.] есці [В.с.] <strong>herb</strong> [арт.] зямля і казаць валадар Існы <strong>forgive</strong> ж, -ка [узмацн.] хто устаць Яако́ў бо|што малы|дробны ён 
+Amos 7:3 (14472) <strong>repent, console</strong> Існы на <strong>this</strong> не быць казаць Існы 
+Amos 7:4 (14473) такім чынам бачыць валадар Існы і вось зваць да|[Д.с.] <strong>contend</strong> у|[Тв.с.] [арт.] агонь валадар Існы і есці [В.с.] <strong>primeval ocean</strong> шматлікі і есці [В.с.] [арт.] частка 
+Amos 7:5 (14474) і казаць валадар Існы <strong>cease</strong> ж, -ка [узмацн.] хто устаць Яако́ў бо|што малы|дробны ён 
+Amos 7:6 (14475) <strong>repent, console</strong> Існы на <strong>this</strong> таксама|нават яна не быць казаць валадар Існы ס
+Amos 7:7 (14476) такім чынам бачыць і вось валадар <strong>stand</strong> на <strong>wall</strong> <strong>plummet</strong> і у|[Тв.с.] рука <strong>plummet</strong> 
+Amos 7:8 (14477) і казаць Існы да што ты[м.] бачыць <strong>Amos</strong> і казаць <strong>plummet</strong> і казаць валадар вось класці|ставіць <strong>plummet</strong> у|[Тв.с.] <strong>interior</strong> народ Ісраэль не дадаць яшчэ перайсці да|[Д.с.] 
+Amos 7:9 (14478) і <strong>be desolate</strong> <strong>high place</strong> <strong>Isaac</strong> і <strong>sanctuary</strong> Ісраэль <strong>be dry</strong> і устаць на дом <strong>Jeroboam</strong> у|[Тв.с.] [арт.] <strong>dagger</strong> פ
+Amos 7:10 (14479) і слаць <strong>Amaziah</strong> <strong>priest</strong> <strong>Bethel</strong> да <strong>Jeroboam</strong> цар Ісраэль да|[Д.с.] казаць <strong>tie</strong> на <strong>Amos</strong> у|[Тв.с.] <strong>interior</strong> дом Ісраэль не магчы [арт.] зямля да|[Д.с.] <strong>comprehend</strong> [В.с.] цэлы|увесь слова|рэч 
+Amos 7:11 (14480) бо|што такім чынам казаць <strong>Amos</strong> у|[Тв.с.] [арт.] <strong>dagger</strong> паміраць <strong>Jeroboam</strong> і Ісраэль <strong>uncover</strong> <strong>uncover</strong> з на <strong>soil</strong> ס
+Amos 7:12 (14481) і казаць <strong>Amaziah</strong> да <strong>Amos</strong> <strong>seer</strong> хадзіць <strong>run away</strong> да|[Д.с.] да зямля Егуда і есці там хлеб і там <strong>speak as prophet</strong> 
+Amos 7:13 (14482) і <strong>Bethel</strong> не дадаць яшчэ да|[Д.с.] <strong>speak as prophet</strong> бо|што <strong>sanctuary</strong> цар ён і дом <strong>kingdom</strong> ён ס
+Amos 7:14 (14483) і адказаць <strong>Amos</strong> і казаць да <strong>Amaziah</strong> не <strong>prophet</strong> <strong>i</strong> і не сын <strong>prophet</strong> <strong>i</strong> бо|што <strong>herdsman</strong> <strong>i</strong> і <strong>nip</strong> <strong>sycomore</strong> 
+Amos 7:15 (14484) і браць Існы з пасля [арт.] скаціна і казаць да Існы хадзіць <strong>speak as prophet</strong> да народ Ісраэль 
+Amos 7:16 (14485) і <strong>now</strong> чуць слова|рэч Існы ты[м.] казаць не <strong>speak as prophet</strong> на Ісраэль і не <strong>drop</strong> на дом <strong>Isaac</strong> 
+Amos 7:17 (14486) <strong>therefore</strong> такім чынам казаць Існы жанчына у|[Тв.с.] [арт.] горад <strong>fornicate</strong> і сын і дачка у|[Тв.с.] [арт.] <strong>dagger</strong> падаць і <strong>soil</strong> у|[Тв.с.] [арт.] <strong>cord</strong> <strong>divide</strong> і ты[м.] на <strong>soil</strong> нячысты паміраць і Ісраэль <strong>uncover</strong> <strong>uncover</strong> з на <strong>soil</strong> ס
+Amos 8:1 (14487) такім чынам бачыць валадар Існы і вось <strong>basket</strong> <strong>summer</strong> 
+Amos 8:2 (14488) і казаць што ты[м.] бачыць <strong>Amos</strong> і казаць <strong>basket</strong> <strong>summer</strong> і казаць Існы да прыйсці [арт.] <strong>end</strong> да народ Ісраэль не дадаць яшчэ перайсці да|[Д.с.] 
+Amos 8:3 (14489) і <strong>howl</strong> <strong>song</strong> <strong>palace</strong> у|[Тв.с.] [арт.] дзень [арт.] ён прароцтва валадар Існы шматлікі [арт.] <strong>corpse</strong> у|[Тв.с.] цэлы|увесь месца кінуць <strong>be still</strong> פ
+Amos 8:4 (14490) чуць <strong>this</strong> [арт.] <strong>gasp</strong> <strong>poor</strong> і да|[Д.с.] <strong>cease</strong> <strong>humble</strong> зямля 
+Amos 8:5 (14491) да|[Д.с.] казаць <strong>when</strong> перайсці [арт.] <strong>month</strong> і <strong>buy grain</strong> <strong>corn</strong> і [арт.] <strong>sabbath</strong> і <strong>open</strong> <strong>grain</strong> да|[Д.с.] <strong>be small</strong> <strong>ephah</strong> і да|[Д.с.] узвялічваць <strong>shekel</strong> і да|[Д.с.] <strong>be crooked</strong> <strong>balances</strong> <strong>deceit</strong> 
+Amos 8:6 (14492) да|[Д.с.] набыць у|[Тв.с.] [арт.] срэбра <strong>poor</strong> і <strong>poor</strong> у|[Тв.с.] <strong>way</strong> <strong>sandal</strong> і <strong>refuse</strong> <strong>grain</strong> <strong>buy grain</strong> 
+Amos 8:7 (14493) <strong>swear</strong> Існы у|[Тв.с.] <strong>height</strong> Яако́ў калі[зл.] забыць да|[Д.с.] <strong>glory</strong> цэлы|увесь учынак|справа 
+Amos 8:8 (14494) ці на <strong>this</strong> не <strong>quake</strong> [арт.] зямля і <strong>mourn</strong> цэлы|увесь сядзець у|[Тв.с.] і падымацца як [арт.] <strong>Nile</strong> цэлы|увесь і <strong>drive out</strong> і <strong>collapse</strong> як <strong>Nile</strong> <strong>Egypt</strong> ס
+Amos 8:9 (14495) і быць у|[Тв.с.] [арт.] дзень [арт.] ён прароцтва валадар Існы і прыйсці [арт.] сонца у|[Тв.с.] [арт.] <strong>noon</strong> і <strong>be dark</strong> да|[Д.с.] [арт.] зямля у|[Тв.с.] дзень святло 
+Amos 8:10 (14496) і <strong>turn</strong> <strong>festival</strong> да|[Д.с.] <strong>mourning rites</strong> і цэлы|увесь песня да|[Д.с.] <strong>elegy</strong> і падымацца на цэлы|увесь <strong>hips</strong> <strong>sack</strong> і на цэлы|увесь галава <strong>baldness</strong> і класці|ставіць як <strong>mourning rites</strong> <strong>only one</strong> і прыканец як дзень горкі 
+Amos 8:11 (14497) вось дзень прыйсці прароцтва валадар Існы і слаць <strong>hunger</strong> у|[Тв.с.] [арт.] зямля не <strong>hunger</strong> да|[Д.с.] [арт.] хлеб і не <strong>thirst</strong> да|[Д.с.] [арт.] вада бо|што калі[зл.] да|[Д.с.] чуць [В.с.] слова|рэч Існы 
+Amos 8:12 (14498) і <strong>quiver</strong> з мора (ажно) да мора і з поўнач і (ажно) да <strong>sunrise</strong> <strong>rove about</strong> да|[Д.с.] шукаць [В.с.] слова|рэч Існы і не знайсці 
+Amos 8:13 (14499) у|[Тв.с.] [арт.] дзень [арт.] ён <strong>cover</strong> [арт.] <strong>virgin</strong> [арт.] прыгожы і [арт.] хлопец у|[Тв.с.] [арт.] <strong>thirst</strong> 
+Amos 8:14 (14500) [арт.] <strong>swear</strong> у|[Тв.с.] <strong>guiltiness</strong> Самарыя і казаць жывы Бог <strong>Dan</strong> і жывы шлях <strong>well</strong> <strong>Sheba</strong> і падаць і не устаць яшчэ ס
+Amos 9:1 (14501) бачыць [В.с.] валадар <strong>stand</strong> на [арт.] <strong>altar</strong> і казаць <strong>strike</strong> [арт.] <strong>bulb</strong> і <strong>quake</strong> [арт.] <strong>threshold</strong> і <strong>cut off</strong> у|[Тв.с.] галава цэлы|увесь і прыканец у|[Тв.с.] [арт.] <strong>dagger</strong> <strong>kill</strong> не <strong>flee</strong> да|[Д.с.] <strong>flee</strong> і не <strong>escape</strong> да|[Д.с.] збяжаўшы 
+Amos 9:2 (14502) калі[зл.] <strong>dig</strong> у|[Тв.с.] <strong>nether world</strong> з там рука браць і калі[зл.] падымацца [арт.] неба з там апускацца 
+Amos 9:3 (14503) і калі[зл.] <strong>hide</strong> у|[Тв.с.] галава [арт.] <strong>Carmel</strong> з там маскіравацца і браць і калі[зл.] <strong>hide</strong> з перад вока у|[Тв.с.] <strong>floor</strong> [арт.] мора з там <strong>command</strong> [В.с.] [арт.] цмок і <strong>bite</strong> 
+Amos 9:4 (14504) і калі[зл.] хадзіць у|[Тв.с.] [арт.] <strong>captive</strong> да|[Д.с.] твар <strong>be hostile</strong> з там <strong>command</strong> [В.с.] [арт.] <strong>dagger</strong> і <strong>kill</strong> і класці|ставіць вока на да|[Д.с.] дрэнны і не да|[Д.с.] <strong>what is good</strong> 
+Amos 9:5 (14505) і валадар Існы [арт.] <strong>service</strong> [арт.] <strong>touch</strong> у|[Тв.с.] [арт.] зямля і <strong>faint</strong> і <strong>mourn</strong> цэлы|увесь сядзець у|[Тв.с.] і падымацца як [арт.] <strong>Nile</strong> цэлы|увесь і <strong>collapse</strong> як <strong>Nile</strong> <strong>Egypt</strong> 
+Amos 9:6 (14506) [арт.] будаваць у|[Тв.с.] [арт.] неба <strong>ascent</strong> і <strong>bundle</strong> на зямля <strong>found</strong> [арт.] зваць да|[Д.с.] вада [арт.] мора і <strong>pour</strong> на твар [арт.] зямля Існы імя 
+Amos 9:7 (14507) ці не як сын <strong>Ethiopian</strong> <strong>you</strong> да|[Д.с.] сын Ісраэль прароцтва Існы ці не [В.с.] Ісраэль падымацца з зямля <strong>Egypt</strong> і філістынец з <strong>Caphtor</strong> і <strong>Aram</strong> з <strong>Kir</strong> 
+Amos 9:8 (14508) вось вока валадар Існы у|[Тв.с.] [арт.] <strong>kingdom</strong> [арт.] <strong>sinful</strong> і <strong>destroy</strong> [В.с.] з на твар [арт.] <strong>soil</strong> <strong>end</strong> бо|што не <strong>destroy</strong> <strong>destroy</strong> [В.с.] дом Яако́ў прароцтва Існы 
+Amos 9:9 (14509) бо|што вось <strong>i</strong> <strong>command</strong> і <strong>quiver</strong> у|[Тв.с.] цэлы|увесь [арт.] знешні народ [В.с.] дом Ісраэль як які <strong>quiver</strong> у|[Тв.с.] [арт.] <strong>sieve</strong> і не падаць <strong>pebble</strong> зямля 
+Amos 9:10 (14510) у|[Тв.с.] [арт.] <strong>dagger</strong> паміраць цэлы|увесь <strong>sinful</strong> народ [арт.] казаць не <strong>approach</strong> і <strong>be in front</strong> <strong>distance</strong> [арт.] дрэнны 
+Amos 9:11 (14511) у|[Тв.с.] [арт.] дзень [арт.] ён устаць [В.с.] <strong>cover of foliage</strong> Давыд [арт.] падаць і <strong>heap stones</strong> [В.с.] <strong>breach</strong> і <strong>ruin</strong> устаць і будаваць як дзень свет|вечнасць 
+Amos 9:12 (14512) з-за заўладаць [В.с.] <strong>rest</strong> Эдом і цэлы|увесь [арт.] знешні народ які зваць імя на прароцтва Існы рабіць <strong>this</strong> פ
+Amos 9:13 (14513) вось дзень прыйсці прароцтва Існы і <strong>approach</strong> <strong>plough</strong> у|[Тв.с.] [арт.] <strong>harvest</strong> і <strong>tread</strong> <strong>grape</strong> у|[Тв.с.] <strong>draw</strong> [арт.] семя і <strong>drop</strong> [арт.] гара <strong>juice</strong> і цэлы|увесь [арт.] <strong>hill</strong> <strong>faint</strong> 
+Amos 9:14 (14514) і <strong>gather</strong> [В.с.] <strong>captivity</strong> народ Ісраэль і будаваць горад <strong>be desolate</strong> і сядзець і <strong>plant</strong> <strong>vineyard</strong> і піць [В.с.] віно і рабіць сад і есці [В.с.] плод 
+Amos 9:15 (14515) і <strong>plant</strong> на <strong>soil</strong> і не <strong>root out</strong> яшчэ з на <strong>soil</strong> які даць да|[Д.с.] казаць Існы Бог 

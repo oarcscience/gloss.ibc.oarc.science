@@ -1,56 +1,56 @@
-1:1 (14737) 
-1:2 (14738) 
-1:3 (14739) 
-1:4 (14740) 
-1:5 (14741) 
-1:6 (14742) 
-1:7 (14743) 
-1:8 (14744) 
-1:9 (14745) 
-1:10 (14746) 
-1:11 (14747) 
-1:12 (14748) 
-1:13 (14749) 
-1:14 (14750) 
-1:15 (14751) 
-1:16 (14752) 
-1:17 (14753) ס
-2:1 (14754) 
-2:2 (14755) 
-2:3 (14756) 
-2:4 (14757) 
-2:5 (14758) 
-2:6 (14759) 
-2:7 (14760) 
-2:8 (14761) פ
-2:9 (14762) 
-2:10 (14763) 
-2:11 (14764) פ
-2:12 (14765) 
-2:13 (14766) 
-2:14 (14767) ס
-2:15 (14768) 
-2:16 (14769) 
-2:17 (14770) ס
-2:18 (14771) ס
-2:19 (14772) 
-2:20 (14773) פ
-3:1 (14774) 
-3:2 (14775) 
-3:3 (14776) 
-3:4 (14777) 
-3:5 (14778) 
-3:6 (14779) 
-3:7 (14780) ס
-3:8 (14781) 
-3:9 (14782) 
-3:10 (14783) 
-3:11 (14784) 
-3:12 (14785) 
-3:13 (14786) פ
-3:14 (14787) 
-3:15 (14788) 
-3:16 (14789) 
-3:17 (14790) 
-3:18 (14791) 
-3:19 (14792) 
+Habakkuk 1:1 (14737) [арт.] <strong>utterance</strong> які <strong>see</strong> <strong>Habakkuk</strong> [арт.] <strong>prophet</strong> 
+Habakkuk 1:2 (14738) (ажно) да <strong>whither</strong> Існы <strong>cry</strong> і не чуць <strong>cry</strong> да гвалт і не збавіць 
+Habakkuk 1:3 (14739) чаму бачыць <strong>wickedness</strong> і <strong>labour</strong> <strong>look at</strong> і <strong>violence</strong> і гвалт да|[Д.с.] перад і быць <strong>law-case</strong> і <strong>contention</strong> падняць 
+Habakkuk 1:4 (14740) на так <strong>grow numb</strong> <strong>instruction</strong> і не выйсці да|[Д.с.] <strong>glory</strong> правасуддзе бо|што вінаваты <strong>surround</strong> [В.с.] [арт.] справядлівы|правільны на так выйсці правасуддзе <strong>crook</strong> 
+Habakkuk 1:5 (14741) бачыць у|[Тв.с.] [арт.] знешні народ і <strong>look at</strong> і <strong>be astounded</strong> <strong>be astounded</strong> бо|што <strong>doing</strong> <strong>make</strong> у|[Тв.с.] дзень не <strong>be firm</strong> бо|што <strong>count</strong> 
+Habakkuk 1:6 (14742) бо|што вось устаць [В.с.] [арт.] <strong>Chaldeans</strong> [арт.] знешні народ [арт.] горкі і [арт.] спяшацца|хутка [як прысл.] [арт.] хадзіць да|[Д.с.] <strong>wide place</strong> зямля да|[Д.с.] заўладаць <strong>dwelling-place</strong> не да|[Д.с.] 
+Habakkuk 1:7 (14743) <strong>frightful</strong> і баяцца ён з правасуддзе і <strong>uprising</strong> выйсці 
+Habakkuk 1:8 (14744) і <strong>be slight</strong> з <strong>leopard</strong> конь і <strong>be sharp</strong> з <strong>wolf</strong> вечар і <strong>paw the ground</strong> <strong>horseman</strong> і <strong>horseman</strong> з далёкі прыйсці <strong>fly</strong> як арол <strong>make haste</strong> да|[Д.с.] есці 
+Habakkuk 1:9 (14745) цэлы|увесь да|[Д.с.] гвалт прыйсці <strong>[uncertain]</strong> твар <strong>east</strong> і збіраць як [арт.] <strong>sand</strong> <strong>captive</strong> 
+Habakkuk 1:10 (14746) і ён у|[Тв.с.] [арт.] цар <strong>disdain</strong> і <strong>be weighty</strong> <strong>laughter</strong> да|[Д.с.] ён да|[Д.с.] цэлы|увесь <strong>fortification</strong> смяяцца і <strong>heap</strong> пыл і <strong>seize</strong> 
+Habakkuk 1:11 (14747) тады <strong>come after</strong> вецер і перайсці і <strong>do wrong</strong> <strong>[relative]</strong> сіла да|[Д.с.] <strong>god</strong> 
+Habakkuk 1:12 (14748) ці не ты[м.] з <strong>front</strong> Існы Бог святы не паміраць Існы да|[Д.с.] правасуддзе класці|ставіць і <strong>rock</strong> да|[Д.с.] <strong>reprove</strong> <strong>found</strong> 
+Habakkuk 1:13 (14749) <strong>pure</strong> вока з бачыць зло і <strong>look at</strong> да <strong>labour</strong> не магчы чаму <strong>look at</strong> <strong>deal treacherously</strong> <strong>be deaf</strong> у|[Тв.с.] <strong>swallow</strong> вінаваты справядлівы|правільны з 
+Habakkuk 1:14 (14750) і рабіць чалавек (від) як рыба [арт.] мора як <strong>creeping animals</strong> не <strong>rule</strong> у|[Тв.с.] 
+Habakkuk 1:15 (14751) цэлы|увесь у|[Тв.с.] <strong>fish-hook</strong> падымацца <strong>drag away</strong> у|[Тв.с.] <strong>net</strong> і збіраць у|[Тв.с.] <strong>net</strong> на так узрадавацца і <strong>rejoice</strong> 
+Habakkuk 1:16 (14752) на так забіць да|[Д.с.] <strong>net</strong> і <strong>smoke</strong> да|[Д.с.] <strong>net</strong> бо|што у|[Тв.с.] яны <strong>fat</strong> частка і <strong>food</strong> <strong>fat</strong> 
+Habakkuk 1:17 (14753) ці на так <strong>be empty</strong> <strong>net</strong> і беззаганнасць да|[Д.с.] <strong>kill</strong> знешні народ не <strong>have compassion</strong> ס
+Habakkuk 2:1 (14754) на <strong>guard-post</strong> стаяць і <strong>stand</strong> на <strong>siege</strong> і <strong>look out</strong> да|[Д.с.] бачыць што гаварыць у|[Тв.с.] і што вяртацца на <strong>rebuke</strong> 
+Habakkuk 2:2 (14755) і адказаць Існы і казаць пісанне зданак і <strong>explain</strong> на [арт.] <strong>tablet</strong> з-за бяжаць зваць у|[Тв.с.] 
+Habakkuk 2:3 (14756) бо|што яшчэ зданак да|[Д.с.] [арт.] <strong>appointment</strong> і <strong>wheeze</strong> да|[Д.с.] [арт.] <strong>end</strong> і не <strong>lie</strong> калі[зл.] <strong>tarry</strong> <strong>wait</strong> да|[Д.с.] бо|што прыйсці прыйсці не <strong>be behind</strong> 
+Habakkuk 2:4 (14757) вось <strong>be heedless</strong> не <strong>be right</strong> душа у|[Тв.с.] і справядлівы|правільны у|[Тв.с.] <strong>steadiness</strong> жыць 
+Habakkuk 2:5 (14758) і нават бо|што [арт.] віно <strong>deal treacherously</strong> <strong>vigorous man</strong> <strong>haughty</strong> і не <strong>reach</strong> які <strong>be wide</strong> як <strong>nether world</strong> душа і ён як [арт.] смерць і не <strong>be sated</strong> і збіраць да цэлы|увесь [арт.] знешні народ і <strong>collect</strong> да цэлы|увесь [арт.] народ 
+Habakkuk 2:6 (14759) ці не гэтыя цэлы|увесь на <strong>proverb</strong> падняць і <strong>saying</strong> <strong>riddle</strong> да|[Д.с.] і казаць <strong>alas</strong> [арт.] шмат не да|[Д.с.] (ажно) да <strong>when</strong> і <strong>be heavy</strong> на <strong>debt</strong> 
+Habakkuk 2:7 (14760) ці не <strong>instant</strong> устаць <strong>claim interest</strong> і <strong>awake</strong> <strong>tremble</strong> і быць да|[Д.с.] <strong>plunder</strong> да|[Д.с.] 
+Habakkuk 2:8 (14761) бо|што ты[м.] <strong>plunder</strong> знешні народ шматлікі <strong>plunder</strong> цэлы|увесь <strong>remainder</strong> народ з <strong>blood</strong> чалавек (від) і гвалт зямля <strong>town</strong> і цэлы|увесь сядзець у|[Тв.с.] פ
+Habakkuk 2:9 (14762) <strong>alas</strong> <strong>cut off</strong> <strong>profit</strong> зло да|[Д.с.] дом да|[Д.с.] класці|ставіць у|[Тв.с.] [арт.] узвышанасць гняздо да|[Д.с.] <strong>deliver</strong> з далонь зло 
+Habakkuk 2:10 (14763) <strong>advise</strong> <strong>shame</strong> да|[Д.с.] дом <strong>cut off</strong> народ шматлікі і заблудзіць душа 
+Habakkuk 2:11 (14764) бо|што камень з <strong>wall</strong> <strong>cry</strong> і <strong>stucco-work</strong> з дрэва адказаць פ
+Habakkuk 2:12 (14765) <strong>alas</strong> будаваць горад у|[Тв.с.] <strong>blood</strong> і <strong>be firm</strong> <strong>town</strong> у|[Тв.с.] <strong>wickedness</strong> 
+Habakkuk 2:13 (14766) ці не вось з разам з Існы <strong>service</strong> і <strong>be weary</strong> народ у|[Тв.с.] дастатковасць агонь і <strong>people</strong> у|[Тв.с.] дастатковасць <strong>emptiness</strong> <strong>be weary</strong> 
+Habakkuk 2:14 (14767) бо|што поўніцца [арт.] зямля да|[Д.с.] ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] вага Існы як [арт.] вада пакрыць на мора ס
+Habakkuk 2:15 (14768) <strong>alas</strong> <strong>give drink</strong> <strong>fellow</strong> <strong>attach</strong> <strong>heat</strong> і нават <strong>be drunk</strong> з-за <strong>look at</strong> на <strong>nakedness</strong> 
+Habakkuk 2:16 (14769) <strong>be sated</strong> <strong>dishonour</strong> з вага піць таксама|нават ты[м.] і <strong>leave unharvested</strong> <strong>turn</strong> на <strong>cup</strong> правая частка Існы і <strong>disgrace</strong> на вага 
+Habakkuk 2:17 (14770) бо|што гвалт <strong>Lebanon</strong> пакрыць і <strong>violence</strong> звяры пажахацца з <strong>blood</strong> чалавек (від) і гвалт зямля <strong>town</strong> і цэлы|увесь сядзець у|[Тв.с.] ס
+Habakkuk 2:18 (14771) што <strong>profit</strong> <strong>idol</strong> бо|што <strong>cut</strong> <strong>shape</strong> <strong>molten image</strong> і <strong>teach</strong> <strong>lie</strong> бо|што <strong>trust</strong> <strong>shape</strong> <strong>form</strong> на да|[Д.с.] рабіць <strong>god</strong> <strong>speechless</strong> ס
+Habakkuk 2:19 (14772) <strong>alas</strong> казаць да|[Д.с.] [арт.] дрэва <strong>pass summer</strong> <strong>be awake</strong> да|[Д.с.] камень <strong>silently</strong> ён <strong>teach</strong> вось ён <strong>seize</strong> золата і срэбра і цэлы|увесь вецер няма у|[Тв.с.] <strong>interior</strong> 
+Habakkuk 2:20 (14773) і Існы у|[Тв.с.] <strong>palace</strong> святасць <strong>be still</strong> з твар цэлы|увесь [арт.] зямля פ
+Habakkuk 3:1 (14774) <strong>prayer</strong> да|[Д.с.] <strong>Habakkuk</strong> [арт.] <strong>prophet</strong> на <strong>dirge</strong> 
+Habakkuk 3:2 (14775) Існы чуць <strong>hearsay</strong> баяцца Існы <strong>doing</strong> у|[Тв.с.] <strong>interior</strong> год жыць у|[Тв.с.] <strong>interior</strong> год ведаць [+неад.]|займацца сэксам [+адуш.] у|[Тв.с.] <strong>excitement</strong> <strong>have compassion</strong> помніць 
+Habakkuk 3:3 (14776) <strong>god</strong> з Тэман прыйсці і святы з гара <strong>Paran</strong> <strong>sela</strong> пакрыць неба <strong>splendour</strong> і <strong>praise</strong> поўніцца [арт.] зямля 
+Habakkuk 3:4 (14777) і <strong>brightness</strong> як [арт.] святло быць <strong>horn</strong> з рука да|[Д.с.] і там <strong>veil</strong> <strong>power</strong> 
+Habakkuk 3:5 (14778) да|[Д.с.] твар хадзіць <strong>pest</strong> і выйсці <strong>flame</strong> да|[Д.с.] нага 
+Habakkuk 3:6 (14779) стаяць і <strong>measure</strong> зямля бачыць і <strong>run</strong> знешні народ і <strong>shatter</strong> гара <strong>future</strong> <strong>bow down</strong> <strong>hill</strong> свет|вечнасць <strong>walk</strong> свет|вечнасць да|[Д.с.] 
+Habakkuk 3:7 (14780) пад <strong>wickedness</strong> бачыць <strong>tent</strong> <strong>Cushan</strong> <strong>quake</strong> <strong>curtain</strong> зямля <strong>Midian</strong> ס
+Habakkuk 3:8 (14781) ці у|[Тв.с.] <strong>stream</strong> <strong>be hot</strong> Існы калі[зл.] у|[Тв.с.] [арт.] <strong>stream</strong> <strong>nose</strong> калі[зл.] у|[Тв.с.] [арт.] мора <strong>anger</strong> бо|што <strong>ride</strong> на конь <strong>chariot</strong> <strong>salvation</strong> 
+Habakkuk 3:9 (14782) <strong>nakedness</strong> <strong>be naked</strong> <strong>bow</strong> <strong>oath</strong> <strong>staff</strong> <strong>saying</strong> <strong>sela</strong> <strong>stream</strong> <strong>split</strong> зямля 
+Habakkuk 3:10 (14783) бачыць <strong>have labour pain, to cry</strong> гара <strong>rain</strong> вада перайсці даць <strong>primeval ocean</strong> голас <strong>[uncertain]</strong> рука падняць 
+Habakkuk 3:11 (14784) сонца месяц стаяць <strong>dominion</strong> да|[Д.с.] святло <strong>arrow</strong> хадзіць да|[Д.с.] <strong>brightness</strong> <strong>lightning</strong> <strong>spear</strong> 
+Habakkuk 3:12 (14785) у|[Тв.с.] <strong>curse</strong> <strong>march</strong> зямля у|[Тв.с.] <strong>nose</strong> <strong>tread on</strong> знешні народ 
+Habakkuk 3:13 (14786) выйсці да|[Д.с.] <strong>help</strong> народ да|[Д.с.] <strong>help</strong> разам з <strong>anointed</strong> <strong>break</strong> галава з дом вінаваты <strong>pour out</strong> <strong>foundation</strong> (ажно) да <strong>neck</strong> <strong>sela</strong> פ
+Habakkuk 3:14 (14787) <strong>bore</strong> у|[Тв.с.] <strong>staff</strong> галава <strong>[uncertain]</strong> <strong>be stormy</strong> да|[Д.с.] <strong>disperse</strong> <strong>presumption</strong> <strong>like</strong> да|[Д.с.] есці <strong>humble</strong> у|[Тв.с.] [арт.] <strong>hiding-place</strong> 
+Habakkuk 3:15 (14788) <strong>tread</strong> у|[Тв.с.] [арт.] мора конь <strong>clay</strong> вада шматлікі 
+Habakkuk 3:16 (14789) чуць і <strong>quake</strong> <strong>belly</strong> да|[Д.с.] голас <strong>tingle</strong> губа прыйсці <strong>rottenness</strong> у|[Тв.с.] костка і пад <strong>quake</strong> які <strong>lament</strong> да|[Д.с.] дзень бедства да|[Д.с.] падымацца да|[Д.с.] народ <strong>attack</strong> 
+Habakkuk 3:17 (14790) бо|што <strong>fig</strong> не <strong>sprout</strong> і няма <strong>produce</strong> у|[Тв.с.] [арт.] <strong>vine</strong> <strong>grow lean</strong> учынак|справа <strong>olive</strong> і <strong>terrace</strong> не рабіць <strong>food</strong> <strong>cut</strong> з <strong>enclosure</strong> скаціна і няма быдла у|[Тв.с.] [арт.] <strong>enclosure</strong> 
+Habakkuk 3:18 (14791) і я у|[Тв.с.] Існы <strong>rejoice</strong> <strong>rejoice</strong> у|[Тв.с.] Бог <strong>help</strong> 
+Habakkuk 3:19 (14792) Існы валадар моц і класці|ставіць нага як [арт.] <strong>doe</strong> і на <strong>high place</strong> <strong>tread</strong> да|[Д.с.] [арт.] <strong>prevail</strong> у|[Тв.с.] <strong>music</strong> 

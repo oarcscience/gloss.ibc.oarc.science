@@ -1,105 +1,105 @@
-1:1 (14585) 
-1:2 (14586) 
-1:3 (14587) 
-1:4 (14588) 
-1:5 (14589) 
-1:6 (14590) 
-1:7 (14591) 
-1:8 (14592) 
-1:9 (14593) 
-1:10 (14594) 
-1:11 (14595) 
-1:12 (14596) 
-1:13 (14597) 
-1:14 (14598) 
-1:15 (14599) 
-1:16 (14600) ס
-2:1 (14601) 
-2:2 (14602) פ
-2:3 (14603) 
-2:4 (14604) 
-2:5 (14605) 
-2:6 (14606) 
-2:7 (14607) 
-2:8 (14608) 
-2:9 (14609) 
-2:10 (14610) 
-2:11 (14611) 
-2:12 (14612) 
-2:13 (14613) פ
-3:1 (14614) 
-3:2 (14615) 
-3:3 (14616) 
-3:4 (14617) פ
-3:5 (14618) 
-3:6 (14619) 
-3:7 (14620) 
-3:8 (14621) ס
-3:9 (14622) 
-3:10 (14623) 
-3:11 (14624) 
-3:12 (14625) פ
-4:1 (14626) 
-4:2 (14627) 
-4:3 (14628) 
-4:4 (14629) 
-4:5 (14630) פ
-4:6 (14631) 
-4:7 (14632) פ
-4:8 (14633) 
-4:9 (14634) 
-4:10 (14635) 
-4:11 (14636) 
-4:12 (14637) 
-4:13 (14638) 
-4:14 (14639) ס
-5:1 (14640) 
-5:2 (14641) 
-5:3 (14642) 
-5:4 (14643) 
-5:5 (14644) ס
-5:6 (14645) 
-5:7 (14646) 
-5:8 (14647) פ
-5:9 (14648) 
-5:10 (14649) 
-5:11 (14650) 
-5:12 (14651) 
-5:13 (14652) 
-5:14 (14653) ס
-6:1 (14654) 
-6:2 (14655) 
-6:3 (14656) 
-6:4 (14657) 
-6:5 (14658) 
-6:6 (14659) 
-6:7 (14660) 
-6:8 (14661) פ
-6:9 (14662) 
-6:10 (14663) 
-6:11 (14664) 
-6:12 (14665) 
-6:13 (14666) 
-6:14 (14667) 
-6:15 (14668) 
-6:16 (14669) פ
-7:1 (14670) 
-7:2 (14671) 
-7:3 (14672) 
-7:4 (14673) 
-7:5 (14674) 
-7:6 (14675) 
-7:7 (14676) 
-7:8 (14677) ס
-7:9 (14678) 
-7:10 (14679) 
-7:11 (14680) 
-7:12 (14681) 
-7:13 (14682) ס
-7:14 (14683) 
-7:15 (14684) 
-7:16 (14685) 
-7:17 (14686) 
-7:18 (14687) 
-7:19 (14688) 
-7:20 (14689) 
+Micah 1:1 (14585) слова|рэч Існы які быць да <strong>Micah</strong> [арт.] <strong>from Moresheth</strong> у|[Тв.с.] дзень <strong>Jotham</strong> <strong>Ahaz</strong> <strong>Hezekiah</strong> цар Егуда які <strong>see</strong> на Самарыя і Ерусалім 
+Micah 1:2 (14586) чуць народ цэлы|увесь <strong>give attention</strong> зямля і поўнасць і быць валадар Існы у|[Тв.с.] да|[Д.с.] <strong>witness</strong> валадар з <strong>palace</strong> святасць 
+Micah 1:3 (14587) бо|што вось Існы выйсці з месца і апускацца і <strong>tread</strong> на <strong>high place</strong> зямля 
+Micah 1:4 (14588) і <strong>melt</strong> [арт.] гара пад і [арт.] <strong>valley</strong> <strong>split</strong> як [арт.] <strong>wax</strong> з твар [арт.] агонь як вада <strong>run</strong> у|[Тв.с.] <strong>descent</strong> 
+Micah 1:5 (14589) у|[Тв.с.] <strong>rebellion</strong> Яако́ў цэлы|увесь <strong>this</strong> і у|[Тв.с.] <strong>sin</strong> дом Ісраэль хто <strong>rebellion</strong> Яако́ў ці не Самарыя і хто <strong>high place</strong> Егуда ці не Ерусалім 
+Micah 1:6 (14590) і класці|ставіць Самарыя да|[Д.с.] <strong>heap</strong> [арт.] поле да|[Д.с.] <strong>planting</strong> <strong>vineyard</strong> і <strong>run</strong> да|[Д.с.] [арт.] <strong>valley</strong> камень і <strong>foundation</strong> <strong>uncover</strong> 
+Micah 1:7 (14591) і цэлы|увесь <strong>idol</strong> <strong>crush</strong> і цэлы|увесь <strong>gift</strong> <strong>burn</strong> у|[Тв.с.] [арт.] агонь і цэлы|увесь <strong>image</strong> класці|ставіць <strong>desolation</strong> бо|што з <strong>gift</strong> <strong>fornicate</strong> <strong>collect</strong> і (ажно) да <strong>gift</strong> <strong>fornicate</strong> вяртацца 
+Micah 1:8 (14592) на <strong>this</strong> <strong>lament</strong> і <strong>howl</strong> хадзіць <strong>barefoot</strong> і голы рабіць <strong>wailing</strong> як [арт.] <strong>jackal</strong> і <strong>mourning rites</strong> як дачка <strong>[uncertain]</strong> 
+Micah 1:9 (14593) бо|што <strong>incurable</strong> <strong>blow</strong> бо|што прыйсці (ажно) да Егуда <strong>touch</strong> (ажно) да брама народ (ажно) да Ерусалім 
+Micah 1:10 (14594) у|[Тв.с.] <strong>Gath</strong> не [+заг.лад] абвяшчаць плакаць не [+заг.лад] плакаць у|[Тв.с.] дом да|[Д.с.] <strong>Aphrah</strong> пыл <strong>roll</strong> 
+Micah 1:11 (14595) перайсці да|[Д.с.] сядзець <strong>Shaphir</strong> <strong>nakedness</strong> <strong>shame</strong> не выйсці сядзець <strong>Zaanan</strong> <strong>wailing</strong> <strong>Beth Ezel</strong> браць з <strong>standing place</strong> 
+Micah 1:12 (14596) бо|што <strong>wait</strong> да|[Д.с.] добры сядзець <strong>Maroth</strong> бо|што апускацца зло з разам з Існы да|[Д.с.] брама Ерусалім 
+Micah 1:13 (14597) <strong>bind</strong> [арт.] <strong>chariot</strong> да|[Д.с.] [арт.] <strong>span</strong> сядзець <strong>Lachish</strong> зачын <strong>sin</strong> яна да|[Д.с.] дачка Цыё́н бо|што у|[Тв.с.] знайсці <strong>rebellion</strong> Ісраэль 
+Micah 1:14 (14598) <strong>therefore</strong> даць <strong>act of sending</strong> на <strong>Moresheth Gath</strong> дом <strong>Aczib</strong> да|[Д.с.] <strong>deceitful</strong> да|[Д.с.] цар Ісраэль 
+Micah 1:15 (14599) яшчэ [арт.] заўладаць прыйсці да|[Д.с.] сядзець <strong>Mareshah</strong> (ажно) да <strong>Adullam</strong> прыйсці вага Ісраэль 
+Micah 1:16 (14600) <strong>make bald</strong> і <strong>shear</strong> на сын <strong>comfort</strong> <strong>be wide</strong> <strong>baldness</strong> як [арт.] арол бо|што <strong>uncover</strong> з ס
+Micah 2:1 (14601) <strong>alas</strong> <strong>account</strong> <strong>wickedness</strong> і <strong>make</strong> зло на <strong>couch</strong> у|[Тв.с.] святло [арт.] раніца рабіць бо|што ёсць да|[Д.с.] <strong>power</strong> рука 
+Micah 2:2 (14602) і <strong>desire</strong> поле і <strong>tear away</strong> і дом і падняць і <strong>oppress</strong> <strong>vigorous man</strong> і дом і чалавек (1) і уласнасць פ
+Micah 2:3 (14603) <strong>therefore</strong> такім чынам казаць Існы вось <strong>account</strong> на [арт.] <strong>clan</strong> [арт.] <strong>this</strong> дрэнны які не <strong>depart</strong> з там <strong>neck</strong> і не хадзіць <strong>haughtiness</strong> бо|што момант зло яна 
+Micah 2:4 (14604) у|[Тв.с.] [арт.] дзень [арт.] ён падняць на <strong>proverb</strong> і <strong>lament</strong> <strong>lamentation</strong> быць казаць быць спустошаным быць спустошаным частка народ <strong>exchange</strong> як <strong>depart</strong> да|[Д.с.] да|[Д.с.] <strong>apostate</strong> поле <strong>divide</strong> 
+Micah 2:5 (14605) <strong>therefore</strong> не быць да|[Д.с.] кінуць <strong>cord</strong> у|[Тв.с.] лёс|доля у|[Тв.с.] <strong>assembly</strong> Існы 
+Micah 2:6 (14606) не [+заг.лад] <strong>drop</strong> <strong>drop</strong> не <strong>drop</strong> да|[Д.с.] гэтыя не <strong>turn</strong> <strong>insult</strong> 
+Micah 2:7 (14607) ці казаць дом Яако́ў ці <strong>be short</strong> вецер Існы калі[зл.] гэтыя <strong>deed</strong> ці не слова|рэч <strong>be good</strong> з [арт.] <strong>right</strong> хадзіць 
+Micah 2:8 (14608) і <strong>yesterday</strong> народ да|[Д.с.] <strong>be hostile</strong> устаць з <strong>front</strong> <strong>wrapper</strong> <strong>might</strong> <strong>strip off</strong> з перайсці <strong>trust</strong> вяртацца вайна 
+Micah 2:9 (14609) жанчына народ <strong>drive out</strong> з дом <strong>comfort</strong> з на <strong>child</strong> браць <strong>ornament</strong> да|[Д.с.] свет|вечнасць 
+Micah 2:10 (14610) устаць і хадзіць бо|што не <strong>this</strong> [арт.] <strong>resting place</strong> у|[Тв.с.] <strong>way</strong> <strong>be unclean</strong> <strong>be corrupt</strong> і <strong>destruction</strong> <strong>hurt</strong> 
+Micah 2:11 (14611) <strong>if only</strong> чалавек (1) хадзіць вецер і <strong>lie</strong> <strong>lie</strong> <strong>drop</strong> да|[Д.с.] да|[Д.с.] [арт.] віно і да|[Д.с.] [арт.] <strong>strong drink</strong> і быць <strong>drop</strong> [арт.] народ [арт.] гэты 
+Micah 2:12 (14612) збіраць збіраць Яако́ў цэлы|увесь <strong>collect</strong> <strong>collect</strong> <strong>rest</strong> Ісраэль <strong>gathering</strong> класці|ставіць як скаціна <strong>[uncertain]</strong> як <strong>flock</strong> у|[Тв.с.] <strong>midst</strong> [арт.] <strong>pasture</strong> <strong>stir</strong> з чалавек (від) 
+Micah 2:13 (14613) падымацца [арт.] <strong>break</strong> да|[Д.с.] твар <strong>break</strong> і перайсці брама і выйсці у|[Тв.с.] і перайсці цар да|[Д.с.] твар і Існы у|[Тв.с.] галава פ
+Micah 3:1 (14614) і казаць чуць ж, -ка [узмацн.] галава Яако́ў і <strong>chief</strong> дом Ісраэль ці не да|[Д.с.] да|[Д.с.] ведаць [+неад.]|займацца сэксам [+адуш.] [В.с.] [арт.] правасуддзе 
+Micah 3:2 (14615) ненавідзець добры і любіць|кахаць зло <strong>tear away</strong> <strong>skin</strong> з на і <strong>body</strong> з на костка 
+Micah 3:3 (14616) і які есці <strong>body</strong> народ і <strong>skin</strong> з на <strong>strip off</strong> і [В.с.] костка <strong>scatter</strong> і <strong>spread out</strong> як які у|[Тв.с.] [арт.] <strong>pot</strong> і як мяса|плоць у|[Тв.с.] <strong>midst</strong> <strong>cauldron</strong> 
+Micah 3:4 (14617) тады <strong>cry</strong> да Існы і не адказаць [В.с.] і <strong>hide</strong> твар з у|[Тв.с.] [арт.] момант [арт.] яна як які <strong>be evil</strong> <strong>deed</strong> פ
+Micah 3:5 (14618) такім чынам казаць Існы на [арт.] <strong>prophet</strong> [арт.] <strong>err</strong> [В.с.] народ [арт.] <strong>bite</strong> у|[Тв.с.] <strong>tooth</strong> і зваць згода і які не даць на рот і <strong>be holy</strong> на вайна 
+Micah 3:6 (14619) <strong>therefore</strong> ноч да|[Д.с.] з зданак і <strong>be dark</strong> да|[Д.с.] з <strong>practice divination</strong> і прыйсці [арт.] сонца на [арт.] <strong>prophet</strong> і <strong>be dark</strong> на [арт.] дзень 
+Micah 3:7 (14620) і <strong>be ashamed</strong> [арт.] <strong>seer</strong> і <strong>be ashamed</strong> [арт.] <strong>practice divination</strong> і <strong>cover</strong> на <strong>moustache</strong> цэлы|увесь бо|што няма <strong>answer</strong> Бог 
+Micah 3:8 (14621) і <strong>but</strong> <strong>i</strong> поўніцца сіла разам з вецер Існы і правасуддзе і мужнасць да|[Д.с.] абвяшчаць да|[Д.с.] Яако́ў <strong>rebellion</strong> і да|[Д.с.] Ісраэль <strong>sin</strong> ס
+Micah 3:9 (14622) чуць ж, -ка [узмацн.] <strong>this</strong> галава дом Яако́ў і <strong>chief</strong> дом Ісраэль [арт.] <strong>be abhorrent</strong> правасуддзе і [В.с.] цэлы|увесь [арт.] <strong>right</strong> <strong>crook</strong> 
+Micah 3:10 (14623) будаваць Цыё́н у|[Тв.с.] <strong>blood</strong> і Ерусалім у|[Тв.с.] <strong>wickedness</strong> 
+Micah 3:11 (14624) галава у|[Тв.с.] <strong>present</strong> судзіць і <strong>priest</strong> у|[Тв.с.] <strong>price</strong> <strong>teach</strong> і <strong>prophet</strong> у|[Тв.с.] срэбра <strong>practice divination</strong> і на Існы <strong>lean</strong> да|[Д.с.] казаць ці не Існы у|[Тв.с.] <strong>interior</strong> не прыйсці на дрэнны 
+Micah 3:12 (14625) <strong>therefore</strong> у|[Тв.с.] <strong>matter</strong> Цыё́н поле <strong>plough</strong> і Ерусалім <strong>heap</strong> быць і гара [арт.] дом да|[Д.с.] <strong>high place</strong> <strong>wood</strong> פ
+Micah 4:1 (14626) і быць у|[Тв.с.] прыканец [арт.] дзень быць гара дом Існы <strong>be firm</strong> у|[Тв.с.] галава [арт.] гара і падняць ён з <strong>hill</strong> і <strong>stream</strong> на народ 
+Micah 4:2 (14627) і хадзіць знешні народ шматлікі і казаць хадзіць і падымацца да гара Існы і да дом Бог Яако́ў і <strong>teach</strong> з шлях і хадзіць у|[Тв.с.] <strong>path</strong> бо|што з Цыё́н выйсці <strong>instruction</strong> і слова|рэч Існы з Ерусалім 
+Micah 4:3 (14628) і судзіць між народ шматлікі і <strong>reprove</strong> да|[Д.с.] знешні народ <strong>mighty</strong> (ажно) да далёкі і <strong>crush</strong> <strong>dagger</strong> да|[Д.с.] <strong>ploughshare</strong> і <strong>spear</strong> да|[Д.с.] <strong>pruning-knife</strong> не падняць знешні народ да знешні народ <strong>dagger</strong> і не <strong>learn</strong> яшчэ вайна 
+Micah 4:4 (14629) і сядзець чалавек (1) пад <strong>vine</strong> і пад <strong>fig</strong> і няма <strong>tremble</strong> бо|што рот Існы <strong>service</strong> гаварыць 
+Micah 4:5 (14630) бо|што цэлы|увесь [арт.] народ хадзіць чалавек (1) у|[Тв.с.] імя Бог і <strong>we</strong> хадзіць у|[Тв.с.] імя Існы Бог да|[Д.с.] свет|вечнасць і <strong>future</strong> פ
+Micah 4:6 (14631) у|[Тв.с.] [арт.] дзень [арт.] ён прароцтва Існы збіраць [арт.] <strong>limp</strong> і [арт.] <strong>wield</strong> <strong>collect</strong> і які <strong>be evil</strong> 
+Micah 4:7 (14632) і класці|ставіць [В.с.] [арт.] <strong>limp</strong> да|[Д.с.] <strong>rest</strong> і [арт.] <strong>[uncertain]</strong> да|[Д.с.] знешні народ <strong>mighty</strong> і цараваць Існы на у|[Тв.с.] гара Цыё́н з <strong>now</strong> і (ажно) да свет|вечнасць פ
+Micah 4:8 (14633) і ты[м.] <strong>Migdal Eder</strong> <strong>Ophel</strong> дачка Цыё́н (ажно) да <strong>come</strong> і прыйсці [арт.] <strong>dominion</strong> [арт.] першы <strong>kingdom</strong> да|[Д.с.] дачка Ерусалім 
+Micah 4:9 (14634) <strong>now</strong> чаму <strong>shout</strong> <strong>shouting</strong> ці цар няма у|[Тв.с.] калі[зл.] <strong>advise</strong> загінуць бо|што <strong>be strong</strong> <strong>labour pains</strong> як [арт.] нарадзіць 
+Micah 4:10 (14635) <strong>have labour pain, to cry</strong> і <strong>burst forth</strong> дачка Цыё́н як [арт.] нарадзіць бо|што <strong>now</strong> выйсці з <strong>town</strong> і насяляць у|[Тв.с.] [арт.] поле і прыйсці (ажно) да <strong>Babel</strong> там <strong>deliver</strong> там <strong>redeem</strong> Існы з далонь <strong>be hostile</strong> 
+Micah 4:11 (14636) і <strong>now</strong> збіраць на знешні народ шматлікі [арт.] казаць <strong>alienate</strong> і <strong>see</strong> у|[Тв.с.] Цыё́н вока 
+Micah 4:12 (14637) і яны не ведаць [+неад.]|займацца сэксам [+адуш.] <strong>thought</strong> Існы і не разумець <strong>counsel</strong> бо|што <strong>collect</strong> як [арт.] <strong>grass</strong> <strong>threshing-floor</strong> 
+Micah 4:13 (14638) устаць і <strong>tread on</strong> дачка Цыё́н бо|што <strong>horn</strong> класці|ставіць жалеза і <strong>hoof</strong> класці|ставіць <strong>bronze</strong> і <strong>crush</strong> народ шматлікі і <strong>consecrate</strong> да|[Д.с.] Існы <strong>profit</strong> і моц да|[Д.с.] <strong>lord</strong> цэлы|увесь [арт.] зямля 
+Micah 4:14 (14639) <strong>now</strong> <strong>gather</strong> дачка <strong>band</strong> <strong>siege</strong> класці|ставіць на у|[Тв.с.] [арт.] <strong>rod</strong> <strong>strike</strong> на [арт.] <strong>jaw</strong> [В.с.] судзіць Ісраэль ס
+Micah 5:1 (14640) і ты[м.] <strong>Bethlehem</strong> <strong>Ephrathah</strong> <strong>little</strong> да|[Д.с.] быць у|[Тв.с.] <strong>group of thousand</strong> Егуда з да|[Д.с.] выйсці да|[Д.с.] быць <strong>rule</strong> у|[Тв.с.] Ісраэль і <strong>origin</strong> з <strong>front</strong> з дзень свет|вечнасць 
+Micah 5:2 (14641) <strong>therefore</strong> даць (ажно) да момант нарадзіць нарадзіць і <strong>remainder</strong> брат вяртацца на сын Ісраэль 
+Micah 5:3 (14642) і стаяць і <strong>pasture</strong> у|[Тв.с.] <strong>power</strong> Існы у|[Тв.с.] <strong>height</strong> імя Існы Бог і сядзець бо|што <strong>now</strong> узвялічваць (ажно) да <strong>end</strong> зямля 
+Micah 5:4 (14643) і быць гэты згода <strong>Asshur</strong> бо|што прыйсці у|[Тв.с.] зямля і бо|што <strong>tread</strong> у|[Тв.с.] <strong>dwelling tower</strong> і устаць на сем <strong>pasture</strong> і восем <strong>leader</strong> чалавек (від) 
+Micah 5:5 (14644) і <strong>break</strong> [В.с.] зямля <strong>Asshur</strong> у|[Тв.с.] [арт.] <strong>dagger</strong> і [В.с.] зямля <strong>Nimrod</strong> у|[Тв.с.] <strong>opening</strong> і <strong>deliver</strong> з <strong>Asshur</strong> бо|што прыйсці у|[Тв.с.] зямля і бо|што <strong>tread</strong> у|[Тв.с.] мяжа ס
+Micah 5:6 (14645) і быць <strong>rest</strong> Яако́ў у|[Тв.с.] <strong>interior</strong> народ шматлікі як <strong>dew</strong> з разам з Існы як <strong>rain</strong> на <strong>herb</strong> які не <strong>wait for</strong> да|[Д.с.] чалавек (1) і не <strong>wait, to hope</strong> да|[Д.с.] сын чалавек (від) 
+Micah 5:7 (14646) і быць <strong>rest</strong> Яако́ў у|[Тв.с.] [арт.] знешні народ у|[Тв.с.] <strong>interior</strong> народ шматлікі як <strong>lion</strong> у|[Тв.с.] звяры <strong>wood</strong> як <strong>young lion</strong> у|[Тв.с.] <strong>flock</strong> скаціна які калі[зл.] перайсці і <strong>trample</strong> і <strong>tear</strong> і няма <strong>deliver</strong> 
+Micah 5:8 (14647) <strong>be high</strong> рука на <strong>adversary</strong> і цэлы|увесь <strong>be hostile</strong> выразаць פ
+Micah 5:9 (14648) і быць у|[Тв.с.] [арт.] дзень [арт.] ён прароцтва Існы і выразаць конь з <strong>interior</strong> і загінуць <strong>chariot</strong> 
+Micah 5:10 (14649) і выразаць горад зямля і <strong>tear down</strong> цэлы|увесь <strong>fortification</strong> 
+Micah 5:11 (14650) і выразаць <strong>sorcery</strong> з рука і <strong>appear</strong> не быць да|[Д.с.] 
+Micah 5:12 (14651) і выразаць <strong>idol</strong> і <strong>massebe</strong> з <strong>interior</strong> і не <strong>bow down</strong> яшчэ да|[Д.с.] учынак|справа рука 
+Micah 5:13 (14652) і <strong>root out</strong> <strong>asherah</strong> з <strong>interior</strong> і <strong>destroy</strong> горад 
+Micah 5:14 (14653) і рабіць у|[Тв.с.] <strong>nose</strong> і у|[Тв.с.] <strong>heat</strong> <strong>vengeance</strong> [В.с.] [арт.] знешні народ які не чуць ס
+Micah 6:1 (14654) чуць ж, -ка [узмацн.] [В.с.] які Існы казаць устаць <strong>contend</strong> разам з [арт.] гара і чуць [арт.] <strong>hill</strong> голас 
+Micah 6:2 (14655) чуць гара [В.с.] <strong>law-case</strong> Існы і [арт.] <strong>ever-flowing</strong> <strong>foundation</strong> зямля бо|што <strong>law-case</strong> да|[Д.с.] Існы з народ і з Ісраэль <strong>reprove</strong> 
+Micah 6:3 (14656) народ што рабіць да|[Д.с.] і што <strong>be weary</strong> адказаць у|[Тв.с.] 
+Micah 6:4 (14657) бо|што падымацца з зямля <strong>Egypt</strong> і з дом слуга <strong>buy off</strong> і слаць да|[Д.с.] твар [В.с.] Майсей <strong>Aaron</strong> і <strong>Miriam</strong> 
+Micah 6:5 (14658) народ помніць ж, -ка [узмацн.] што <strong>advise</strong> <strong>Balak</strong> цар <strong>Moab</strong> і што адказаць [В.с.] <strong>[prophet]</strong> сын <strong>Beor</strong> з [арт.] <strong>Shittim</strong> (ажно) да [арт.] <strong>Gilgal</strong> з-за ведаць [+неад.]|займацца сэксам [+адуш.] <strong>justice</strong> Існы 
+Micah 6:6 (14659) у|[Тв.с.] што <strong>be in front</strong> Існы <strong>bend</strong> да|[Д.с.] Бог узвышанасць ці <strong>be in front</strong> у|[Тв.с.] <strong>burnt-offering</strong> у|[Тв.с.] <strong>bull</strong> сын год 
+Micah 6:7 (14660) ці <strong>like</strong> Існы у|[Тв.с.] тысяча <strong>ram, despot</strong> у|[Тв.с.] <strong>multitude</strong> <strong>wadi</strong> алей ці даць <strong>first-born</strong> <strong>rebellion</strong> плод <strong>belly</strong> <strong>sin</strong> душа 
+Micah 6:8 (14661) абвяшчаць да|[Д.с.] чалавек (від) што добры і што Існы <strong>inquire</strong> з бо|што калі[зл.] рабіць правасуддзе і любоў|каханне <strong>loyalty</strong> і <strong>be cautious</strong> хадзіць з Бог פ
+Micah 6:9 (14662) голас Існы да|[Д.с.] [арт.] горад зваць і <strong>effect</strong> бачыць імя чуць <strong>staff</strong> і хто <strong>appoint</strong> 
+Micah 6:10 (14663) яшчэ ці <strong>existence</strong> дом вінаваты <strong>supply</strong> <strong>guilt</strong> і <strong>ephah</strong> <strong>emaciation</strong> <strong>curse</strong> 
+Micah 6:11 (14664) ці <strong>be clean</strong> у|[Тв.с.] <strong>balances</strong> <strong>guilt</strong> і у|[Тв.с.] <strong>bag</strong> камень <strong>deceit</strong> 
+Micah 6:12 (14665) які <strong>rich</strong> поўніцца гвалт і сядзець гаварыць <strong>lie</strong> і язык <strong>deceit</strong> у|[Тв.с.] рот 
+Micah 6:13 (14666) і таксама|нават я <strong>become weak</strong> <strong>strike</strong> <strong>be desolate</strong> на <strong>sin</strong> 
+Micah 6:14 (14667) ты[м.] есці і не <strong>be sated</strong> і <strong>[uncertain]</strong> у|[Тв.с.] <strong>interior</strong> і <strong>turn</strong> і не <strong>escape</strong> і які <strong>escape</strong> да|[Д.с.] [арт.] <strong>dagger</strong> даць 
+Micah 6:15 (14668) ты[м.] <strong>sow</strong> і не <strong>harvest</strong> ты[м.] <strong>tread</strong> <strong>olive</strong> і не <strong>anoint</strong> алей і <strong>wine</strong> і не піць віно 
+Micah 6:16 (14669) і захоўваць <strong>regulation</strong> <strong>Omri</strong> і цэлы|увесь учынак|справа дом <strong>Ahab</strong> і хадзіць у|[Тв.с.] <strong>counsel</strong> з-за даць [В.с.] да|[Д.с.] <strong>destruction</strong> і сядзець да|[Д.с.] <strong>whistling</strong> і <strong>reproach</strong> народ падняць פ
+Micah 7:1 (14670) <strong>alas</strong> да|[Д.с.] бо|што быць як <strong>gathering</strong> <strong>summer</strong> як збіранне|абіранне <strong>vintage</strong> няма <strong>grape</strong> да|[Д.с.] есці <strong>early fig</strong> <strong>wish</strong> душа 
+Micah 7:2 (14671) загінуць <strong>loyal</strong> з [арт.] зямля і <strong>right</strong> у|[Тв.с.] [арт.] чалавек (від) няма цэлы|увесь да|[Д.с.] <strong>blood</strong> <strong>lie in ambush</strong> чалавек (1) [В.с.] брат <strong>hunt</strong> <strong>net</strong> 
+Micah 7:3 (14672) на [арт.] зло далонь да|[Д.с.] <strong>be good</strong> [арт.] кіраўнік|міністр пытацца і [арт.] судзіць у|[Тв.с.] [арт.] <strong>reward</strong> і [арт.] вялікі гаварыць <strong>desire</strong> душа ён і <strong>pervert</strong> 
+Micah 7:4 (14673) добры як <strong>nightshade</strong> <strong>right</strong> з <strong>hedge</strong> дзень <strong>look out</strong> <strong>commission</strong> прыйсці <strong>now</strong> быць <strong>confusion</strong> 
+Micah 7:5 (14674) не [+заг.лад] <strong>be firm</strong> у|[Тв.с.] <strong>fellow</strong> не [+заг.лад] <strong>trust</strong> у|[Тв.с.] <strong>familiar</strong> з ляжаць <strong>lap</strong> захоўваць <strong>opening</strong> рот 
+Micah 7:6 (14675) бо|што сын <strong>wither</strong> бацька дачка устаць у|[Тв.с.] маці <strong>bride</strong> у|[Тв.с.] <strong>mother-in-law</strong> <strong>be hostile</strong> чалавек (1) чалавек (1) дом 
+Micah 7:7 (14676) і я у|[Тв.с.] Існы <strong>look out</strong> <strong>wait, to hope</strong> да|[Д.с.] Бог <strong>help</strong> чуць Бог 
+Micah 7:8 (14677) не [+заг.лад] узрадавацца <strong>be hostile</strong> да|[Д.с.] бо|што падаць устаць бо|што сядзець у|[Тв.с.] [арт.] цемра Існы святло да|[Д.с.] ס
+Micah 7:9 (14678) <strong>rage</strong> Існы падняць бо|што заблудзіць да|[Д.с.] (ажно) да які <strong>contend</strong> <strong>law-case</strong> і рабіць правасуддзе выйсці да|[Д.с.] [арт.] святло бачыць у|[Тв.с.] <strong>justice</strong> 
+Micah 7:10 (14679) і бачыць <strong>be hostile</strong> і пакрыць сорам|ганьба [арт.] казаць да <strong>where</strong> Існы Бог вока бачыць у|[Тв.с.] <strong>now</strong> быць да|[Д.с.] <strong>trampled land</strong> як <strong>clay</strong> <strong>outside</strong> 
+Micah 7:11 (14680) дзень да|[Д.с.] будаваць сцяна|мур дзень [арт.] ён <strong>be far</strong> <strong>portion</strong> 
+Micah 7:12 (14681) дзень ён і (ажно) да прыйсці да|[Д.с.] з <strong>Asshur</strong> і горад <strong>Egypt</strong> і да|[Д.с.] з <strong>Egypt</strong> і (ажно) да <strong>stream</strong> і мора з мора і гара [арт.] гара 
+Micah 7:13 (14682) і быць [арт.] зямля да|[Д.с.] <strong>desolation</strong> на сядзець з плод <strong>deed</strong> ס
+Micah 7:14 (14683) <strong>pasture</strong> народ у|[Тв.с.] <strong>rod</strong> скаціна уласнасць насяляць да|[Д.с.] <strong>alone</strong> <strong>wood</strong> у|[Тв.с.] <strong>midst</strong> <strong>orchard</strong> <strong>pasture</strong> <strong>Bashan</strong> і Гіл’ад як дзень свет|вечнасць 
+Micah 7:15 (14684) як дзень выйсці з зямля <strong>Egypt</strong> бачыць <strong>be miraculous</strong> 
+Micah 7:16 (14685) бачыць знешні народ і <strong>be ashamed</strong> з цэлы|увесь мужнасць класці|ставіць рука на рот вуха <strong>be deaf</strong> 
+Micah 7:17 (14686) <strong>eat</strong> пыл як [арт.] цмок як <strong>glide away</strong> зямля <strong>quake</strong> з <strong>bulwark</strong> да Існы Бог <strong>tremble</strong> і баяцца з 
+Micah 7:18 (14687) хто <strong>god</strong> <strong>like</strong> падняць <strong>sin</strong> і перайсці на <strong>rebellion</strong> да|[Д.с.] <strong>rest</strong> уласнасць не <strong>be strong</strong> да|[Д.с.] <strong>future</strong> <strong>nose</strong> бо|што <strong>desire</strong> <strong>loyalty</strong> ён 
+Micah 7:19 (14688) вяртацца <strong>have compassion</strong> <strong>subdue</strong> <strong>sin</strong> і кінуць у|[Тв.с.] <strong>depth</strong> мора цэлы|увесь <strong>sin</strong> 
+Micah 7:20 (14689) даць праўда да|[Д.с.] Яако́ў <strong>loyalty</strong> да|[Д.с.] <strong>Abraham</strong> які <strong>swear</strong> да|[Д.с.] бацька з дзень <strong>front</strong> 

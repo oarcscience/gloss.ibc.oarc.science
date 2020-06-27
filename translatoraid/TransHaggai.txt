@@ -1,38 +1,38 @@
-1:1 (14846) 
-1:2 (14847) פ
-1:3 (14848) 
-1:4 (14849) 
-1:5 (14850) 
-1:6 (14851) פ
-1:7 (14852) 
-1:8 (14853) 
-1:9 (14854) 
-1:10 (14855) 
-1:11 (14856) ס
-1:12 (14857) 
-1:13 (14858) 
-1:14 (14859) פ
-1:15 (14860) 
-2:1 (14861) 
-2:2 (14862) 
-2:3 (14863) 
-2:4 (14864) 
-2:5 (14865) ס
-2:6 (14866) 
-2:7 (14867) 
-2:8 (14868) 
-2:9 (14869) פ
-2:10 (14870) 
-2:11 (14871) 
-2:12 (14872) 
-2:13 (14873) 
-2:14 (14874) 
-2:15 (14875) 
-2:16 (14876) 
-2:17 (14877) 
-2:18 (14878) 
-2:19 (14879) ס
-2:20 (14880) 
-2:21 (14881) 
-2:22 (14882) 
-2:23 (14883) 
+Haggai 1:1 (14846) у|[Тв.с.] год два да|[Д.с.] <strong>Darius</strong> [арт.] цар у|[Тв.с.] [арт.] <strong>month</strong> [арт.] <strong>sixth</strong> у|[Тв.с.] дзень адзін да|[Д.с.] [арт.] <strong>month</strong> быць слова|рэч Існы у|[Тв.с.] рука <strong>Haggai</strong> [арт.] <strong>prophet</strong> да <strong>Zerubbabel</strong> сын <strong>Shealtiel</strong> <strong>governor</strong> Егуда і да <strong>Joshua</strong> сын <strong>Jehozadak</strong> [арт.] <strong>priest</strong> [арт.] вялікі да|[Д.с.] казаць 
+Haggai 1:2 (14847) такім чынам казаць Існы <strong>service</strong> да|[Д.с.] казаць [арт.] народ [арт.] гэты казаць не момант прыйсці момант дом Існы да|[Д.с.] будаваць פ
+Haggai 1:3 (14848) і быць слова|рэч Існы у|[Тв.с.] рука <strong>Haggai</strong> [арт.] <strong>prophet</strong> да|[Д.с.] казаць 
+Haggai 1:4 (14849) ці момант да|[Д.с.] <strong>you</strong> да|[Д.с.] сядзець у|[Тв.с.] дом <strong>cover</strong> і [арт.] дом [арт.] гэты <strong>dry</strong> 
+Haggai 1:5 (14850) і <strong>now</strong> такім чынам казаць Існы <strong>service</strong> класці|ставіць сэрца на шлях 
+Haggai 1:6 (14851) <strong>sow</strong> шмат і прыйсці <strong>little</strong> есці і няма да|[Д.с.] <strong>satiety</strong> піць і няма да|[Д.с.] <strong>be drunk</strong> <strong>cloth</strong> і няма да|[Д.с.] быць спякотным да|[Д.с.] і [арт.] <strong>hire</strong> <strong>hire</strong> да <strong>bag</strong> <strong>bore</strong> פ
+Haggai 1:7 (14852) такім чынам казаць Існы <strong>service</strong> класці|ставіць сэрца на шлях 
+Haggai 1:8 (14853) падымацца [арт.] гара і прыйсці дрэва і будаваць [арт.] дом і <strong>like</strong> у|[Тв.с.] і <strong>be heavy</strong> казаць Існы 
+Haggai 1:9 (14854) <strong>turn</strong> да шмат і вось да|[Д.с.] <strong>little</strong> і прыйсці [арт.] дом і <strong>blow</strong> у|[Тв.с.] <strong>motive</strong> што прароцтва Існы <strong>service</strong> <strong>motive</strong> дом які ён <strong>dry</strong> і <strong>you</strong> бяжаць чалавек (1) да|[Д.с.] дом 
+Haggai 1:10 (14855) на так на <strong>restrain</strong> неба з <strong>dew</strong> і [арт.] зямля <strong>restrain</strong> <strong>produce</strong> 
+Haggai 1:11 (14856) і зваць <strong>dryness</strong> на [арт.] зямля і на [арт.] гара і на [арт.] <strong>corn</strong> і на [арт.] <strong>wine</strong> і на [арт.] <strong>oil</strong> і на які выйсці [арт.] <strong>soil</strong> і на [арт.] чалавек (від) і на [арт.] звяры і на цэлы|увесь <strong>toil</strong> далонь ס
+Haggai 1:12 (14857) і чуць <strong>Zerubbabel</strong> сын <strong>Shealtiel</strong> і <strong>Joshua</strong> сын <strong>Jehozadak</strong> [арт.] <strong>priest</strong> [арт.] вялікі і цэлы|увесь <strong>rest</strong> [арт.] народ у|[Тв.с.] голас Існы Бог і на слова|рэч <strong>Haggai</strong> [арт.] <strong>prophet</strong> як які слаць Існы Бог і баяцца [арт.] народ з твар Існы 
+Haggai 1:13 (14858) і казаць <strong>Haggai</strong> пасланец Існы у|[Тв.с.] <strong>commission</strong> Існы да|[Д.с.] [арт.] народ да|[Д.с.] казаць я разам з прароцтва Існы 
+Haggai 1:14 (14859) і <strong>be awake</strong> Існы [В.с.] вецер <strong>Zerubbabel</strong> сын <strong>Shealtiel</strong> <strong>governor</strong> Егуда і [В.с.] вецер <strong>Joshua</strong> сын <strong>Jehozadak</strong> [арт.] <strong>priest</strong> [арт.] вялікі і [В.с.] вецер цэлы|увесь <strong>rest</strong> [арт.] народ і прыйсці і рабіць <strong>work</strong> у|[Тв.с.] дом Існы <strong>service</strong> Бог פ
+Haggai 1:15 (14860) у|[Тв.с.] дзень <strong>twenty</strong> і <strong>four</strong> да|[Д.с.] [арт.] <strong>month</strong> у|[Тв.с.] [арт.] <strong>sixth</strong> у|[Тв.с.] год два да|[Д.с.] <strong>Darius</strong> [арт.] цар 
+Haggai 2:1 (14861) у|[Тв.с.] [арт.] <strong>seventh</strong> у|[Тв.с.] <strong>twenty</strong> і адзін да|[Д.с.] [арт.] <strong>month</strong> быць слова|рэч Існы у|[Тв.с.] рука <strong>Haggai</strong> [арт.] <strong>prophet</strong> да|[Д.с.] казаць 
+Haggai 2:2 (14862) казаць ж, -ка [узмацн.] да <strong>Zerubbabel</strong> сын <strong>Shealtiel</strong> <strong>governor</strong> Егуда і да <strong>Joshua</strong> сын <strong>Jehozadak</strong> [арт.] <strong>priest</strong> [арт.] вялікі і да <strong>rest</strong> [арт.] народ да|[Д.с.] казаць 
+Haggai 2:3 (14863) хто у|[Тв.с.] [арт.] пакідаць які бачыць [В.с.] [арт.] дом [арт.] гэты у|[Тв.с.] вага [арт.] першы і што <strong>you</strong> бачыць [В.с.] <strong>now</strong> ці не <strong>like</strong> як няма у|[Тв.с.] вока 
+Haggai 2:4 (14864) і <strong>now</strong> <strong>be strong</strong> <strong>Zerubbabel</strong> прароцтва Існы і <strong>be strong</strong> <strong>Joshua</strong> сын <strong>Jehozadak</strong> [арт.] <strong>priest</strong> [арт.] вялікі і <strong>be strong</strong> цэлы|увесь народ [арт.] зямля прароцтва Існы і рабіць бо|што я разам з прароцтва Існы <strong>service</strong> 
+Haggai 2:5 (14865) [В.с.] [арт.] слова|рэч які выразаць разам з у|[Тв.с.] выйсці з <strong>Egypt</strong> і вецер стаяць у|[Тв.с.] <strong>midst</strong> не [+заг.лад] баяцца ס
+Haggai 2:6 (14866) бо|што такім чынам казаць Існы <strong>service</strong> яшчэ адзін <strong>little</strong> яна і я <strong>quake</strong> [В.с.] [арт.] неба і [В.с.] [арт.] зямля і [В.с.] [арт.] мора і [В.с.] [арт.] <strong>dry ground</strong> 
+Haggai 2:7 (14867) і <strong>quake</strong> [В.с.] цэлы|увесь [арт.] знешні народ і прыйсці <strong>what is desirable</strong> цэлы|увесь [арт.] знешні народ і поўніцца [В.с.] [арт.] дом [арт.] гэты вага казаць Існы <strong>service</strong> 
+Haggai 2:8 (14868) да|[Д.с.] [арт.] срэбра і да|[Д.с.] [арт.] золата прароцтва Існы <strong>service</strong> 
+Haggai 2:9 (14869) вялікі быць вага [арт.] дом [арт.] гэты [арт.] апошні з [арт.] першы казаць Існы <strong>service</strong> і у|[Тв.с.] [арт.] месца [арт.] гэты даць згода прароцтва Існы <strong>service</strong> פ
+Haggai 2:10 (14870) у|[Тв.с.] <strong>twenty</strong> і <strong>four</strong> да|[Д.с.] [арт.] <strong>ninth</strong> у|[Тв.с.] год два да|[Д.с.] <strong>Darius</strong> быць слова|рэч Існы да <strong>Haggai</strong> [арт.] <strong>prophet</strong> да|[Д.с.] казаць 
+Haggai 2:11 (14871) такім чынам казаць Існы <strong>service</strong> пытацца ж, -ка [узмацн.] [В.с.] [арт.] <strong>priest</strong> <strong>instruction</strong> да|[Д.с.] казаць 
+Haggai 2:12 (14872) <strong>behold</strong> падняць чалавек (1) мяса|плоць святасць у|[Тв.с.] крыло адзежа і <strong>touch</strong> у|[Тв.с.] крыло да [арт.] хлеб і да [арт.] <strong>boiled food</strong> і да [арт.] віно і да алей і да цэлы|увесь <strong>food</strong> ці <strong>be holy</strong> і адказаць [арт.] <strong>priest</strong> і казаць не 
+Haggai 2:13 (14873) і казаць <strong>Haggai</strong> калі[зл.] <strong>touch</strong> нячысты душа у|[Тв.с.] цэлы|увесь гэтыя ці <strong>be unclean</strong> і адказаць [арт.] <strong>priest</strong> і казаць <strong>be unclean</strong> 
+Haggai 2:14 (14874) і адказаць <strong>Haggai</strong> і казаць так [арт.] народ [арт.] гэты і так [арт.] знешні народ [арт.] гэты да|[Д.с.] твар прароцтва Існы і так цэлы|увесь учынак|справа рука і які набліжацца там нячысты ён 
+Haggai 2:15 (14875) і <strong>now</strong> класці|ставіць ж, -ка [узмацн.] сэрца з [арт.] дзень [арт.] гэты і верх з <strong>beginning</strong> класці|ставіць камень да камень у|[Тв.с.] <strong>palace</strong> Існы 
+Haggai 2:16 (14876) з быць прыйсці да <strong>heap</strong> <strong>twenty</strong> і быць дзесяць прыйсці да [арт.] <strong>pit</strong> да|[Д.с.] <strong>strip</strong> <strong>five</strong> <strong>trough</strong> і быць <strong>twenty</strong> 
+Haggai 2:17 (14877) <strong>strike</strong> [В.с.] у|[Тв.с.] [арт.] <strong>scorching</strong> і у|[Тв.с.] [арт.] <strong>paleness</strong> і у|[Тв.с.] [арт.] <strong>hail</strong> [В.с.] цэлы|увесь учынак|справа рука і няма [В.с.] да прароцтва Існы 
+Haggai 2:18 (14878) класці|ставіць ж, -ка [узмацн.] сэрца з [арт.] дзень [арт.] гэты і верх з дзень <strong>twenty</strong> і <strong>four</strong> да|[Д.с.] [арт.] <strong>ninth</strong> да|[Д.с.] з [арт.] дзень які <strong>found</strong> <strong>palace</strong> Існы класці|ставіць сэрца 
+Haggai 2:19 (14879) ці яшчэ [арт.] семя у|[Тв.с.] [арт.] <strong>corn-pit</strong> і (ажно) да [арт.] <strong>vine</strong> і [арт.] <strong>fig</strong> і [арт.] <strong>pomegranate</strong> і дрэва [арт.] <strong>olive</strong> не падняць з [арт.] дзень [арт.] гэты <strong>bless</strong> ס
+Haggai 2:20 (14880) і быць слова|рэч Існы другі да <strong>Haggai</strong> у|[Тв.с.] <strong>twenty</strong> і <strong>four</strong> да|[Д.с.] [арт.] <strong>month</strong> да|[Д.с.] казаць 
+Haggai 2:21 (14881) казаць да <strong>Zerubbabel</strong> <strong>governor</strong> Егуда да|[Д.с.] казаць я <strong>quake</strong> [В.с.] [арт.] неба і [В.с.] [арт.] зямля 
+Haggai 2:22 (14882) і <strong>turn</strong> <strong>seat</strong> <strong>kingdom</strong> і <strong>destroy</strong> <strong>strength</strong> <strong>kingdom</strong> [арт.] знешні народ і <strong>turn</strong> <strong>chariot</strong> і <strong>ride</strong> і апускацца конь і <strong>ride</strong> чалавек (1) у|[Тв.с.] <strong>dagger</strong> брат 
+Haggai 2:23 (14883) у|[Тв.с.] [арт.] дзень [арт.] ён прароцтва Існы <strong>service</strong> браць <strong>Zerubbabel</strong> сын <strong>Shealtiel</strong> слуга прароцтва Існы і класці|ставіць як [арт.] <strong>seal</strong> бо|што у|[Тв.с.] <strong>examine</strong> прароцтва Існы <strong>service</strong> 

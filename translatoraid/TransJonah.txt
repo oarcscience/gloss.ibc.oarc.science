@@ -1,48 +1,48 @@
-1:1 (14537) 
-1:2 (14538) 
-1:3 (14539) 
-1:4 (14540) 
-1:5 (14541) 
-1:6 (14542) 
-1:7 (14543) 
-1:8 (14544) 
-1:9 (14545) 
-1:10 (14546) 
-1:11 (14547) 
-1:12 (14548) 
-1:13 (14549) 
-1:14 (14550) 
-1:15 (14551) 
-1:16 (14552) 
-2:1 (14553) 
-2:2 (14554) 
-2:3 (14555) 
-2:4 (14556) 
-2:5 (14557) 
-2:6 (14558) 
-2:7 (14559) 
-2:8 (14560) 
-2:9 (14561) 
-2:10 (14562) ס
-2:11 (14563) פ
-3:1 (14564) 
-3:2 (14565) 
-3:3 (14566) 
-3:4 (14567) 
-3:5 (14568) 
-3:6 (14569) 
-3:7 (14570) 
-3:8 (14571) 
-3:9 (14572) 
-3:10 (14573) 
-4:1 (14574) 
-4:2 (14575) 
-4:3 (14576) ס
-4:4 (14577) 
-4:5 (14578) 
-4:6 (14579) 
-4:7 (14580) 
-4:8 (14581) 
-4:9 (14582) 
-4:10 (14583) 
-4:11 (14584) 
+Jonah 1:1 (14537) і быць слова|рэч Існы да <strong>Jonah</strong> сын <strong>Amittai</strong> да|[Д.с.] казаць 
+Jonah 1:2 (14538) устаць хадзіць да <strong>Nineveh</strong> [арт.] горад [арт.] вялікі і зваць на бо|што падымацца дрэнны да|[Д.с.] твар 
+Jonah 1:3 (14539) і устаць <strong>Jonah</strong> да|[Д.с.] <strong>run away</strong> <strong>Tarshish</strong> з да|[Д.с.] твар Існы і апускацца <strong>Joppa</strong> і знайсці <strong>ship</strong> прыйсці <strong>Tarshish</strong> і даць <strong>hire</strong> і апускацца у|[Тв.с.] да|[Д.с.] прыйсці з <strong>Tarshish</strong> з да|[Д.с.] твар Існы 
+Jonah 1:4 (14540) і Існы <strong>cast</strong> вецер вялікі да [арт.] мора і быць <strong>storm</strong> вялікі у|[Тв.с.] [арт.] мора і [арт.] <strong>ship</strong> <strong>account</strong> да|[Д.с.] разбіць 
+Jonah 1:5 (14541) і баяцца [арт.] <strong>mariner</strong> і <strong>cry</strong> чалавек (1) да Бог і <strong>cast</strong> [В.с.] [арт.] прылада які у|[Тв.с.] [арт.] <strong>ship</strong> да [арт.] мора да|[Д.с.] <strong>be slight</strong> з на і <strong>Jonah</strong> апускацца да <strong>backside</strong> [арт.] <strong>vessel</strong> і ляжаць і <strong>sleep</strong> 
+Jonah 1:6 (14542) і набліжацца да <strong>chief</strong> [арт.] <strong>sailor</strong> і казаць да|[Д.с.] што да|[Д.с.] <strong>sleep</strong> устаць зваць да Бог <strong>perhaps</strong> <strong>think</strong> [арт.] Бог да|[Д.с.] і не загінуць 
+Jonah 1:7 (14543) і казаць чалавек (1) да <strong>fellow</strong> хадзіць і падаць лёс|доля і ведаць [+неад.]|займацца сэксам [+адуш.] у|[Тв.с.] што да|[Д.с.] хто [арт.] дрэнны [арт.] <strong>this</strong> да|[Д.с.] і падаць лёс|доля і падаць [арт.] лёс|доля на <strong>Jonah</strong> 
+Jonah 1:8 (14544) і казаць да абвяшчаць ж, -ка [узмацн.] да|[Д.с.] у|[Тв.с.] які да|[Д.с.] хто [арт.] дрэнны [арт.] <strong>this</strong> да|[Д.с.] што <strong>work</strong> і з <strong>whence</strong> прыйсці што зямля і <strong>where</strong> з гэты народ ты[м.] 
+Jonah 1:9 (14545) і казаць да <strong>Hebrew</strong> <strong>i</strong> і [В.с.] Існы Бог [арт.] неба я баяцца які рабіць [В.с.] [арт.] мора і [В.с.] [арт.] <strong>dry land</strong> 
+Jonah 1:10 (14546) і баяцца [арт.] чалавек (1) <strong>fear</strong> вялікі і казаць да што <strong>this</strong> рабіць бо|што ведаць [+неад.]|займацца сэксам [+адуш.] [арт.] чалавек (1) бо|што з да|[Д.с.] твар Існы ён <strong>run away</strong> бо|што абвяшчаць да|[Д.с.] 
+Jonah 1:11 (14547) і казаць да што рабіць да|[Д.с.] і <strong>be silent</strong> [арт.] мора з на бо|што [арт.] мора хадзіць і <strong>be stormy</strong> 
+Jonah 1:12 (14548) і казаць да падняць і <strong>cast</strong> да [арт.] мора і <strong>be silent</strong> [арт.] мора з на бо|што ведаць [+неад.]|займацца сэксам [+адуш.] я бо|што у|[Тв.с.] што да|[Д.с.] [арт.] <strong>storm</strong> [арт.] вялікі [арт.] гэты на 
+Jonah 1:13 (14549) і <strong>dig</strong> [арт.] чалавек (1) да|[Д.с.] вяртацца да [арт.] <strong>dry land</strong> і не магчы бо|што [арт.] мора хадзіць і <strong>be stormy</strong> на 
+Jonah 1:14 (14550) і зваць да Існы і казаць <strong>pray</strong> Існы не [+заг.лад] ж, -ка [узмацн.] загінуць у|[Тв.с.] душа [арт.] чалавек (1) [арт.] гэты і не [+заг.лад] даць на <strong>blood</strong> <strong>innocent</strong> бо|што ты[м.] Існы як які <strong>desire</strong> рабіць 
+Jonah 1:15 (14551) і падняць [В.с.] <strong>Jonah</strong> і <strong>cast</strong> да [арт.] мора і стаяць [арт.] мора з <strong>rage</strong> 
+Jonah 1:16 (14552) і баяцца [арт.] чалавек (1) <strong>fear</strong> вялікі [В.с.] Існы і забіць <strong>sacrifice</strong> да|[Д.с.] Існы і <strong>vow</strong> <strong>vow</strong> 
+Jonah 2:1 (14553) і <strong>count</strong> Існы рыба вялікі да|[Д.с.] <strong>swallow</strong> [В.с.] <strong>Jonah</strong> і быць <strong>Jonah</strong> у|[Тв.с.] <strong>bowels</strong> [арт.] рыба <strong>three</strong> дзень і <strong>three</strong> ноч 
+Jonah 2:2 (14554) і <strong>pray</strong> <strong>Jonah</strong> да Існы Бог з <strong>bowels</strong> [арт.] <strong>fish</strong> 
+Jonah 2:3 (14555) і казаць зваць з бедства да|[Д.с.] да Існы і адказаць з <strong>belly</strong> <strong>nether world</strong> <strong>cry</strong> чуць голас 
+Jonah 2:4 (14556) і кінуць <strong>depth</strong> у|[Тв.с.] сэрца мора і <strong>stream</strong> <strong>turn</strong> цэлы|увесь <strong>breaker</strong> і <strong>wave</strong> на перайсці 
+Jonah 2:5 (14557) і я казаць <strong>drive out</strong> з перад вока <strong>only</strong> дадаць да|[Д.с.] <strong>look at</strong> да <strong>palace</strong> святасць 
+Jonah 2:6 (14558) <strong>encompass</strong> вада (ажно) да душа <strong>primeval ocean</strong> <strong>turn</strong> <strong>rush</strong> <strong>saddle</strong> да|[Д.с.] галава 
+Jonah 2:7 (14559) да|[Д.с.] <strong>cut</strong> гара апускацца [арт.] зямля <strong>bar</strong> <strong>distance</strong> да|[Д.с.] свет|вечнасць і падымацца з <strong>pit</strong> <strong>life</strong> Існы Бог 
+Jonah 2:8 (14560) у|[Тв.с.] <strong>faint</strong> на душа [В.с.] Існы помніць і прыйсці да <strong>prayer</strong> да <strong>palace</strong> святасць 
+Jonah 2:9 (14561) захоўваць подых <strong>vanity</strong> <strong>loyalty</strong> <strong>leave</strong> 
+Jonah 2:10 (14562) і я у|[Тв.с.] голас <strong>thanksgiving</strong> забіць да|[Д.с.] які <strong>vow</strong> <strong>be complete</strong> <strong>salvation</strong> да|[Д.с.] Існы ס
+Jonah 2:11 (14563) і казаць Існы да|[Д.с.] [арт.] рыба і <strong>vomit</strong> [В.с.] <strong>Jonah</strong> да [арт.] <strong>dry land</strong> פ
+Jonah 3:1 (14564) і быць слова|рэч Існы да <strong>Jonah</strong> другі да|[Д.с.] казаць 
+Jonah 3:2 (14565) устаць хадзіць да <strong>Nineveh</strong> [арт.] горад [арт.] вялікі і зваць да [В.с.] [арт.] <strong>proclamation</strong> які <strong>i</strong> гаварыць да 
+Jonah 3:3 (14566) і устаць <strong>Jonah</strong> і хадзіць да <strong>Nineveh</strong> як слова|рэч Існы і <strong>Nineveh</strong> быць горад вялікі да|[Д.с.] Бог <strong>passage</strong> <strong>three</strong> дзень 
+Jonah 3:4 (14567) і <strong>defile</strong> <strong>Jonah</strong> да|[Д.с.] прыйсці у|[Тв.с.] [арт.] горад <strong>passage</strong> дзень адзін і зваць і казаць яшчэ <strong>four</strong> дзень і <strong>Nineveh</strong> <strong>turn</strong> 
+Jonah 3:5 (14568) і <strong>be firm</strong> чалавек (1) <strong>Nineveh</strong> у|[Тв.с.] Бог і зваць <strong>fasting</strong> і <strong>cloth</strong> <strong>sack</strong> з вялікі і (ажно) да <strong>small</strong> 
+Jonah 3:6 (14569) і <strong>touch</strong> [арт.] слова|рэч да цар <strong>Nineveh</strong> і устаць з <strong>seat</strong> і перайсці <strong>splendour</strong> з на і пакрыць <strong>sack</strong> і сядзець на [арт.] <strong>dust</strong> 
+Jonah 3:7 (14570) і <strong>cry</strong> і казаць у|[Тв.с.] <strong>Nineveh</strong> з <strong>taste</strong> [арт.] цар і вялікі да|[Д.с.] казаць [арт.] чалавек (від) і [арт.] звяры [арт.] быдла і [арт.] скаціна не [+заг.лад] <strong>taste</strong> <strong>something</strong> не [+заг.лад] <strong>pasture</strong> і вада не [+заг.лад] піць 
+Jonah 3:8 (14571) і пакрыць <strong>sack</strong> [арт.] чалавек (від) і [арт.] звяры і зваць да Бог у|[Тв.с.] <strong>strength</strong> і вяртацца чалавек (1) з шлях [арт.] зло і з [арт.] гвалт які у|[Тв.с.] далонь 
+Jonah 3:9 (14572) хто ведаць [+неад.]|займацца сэксам [+адуш.] вяртацца і <strong>repent, console</strong> [арт.] Бог і вяртацца з <strong>anger</strong> <strong>nose</strong> і не загінуць 
+Jonah 3:10 (14573) і бачыць [арт.] Бог [В.с.] учынак|справа бо|што вяртацца з шлях [арт.] зло і <strong>repent, console</strong> [арт.] Бог на [арт.] дрэнны які гаварыць да|[Д.с.] рабіць да|[Д.с.] і не рабіць 
+Jonah 4:1 (14574) і <strong>be evil</strong> да <strong>Jonah</strong> дрэнны вялікі і <strong>be hot</strong> да|[Д.с.] 
+Jonah 4:2 (14575) і <strong>pray</strong> да Існы і казаць <strong>pray</strong> Існы ці не гэты слова|рэч (ажно) да быць на <strong>soil</strong> на так <strong>be in front</strong> да|[Д.с.] <strong>run away</strong> <strong>Tarshish</strong> бо|што ведаць [+неад.]|займацца сэксам [+адуш.] бо|што ты[м.] <strong>god</strong> <strong>gracious</strong> і <strong>compassionate</strong> доўгі <strong>nose</strong> і шматлікі <strong>loyalty</strong> і <strong>repent, console</strong> на [арт.] дрэнны 
+Jonah 4:3 (14576) і <strong>now</strong> Існы браць ж, -ка [узмацн.] [В.с.] душа з бо|што добры смерць з <strong>life</strong> ס
+Jonah 4:4 (14577) і казаць Існы ці <strong>be good</strong> <strong>be hot</strong> да|[Д.с.] 
+Jonah 4:5 (14578) і выйсці <strong>Jonah</strong> з [арт.] горад і сядзець з <strong>front</strong> да|[Д.с.] [арт.] горад і рабіць да|[Д.с.] там <strong>cover of foliage</strong> і сядзець пад у|[Тв.с.] [арт.] цень (ажно) да які бачыць што быць у|[Тв.с.] [арт.] горад 
+Jonah 4:6 (14579) і <strong>count</strong> Існы Бог <strong>qiqayon</strong> і падымацца з на да|[Д.с.] <strong>Jonah</strong> да|[Д.с.] быць цень на галава да|[Д.с.] <strong>deliver</strong> да|[Д.с.] з дрэнны і узрадавацца <strong>Jonah</strong> на [арт.] <strong>qiqayon</strong> радасць вялікі 
+Jonah 4:7 (14580) і <strong>count</strong> [арт.] Бог <strong>worm</strong> у|[Тв.с.] падымацца [арт.] <strong>dawn</strong> да|[Д.с.] [арт.] <strong>next day</strong> і <strong>strike</strong> [В.с.] [арт.] <strong>qiqayon</strong> і <strong>be dry</strong> 
+Jonah 4:8 (14581) і быць як <strong>flash up</strong> [арт.] сонца і <strong>count</strong> Бог вецер <strong>east</strong> <strong>[uncertain]</strong> і <strong>strike</strong> [арт.] сонца на галава <strong>Jonah</strong> і <strong>cover</strong> і пытацца [В.с.] душа да|[Д.с.] паміраць і казаць добры смерць з <strong>life</strong> 
+Jonah 4:9 (14582) і казаць Бог да <strong>Jonah</strong> ці <strong>be good</strong> <strong>be hot</strong> да|[Д.с.] на [арт.] <strong>qiqayon</strong> і казаць <strong>be good</strong> <strong>be hot</strong> да|[Д.с.] (ажно) да смерць 
+Jonah 4:10 (14583) і казаць Існы ты[м.] <strong>pity</strong> на [арт.] <strong>qiqayon</strong> які не праца у|[Тв.с.] і не узвялічваць што сын ноч быць і сын ноч загінуць 
+Jonah 4:11 (14584) і я не <strong>pity</strong> на <strong>Nineveh</strong> [арт.] горад [арт.] вялікі які ёсць у|[Тв.с.] шмат з два <strong>-teen</strong> <strong>ten thousand</strong> чалавек (від) які не ведаць [+неад.]|займацца сэксам [+адуш.] між правая частка да|[Д.с.] левая частка і звяры шматлікі 

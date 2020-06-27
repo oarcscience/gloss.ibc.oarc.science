@@ -2,7 +2,7 @@
 # coding: utf-8
 
 def deletenull(l):
-    return [o for o in l if o!=" " ]
+    return [o for o in l if o not in [" ",""] ]
 
 import pandas as pd
 master = pd.read_csv("mlexiconmaster.csv",sep="\t")
