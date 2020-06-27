@@ -1,3 +1,5 @@
+## This script generates dictionary entries in the folder w/
+
 def list_notnull(l):
     if "" in l: l.remove("")
     return l
@@ -14,6 +16,10 @@ def stn(x):
 import pandas as pd
 print('Loading verses...\r',end="")    
 df=pd.read_csv("../_data/TBESH_formatted.csv",sep="\t").fillna("")
+
+print('Loading indexing information...\r',end="")    
+index=pd.read_csv("../_data/temp.csv",sep="\t")
+
 
 
 def wrapper(line, arg):
@@ -33,6 +39,33 @@ def nav_prev(ind):
     if ind==9000: return 8674
     if ind==1: return 9012
     return ind-1
+
+books=["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "Isaiah", "Jeremiah", "Ezekiel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi", "Psalms", "Proverbs", "Job", "Song of Songs", "Ruth", "Lamentations", "Ecclesiastes", "Esther", "Daniel", "Ezra", "Nehemiah", "1 Chronicles", "2 Chronicles"]
+
+def force_to_int(value):
+    """Given a value, returns the value as an int if possible.
+    Otherwise returns None.
+    """
+    try:
+        return int(value)
+    except ValueError:
+        return -1
+
+def intell_links(arg):
+#    print(arg)
+    local_index=pd.DataFrame({"entry":list(map(force_to_int, arg))}).merge(index,left_on="entry",right_on="number").dropna(axis=0)
+    if local_index.shape[0]==0: return ""
+    local_index["textlink"]=local_index.apply(lambda x: """<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="/v/{}.html">{}:{}</a></span>""".format(x["entry"],x["chapter"],x["verse"]), axis=1)
+    local_index_by_book=pd.DataFrame({"textlink":local_index.groupby("book")["textlink"].apply(", ".join)}).reset_index()
+    local_index_by_book["bookname"]=local_index_by_book["book"]
+#    print ("----------------------------")
+#    print (local_index_by_book)
+    local_index_by_book["bookname"]=local_index_by_book["book"].apply(lambda x: """<span id="toc" style="font-family:sans-serif;">{}</span>""".format(books[int(x-1)]))
+    local_index_by_book["booklinks"]=local_index_by_book["bookname"]+local_index_by_book["textlink"]
+    return " ".join(local_index_by_book["booklinks"])
+
+
+
 
 for i  in range(df.shape[0]):
     if i%100==0:
@@ -91,7 +124,7 @@ for i  in range(df.shape[0]):
 <p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/"""+str(nav_prev(int(df.iloc[i,0][1:])))+".html"+""" ">&laquo; Back</a>
 <a class="shadow" style="float:right;" href="/w/""" +str(nav_next(int(df.iloc[i,0][1:])))+".html" +""" ">Forth &raquo;</a></p>
 
-<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in</span>"""+"".join(["""<span id="toc"><span style="color:darkgray;"> </span><a class="shadow" href="/v/"""+h+""".html">""" +h+"</a></span>" for h in sorted(list_notnull(df.iloc[i,17].split(",")),key=lambda x: float(x)) ])+ """
+<div style="display: flex;"><p style="margin-bottom:27px;"><span id="toc" style="font-family:sans-serif;">Mentioned in</span>"""+intell_links(sorted(list_notnull(df.iloc[i,17].split(",")),key=lambda x: float(x)))+ """
 </p></div>
 
 
