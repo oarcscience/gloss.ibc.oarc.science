@@ -28,7 +28,7 @@ def plur_linear(s):
 def plur_vertical(s):
     lis=s.split("|")
     if len(lis)==1: return s
-    return "\n".join(["""<strong>{}</strong> """.format(chr(ord('A')-1+i))+word for i,word in zip(range(1,len(lis)+1),lis)])
+    return "<br>".join(["""<strong>{}</strong> """.format(chr(ord('A')-1+i))+word for i,word in zip(range(1,len(lis)+1),lis)])
 
 
 def wrapper(line, arg):
