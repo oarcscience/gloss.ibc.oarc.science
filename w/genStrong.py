@@ -28,7 +28,7 @@ def plur_linear(s):
 def plur_vertical(s):
     lis=s.split("|")
     if len(lis)==1: return s
-    return "\n".join(["""<strong>{}</sup> """.format(chr(ord('A')-1+i))+word for i,word in zip(range(1,len(lis)+1),lis)])
+    return "\n".join(["""<strong>{}</strong> """.format(chr(ord('A')-1+i))+word for i,word in zip(range(1,len(lis)+1),lis)])
 
 
 def wrapper(line, arg):
@@ -118,7 +118,7 @@ for i  in range(df.shape[0]):
 <p style="margin: 0px;background-color: #ff7f2a;padding: 5px;width:38%;"></p>
 <p style="margin: 0px;background-color: #7296cc;padding: 5px;width:27%;"></p>
 
-"""+"""<h1>{} <span id="bh">{}</span> ‘{}’ <span style="color: rgba(0, 0, 0, 0.75);font-size: 65%; font-family: EB Garamond;font-weight: normal;">({})</span></h1>""".format(df.iloc[i,22], df.iloc[i,2], plur_linear(df.iloc[i,20]), lang_full(df.iloc[i,3]))+"""
+"""+"""<h1>{} <span id="bh" dir="rtl">{}</span> ‘{}’ <span style="color: rgba(0, 0, 0, 0.75);font-size: 65%; font-family: EB Garamond;font-weight: normal;">({})</span></h1>""".format(df.iloc[i,22], df.iloc[i,2], plur_linear(df.iloc[i,20]), lang_full(df.iloc[i,3]))+"""
 <p><span style="color: rgba(0, 0, 0, 0.75)">Etymology:</span> {}""".format(df.iloc[i,15])+wrapper(""" | <span style="color: rgba(0, 0, 0, 0.75)">Roots:</span> {} """, wrapper2("""
 <a class="shadow" href="/w/{}"><span id="bh">{}</span></a>""", stn(df.iloc[i,8] ), df.iloc[i,9])+wrapper2("""
 <a class="shadow" href="/w/{}"><span id="bh">{}</span></a>""", stn(df.iloc[i,10]), df.iloc[i,11])+wrapper2("""
