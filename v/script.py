@@ -91,6 +91,19 @@ for i  in range(df.shape[0]):
 <link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
 
   <link rel="alternate" type="application/rss+xml" title="Belarusian Arabic script" href="https://bh.seveleu.com/feed.xml" /><style>#s{{font-size:132%;color:cadetblue;font-style: italic;}}</style>
+<script type="text/javascript">
+document.onkeydown = function(evt) {{
+    evt = evt || window.event;
+    switch (evt.keyCode) {{
+        case 37:
+            window.location = $('#prev').attr('href');
+            break;
+        case 39:
+            window.location = $('#next').attr('href');
+            break;
+    }}
+}};
+</script>
 </head>
 
 <body>
@@ -113,8 +126,8 @@ for i  in range(df.shape[0]):
 <p id="tr">/{}/</p>
 
 
-<p style="text-align:center"><a class="shadow" style="float:left;" href="/v/{}.html">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/v/{}.html">Forth &raquo;</a></p>
+<p style="text-align:center"><a class="shadow" id="#prev" style="float:left;" href="/v/{}.html">&laquo; Back</a>
+<a class="shadow" id="#next" style="float:right;" href="/v/{}.html">Forth &raquo;</a></p>
 
 <h3 style="text-align:center;">Gloss translation</h3>
 

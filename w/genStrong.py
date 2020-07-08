@@ -104,6 +104,19 @@ for i  in range(df.shape[0]):
 <!---  <link rel="canonical" href="https://bh.seveleu.com/16"> ---->
 
   <link rel="alternate" type="application/rss+xml" title="Belarusian Arabic script" href="https://bh.seveleu.com/feed.xml" /><style>#s{font-size:132%;color:cadetblue;font-style: italic;}</style>
+<script type="text/javascript">
+document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    switch (evt.keyCode) {
+        case 37:
+            window.location = $('#prev').attr('href');
+            break;
+        case 39:
+            window.location = $('#next').attr('href');
+            break;
+    }
+};
+</script>
 </head>
 
 <body>
@@ -112,8 +125,8 @@ for i  in range(df.shape[0]):
 <h3>Biblical Hebrew for linguists</h3><h4>Westminster Leningrad Codex</h4></a></nav>
 </header>
 
-<p style="text-align:center;display:flow-root;"><a class="shadow" style="float:left;" href="/w/"""+str(nav_prev(int(df.iloc[i,0][1:])))+".html"+""" ">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/w/""" +str(nav_next(int(df.iloc[i,0][1:])))+".html" +""" ">Forth &raquo;</a></p>
+<p style="text-align:center;display:flow-root;"><a class="shadow" id="#prev" style="float:left;" href="/w/"""+str(nav_prev(int(df.iloc[i,0][1:])))+".html"+""" ">&laquo; Back</a>
+<a class="shadow" id="#next" style="float:right;" href="/w/""" +str(nav_next(int(df.iloc[i,0][1:])))+".html" +""" ">Forth &raquo;</a></p>
 
 
 

@@ -15,6 +15,19 @@
 <link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
 
   <link rel="alternate" type="application/rss+xml" title="Belarusian Arabic script" href="https://bh.seveleu.com/feed.xml" /><style>#s{font-size:132%;color:cadetblue;font-style: italic;}</style>
+<script type="text/javascript">
+document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    switch (evt.keyCode) {
+        case 37:
+            window.location = $('#prev').attr('href');
+            break;
+        case 39:
+            window.location = $('#next').attr('href');
+            break;
+    }
+};
+</script>
 </head>
 
 <body>
@@ -37,8 +50,8 @@
 <p id="tr">/wᵉ rāḥăvā<sub id="s">́</sub> wᵉ nāsᵉvā<sub id="s">́</sub> lᵉ ma<sub id="s">́</sub>ʿlā lᵉ ma<sub id="s">́</sub>ʿlā la -ṣ-ṣᵉlāʿō<sub id="s">́</sub>t kī mū<sub id="s">́</sub>sav ha-b-bayi<sub id="s">́</sub>t lᵉ ma<sub id="s">́</sub>ʿlā lᵉ ma<sub id="s">́</sub>ʿlā sāvī<sub id="s">́</sub>v sāvīv la -b-ba<sub id="s">́</sub>yit ʿal kēn rō<sub id="s">́</sub>ḥav la -b-ba<sub id="s">́</sub>yit lᵉ mā<sub id="s">́</sub>ʿᵉlā wᵉ xēn ha-t-taḥtōnā<sub id="s">́</sub> yaʿăle<sub id="s">́</sub> ʿal hā ʿelyōnā<sub id="s">́</sub> la -t-tīxōnā<sub id="s">́</sub> /</p>
 
 
-<p style="text-align:center"><a class="shadow" style="float:left;" href="/v/13894.html">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/v/13896.html">Forth &raquo;</a></p>
+<p style="text-align:center"><a class="shadow" id="#prev" style="float:left;" href="/v/13894.html">&laquo; Back</a>
+<a class="shadow" id="#next" style="float:right;" href="/v/13896.html">Forth &raquo;</a></p>
 
 <h3 style="text-align:center;">Gloss translation</h3>
 

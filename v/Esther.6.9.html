@@ -15,6 +15,19 @@
 <link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
 
   <link rel="alternate" type="application/rss+xml" title="Belarusian Arabic script" href="https://bh.seveleu.com/feed.xml" /><style>#s{font-size:132%;color:cadetblue;font-style: italic;}</style>
+<script type="text/javascript">
+document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    switch (evt.keyCode) {
+        case 37:
+            window.location = $('#prev').attr('href');
+            break;
+        case 39:
+            window.location = $('#next').attr('href');
+            break;
+    }
+};
+</script>
 </head>
 
 <body>
@@ -37,8 +50,8 @@
 <p id="tr">/wᵉ nātō<sub id="s">́</sub>n ha-l-lᵉvūš wᵉ ha-s-sūs ʿal yad ʾīš mi-ś-śārē<sub id="s">́</sub> ha-m-me<sub id="s">́</sub>lex ha-p-partᵉmī<sub id="s">́</sub>m wᵉ hilbī<sub id="s">́</sub>šū ʾet hā ʾīš ʾăšer ha-m-me<sub id="s">́</sub>lex ḥāfē<sub id="s">́</sub>ṣ bi yqārō<sub id="s">́</sub> wᵉ hirkīvu<sub id="s">́</sub>hū ʿal ha-s-sūs bi rᵉḥōv hā ʿīr wᵉ qārᵉʾū<sub id="s">́</sub> lᵉ fānā<sub id="s">́</sub>w kā<sub id="s">́</sub>xā yēʿāśe<sub id="s">́</sub> lā  ʾīš ʾăšer ha-m-me<sub id="s">́</sub>lex ḥāfē<sub id="s">́</sub>ṣ bi yqārō<sub id="s">́</sub> /</p>
 
 
-<p style="text-align:center"><a class="shadow" style="float:left;" href="/v/20338.html">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/v/20340.html">Forth &raquo;</a></p>
+<p style="text-align:center"><a class="shadow" id="#prev" style="float:left;" href="/v/20338.html">&laquo; Back</a>
+<a class="shadow" id="#next" style="float:right;" href="/v/20340.html">Forth &raquo;</a></p>
 
 <h3 style="text-align:center;">Gloss translation</h3>
 

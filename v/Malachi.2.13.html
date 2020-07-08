@@ -15,6 +15,19 @@
 <link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
 
   <link rel="alternate" type="application/rss+xml" title="Belarusian Arabic script" href="https://bh.seveleu.com/feed.xml" /><style>#s{font-size:132%;color:cadetblue;font-style: italic;}</style>
+<script type="text/javascript">
+document.onkeydown = function(evt) {
+    evt = evt || window.event;
+    switch (evt.keyCode) {
+        case 37:
+            window.location = $('#prev').attr('href');
+            break;
+        case 39:
+            window.location = $('#next').attr('href');
+            break;
+    }
+};
+</script>
 </head>
 
 <body>
@@ -37,8 +50,8 @@
 <p id="tr">/wᵉ zōt šēnī<sub id="s">́</sub>t taʿăśū<sub id="s">́</sub> kassō<sub id="s">́</sub>t dimʿā<sub id="s">́</sub> ʾet mizba<sub id="s">́</sub>ḥ ʾădōnāy bᵉxī wa ʾănāqā<sub id="s">́</sub> mē ʾēn ʿōd pᵉnōt ʾel ha-m-minḥā<sub id="s">́</sub> wᵉ lā qa<sub id="s">́</sub>ḥat rāṣō<sub id="s">́</sub>n mi-y-yedᵉxe<sub id="s">́</sub>m /</p>
 
 
-<p style="text-align:center"><a class="shadow" style="float:left;" href="/v/15120.html">&laquo; Back</a>
-<a class="shadow" style="float:right;" href="/v/15122.html">Forth &raquo;</a></p>
+<p style="text-align:center"><a class="shadow" id="#prev" style="float:left;" href="/v/15120.html">&laquo; Back</a>
+<a class="shadow" id="#next" style="float:right;" href="/v/15122.html">Forth &raquo;</a></p>
 
 <h3 style="text-align:center;">Gloss translation</h3>
 
