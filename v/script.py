@@ -127,8 +127,8 @@ document.onkeydown = function(evt) {{
 <p id="tr">/{}/</p>
 
 
-<p style="text-align:center"><a class="shadow" id="#prev" style="float:left;" href="/v/{}.html">&laquo; Back</a>
-<a class="shadow" id="#next" style="float:right;" href="/v/{}.html">Forth &raquo;</a></p>
+<p style="text-align:center"><a class="shadow" id="prev" style="float:left;" href="/v/{}.html">&laquo; Back</a>
+<a class="shadow" id="next" style="float:right;" href="/v/{}.html">Forth &raquo;</a></p>
 
 <h3 style="text-align:center;">Gloss translation</h3>
 

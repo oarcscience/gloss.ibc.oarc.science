@@ -126,8 +126,8 @@ document.onkeydown = function(evt) {
 <h3>Biblical Hebrew for linguists</h3><h4>Westminster Leningrad Codex</h4></a></nav>
 </header>
 
-<p style="text-align:center;display:flow-root;"><a class="shadow" id="#prev" style="float:left;" href="/w/"""+str(nav_prev(int(df.iloc[i,0][1:])))+".html"+""" ">&laquo; Back</a>
-<a class="shadow" id="#next" style="float:right;" href="/w/""" +str(nav_next(int(df.iloc[i,0][1:])))+".html" +""" ">Forth &raquo;</a></p>
+<p style="text-align:center;display:flow-root;"><a class="shadow" id="prev" style="float:left;" href="/w/"""+str(nav_prev(int(df.iloc[i,0][1:])))+".html"+""" ">&laquo; Back</a>
+<a class="shadow" id="next" style="float:right;" href="/w/""" +str(nav_next(int(df.iloc[i,0][1:])))+".html" +""" ">Forth &raquo;</a></p>
 
 
 
