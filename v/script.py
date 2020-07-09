@@ -91,6 +91,7 @@ for i  in range(df.shape[0]):
 <link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
 
   <link rel="alternate" type="application/rss+xml" title="Belarusian Arabic script" href="https://bh.seveleu.com/feed.xml" /><style>#s{{font-size:132%;color:cadetblue;font-style: italic;}}</style>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
 <script type="text/javascript">
 document.onkeydown = function(evt) {{
     evt = evt || window.event;
