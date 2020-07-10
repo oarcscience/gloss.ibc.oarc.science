@@ -90,7 +90,7 @@ for i  in range(df.shape[0]):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" href="/assets/img/favicon.png"/>
 
-<title>Strong's lexeme """+df.iloc[i,0][1:]+""" — Westminster Leningrad Codex for Linguists</title>
+<title>"""+beautify_title(df.iloc[i,22])+" — "+df.iloc[i,2]+" «"+plur_linear(df.iloc[i,20])+"» (Strong's "+df.iloc[i,0][1:]+""" )— Biblical Hebrew for Linguists</title>
 <meta name="description" content=""""+df.iloc[i,7]+"""">
 
 <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
@@ -101,9 +101,7 @@ for i  in range(df.shape[0]):
 <link rel="stylesheet" type="text/css" href="/css/tufte.css">
 <link rel="stylesheet" type="text/css" href="/css/print.css" media="print">
 
-<!---  <link rel="canonical" href="https://bh.seveleu.com/16"> ---->
-
-  <link rel="alternate" type="application/rss+xml" title="Belarusian Arabic script" href="https://bh.seveleu.com/feed.xml" /><style>#s{font-size:132%;color:cadetblue;font-style: italic;}</style>
+  <link rel="alternate" type="application/rss+xml" title=" """+beautify_title(df.iloc[i,22])+" — "+df.iloc[i,2]+" «"+plur_linear(df.iloc[i,20])+"» (Strong's "+df.iloc[i,0][1:]+""" )— Biblical Hebrew for Linguists" href="https://bh.seveleu.com/feed.xml" /><style>#s{font-size:132%;color:cadetblue;font-style: italic;}</style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
 <script type="text/javascript">
 document.onkeydown = function(evt) {
@@ -140,9 +138,7 @@ document.onkeydown = function(evt) {
 <p><span style="color: rgba(0, 0, 0, 0.75)">Etymology:</span> {}""".format(df.iloc[i,15])+wrapper(""" | <span style="color: rgba(0, 0, 0, 0.75)">Roots:</span> {} """, wrapper2("""
 <a class="shadow" href="/w/{}"><span id="bh">{}</span></a>""", stn(df.iloc[i,8] ), df.iloc[i,9])+wrapper2("""
 <a class="shadow" href="/w/{}"><span id="bh">{}</span></a>""", stn(df.iloc[i,10]), df.iloc[i,11])+wrapper2("""
-<a class="shadow" href="/w/{}"><span id="bh">{}</span></a>""", stn(df.iloc[i,12]), df.iloc[i,13]))+wrapper("""
- | In another language: {}  
-""", wrapper("""<strong><span id="bh">{}</span></strong> """, df.iloc[i,6]))+wrapper("""({})""", stn(df.iloc[i,7]))+wrapper(""" | <span style="color: rgba(0, 0, 0, 0.75)">Variants:</span> {}
+<a class="shadow" href="/w/{}"><span id="bh">{}</span></a>""", stn(df.iloc[i,12]), df.iloc[i,13]))+wrapper("""({})""", stn(df.iloc[i,7]))+wrapper(""" | <span style="color: rgba(0, 0, 0, 0.75)">Variants:</span> {}
 """, df.iloc[i,18])+wrapper(""" | <span style="color: rgba(0, 0, 0, 0.75)">Morphology:</span> {} """, plur_linear(df.iloc[i,19]))+wrapper("""</p><p>{}</p>
 """, plur_vertical(df.iloc[i,21]))+"""
 
@@ -171,7 +167,7 @@ with open("../lexicon.html","w+") as fout:
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" href="/assets/img/favicon.png"/>
 
-<title>Westminster Leningrad Codex for Linguists</title>
+<title>Biblical Hebrew for Linguists</title>
 <meta name="description" content="Biblical Hebrew samples for linguists. Strong's lexicon">
 
 <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
@@ -184,7 +180,7 @@ with open("../lexicon.html","w+") as fout:
 
 <!---  <link rel="canonical" href="https://bh.seveleu.com/16"> ---->
 
-  <link rel="alternate" type="application/rss+xml" title="Belarusian Arabic script" href="https://bh.seveleu.com/feed.xml" /><style>span#toc{padding: 9px;padding-left: 0px;display:inline-block;}</style>
+  <link rel="alternate" type="application/rss+xml" title="Biblical Hebrew for Linguists" href="https://bh.seveleu.com/feed.xml" /><style>span#toc{padding: 9px;padding-left: 0px;display:inline-block;}</style>
 </head>
 
 <body>
