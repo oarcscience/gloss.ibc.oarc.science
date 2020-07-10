@@ -140,7 +140,7 @@ document.onkeydown = function(evt) {
 <a class="shadow" href="/w/{}"><span id="bh">{}</span></a>""", stn(df.iloc[i,10]), df.iloc[i,11])+wrapper2("""
 <a class="shadow" href="/w/{}"><span id="bh">{}</span></a>""", stn(df.iloc[i,12]), df.iloc[i,13]))+wrapper("""({})""", stn(df.iloc[i,7]))+wrapper(""" | <span style="color: rgba(0, 0, 0, 0.75)">Variants:</span> {}
 """, df.iloc[i,18])+wrapper(""" | <span style="color: rgba(0, 0, 0, 0.75)">Morphology:</span> {} """, plur_linear(df.iloc[i,19]))+wrapper("""</p><p>{}</p>
-""", plur_vertical(df.iloc[i,21]))+"""
+""", """<span style="font-family: sans-serif;font-weight: bold;">"""+beautify_title(df.iloc[i,22])+"</span>"+plur_vertical(df.iloc[i,21]))+"""
 
 </article>
 

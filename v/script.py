@@ -80,7 +80,7 @@ for i  in range(df.shape[0]):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="icon" type="image/png" href="/assets/img/favicon.png"/>
 
-<title>{} {}:{}— Biblical Hebrew for Linguists</title>
+<title>{} {}:{} — Biblical Hebrew for Linguists</title>
 <meta name="description" content="{}">
 
 <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
