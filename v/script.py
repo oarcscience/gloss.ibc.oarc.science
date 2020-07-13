@@ -85,7 +85,7 @@ joncture["prevlevel"]=joncture["prev"].apply(lambda x: cdic[x])
 
 print("3...")
 
-words=joncture.groupby(["WLCverse","curr","pnum"])["trans1"].apply(" ".join)
+trans1=joncture.groupby(["WLCverse","curr","pnum"])["trans1"].apply(" ".join)
 print("3...")
 ptyp=joncture.groupby(["WLCverse","curr","pnum"])["ptyp"].first()
 print("3...")
@@ -95,24 +95,24 @@ curr=joncture.groupby(["WLCverse","curr"])["ctype"].first()
 print("5...")
 ckind=joncture.groupby(["WLCverse","curr"])["ckind"].first()
 print("6...")
-joinedt=pd.DataFrame(words).merge(ptyp,left_index=True,right_index=True).merge(pfunction,left_index=True,right_index=True)
+joinedt=pd.DataFrame(trans1).merge(ptyp,left_index=True,right_index=True).merge(pfunction,left_index=True,right_index=True)
 print("7...")
 
 ptyp_dic={"<det>Demonstrative pronoun phrase</det>, <prela>Resumption</prela>":"(det) Demonstrative pronoun phrase; (prela) Resumption", "<det>Demonstrative pronoun phrase</det>":"(det) Demonstrative pronoun phrase", "<det>Nominal phrase</det>, <prela>Predicative adjunct</prela>":"(det) Nominal phrase; (prela) Predicative adjunct", "<det>Nominal phrase</det>, <prela>Resumption</prela>":"(det) Nominal phrase; (prela) Resumption", "<det>Nominal phrase</det>":"(det) Nominal phrase", "<det>Personal pronoun phrase</det>, <prela>Resumption</prela>":"(det) Personal pronoun phrase; (prela) Resumption", "<det>Personal pronoun phrase</det>":"(det) Personal pronoun phrase", "<det>Prepositional phrase</det>, <prela>Predicative adjunct</prela>":"(det) Prepositional phrase; (prela) Predicative adjunct", "<det>Prepositional phrase</det>, <prela>Resumption</prela>":"(det) Prepositional phrase; (prela) Resumption", "<det>Prepositional phrase</det>":"(det) Prepositional phrase", "<det>Proper-noun phrase</det>, <prela>Resumption</prela>":"(det) Proper-noun phrase; (prela) Resumption", "<det>Proper-noun phrase</det>":"(det) Proper-noun phrase", "<undet>Interrogative pronoun phrase</undet>, <prela>Resumption</prela>":"(undet) Interrogative pronoun phrase; (prela) Resumption", "<undet>Interrogative pronoun phrase</undet>":"(undet) Interrogative pronoun phrase", "<undet>Nominal phrase</undet>, <prela>Predicative adjunct</prela>":"(undet) Nominal phrase; (prela) Predicative adjunct", "<undet>Nominal phrase</undet>, <prela>Resumption</prela>":"(undet) Nominal phrase; (prela) Resumption", "<undet>Nominal phrase</undet>":"(undet) Nominal phrase", "<undet>Prepositional phrase</undet>, <prela>Predicative adjunct</prela>":"(undet) Prepositional phrase; (prela) Predicative adjunct", "<undet>Prepositional phrase</undet>":"(undet) Prepositional phrase", "Adjective phrase, <prela>Predicative adjunct</prela>":"Adjective phrase; (prela) Predicative adjunct", "Adjective phrase":"Adjective phrase", "Adverbial phrase, <prela>Resumption</prela>":"Adverbial phrase; (prela) Resumption", "Adverbial phrase":"Adverbial phrase", "Conjunctive phrase, <prela>Resumption</prela>":"Conjunctive phrase; (prela) Resumption", "Conjunctive phrase":"Conjunctive phrase", "Interjectional phrase, <prela>Resumption</prela>":"Interjectional phrase; (prela) Resumption", "Interjectional phrase":"Interjectional phrase", "Interrogative phrase, <prela>Resumption</prela>":"Interrogative phrase; (prela) Resumption", "Interrogative phrase":"Interrogative phrase", "Negative phrase, <prela>Resumption</prela>":"Negative phrase; (prela) Resumption", "Negative phrase":"Negative phrase", "Prepositional phrase, <prela>Resumption</prela>":"Prepositional phrase; (prela) Resumption", "Prepositional phrase":"Prepositional phrase", "Verbal phrase, <prela>Resumption</prela>":"Verbal phrase; (prela) Resumption", "Verbal phrase":"Verbal phrase"}
 
-templatep="""<span id="word"><ol class=word><li lang=he><a href="/w/" target="_blank">{}</a></li><li title="" lang=en_MORPH>{}<span style="font-variant:small-caps;font-size:114%;"></span></li><li lang=en_MORPH><sup style="color: lightgray;"></sup>{}</li></ol></span>"""
+templatep="""<span id="word"><ol id="{}" class="word"><li lang=he><a href="/w/" target="_blank">{}</a></li><li title="" lang=en_MORPH>{}<span style="font-variant:small-caps;font-size:114%;"></span></li><li lang=en_MORPH><sup style="color: lightgray;"></sup>{}</li></ol></span><connection from="#{}" to="#{}" tail></connection>"""
 
 def generateqtree(s):
-    return templatep.format(ptyp_dic[s["ptyp"]],s["pfunction"],s["trans1"])
+    return templatep.format(s.name[2], ptyp_dic[s["ptyp"]],s["pfunction"],s["trans1"],s.name[2],s.name[1])
 
 phrasesjoinedt=joinedt.apply(generateqtree,axis=1).groupby(["WLCverse","curr"]).apply(" ".join)
 
 print("8...")
-templatec="""<div class=wrapper><h4 style="text-align:center;">{}</h4><h5 style="text-align:center;">{}</h5><ol class=sentence>{}</ol></div>"""
+templatec="""<div id="{}" class=wrapper><h4 style="text-align:center;">{}</h4><h5 style="text-align:center;">{}</h5><ol class=sentence>{}</ol></div>"""
 
 
 def generateqtree2(s):
-    return templatec.format(s["ckind"],s["clausefunction"],s["phrasesjoined"])
+    return templatec.format(s.name[1], s["ckind"],s["clausefunction"],s["phrasesjoined"])
 
 groupedbyverse=pd.DataFrame({'phrasesjoined':phrasesjoinedt , 'clausefunction':curr, 'ckind':ckind }).apply(generateqtree2,axis=1).groupby("WLCverse").apply(" ".join)
 
@@ -126,7 +126,7 @@ print("Done.")
 books=["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "Isaiah", "Jeremiah", "Ezekiel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi", "Psalms", "Proverbs", "Job", "Song of Songs", "Ruth", "Lamentations", "Ecclesiastes", "Esther", "Daniel", "Ezra", "Nehemiah", "1 Chronicles", "2 Chronicles"]
 
 
-for i  in range(df.shape[0]):
+for i  in range(df.shape[0])[:200]:
     if i%100==0:
         print('Generating verses: {:.0%}'.format(i/df.shape[0]),"\r",end="")    
    
@@ -141,6 +141,7 @@ for i  in range(df.shape[0]):
 <meta name="description" content="{}">
 
 <!-- Google Fonts loaded here depending on setting in _data/options.yml true loads font, blank does not-->
+<link rel="stylesheet" type="text/css" href="../css/domarrow.css" />
 <link href='//fonts.googleapis.com/css?family=Lato:400,400italic&amp;subset=cyrillic,latin-ext' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=EB+Garamond:400,400italic&amp;subset=cyrillic,latin-ext' rel='stylesheet' type='text/css'>
 
@@ -149,6 +150,7 @@ for i  in range(df.shape[0]):
 
   <link rel="alternate" type="application/rss+xml" title="Biblical Hebrew for Linguists" href="https://bh.seveleu.com/feed.xml" /><style>#s{{font-size:132%;color:cadetblue;font-style: italic;}}</style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+<script type="text/javascript" src="../css/domarrow.js"></script>
 <script type="text/javascript">
 document.onkeydown = function(evt) {{
     evt = evt || window.event;
