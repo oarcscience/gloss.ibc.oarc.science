@@ -53,50 +53,9 @@ glosstr0["zip"]=glosstr0.apply(lambda x: zip(*[x[col] for col in collist]),axis=
 template1="""<span id="word"><ol class=word><li lang=he><a href="/w/{}" target="_blank">{}</a></li><li title="{}" lang=en_MORPH>{}<span style="font-variant:small-caps;font-size:114%;">{}</span></li><li lang=en_MORPH><sup style="color: lightgray;">{}</sup>{}</li></ol></span>"""
 glosstr0["generated"]=glosstr0["zip"].apply(lambda y: "".join([template1.format(strn[1:],beautify(trs1),hover(mor),gl,morph(mor),(lambda x: int(float(x)) if x!=" " else "")(bsbs),bsb) for strn,trs1,mor,gl,bsbs,bsb in  y ]))
 
-#################################
-# Generate syntactic structures #
-#################################
-
-print("Generating syntactic structures...")
-cdata = pd.read_csv("../_data/syntax/BHSA-clause-data-cleared.csv",sep="\t")
-pdata = pd.read_csv("../_data/syntax/BHSA-phrase-data-cleared.csv",sep="\t")
-ldata = pd.read_csv("../_data/syntax/clause-phrase-start-end.csv",sep="\t")
-support = pd.read_csv("../_data/byword.csv",sep="\t",usecols=["BHSsort", "WLCverse", "BHS", "gloss", "morphology", "trans1"])
-
-print("1...")
-joncture=support.merge(ldata,left_index=True, right_index=True).merge(pdata,how='left').merge(cdata,how='left')
-cols_propag=["pnum", "ptyp", "pfunction", "cloc", "cstruct", "ckind", "ctype", "crela"]
-joncture[cols_propag]=joncture[cols_propag].fillna(method="ffill")
-cols_void=["trans1"]
-joncture[cols_void]=joncture[cols_void].fillna("")
-
-def dotsplit(s):
-    if not "." in  s: return [s,""];
-    else: return s.split(".")
-
-print("2...")
-
-joncture["curr"]=joncture["cloc"].apply(dotsplit).apply(lambda x: x[0])
-joncture["prev"]=joncture["cloc"].apply(dotsplit).apply(lambda x: x[1])
-joncture["level"]=joncture["cstruct"].apply(len)
-cdic=dict(zip(joncture["curr"], joncture["level"]))
-cdic[""]=0
-joncture["prevlevel"]=joncture["prev"].apply(lambda x: cdic[x])
-
-print("3...")
-
-trans1=joncture.groupby(["WLCverse","curr","pnum"])["trans1"].apply(" ".join)
-print("3...")
-ptyp=joncture.groupby(["WLCverse","curr","pnum"])["ptyp"].first()
-print("3...")
-pfunction=joncture.groupby(["WLCverse","curr","pnum"])["pfunction"].first()
-print("4...")
-curr=joncture.groupby(["WLCverse","curr"])["ctype"].first()
-print("5...")
-ckind=joncture.groupby(["WLCverse","curr"])["ckind"].first()
-print("6...")
-joinedt=pd.DataFrame(trans1).merge(ptyp,left_index=True,right_index=True).merge(pfunction,left_index=True,right_index=True)
-print("7...")
+joinedt=pd.read_csv("../_data/syntax/syntax.csv",index_col=[0,1,2])
+curr=pd.read_csv("../_data/syntax/curr.csv",index_col=[0,1])["ctype"]
+ckind=pd.read_csv("../_data/syntax/ckind.csv",index_col=[0,1])["ckind"]
 
 ptyp_dic={"<det>Demonstrative pronoun phrase</det>, <prela>Resumption</prela>":"(det) Demonstrative pronoun phrase; (prela) Resumption", "<det>Demonstrative pronoun phrase</det>":"(det) Demonstrative pronoun phrase", "<det>Nominal phrase</det>, <prela>Predicative adjunct</prela>":"(det) Nominal phrase; (prela) Predicative adjunct", "<det>Nominal phrase</det>, <prela>Resumption</prela>":"(det) Nominal phrase; (prela) Resumption", "<det>Nominal phrase</det>":"(det) Nominal phrase", "<det>Personal pronoun phrase</det>, <prela>Resumption</prela>":"(det) Personal pronoun phrase; (prela) Resumption", "<det>Personal pronoun phrase</det>":"(det) Personal pronoun phrase", "<det>Prepositional phrase</det>, <prela>Predicative adjunct</prela>":"(det) Prepositional phrase; (prela) Predicative adjunct", "<det>Prepositional phrase</det>, <prela>Resumption</prela>":"(det) Prepositional phrase; (prela) Resumption", "<det>Prepositional phrase</det>":"(det) Prepositional phrase", "<det>Proper-noun phrase</det>, <prela>Resumption</prela>":"(det) Proper-noun phrase; (prela) Resumption", "<det>Proper-noun phrase</det>":"(det) Proper-noun phrase", "<undet>Interrogative pronoun phrase</undet>, <prela>Resumption</prela>":"(undet) Interrogative pronoun phrase; (prela) Resumption", "<undet>Interrogative pronoun phrase</undet>":"(undet) Interrogative pronoun phrase", "<undet>Nominal phrase</undet>, <prela>Predicative adjunct</prela>":"(undet) Nominal phrase; (prela) Predicative adjunct", "<undet>Nominal phrase</undet>, <prela>Resumption</prela>":"(undet) Nominal phrase; (prela) Resumption", "<undet>Nominal phrase</undet>":"(undet) Nominal phrase", "<undet>Prepositional phrase</undet>, <prela>Predicative adjunct</prela>":"(undet) Prepositional phrase; (prela) Predicative adjunct", "<undet>Prepositional phrase</undet>":"(undet) Prepositional phrase", "Adjective phrase, <prela>Predicative adjunct</prela>":"Adjective phrase; (prela) Predicative adjunct", "Adjective phrase":"Adjective phrase", "Adverbial phrase, <prela>Resumption</prela>":"Adverbial phrase; (prela) Resumption", "Adverbial phrase":"Adverbial phrase", "Conjunctive phrase, <prela>Resumption</prela>":"Conjunctive phrase; (prela) Resumption", "Conjunctive phrase":"Conjunctive phrase", "Interjectional phrase, <prela>Resumption</prela>":"Interjectional phrase; (prela) Resumption", "Interjectional phrase":"Interjectional phrase", "Interrogative phrase, <prela>Resumption</prela>":"Interrogative phrase; (prela) Resumption", "Interrogative phrase":"Interrogative phrase", "Negative phrase, <prela>Resumption</prela>":"Negative phrase; (prela) Resumption", "Negative phrase":"Negative phrase", "Prepositional phrase, <prela>Resumption</prela>":"Prepositional phrase; (prela) Resumption", "Prepositional phrase":"Prepositional phrase", "Verbal phrase, <prela>Resumption</prela>":"Verbal phrase; (prela) Resumption", "Verbal phrase":"Verbal phrase"}
 
@@ -105,23 +64,29 @@ templatep="""<span id="{}"><ol class="word"><li lang=he><a href="/w/" target="_b
 def generateqtree(s):
     return templatep.format(s.name[2], ptyp_dic[s["ptyp"]],s["pfunction"],s["trans1"],s.name[2],s.name[1])
 
+print("Generating syntax info...")
+
 phrasesjoinedt=joinedt.apply(generateqtree,axis=1).groupby(["WLCverse","curr"]).apply(" ".join)
 
-print("8...")
+
 templatec="""<div id="{}" class=wrapper><h4 style="text-align:center;">{}</h4><h5 style="text-align:center;">{}</h5><ol class=sentence>{}</ol></div>"""
 
 
 def generateqtree2(s):
     return templatec.format(s.name[1], s["ckind"],s["clausefunction"],s["phrasesjoined"])
 
+print("Generating syntax info 2 ...")
+
+
+
 groupedbyverse=pd.DataFrame({'phrasesjoined':phrasesjoinedt , 'clausefunction':curr, 'ckind':ckind }).apply(generateqtree2,axis=1).groupby("WLCverse").apply(" ".join)
 
-print("9...")
+print("Done.")
 ###############################
 ## End of syntax generation ###
 ###############################
 
-print("Done.")
+
 
 books=["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "Isaiah", "Jeremiah", "Ezekiel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi", "Psalms", "Proverbs", "Job", "Song of Songs", "Ruth", "Lamentations", "Ecclesiastes", "Esther", "Daniel", "Ezra", "Nehemiah", "1 Chronicles", "2 Chronicles"]
 
