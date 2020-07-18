@@ -1,0 +1,770 @@
+index	transLemma	hebLemma	internalOrd	subheader	header	headerNumber	StrongNo
+1	eat	אָכַל	1	Verbs occurring 500-5000 times	Verbs	1	398
+2	say	אָמַר	2	Verbs occurring 500-5000 times	Verbs	1	559
+3	enter, come	בּוֹא	3	Verbs occurring 500-5000 times	Verbs	1	935
+4	speak (Pi.)	דִּבֶּר	4	Verbs occurring 500-5000 times	Verbs	1	1696
+5	be, become	הָיָה	5	Verbs occurring 500-5000 times	Verbs	1	1961
+6	go, walk	הָלַך	6	Verbs occurring 500-5000 times	Verbs	1	1980
+7	know	יָדַע	7	Verbs occurring 500-5000 times	Verbs	1	3045
+8	bring forth	יָלַד	8	Verbs occurring 500-5000 times	Verbs	1	3205
+9	go out	יָצָא	9	Verbs occurring 500-5000 times	Verbs	1	3318
+10	sit, dwell	יָשַׁב	10	Verbs occurring 500-5000 times	Verbs	1	3427
+11	take, seize	לָקַח	11	Verbs occurring 500-5000 times	Verbs	1	3947
+12	die	מוּת	12	Verbs occurring 500-5000 times	Verbs	1	4191
+13	lift up, carry	נָשָׂא	13	Verbs occurring 500-5000 times	Verbs	1	5375
+14	give	נָתַן	14	Verbs occurring 500-5000 times	Verbs	1	5414
+15	go up	עָלָה	15	Verbs occurring 500-5000 times	Verbs	1	5927
+16	do, make	עָשָׂה	16	Verbs occurring 500-5000 times	Verbs	1	6213
+17	call, meet	קָרָא	17	Verbs occurring 500-5000 times	Verbs	1	7121
+18	see	רָאָה	18	Verbs occurring 500-5000 times	Verbs	1	7200
+19	set, place	שִׂים	19	Verbs occurring 500-5000 times	Verbs	1	7760
+20	turn, return	שׁוּב	20	Verbs occurring 500-5000 times	Verbs	1	7725
+21	stretch out, send	שָׁלַח	21	Verbs occurring 500-5000 times	Verbs	1	7971
+22	hear, listen to	שָׁמַע	22	Verbs occurring 500-5000 times	Verbs	1	8085
+23	love	אָהַב	23	Verbs occurring 200-500 times	Verbs	2	157
+24	gather	אָסַף	24	Verbs occurring 200-500 times	Verbs	2	622
+25	build	בָּנָה	25	Verbs occurring 200-500 times	Verbs	2	1129
+26	Seek (Pi.)	בִּקֵּשׁ	26	Verbs occurring 200-500 times	Verbs	2	1245
+27	Bless (Pi.)	בֵּרַך	27	Verbs occurring 200-500 times	Verbs	2	1288
+28	remember	זָכַר	28	Verbs occurring 200-500 times	Verbs	2	2142
+29	Be strong	חָזַק	29	Verbs occurring 200-500 times	Verbs	2	2388
+30	sin	חָטָא	30	Verbs occurring 200-500 times	Verbs	2	2398
+31	Be alive	חָיָה	31	Verbs occurring 200-500 times	Verbs	2	2421
+32	Be able	יָכֹל	32	Verbs occurring 200-500 times	Verbs	2	3201
+33	add	יָסַף	33	Verbs occurring 200-500 times	Verbs	2	3254
+34	Fear, be afraid	יָרֵא	34	Verbs occurring 200-500 times	Verbs	2	3372
+35	Go down	יָרַד	35	Verbs occurring 200-500 times	Verbs	2	3381
+36	Possess, subdue	יָרַשׁ	36	Verbs occurring 200-500 times	Verbs	2	3423
+37	Help, deliver (Hi.)	ישׁע	37	Verbs occurring 200-500 times	Verbs	2	3467
+38	Be firm	כּוּן	38	Verbs occurring 200-500 times	Verbs	2	3559
+39	cease	כָּלָה	39	Verbs occurring 200-500 times	Verbs	2	3615
+40	Cut off	כָּרַת	40	Verbs occurring 200-500 times	Verbs	2	3772
+41	write	כָּתַב	41	Verbs occurring 200-500 times	Verbs	2	3789
+42	Be full	מָלֵא	42	Verbs occurring 200-500 times	Verbs	2	4390
+43	Be king, reign	מָלַך	43	Verbs occurring 200-500 times	Verbs	2	4427
+44	Find, meet	מָצָא	44	Verbs occurring 200-500 times	Verbs	2	4672
+45	Make known, tell (Hi.)	נגד	45	Verbs occurring 200-500 times	Verbs	2	5046
+46	Stretch out, extend	נָטָה	46	Verbs occurring 200-500 times	Verbs	2	5186
+47	Smite (Hi.)	נכה	47	Verbs occurring 200-500 times	Verbs	2	5221
+48	fall	נָפַל	48	Verbs occurring 200-500 times	Verbs	2	5307
+49	Serve, work	עָבַד	49	Verbs occurring 200-500 times	Verbs	2	5647
+50	Pass, go over	עָבַר	50	Verbs occurring 200-500 times	Verbs	2	5674
+51	stand	עָמַד	51	Verbs occurring 200-500 times	Verbs	2	5975
+52	Answer, reply	עָנָה	52	Verbs occurring 200-500 times	Verbs	2	6031
+53	Visit, number	פָּקַד	53	Verbs occurring 200-500 times	Verbs	2	6485
+54	Command (Pi.)	צִוָּה	54	Verbs occurring 200-500 times	Verbs	2	6680
+55	Rise, stand	קוּם	55	Verbs occurring 200-500 times	Verbs	2	6965
+56	Become great	רָבָה	56	Verbs occurring 200-500 times	Verbs	2	7235
+57	Be high, exalted	רוּם	57	Verbs occurring 200-500 times	Verbs	2	7311
+58	Keep, watch	שָׁמַר	58	Verbs occurring 200-500 times	Verbs	2	8104
+59	drink	שָׁתָה	59	Verbs occurring 200-500 times	Verbs	2	8354
+60	Perish	אָבַד	60	Verbs occurring 100-200 times	Verbs	3	6
+61	Be firm, faithful, believe, trust	אמן	61	Verbs occurring 100-200 times	Verbs	3	539
+62	Be ashamed	בּוֹשׁ	62	Verbs occurring 100-200 times	Verbs	3	954
+63	trust	בָּטַח	63	Verbs occurring 100-200 times	Verbs	3	982
+64	understand	בִּין	64	Verbs occurring 100-200 times	Verbs	3	995
+65	weep	בָּכָה	65	Verbs occurring 100-200 times	Verbs	3	1058
+66	redeem	גָּאַל	66	Verbs occurring 100-200 times	Verbs	3	1350
+67	Be great, strong	גָּדַל	67	Verbs occurring 100-200 times	Verbs	3	1431
+68	sojourn	גּוּר	68	Verbs occurring 100-200 times	Verbs	3	1482
+69	Reveal, uncover	גָּלָה	69	Verbs occurring 100-200 times	Verbs	3	1540
+70	seek	דָּרַשׁ	70	Verbs occurring 100-200 times	Verbs	3	1875
+71	Praise (Pi)	הִלֵּל	71	Verbs occurring 100-200 times	Verbs	3	1985
+72	kill	הָרַג	72	Verbs occurring 100-200 times	Verbs	3	2026
+73	Slaughter, sacrifice	זָבַח	73	Verbs occurring 100-200 times	Verbs	3	2076
+74	Be polluted, begin (Ni)	חלל	74	Verbs occurring 100-200 times	Verbs	3	2490
+75	encamp	חָנָה	75	Verbs occurring 100-200 times	Verbs	3	2583
+76	Think, regard	חָשַׁב	76	Verbs occurring 100-200 times	Verbs	3	2803
+77	Be unclean (ceremonially)	טָמֵא	77	Verbs occurring 100-200 times	Verbs	3	2930
+78	Praise, confess (Hi)	ידה	78	Verbs occurring 100-200 times	Verbs	3	3034
+79	Be good, well	יָטַב	79	Verbs occurring 100-200 times	Verbs	3	3190
+80	Be left, remain (Ni)	יתר	80	Verbs occurring 100-200 times	Verbs	3	3492
+81	Be heavy	כָּבֵד	81	Verbs occurring 100-200 times	Verbs	3	3513
+82	Cover, conceal	כָּסָה	82	Verbs occurring 100-200 times	Verbs	3	3680
+83	Cover, atone	כָּפַר	83	Verbs occurring 100-200 times	Verbs	3	3722
+84	Put on, clothe	לָבֵשׁ	84	Verbs occurring 100-200 times	Verbs	3	3847
+85	fight	לחם	85	Verbs occurring 100-200 times	Verbs	3	3898
+86	Speak or act as a prophet (Ni)	נבא	86	Verbs occurring 100-200 times	Verbs	3	5012
+87	Touch (Ni)	נָגַע	87	Verbs occurring 100-200 times	Verbs	3	5060
+88	approach	נָגַשׁ	88	Verbs occurring 100-200 times	Verbs	3	5066
+89	flee	נוּס	89	Verbs occurring 100-200 times	Verbs	3	5127
+90	Pull out, depart	נָסַע	90	Verbs occurring 100-200 times	Verbs	3	5265
+91	Snatch, deliver	נצל	91	Verbs occurring 100-200 times	Verbs	3	5337
+92	Turn, surround	סָבַב	92	Verbs occurring 100-200 times	Verbs	3	5437
+93	Turn aside (Hi)	סוּר	93	Verbs occurring 100-200 times	Verbs	3	5493
+94	Count, write	סָפַר	94	Verbs occurring 100-200 times	Verbs	3	5608
+95	abandon	עָזַב	95	Verbs occurring 100-200 times	Verbs	3	5800
+96	Turn towards	פָּנָה	96	Verbs occurring 100-200 times	Verbs	3	6437
+97	Collect, assemble	קָבַץ	97	Verbs occurring 100-200 times	Verbs	3	6908
+98	bury	קָבַר	98	Verbs occurring 100-200 times	Verbs	3	6912
+99	Be holy	קָדַשׁ	99	Verbs occurring 100-200 times	Verbs	3	6942
+100	Make to smoke (Pi)	קִטֵּר	100	Verbs occurring 100-200 times	Verbs	3	7002
+101	Come near, approach	קָרַב	101	Verbs occurring 100-200 times	Verbs	3	7126
+102	Pursue, persecute	רָדַף	102	Verbs occurring 100-200 times	Verbs	3	7291
+103	run	רוּץ	103	Verbs occurring 100-200 times	Verbs	3	7323
+104	Feed, tend	רָעָה	104	Verbs occurring 100-200 times	Verbs	3	7462
+105	Be glad, rejoice	שָׁמַח	105	Verbs occurring 100-200 times	Verbs	3	8055
+106	hate	שָׁנֵא	106	Verbs occurring 100-200 times	Verbs	3	8130
+107	burn	שָׂרַף	107	Verbs occurring 100-200 times	Verbs	3	8313
+108	Ask, inquire	שָׁאַל	108	Verbs occurring 100-200 times	Verbs	3	7592
+109	remain	שָׁאַר	109	Verbs occurring 100-200 times	Verbs	3	7604
+110	Swear (Ni)	שׁבע	110	Verbs occurring 100-200 times	Verbs	3	7646
+111	Break in pieces	שָׁבַר	111	Verbs occurring 100-200 times	Verbs	3	7665
+112	Bow down	שָׁחָה	112	Verbs occurring 100-200 times	Verbs	3	7812
+113	Ruin, destroy (Pi)(Hi)	שׁחת	113	Verbs occurring 100-200 times	Verbs	3	7843
+114	Lie down	שָׁכַב	114	Verbs occurring 100-200 times	Verbs	3	7901
+115	forget	שָׁכַח	115	Verbs occurring 100-200 times	Verbs	3	7911
+116	Dwell, settle down	שָׁכֵן	116	Verbs occurring 100-200 times	Verbs	3	7934
+117	Cast, throw (Hi)	שׁלך	117	Verbs occurring 100-200 times	Verbs	3	7993
+118	Be whole, complete	שָׁלֵם	118	Verbs occurring 100-200 times	Verbs	3	7999
+119	judge	שָׁפַט	119	Verbs occurring 100-200 times	Verbs	3	8199
+120	Pour out	שָׁפַך	120	Verbs occurring 100-200 times	Verbs	3	8210
+121	Minister, serve (Pi)	שֵׁרֵת	121	Verbs occurring 100-200 times	Verbs	3	8334
+122	Be willing	אָבָה	122	Verbs occurring 50-100 times	Verbs	4	14
+123	Seize, grasp	אָחַז	123	Verbs occurring 50-100 times	Verbs	4	270
+124	Bind	אָסַר	124	Verbs occurring 50-100 times	Verbs	4	631
+125	Curse	אָרַר	125	Verbs occurring 50-100 times	Verbs	4	779
+126	Choose	בָּחַר	126	Verbs occurring 50-100 times	Verbs	4	977
+127	Swallow	בָּלַע	127	Verbs occurring 50-100 times	Verbs	4	1104
+128	Burn	בָּעַר	128	Verbs occurring 50-100 times	Verbs	4	1197
+129	Split	בָּקַע	129	Verbs occurring 50-100 times	Verbs	4	1234
+130	Creates	בָּרָא	130	Verbs occurring 50-100 times	Verbs	4	1254
+131	Flee	בָּרַח	131	Verbs occurring 50-100 times	Verbs	4	1272
+132	Cling to	דָּבַק	132	Verbs occurring 50-100 times	Verbs	4	1692
+133	Turn, overthrow	הָפַך	133	Verbs occurring 50-100 times	Verbs	4	2015
+134	Commit fornication	זָנָה	134	Verbs occurring 50-100 times	Verbs	4	2181
+135	Cry out	זָעַק	135	Verbs occurring 50-100 times	Verbs	4	2199
+136	Sow	זָרַע	136	Verbs occurring 50-100 times	Verbs	4	2232
+137	Cease	חָדַל	137	Verbs occurring 50-100 times	Verbs	4	2308
+138	Writhe, tremble	חוּל חִילּ	138	Verbs occurring 50-100 times	Verbs	4	2342
+139	See, gaze at	חָזָה	139	Verbs occurring 50-100 times	Verbs	4	2372
+140	Be sick or weak	חָלָה	140	Verbs occurring 50-100 times	Verbs	4	2470
+141	Divide	חָלַק	141	Verbs occurring 50-100 times	Verbs	4	2505
+142	Be gracious, favor	חָנַן	142	Verbs occurring 50-100 times	Verbs	4	2603
+143	Delight, take please in	חָפֵץ	143	Verbs occurring 50-100 times	Verbs	4	2654
+144	Be angry, burn	חָרָה	144	Verbs occurring 50-100 times	Verbs	4	2734
+145	Devote, destroy (Hi)	הרם	145	Verbs occurring 50-100 times	Verbs	4	2036
+146	Plow, engrave	חָרַשׁ	146	Verbs occurring 50-100 times	Verbs	4	2790
+147	Be shattered, terrified	חָתַת	147	Verbs occurring 50-100 times	Verbs	4	2865
+148	Be clean	טָהֵר	148	Verbs occurring 50-100 times	Verbs	4	2891
+149	Be dry	יָבֵשׁ	149	Verbs occurring 50-100 times	Verbs	4	3001
+150	Reprove (Hi)	יכח	150	Verbs occurring 50-100 times	Verbs	4	3198
+151	Advise	יָעַץ	151	Verbs occurring 50-100 times	Verbs	4	3289
+152	Pour out	יָצַק	152	Verbs occurring 50-100 times	Verbs	4	3332
+153	Form, shape	יָצַר	153	Verbs occurring 50-100 times	Verbs	4	3334
+154	Cast, teach	יָרָה	154	Verbs occurring 50-100 times	Verbs	4	3384
+155	Wash, clean (Pi)	כִּבֶּס	155	Verbs occurring 50-100 times	Verbs	4	3526
+156	Be discontent	כָּעַס	156	Verbs occurring 50-100 times	Verbs	4	3707
+157	Stumble	כָּשַׁל	157	Verbs occurring 50-100 times	Verbs	4	3782
+158	Spend the night	לוּן לִין	158	Verbs occurring 50-100 times	Verbs	4	3885
+159	Seize, capture	לָכַד	159	Verbs occurring 50-100 times	Verbs	4	3920
+160	Learn	לָמַד	160	Verbs occurring 50-100 times	Verbs	4	3925
+161	Reject, refuse	מָאַס	161	Verbs occurring 50-100 times	Verbs	4	3988
+162	Measure	מָדַד	162	Verbs occurring 50-100 times	Verbs	4	4058
+163	Hasten (Pi)	מִהַר	163	Verbs occurring 50-100 times	Verbs	4	4116
+164	Sell	מָכַר	164	Verbs occurring 50-100 times	Verbs	4	4376
+165	Escape (Ni), save (Pi)	מלט	165	Verbs occurring 50-100 times	Verbs	4	4422
+166	Anoint	מָשַׁח	166	Verbs occurring 50-100 times	Verbs	4	4886
+167	Rule	מָשַׁל	167	Verbs occurring 50-100 times	Verbs	4	4910
+168	Look (Hi)	נבט	168	Verbs occurring 50-100 times	Verbs	4	5027
+169	Drive out, scatter (Ni) (Hi)	נדח	169	Verbs occurring 50-100 times	Verbs	4	5080
+170	Rest	נוּחַ	170	Verbs occurring 50-100 times	Verbs	4	5117
+171	Possess, inherit	נָחַל	171	Verbs occurring 50-100 times	Verbs	4	5157
+172	Plant	נָטַע	172	Verbs occurring 50-100 times	Verbs	4	5193
+173	Be strange, noticed, known (Hi) (Ni)	נכר	173	Verbs occurring 50-100 times	Verbs	4	5234
+174	Set up, erect (Hi) (Ni)	נצב	174	Verbs occurring 50-100 times	Verbs	4	5324
+175	Lead, direct (Pi)	נִצַּח	175	Verbs occurring 50-100 times	Verbs	4	5329
+176	Keep, watch	נָצַר	176	Verbs occurring 50-100 times	Verbs	4	5341
+177	Reach, overtake (Hi)	נשׂג	177	Verbs occurring 50-100 times	Verbs	4	5381
+178	Shut, close	סָגַר	178	Verbs occurring 50-100 times	Verbs	4	5462
+179	Conceal, hide (Ni)	סתר	179	Verbs occurring 50-100 times	Verbs	4	5641
+180	awake, arouse (Hi)	עוּר	180	Verbs occurring 50-100 times	Verbs	4	5782
+181	Help	עָזַר	181	Verbs occurring 50-100 times	Verbs	4	5826
+182	Be afflicted	עָנָה	182	Verbs occurring 50-100 times	Verbs	4	6031
+183	Arrange, set in order	עַָרַך	183	Verbs occurring 50-100 times	Verbs	4	6186
+184	Redeem, ransom	פָּדָה	184	Verbs occurring 50-100 times	Verbs	4	6299
+185	Scatter, disperse	פּוּץ	185	Verbs occurring 50-100 times	Verbs	4	6327
+186	Separate, be wonderful (Pi)(Hi)(Ni)	פלא	186	Verbs occurring 50-100 times	Verbs	4	6381
+187	Pray (Hith)	פלל	187	Verbs occurring 50-100 times	Verbs	4	6419
+188	Do, make	פָּעַל	188	Verbs occurring 50-100 times	Verbs	4	6466
+189	separate	פָּרַד	189	Verbs occurring 50-100 times	Verbs	4	6504
+190	Spread out	פָּרַשׂ	190	Verbs occurring 50-100 times	Verbs	4	6566
+191	Succeed, prosper	צָלַח	191	Verbs occurring 50-100 times	Verbs	4	6743
+192	Cry out	צָעַק	192	Verbs occurring 50-100 times	Verbs	4	6817
+193	Watch, overlay	צָפָה	193	Verbs occurring 50-100 times	Verbs	4	6822
+194	Be distressed, bound	צָרַר	194	Verbs occurring 50-100 times	Verbs	4	6887
+195	Be light, of no account	קַל(ל)	195	Verbs occurring 50-100 times	Verbs	4	7043
+196	Acquire, buy	קָנָה	196	Verbs occurring 50-100 times	Verbs	4	7069
+197	tear	קָרַע	197	Verbs occurring 50-100 times	Verbs	4	7167
+198	Love, have compassion	רָחַם	198	Verbs occurring 50-100 times	Verbs	4	7355
+199	Wash	רָחַץ	199	Verbs occurring 50-100 times	Verbs	4	7364
+200	Be far off	רָחַק	200	Verbs occurring 50-100 times	Verbs	4	7368
+201	Contend, conduct a legal case	רִיב	201	Verbs occurring 50-100 times	Verbs	4	7378
+202	Ride	רָכַב	202	Verbs occurring 50-100 times	Verbs	4	7392
+203	Cry out for joy	רָנַן	203	Verbs occurring 50-100 times	Verbs	4	7442
+204	Be bad	רַע(ע)	204	Verbs occurring 50-100 times	Verbs	4	7465
+205	Heal	רָפָא	205	Verbs occurring 50-100 times	Verbs	4	7498
+206	Be pleased	רָצָה	206	Verbs occurring 50-100 times	Verbs	4	7521
+207	Have enough	שָׂבַע	207	Verbs occurring 50-100 times	Verbs	4	7646
+208	(Hi.) Comprehend, prosper	שׂכל	208	Verbs occurring 50-100 times	Verbs	4	7919
+209	Cease, rest	שָׁבַת	209	Verbs occurring 50-100 times	Verbs	4	7673
+210	Devastate	שָׁדַד	210	Verbs occurring 50-100 times	Verbs	4	7703
+211	slaughter	שָׁחַט	211	Verbs occurring 50-100 times	Verbs	4	7819
+212	Sing	שִׁיר	212	Verbs occurring 50-100 times	Verbs	4	7891
+213	Put, set	שִׁית	213	Verbs occurring 50-100 times	Verbs	4	7896
+214	(Hi.) Rise early	שׁכם	214	Verbs occurring 50-100 times	Verbs	4	7925
+215	(Ni. Hi.) Destroy	שׁמד	215	Verbs occurring 50-100 times	Verbs	4	8045
+216	Be desolate, appalled	שָׁמַם	216	Verbs occurring 50-100 times	Verbs	4	8074
+217	(Hi.) Give to drink	שׁקה	217	Verbs occurring 50-100 times	Verbs	4	8248
+218	Be complete	תָּמַם	218	Verbs occurring 50-100 times	Verbs	4	8552
+219	Catch, seize	תָּפַשׂ	219	Verbs occurring 50-100 times	Verbs	4	8610
+220	Strike, drive, blow (a trumpet)	תָּקַע	220	Verbs occurring 50-100 times	Verbs	4	8628
+221	Mourn	אָבַל	221	Verbs occurring 25-50 times	Verbs	5	56
+222	Long for, wish for, desire (Pi) (Hith)	אוה	222	Verbs occurring 25-50 times	Verbs	5	183
+223	Shine, be light	אוֹר	223	Verbs occurring 25-50 times	Verbs	5	215
+224	Listen (Hi)	אזן	224	Verbs occurring 25-50 times	Verbs	5	238
+225	Be firm, strong	אָמַץ	225	Verbs occurring 25-50 times	Verbs	5	553
+226	Bake	אָפָה	226	Verbs occurring 25-50 times	Verbs	5	644
+227	Lie in ambush	אָרַב	227	Verbs occurring 25-50 times	Verbs	5	693
+228	Be long	אָרַך	228	Verbs occurring 25-50 times	Verbs	5	748
+229	Be guilty	אָשַׁם	229	Verbs occurring 25-50 times	Verbs	5	816
+230	Act treacherously	בָּגַד	230	Verbs occurring 25-50 times	Verbs	5	898
+231	Divide, separate (Hi)(Ni)	בּדל	231	Verbs occurring 25-50 times	Verbs	5	914
+232	Be terrified, hasten (Ni)	בּהל	232	Verbs occurring 25-50 times	Verbs	5	926
+233	Despise	בָּזָה	233	Verbs occurring 25-50 times	Verbs	5	959
+234	Plunder	בָּזַז	234	Verbs occurring 25-50 times	Verbs	5	962
+235	Try, examine	בָּחַן	235	Verbs occurring 25-50 times	Verbs	5	974
+236	Mix, confound	בָּלַל	236	Verbs occurring 25-50 times	Verbs	5	1101
+237	Cut off, fortify	בָּצַר	237	Verbs occurring 25-50 times	Verbs	5	1219
+238	Boil	בָּשַׁל	238	Verbs occurring 25-50 times	Verbs	5	1310
+239	Be high, exalted	גָּבַהּ	239	Verbs occurring 25-50 times	Verbs	5	1361
+240	Tear away, rob	גָּזַל	240	Verbs occurring 25-50 times	Verbs	5	1497
+241	Exult, triumph over	גִּיל	241	Verbs occurring 25-50 times	Verbs	5	1523
+242	Deal fully, render to	גָּמַל	242	Verbs occurring 25-50 times	Verbs	5	1580
+243	Steal	גָּנַב	243	Verbs occurring 25-50 times	Verbs	5	1589
+244	Drive out	גָּרַשׁ	244	Verbs occurring 25-50 times	Verbs	5	1644
+245	Be like, be silent	דָּמָה	245	Verbs occurring 25-50 times	Verbs	5	1819
+246	Be silent	דָּמַם	246	Verbs occurring 25-50 times	Verbs	5	1826
+247	Mutter, meditate	הָגָה	247	Verbs occurring 25-50 times	Verbs	5	1897
+248	Make noise	הָמָה	248	Verbs occurring 25-50 times	Verbs	5	1993
+249	Conceive, be pregnant	הָרָה	249	Verbs occurring 25-50 times	Verbs	5	2029
+250	Break, tear down	הָרַס	250	Verbs occurring 25-50 times	Verbs	5	2040
+251	Flow	זוּב	251	Verbs occurring 25-50 times	Verbs	5	2100
+252	Sing with instrumental accompaniment (Pi)	זִמֵּר	252	Verbs occurring 25-50 times	Verbs	5	2167
+253	Be old	זָקֵן	253	Verbs occurring 25-50 times	Verbs	5	2204
+254	Scatter, winnow	זָרָה	254	Verbs occurring 25-50 times	Verbs	5	2219
+255	Sprinkle, toss	זָרַק	255	Verbs occurring 25-50 times	Verbs	5	2236
+256	Hide (Ni)	חבא	256	Verbs occurring 25-50 times	Verbs	5	2244
+257	Join, associate	חָבַר	257	Verbs occurring 25-50 times	Verbs	5	2266
+258	Join, associate	חָבַר	257	Verbs occurring 25-50 times	Verbs	5	2266
+259	Bind, gird	חָבַשׁ	258	Verbs occurring 25-50 times	Verbs	5	2280
+260	Bind, gird	חָבַשׁ	258	Verbs occurring 25-50 times	Verbs	5	2280
+261	Gird	חָגַר	259	Verbs occurring 25-50 times	Verbs	5	2296
+262	Gird	חָגַר	259	Verbs occurring 25-50 times	Verbs	5	2296
+263	Be wise, act wisely	חָכַם	260	Verbs occurring 25-50 times	Verbs	5	2449
+264	Be wise, act wisely	חָכַם	260	Verbs occurring 25-50 times	Verbs	5	2449
+265	Dream	חָלַם	261	Verbs occurring 25-50 times	Verbs	5	2492
+266	Dream	חָלַם	261	Verbs occurring 25-50 times	Verbs	5	2492
+267	Pass on, over, or away	חָלַף	262	Verbs occurring 25-50 times	Verbs	5	2498
+268	Pass on, over, or away	חָלַף	262	Verbs occurring 25-50 times	Verbs	5	2498
+269	Strip	חָלַץ	263	Verbs occurring 25-50 times	Verbs	5	2502
+270	Strip	חָלַץ	263	Verbs occurring 25-50 times	Verbs	5	2502
+271	Pity, spare	חָמַל	264	Verbs occurring 25-50 times	Verbs	5	2550
+272	Pity, spare	חָמַל	264	Verbs occurring 25-50 times	Verbs	5	2550
+273	Seek, refuge	חָסָה	265	Verbs occurring 25-50 times	Verbs	5	2620
+274	Seek, refuge	חָסָה	265	Verbs occurring 25-50 times	Verbs	5	2620
+275	Hew, dig	חָצֵב	266	Verbs occurring 25-50 times	Verbs	5	2672
+276	Hew, dig	חָצֵב	266	Verbs occurring 25-50 times	Verbs	5	2672
+277	Search	חָקַר	267	Verbs occurring 25-50 times	Verbs	5	2713
+278	Search	חָקַר	267	Verbs occurring 25-50 times	Verbs	5	2713
+279	Be dried up, be waste	חָרַב	268	Verbs occurring 25-50 times	Verbs	5	2717
+280	Be dried up, be waste	חָרַב	268	Verbs occurring 25-50 times	Verbs	5	2717
+281	Tremble	חָרַד	269	Verbs occurring 25-50 times	Verbs	5	2729
+282	Reproach	חָרַף	270	Verbs occurring 25-50 times	Verbs	5	2778
+283	Withhold	חָשַׂך	271	Verbs occurring 25-50 times	Verbs	5	2820
+284	Seal	חָתַם	272	Verbs occurring 25-50 times	Verbs	5	2856
+285	Be good	טוֹב	273	Verbs occurring 25-50 times	Verbs	5	2895
+286	Hide	טָמַן	274	Verbs occurring 25-50 times	Verbs	5	2934
+287	Tear in pieces	טָרַף	275	Verbs occurring 25-50 times	Verbs	5	2963
+288	Labor, be weary	יָגַע	276	Verbs occurring 25-50 times	Verbs	5	3021
+289	Give	יָהַב	277	Verbs occurring 25-50 times	Verbs	5	3051
+290	Wait (Pi)	יִחֵל	278	Verbs occurring 25-50 times	Verbs	5	3176
+291	Howl (Hi)	ילל	279	Verbs occurring 25-50 times	Verbs	5	3213
+292	Suck	יָנַק	280	Verbs occurring 25-50 times	Verbs	5	3243
+293	Found, establish	יָסַד	281	Verbs occurring 25-50 times	Verbs	5	3245
+294	Admonish, chastise	יָסַר	282	Verbs occurring 25-50 times	Verbs	5	3256
+295	Stand firm (Hith)	יצב	283	Verbs occurring 25-50 times	Verbs	5	3320
+296	Kindle, burn	יָצַת	284	Verbs occurring 25-50 times	Verbs	5	3341
+297	Be straight, right	יָשַׁר	285	Verbs occurring 25-50 times	Verbs	5	3474
+298	Contain, comprehend	כּוּל	286	Verbs occurring 25-50 times	Verbs	5	3557
+299	Hide, conceal (Ni) (Pi)	כּחד	287	Verbs occurring 25-50 times	Verbs	5	3582
+300	Be ashamed, humiliated (Ni)	כּלם	288	Verbs occurring 25-50 times	Verbs	5	3637
+301	Be humbled (Ni)	כּנע	289	Verbs occurring 25-50 times	Verbs	5	3665
+302	Kneel, bow down	כָּרַע	290	Verbs occurring 25-50 times	Verbs	5	3766
+303	Be a spokesman, mock	לוּץ	291	Verbs occurring 25-50 times	Verbs	5	3887
+304	Gather, pick up	לָקַט	292	Verbs occurring 25-50 times	Verbs	5	3950
+305	Refuse (Pi)	מֵאֵן	293	Verbs occurring 25-50 times	Verbs	5	3987
+306	Totter	מוּט	294	Verbs occurring 25-50 times	Verbs	5	4131
+307	Circumcise	מוּל	295	Verbs occurring 25-50 times	Verbs	5	4135
+308	Wipe off, blot out	מָהָה	296	Verbs occurring 25-50 times	Verbs	5	4102
+309	Divide, count	מָנָה	297	Verbs occurring 25-50 times	Verbs	5	4487
+310	Withhold	מָנַע	298	Verbs occurring 25-50 times	Verbs	5	4513
+311	Be unfaithful	מָעַל	299	Verbs occurring 25-50 times	Verbs	5	4603
+312	Rebel, disobey	מָרָה	300	Verbs occurring 25-50 times	Verbs	5	4784
+313	Pull, draw	מָשַׁך	301	Verbs occurring 25-50 times	Verbs	5	4900
+314	Commit adultery	נָאַף	302	Verbs occurring 25-50 times	Verbs	5	5003
+315	Revile	נָאַץ	303	Verbs occurring 25-50 times	Verbs	5	5006
+316	Smite	נָגַף	304	Verbs occurring 25-50 times	Verbs	5	5062
+317	Flee	נָדַד	305	Verbs occurring 25-50 times	Verbs	5	5074
+318	Make a vow	נָדַר	306	Verbs occurring 25-50 times	Verbs	5	5087
+319	Lead, drive	נָהַג	307	Verbs occurring 25-50 times	Verbs	5	5090
+320	Move unsteadily, quiver	נוּעַ	308	Verbs occurring 25-50 times	Verbs	5	5128
+321	Move back and forth, wave (Hi)	נוּף	309	Verbs occurring 25-50 times	Verbs	5	5130
+322	Lead	נָחָה	310	Verbs occurring 25-50 times	Verbs	5	5148
+323	Leave, abandon	נָטַשׁ	311	Verbs occurring 25-50 times	Verbs	5	5203
+324	Try, test (Pi)	נִסּה	312	Verbs occurring 25-50 times	Verbs	5	5254
+325	Pour out	נָסַך	313	Verbs occurring 25-50 times	Verbs	5	5258
+326	Specify, bore, distinguish	נָקַב	314	Verbs occurring 25-50 times	Verbs	5	5344
+327	Be clean, innocent	נָקָה	315	Verbs occurring 25-50 times	Verbs	5	5352
+328	Avenge	נָקַם	316	Verbs occurring 25-50 times	Verbs	5	5358
+329	Kiss	נָשַׁק	317	Verbs occurring 25-50 times	Verbs	5	5401
+330	Break down, destroy	נָתַץ	318	Verbs occurring 25-50 times	Verbs	5	5422
+331	Tear (away)	נָתַק	319	Verbs occurring 25-50 times	Verbs	5	5423
+332	Forgive	סָלַח	320	Verbs occurring 25-50 times	Verbs	5	5545
+333	Support	סָמַך	321	Verbs occurring 25-50 times	Verbs	5	5564
+334	Beat the breast, lament	סָפַד	322	Verbs occurring 25-50 times	Verbs	5	5594
+335	Testify, warn	עוּד	323	Verbs occurring 25-50 times	Verbs	5	5749
+336	Fly	עוּף	324	Verbs occurring 25-50 times	Verbs	5	5774
+337	Restrain	עָצַר	325	Verbs occurring 25-50 times	Verbs	5	6113
+338	Mix, pledge	עָרַב	326	Verbs occurring 25-50 times	Verbs	5	6148
+339	Oppress	עָשַׁק	327	Verbs occurring 25-50 times	Verbs	5	6231
+340	Meet, fall upon	פָּגַע	328	Verbs occurring 25-50 times	Verbs	5	6293
+341	Tremble	פָּחַד	329	Verbs occurring 25-50 times	Verbs	5	6342
+342	Escape	פָּלַט	330	Verbs occurring 25-50 times	Verbs	5	6403
+343	Separate (Ni)	פּרד	331	Verbs occurring 25-50 times	Verbs	5	6504
+344	Be fruitful	פָּרָה	332	Verbs occurring 25-50 times	Verbs	5	6509
+345	Sprout, break out	פָּרַח	333	Verbs occurring 25-50 times	Verbs	5	6524
+346	Break through	פָּרַץ	334	Verbs occurring 25-50 times	Verbs	5	6555
+347	Strip off	פָּשַׁט	335	Verbs occurring 25-50 times	Verbs	5	6584
+348	Rebel, revolt	פָּשַׁע	336	Verbs occurring 25-50 times	Verbs	5	6586
+349	Be in the right	צָדַק	337	Verbs occurring 25-50 times	Verbs	5	6663
+350	Bind, besiege	צוּר	338	Verbs occurring 25-50 times	Verbs	5	6696
+351	Sprout	צָמַח	339	Verbs occurring 25-50 times	Verbs	5	6779
+352	Hide	צָפַן	340	Verbs occurring 25-50 times	Verbs	5	6845
+353	Refine, test	צָרַף	341	Verbs occurring 25-50 times	Verbs	5	6884
+354	Be before (Pi)	קִדֵּם	342	Verbs occurring 25-50 times	Verbs	5	6923
+355	Assemble (Ni)	קהל	343	Verbs occurring 25-50 times	Verbs	5	6950
+356	Wait, expect	קָוָה	344	Verbs occurring 25-50 times	Verbs	5	6960
+357	Be envious, zealous (Pi)	קִנֵּא	345	Verbs occurring 25-50 times	Verbs	5	7065
+358	Be angry	קָצַף	346	Verbs occurring 25-50 times	Verbs	5	7107
+359	Be short, reap	קָצַר	347	Verbs occurring 25-50 times	Verbs	5	7114
+360	Meet, happen	קָרָה	348	Verbs occurring 25-50 times	Verbs	5	7135
+361	Be attentive, listen	קָשַׁב	349	Verbs occurring 25-50 times	Verbs	5	7181
+362	Be hard, severe	קָשָׁה	350	Verbs occurring 25-50 times	Verbs	5	7185
+363	Bind, conspire	קָשַׁר	351	Verbs occurring 25-50 times	Verbs	5	7194
+364	Lie down	רָבַץ	352	Verbs occurring 25-50 times	Verbs	5	7257
+365	Quake, be agitated	רָגַז	353	Verbs occurring 25-50 times	Verbs	5	7264
+366	Slander, spy out	רָגַל	354	Verbs occurring 25-50 times	Verbs	5	7270
+367	Shout (Hi)	רוּעַ	355	Verbs occurring 25-50 times	Verbs	5	7321
+368	Be poor	רוּשׁ	356	Verbs occurring 25-50 times	Verbs	5	7326
+369	Be wide, expand	רָחַב	357	Verbs occurring 25-50 times	Verbs	5	7337
+370	Shake, quake	רָעַשׁ	358	Verbs occurring 25-50 times	Verbs	5	7493
+371	Sink down, droop	רָפָה	359	Verbs occurring 25-50 times	Verbs	5	7497
+372	Kill, murder	רָצַח	360	Verbs occurring 25-50 times	Verbs	5	7523
+373	Be guilty, wicked	רָשַׁע	361	Verbs occurring 25-50 times	Verbs	5	7561
+374	Rejoice	שׂוּשׂ	362	Verbs occurring 25-50 times	Verbs	5	7797
+375	Laugh, jest	שָׂחַק	363	Verbs occurring 25-50 times	Verbs	5	7832
+376	Take away captive	שָׁבָה	364	Verbs occurring 25-50 times	Verbs	5	7617
+377	Wash off, rinse	שָׁטַף	365	Verbs occurring 25-50 times	Verbs	5	7857
+378	Be or become low	שָׁפַל	366	Verbs occurring 25-50 times	Verbs	5	8213
+379	Be quiet	שָׁקַט	367	Verbs occurring 25-50 times	Verbs	5	8252
+380	Hang	תָּלָה	368	Verbs occurring 25-50 times	Verbs	5	8518
+381	Wander about	תָּעָה	369	Verbs occurring 25-50 times	Verbs	5	8582
+382	father	אָב	1	Nouns occurring 500-5000 times	Nouns	6	1
+383	Man, mankind	אָדָם	2	Nouns occurring 500-5000 times	Nouns	6	121
+384	Master, lord	אָדוֹן אֲדֹנָי	3	Nouns occurring 500-5000 times	Nouns	6	113
+385	Brother	אָח	4	Nouns occurring 500-5000 times	Nouns	6	254
+386	One	אֶחָד	5	Nouns occurring 500-5000 times	Nouns	6	259
+387	After, behind	אַחַר	6	Nouns occurring 500-5000 times	Nouns	6	310
+388	Man	אִישׁ	7	Nouns occurring 500-5000 times	Nouns	6	376
+389	God, gods	אֱלֹהִים	8	Nouns occurring 500-5000 times	Nouns	6	430
+390	Man, human	אֱנוֹשׁ	9	Nouns occurring 500-5000 times	Nouns	6	582
+391	Land, earth	אֶרֶץ	10	Nouns occurring 500-5000 times	Nouns	6	776
+392	Woman	אִשָּׁה	11	Nouns occurring 500-5000 times	Nouns	6	802
+393	Between	בַּיִן   בֵּין	12	Nouns occurring 500-5000 times	Nouns	6	996
+394	House	בַּיִת   בֵּית	13	Nouns occurring 500-5000 times	Nouns	6	1004
+395	Son	בֵּן	14	Nouns occurring 500-5000 times	Nouns	6	1121
+396	daughter	בַּת	15	Nouns occurring 500-5000 times	Nouns	6	1323
+397	great	גָּדוֹל	16	Nouns occurring 500-5000 times	Nouns	6	1419
+398	nation	גּוֹי	17	Nouns occurring 500-5000 times	Nouns	6	1471
+399	Word, thing	דָּבָר	18	Nouns occurring 500-5000 times	Nouns	6	1697
+400	way	דֶּרֶך	19	Nouns occurring 500-5000 times	Nouns	6	1869
+401	mountain	הַר	20	Nouns occurring 500-5000 times	Nouns	6	2022
+402	Living, life	חַי	21	Nouns occurring 500-5000 times	Nouns	6	2416
+403	good	טוֹב	22	Nouns occurring 500-5000 times	Nouns	6	2895
+404	hand	יָד	23	Nouns occurring 500-5000 times	Nouns	6	3027
+405	day	יוֹם	24	Nouns occurring 500-5000 times	Nouns	6	3117
+406	priest	כֹּהֵן	25	Nouns occurring 500-5000 times	Nouns	6	3548
+407	All, whole	כֹּל	26	Nouns occurring 500-5000 times	Nouns	6	3605
+408	heart	לֵב לֵבָב	27	Nouns occurring 500-5000 times	Nouns	6	3820
+409	hundred	מֵאָה	28	Nouns occurring 500-5000 times	Nouns	6	3967
+410	water	מַיִם	29	Nouns occurring 500-5000 times	Nouns	6	4325
+411	king	מֶלֶך	30	Nouns occurring 500-5000 times	Nouns	6	4427
+412	Life, soul	נֶפֶשׁ	31	Nouns occurring 500-5000 times	Nouns	6	5315
+413	Servant, slave	עֶבֶד	32	Nouns occurring 500-5000 times	Nouns	6	5650
+414	Eye, spring	עַיִן	33	Nouns occurring 500-5000 times	Nouns	6	5869
+415	City, town	עִיר	34	Nouns occurring 500-5000 times	Nouns	6	5892
+416	People	עַם	35	Nouns occurring 500-5000 times	Nouns	6	5971
+417	Face	פָּנִים	36	Nouns occurring 500-5000 times	Nouns	6	6440
+418	Voice, sound	קוֹל	37	Nouns occurring 500-5000 times	Nouns	6	6963
+419	n. Holy thing,	קֹדֶשׁ קָדוֹשׁ	38	Nouns occurring 500-5000 times	Nouns	6	6944
+420	head	רֹאשׁ	39	Nouns occurring 500-5000 times	Nouns	6	7218
+421	Three	שָׁלשׁ שְׁלשָׁה	40	Nouns occurring 500-5000 times	Nouns	6	7969
+422	Name	שֵׁם	41	Nouns occurring 500-5000 times	Nouns	6	8034
+423	Year	שָׁנָה	42	Nouns occurring 500-5000 times	Nouns	6	8138
+424	Second	שֵׁנִי שְׁנַיִם שְׁתַּיִם	43	Nouns occurring 500-5000 times	Nouns	6	8145
+425	tent	אֹהֶל	44	Nouns occurring 300-500 times	Nouns	7	168
+426	Ox, herd, thousand	אֶלֶף	45	Nouns occurring 300-500 times	Nouns	7	504
+427	Four (pl. forty)	אַרְבַּע	46	Nouns occurring 300-500 times	Nouns	7	702
+428	blood	דָּם	47	Nouns occurring 300-500 times	Nouns	7	1818
+429	gold	זָהָב	48	Nouns occurring 300-500 times	Nouns	7	2091
+430	New moon	חֹדֶשׁ   חָדָשׁ	49	Nouns occurring 300-500 times	Nouns	7	2318
+431	five	חָמֵשׁ חֲמִשָּׁה	50	Nouns occurring 300-500 times	Nouns	7	2567
+432	Sword, dagger	חֶרֶב	51	Nouns occurring 300-500 times	Nouns	7	2719
+433	sea	יָם	52	Nouns occurring 300-500 times	Nouns	7	3220
+434	Vessel, utensil	כְּלִי	53	Nouns occurring 300-500 times	Nouns	7	3627
+435	silver	כֶּסֶף	54	Nouns occurring 300-500 times	Nouns	7	3701
+436	altar	מִזְבֵּחַ	55	Nouns occurring 300-500 times	Nouns	7	4196
+437	Fight, battle	מִלְחָמָה	56	Nouns occurring 300-500 times	Nouns	7	4421
+438	Standing-place, place	מָקוֹם	57	Nouns occurring 300-500 times	Nouns	7	4725
+439	Decision, judgment	מִשְׁפָּט	58	Nouns occurring 300-500 times	Nouns	7	4941
+440	utterance	נְאֻם	59	Nouns occurring 300-500 times	Nouns	7	5002
+441	prophet	נָבִיא	60	Nouns occurring 300-500 times	Nouns	7	5030
+442	around	סָבִיב	61	Nouns occurring 300-500 times	Nouns	7	5439
+443	A long time, all time	עוֹלָם	62	Nouns occurring 300-500 times	Nouns	7	5769
+444	tree	עֵץ	63	Nouns occurring 300-500 times	Nouns	7	6086
+445	ten	עָשָׂר עֶשְׂרֵד	64	Nouns occurring 300-500 times	Nouns	7	6235
+446	twenty	עֶשְׂרִים	65	Nouns occurring 300-500 times	Nouns	7	6242
+447	mouth	פֶּה	66	Nouns occurring 300-500 times	Nouns	7	6310
+448	Host, army	צָבָא צְבָאוֹת	67	Nouns occurring 300-500 times	Nouns	7	6633
+449	n. What is right, rightness, justice	צֶדֶק	68a	Nouns occurring 300-500 times	Nouns	7	6664
+450	abstr n. Righteousness, fairness, justice, pietyWhat is right, justice	צְדָקָה	68b	Nouns occurring 300-500 times	Nouns	7	6666
+451	adj. Right, guiltless, righteous	צַדִּיק	68c	Nouns occurring 300-500 times	Nouns	7	6662
+452	Many, much	רַב	69	Nouns occurring 300-500 times	Nouns	7	7227
+453	Spirit, wind, breath	רוּחַ	70	Nouns occurring 300-500 times	Nouns	7	7307
+454	field	שָׂדֶה	71	Nouns occurring 300-500 times	Nouns	7	7704
+455	Official, leader	שַׂר	72	Nouns occurring 300-500 times	Nouns	7	8269
+456	Seven (pl. seventy)	שֶׁבַע שִׁבְעָה	73	Nouns occurring 300-500 times	Nouns	7	7646
+457	heavens	שָׁמַיִם	74	Nouns occurring 300-500 times	Nouns	7	8064
+458	gate	שַׁעַר	75	Nouns occurring 300-500 times	Nouns	7	8179
+459	midst	תָּוֶך	76	Nouns occurring 300-500 times	Nouns	7	8432
+460	stone	אֶבֶן	77	Nouns occurring 200-300 times	Nouns	8	68
+461	ground	אֲדָמָה	78	Nouns occurring 200-300 times	Nouns	8	128
+462	ram	אַיִל	79	Nouns occurring 200-300 times	Nouns	8	352
+463	A god, God	אֵל	80	Nouns occurring 200-300 times	Nouns	8	410
+464	mother	אֵם	81	Nouns occurring 200-300 times	Nouns	8	517
+465	Forearm, cubit	אַמָּה	82	Nouns occurring 200-300 times	Nouns	8	522
+466	Nose, anger	אַף	83	Nouns occurring 200-300 times	Nouns	8	637
+467	Garment, covering	בֶּגֶד	84	Nouns occurring 200-300 times	Nouns	8	899
+468	Agreement, covenant	בְּרִית	85	Nouns occurring 200-300 times	Nouns	8	1285
+469	flesh	בָּשָׂר	86	Nouns occurring 200-300 times	Nouns	8	1320
+470	boundary	גְּבוּל	87	Nouns occurring 200-300 times	Nouns	8	1366
+471	seed	זֶרַע	88	Nouns occurring 200-300 times	Nouns	8	2233
+472	Sin, sin offering	חַטָּאת	89	Nouns occurring 200-300 times	Nouns	8	2403
+473	Strength, power	חַיִל	90	Nouns occurring 200-300 times	Nouns	8	2428
+474	Loyalty	חֶסֶד	91	Nouns occurring 200-300 times	Nouns	8	2617
+475	Bread	לֶחֶם	92	Nouns occurring 200-300 times	Nouns	8	3899
+476	Night	לַיְלָה	93	Nouns occurring 200-300 times	Nouns	8	3915
+477	n. Might, adv. exceedingly	מְאֹד	94	Nouns occurring 200-300 times	Nouns	8	3966
+478	Wilderness, pasturage	מִדְבָּר	95	Nouns occurring 200-300 times	Nouns	8	4057
+479	Appointed time, meeting	מוֹעֵד	96	Nouns occurring 200-300 times	Nouns	8	4150
+480	camp	מַחֲנֶה	97	Nouns occurring 200-300 times	Nouns	8	4264
+481	Rod, tribe	מַטֶּה	98	Nouns occurring 200-300 times	Nouns	8	4294
+482	Messenger, angel	מַלְאָך	99	Nouns occurring 200-300 times	Nouns	8	4397
+483	Gift, offering	מִנְחָה	100	Nouns occurring 200-300 times	Nouns	8	4503
+484	Work, deed	מַעֲשֶׂה	101	Nouns occurring 200-300 times	Nouns	8	4639
+485	family	מִשְׁפָּחַה	102	Nouns occurring 200-300 times	Nouns	8	4940
+486	Inheritance	נַחֲלָה	103	Nouns occurring 200-300 times	Nouns	8	5159
+487	Boy, young man	נַעַר	104	Nouns occurring 200-300 times	Nouns	8	5288
+488	Guilt, intentional offence	עָוֹן	105	Nouns occurring 200-300 times	Nouns	8	5770
+489	Whole burnt offering	עֹלָה	106	Nouns occurring 200-300 times	Nouns	8	5930
+490	Time	עֵת	107	Nouns occurring 200-300 times	Nouns	8	6256
+491	Flock: sheep or goats	צֹאן	108	Nouns occurring 200-300 times	Nouns	8	6629
+492	Midst, inward	קֶרֶב	109	Nouns occurring 200-300 times	Nouns	8	7130
+493	Foot	רֶגֶל	110	Nouns occurring 200-300 times	Nouns	8	7272
+494	Friend, neighbor	רעה רֵעַ	111	Nouns occurring 200-300 times	Nouns	8	7462
+495	Evil, bad	רעע רַע	112	Nouns occurring 200-300 times	Nouns	8	7465
+496	Wicked, guilty	רָשָׁע	113	Nouns occurring 200-300 times	Nouns	8	7563
+497	Wholeness, peace	שָׁלוֹם	114	Nouns occurring 200-300 times	Nouns	8	7965
+498	Six	שֵׁשׁ שִׁשָּׁה	115	Nouns occurring 200-300 times	Nouns	8	8336
+499	Instruction, law	תּוֹרָה	116	Nouns occurring 200-300 times	Nouns	8	8451
+500	Needy, poor	אֶבְיוֹן	192	Nouns occurring 50-100 times	Nouns	9	34
+501	Socket, pedestal	אֶדֶן	193	Nouns occurring 50-100 times	Nouns	9	134
+502	Weird thing, evil, wickedness	אָוֶן	194	Nouns occurring 50-100 times	Nouns	9	205
+503	Supply, treasure	אוֹצָר	195	Nouns occurring 50-100 times	Nouns	9	214
+504	sign	אוֹת	196	Nouns occurring 50-100 times	Nouns	9	226
+505	Landed property	אֲחֻזָּה	197	Nouns occurring 50-100 times	Nouns	9	272
+506	At the back, later on	אַחֲרוֹן	198	Nouns occurring 50-100 times	Nouns	9	314
+507	End, result	אַחֲרִית	199	Nouns occurring 50-100 times	Nouns	9	319
+508	God, a god	אֱלוֹהַּ	200	Nouns occurring 50-100 times	Nouns	9	433
+509	Widow	אַלְמָנָה	201	Nouns occurring 50-100 times	Nouns	9	490
+510	Female slave, hand-maiden	אָמָה	202	Nouns occurring 50-100 times	Nouns	9	519
+511	Faithfulness	אֱמוּנָה	203	Nouns occurring 50-100 times	Nouns	9	530
+512	Word, saying	אֵמֶר	204	Nouns occurring 50-100 times	Nouns	9	561
+513	Ephod	אֵפוֹד	205	Nouns occurring 50-100 times	Nouns	9	646
+514	Cedar	אֶרֶז	206	Nouns occurring 50-100 times	Nouns	9	730
+515	Way, path	אֹרַח	207	Nouns occurring 50-100 times	Nouns	9	734
+516	Lion	אֲרִי אַרְיֵה	208	Nouns occurring 50-100 times	Nouns	9	738
+517	Length	אֹרֶך	209	Nouns occurring 50-100 times	Nouns	9	748
+518	Fire-offering	אִשֶּׁה	210	Nouns occurring 50-100 times	Nouns	9	801
+519	Waterpit, cistern	בּוֹר	211	Nouns occurring 50-100 times	Nouns	9	953
+520	Belly, body, womb	בֶּטֶן	212	Nouns occurring 50-100 times	Nouns	9	990
+521	High-place	בָּמָה	213	Nouns occurring 50-100 times	Nouns	9	1116
+522	Owner, baals, Baal	בַּעַל	214	Nouns occurring 50-100 times	Nouns	9	1167
+523	Iron	בַּרְזֶל	215	Nouns occurring 50-100 times	Nouns	9	1270
+524	Blessing	בְּרָכָה	216	Nouns occurring 50-100 times	Nouns	9	1293
+525	Height, pride	גָּאוֹן	217	Nouns occurring 50-100 times	Nouns	9	1347
+526	Strength, great deed	גְּבוּרָה	218	Nouns occurring 50-100 times	Nouns	9	1369
+527	Hill	גִּבְעְָה	219	Nouns occurring 50-100 times	Nouns	9	1389
+528	Man, anyone	גֶּבֶר	220	Nouns occurring 50-100 times	Nouns	9	1397
+529	Lot, dice	גּוֹרָל	221	Nouns occurring 50-100 times	Nouns	9	1486
+530	Valley	גַּיְא גֵּי	222	Nouns occurring 50-100 times	Nouns	9	1516
+531	Camel	גָּמָל	223	Nouns occurring 50-100 times	Nouns	9	1581
+532	Vine	גֶּפֶן	224	Nouns occurring 50-100 times	Nouns	9	1612
+533	Sojourner, newcomer	גֵּר	225	Nouns occurring 50-100 times	Nouns	9	1616
+534	Plague	דֶּבֶר	226	Nouns occurring 50-100 times	Nouns	9	1698
+535	Honey	דְּבַשׁ	227	Nouns occurring 50-100 times	Nouns	9	1706
+536	Door	דֶּלֶת	228	Nouns occurring 50-100 times	Nouns	9	1817
+537	Knowledge	דַּעַת	229	Nouns occurring 50-100 times	Nouns	9	1847
+538	Temple, palace	הֵיכָל	230	Nouns occurring 50-100 times	Nouns	9	1964
+539	Multitude, tumult	הָמוֹן	231	Nouns occurring 50-100 times	Nouns	9	1995
+540	Male	זָכָר	232	Nouns occurring 50-100 times	Nouns	9	2145
+541	Strange, different, illicit	זָר	233	Nouns occurring 50-100 times	Nouns	9	2213
+542	Arm, forearm	זְרוֹעַ	234	Nouns occurring 50-100 times	Nouns	9	2220
+543	Cord, rope	חֶבֶל	235	Nouns occurring 50-100 times	Nouns	9	2256
+544	Festival, procession	חַג	236	Nouns occurring 50-100 times	Nouns	9	2282
+545	Firm, strong	חָזָק	237	Nouns occurring 50-100 times	Nouns	9	2389
+546	Wheat	חִטָּה	238	Nouns occurring 50-100 times	Nouns	9	2406
+547	Fat	חֵלֶב	239	Nouns occurring 50-100 times	Nouns	9	2459
+548	Dream	חֲלוֹם	240	Nouns occurring 50-100 times	Nouns	9	2472
+549	Portion, shares	חֵלֶק	241	Nouns occurring 50-100 times	Nouns	9	2506
+550	Male ass	חֲמוֹר	242	Nouns occurring 50-100 times	Nouns	9	2543
+551	Violence, wrong	חָמָס	243	Nouns occurring 50-100 times	Nouns	9	2555
+552	Favor, grace	חֵן	244	Nouns occurring 50-100 times	Nouns	9	2580
+553	arrow	חֵץ	245	Nouns occurring 50-100 times	Nouns	9	2671
+554	Reproach, disgrace	חֶרְפָּה	246	Nouns occurring 50-100 times	Nouns	9	2781
+555	Darkness	חשֶׁך	247	Nouns occurring 50-100 times	Nouns	9	2820
+556	Clean, pure	טָהוֹר	248	Nouns occurring 50-100 times	Nouns	9	2889
+557	Unclean	טָמֵא	249	Nouns occurring 50-100 times	Nouns	9	2930
+558	Vineyard	כֶּרֶם	250	Nouns occurring 50-100 times	Nouns	9	3754
+559	River Nile	יְאֹר	251	Nouns occurring 50-100 times	Nouns	9	2975
+560	Boy, child	יֶלֶד	252	Nouns occurring 50-100 times	Nouns	9	3206
+561	Forest, woods	יַעַר	253	Nouns occurring 50-100 times	Nouns	9	3293
+562	Tent, curtain	יְרִיעָה	254	Nouns occurring 50-100 times	Nouns	9	3407
+563	Help, salvation	יְשׁוּעָה	255	Nouns occurring 50-100 times	Nouns	9	3444
+564	Insolent, foolish	כְּסִיל	256	Nouns occurring 50-100 times	Nouns	9	3686
+565	Cherub	כְּרוּב	257	Nouns occurring 50-100 times	Nouns	9	3742
+566	Shoulder	כָּתֵף	258	Nouns occurring 50-100 times	Nouns	9	3802
+567	Tower	מִגְדָּל	259	Nouns occurring 50-100 times	Nouns	9	4026
+568	Shield	מָגֵן	260	Nouns occurring 50-100 times	Nouns	9	4043
+569	Measure	מִדָּה	261	Nouns occurring 50-100 times	Nouns	9	4060
+570	Administrative district	מְדִינָה	262	Nouns occurring 50-100 times	Nouns	9	4082
+571	Chastisement, warning	מוּסָר	263	Nouns occurring 50-100 times	Nouns	9	4148
+572	Psalm	מִזְמוֹר	264	Nouns occurring 50-100 times	Nouns	9	4210
+573	East, sunrise	מִזְרַח	265	Nouns occurring 50-100 times	Nouns	9	4217
+574	Tomorrow	מָחָר	266	Nouns occurring 50-100 times	Nouns	9	4279
+575	Thought	מַחֲשֶׁבֶת	267	Nouns occurring 50-100 times	Nouns	9	4284
+576	Kingdom, reign	מַלְכוּת	268	Nouns occurring 50-100 times	Nouns	9	4438
+577	A little, few	מְעַט	269	Nouns occurring 50-100 times	Nouns	9	4592
+578	Unleavened bread	מַצָּה	270	Nouns occurring 50-100 times	Nouns	9	4682
+579	Sanctuary, sacred place	מִקְדָּשׁ	271	Nouns occurring 50-100 times	Nouns	9	4720
+580	Purchase, possession	מִקְנֶה	272	Nouns occurring 50-100 times	Nouns	9	4735
+581	High place	מָרוֹם	273	Nouns occurring 50-100 times	Nouns	9	4791
+582	Burden, utterance	מַשָּׂא	274	Nouns occurring 50-100 times	Nouns	9	4853
+583	Anointed one	מָשִׁיחַ	275	Nouns occurring 50-100 times	Nouns	9	4899
+584	Observance, service	מִשְׁמֶרֶת	276	Nouns occurring 50-100 times	Nouns	9	4931
+585	Weight	מִשְׁקָל	277	Nouns occurring 50-100 times	Nouns	9	4948
+586	Stroke, plague	נֶגַע	278	Nouns occurring 50-100 times	Nouns	9	5061
+587	Vow	נֶדֶר	279	Nouns occurring 50-100 times	Nouns	9	5088
+588	drink offering	נֶסֶך	280	Nouns occurring 50-100 times	Nouns	9	5258
+589	Young girl	נַעֲרָה	281	Nouns occurring 50-100 times	Nouns	9	5292
+590	Unexplained musical term	סֶלָה	282	Nouns occurring 50-100 times	Nouns	9	5542
+591	Rock, crag	סֶלַע	283	Nouns occurring 50-100 times	Nouns	9	5553
+592	Fine flour	סֹלֶת	284	Nouns occurring 50-100 times	Nouns	9	5560
+593	Side, beyond	עֵבֶר	285	Nouns occurring 50-100 times	Nouns	9	5676
+594	Witness	עֵד	286	Nouns occurring 50-100 times	Nouns	9	5707
+595	Warning, sign	עֵדוּת	287	Nouns occurring 50-100 times	Nouns	9	5715
+596	Flying creatures: birds & insects	עוֹף	288	Nouns occurring 50-100 times	Nouns	9	5775
+597	Skin, leather	עוֹר	289	Nouns occurring 50-100 times	Nouns	9	5785
+598	Goat	עֵז	290	Nouns occurring 50-100 times	Nouns	9	5795
+599	Strength, power, might	עֹז	291	Nouns occurring 50-100 times	Nouns	9	5797
+600	The upper, highest	עֶלְיוֹן	292	Nouns occurring 50-100 times	Nouns	9	5945
+601	Pillar, column	עַמּוּד	293	Nouns occurring 50-100 times	Nouns	9	5982
+602	Labor, trouble	עָמָל	294	Nouns occurring 50-100 times	Nouns	9	5999
+603	Valley, lowland	עֵמֶק	295	Nouns occurring 50-100 times	Nouns	9	6010
+604	Afflicted, humble	עֲנִי	296	Nouns occurring 50-100 times	Nouns	9	6040
+605	Clouds	עָנָן	297	Nouns occurring 50-100 times	Nouns	9	6051
+606	Counsel	עֵצָה	298	Nouns occurring 50-100 times	Nouns	9	6097
+607	Desert	עֲרָבָה	299	Nouns occurring 50-100 times	Nouns	9	6155
+608	Nakedness	עֶרְוָה	300	Nouns occurring 50-100 times	Nouns	9	6172
+609	Side, rim	פֵּאָה	301	Nouns occurring 50-100 times	Nouns	9	6285
+610	Horseman	פָּרָשׁ	302	Nouns occurring 50-100 times	Nouns	9	6571
+611	Rock	צוּר	303	Nouns occurring 50-100 times	Nouns	9	6696
+612	Adversary, distress	צַר	304	Nouns occurring 50-100 times	Nouns	9	6862
+613	Distress	צָרָה	305	Nouns occurring 50-100 times	Nouns	9	6869
+614	Grave	קֶבֶר	306	Nouns occurring 50-100 times	Nouns	9	6913
+615	East	קָדִים	307	Nouns occurring 50-100 times	Nouns	9	6921
+616	Before, in front, east	קֶדֶם	308	Nouns occurring 50-100 times	Nouns	9	6924
+617	Assembly	קָהָל	309	Nouns occurring 50-100 times	Nouns	9	6951
+618	Small	קָטֹן	310	Nouns occurring 50-100 times	Nouns	9	6994
+619	Incense	קְטֹרֶת	311	Nouns occurring 50-100 times	Nouns	9	7004
+620	Wall	קִיר	312	Nouns occurring 50-100 times	Nouns	9	7024
+621	Reed	קָנֶה	313	Nouns occurring 50-100 times	Nouns	9	7070
+622	End	קֵץ	314	Nouns occurring 50-100 times	Nouns	9	7093
+623	End, border, extremity	קָצֶה	315	Nouns occurring 50-100 times	Nouns	9	7097
+624	Harvest	קָצִיר	316	Nouns occurring 50-100 times	Nouns	9	7105
+625	Offering, gift	קָרְבָּן	317	Nouns occurring 50-100 times	Nouns	9	7133
+626	Near	קָרוֹב	318	Nouns occurring 50-100 times	Nouns	9	7138
+627	Horn	קֶרֶן	319	Nouns occurring 50-100 times	Nouns	9	7161
+628	Bow	קֶשֶׁת	320	Nouns occurring 50-100 times	Nouns	9	7198
+629	Beginning	רֵאשִׁית	321	Nouns occurring 50-100 times	Nouns	9	7225
+630	Open place	רְחוֹב	322	Nouns occurring 50-100 times	Nouns	9	7339
+631	Distant, remote	רָחֹק	323	Nouns occurring 50-100 times	Nouns	9	7350
+632	strife	רִיב	324	Nouns occurring 50-100 times	Nouns	9	7378
+633	Pleasure, favor	רָצוֹן	325	Nouns occurring 50-100 times	Nouns	9	7522
+634	Left side	שְׂמאל	326	Nouns occurring 50-100 times	Nouns	9	8040
+635	Joy, gladness	שִׂמְחָה	327	Nouns occurring 50-100 times	Nouns	9	8057
+636	Kid, he-goat	שָׂעִיר	328	Nouns occurring 50-100 times	Nouns	9	8163
+637	Underworld, waste	שְׁאוֹל	329	Nouns occurring 50-100 times	Nouns	9	7585
+638	Remnant	שְׁאֵרִית	330	Nouns occurring 50-100 times	Nouns	9	7611
+639	Ram’s horn	שׁוֹפָר	331	Nouns occurring 50-100 times	Nouns	9	7782
+640	Steer, ox	שׁוֹר	332	Nouns occurring 50-100 times	Nouns	9	7794
+641	Song	שִׁיר	333	Nouns occurring 50-100 times	Nouns	9	7891
+642	Table	שֻׁלְחָן	334	Nouns occurring 50-100 times	Nouns	9	7979
+643	Booty, plunder	שָׁלָל	335	Nouns occurring 50-100 times	Nouns	9	7998
+644	Final or peace offering	שֶׁלֶם	336	Nouns occurring 50-100 times	Nouns	9	8002
+645	Desolation, waste	שְׁמָמָה	337	Nouns occurring 50-100 times	Nouns	9	8077
+646	Tooth	שֵׁן	338	Nouns occurring 50-100 times	Nouns	9	8127
+647	Maid-servant	שִׁפְחָה	339	Nouns occurring 50-100 times	Nouns	9	8198
+648	Shekel, weight	שֶׁקֶל	340	Nouns occurring 50-100 times	Nouns	9	8255
+649	Praise, glory	תְּהִלָּה	341	Nouns occurring 50-100 times	Nouns	9	8416
+650	Complete, without fault	תָּמִים	342	Nouns occurring 50-100 times	Nouns	9	8549
+651	Glory, beauty	תִּפְאֶרֶת	343	Nouns occurring 50-100 times	Nouns	9	8594
+652	Prayer	תְּפִלָּה	344	Nouns occurring 50-100 times	Nouns	9	8605
+653	Contribution, gift	תְּרוּמָה	345	Nouns occurring 50-100 times	Nouns	9	8641
+654	Nine	תֵּשַׁע	346	Nouns occurring 50-100 times	Nouns	9	8672
+655	Unto (goal)	אֶל	1	Denoting Place	Prepositions and Prepositional Phrases	10	413
+656	To	לְ	2	Denoting Place	Prepositions and Prepositional Phrases	10	 
+657	To (limit)	עַד	3	Denoting Place	Prepositions and Prepositional Phrases	10	5703
+658	Before, in front of	לִפְנֵי	4	Denoting Place	Prepositions and Prepositional Phrases	10	3942
+659	Towards	לִפְנוֹת	5	Denoting Place	Prepositions and Prepositional Phrases	10	 
+660	Opposite, before	נֶגֶד	6	Denoting Place	Prepositions and Prepositional Phrases	10	5048
+661	Before	קִדְמַת	7	Denoting Place	Prepositions and Prepositional Phrases	10	 
+662	Before	נכַח	8	Denoting Place	Prepositions and Prepositional Phrases	10	5226
+663	Near, opposite	לְעֻמַּת	9	Denoting Place	Prepositions and Prepositional Phrases	10	 
+664	Towards	מוּל מוֹל	10	Denoting Place	Prepositions and Prepositional Phrases	10	4135
+665	Towards	לִקְרַאת	11	Denoting Place	Prepositions and Prepositional Phrases	10	 
+666	By the side of	אֵצֶל	12	Denoting Place	Prepositions and Prepositional Phrases	10	681
+667	In	בְּ	13	Denoting Place	Prepositions and Prepositional Phrases	10	 
+668	(Sinn of direct object), with	אֵת אֶת-	14	Denoting Place	Prepositions and Prepositional Phrases	10	852
+669	Between	בֵּין	15	Denoting Place	Prepositions and Prepositional Phrases	10	995
+670	About	בַּעַד	16	Denoting Place	Prepositions and Prepositional Phrases	10	1157
+671	Beyond	עֵבֶר	17	Denoting Place	Prepositions and Prepositional Phrases	10	5676
+672	Beyond	בְּעֵבֶר	18	Denoting Place	Prepositions and Prepositional Phrases	10	 
+673	Behind	אַחַר אַחֲרֵי	19	Denoting Place	Prepositions and Prepositional Phrases	10	309
+674	Upon	עַל	20	Denoting Place	Prepositions and Prepositional Phrases	10	5920
+675	Beneath	תַּחַ	21	Denoting Place	Prepositions and Prepositional Phrases	10	 
+676	Around	סָבִיב	22	Denoting Place	Prepositions and Prepositional Phrases	10	5439
+677	Inside	בֵּית	23	Denoting Place	Prepositions and Prepositional Phrases	10	1004
+678	Without, outside	חוּץ	24	Denoting Place	Prepositions and Prepositional Phrases	10	2351
+679	Inside, through	בְּתוֹך	25	Denoting Place	Prepositions and Prepositional Phrases	10	 
+680	In the midst of	בְּקֶרֶב	26	Denoting Place	Prepositions and Prepositional Phrases	10	 
+681	from	מִן	27	Denoting Place	Prepositions and Prepositional Phrases	10	4478
+682	In	בְּ	1	Denoting Time	Prepositions and Prepositional Phrases	11	 
+683	From	מִן	2	Denoting Time	Prepositions and Prepositional Phrases	11	4478
+684	Unto	אֵל	3	Denoting Time	Prepositions and Prepositional Phrases	11	410
+685	to	לְ	4	Denoting Time	Prepositions and Prepositional Phrases	11	 
+686	Till	עַד	5	Denoting Time	Prepositions and Prepositional Phrases	11	5703
+687	Before	לִפְנֵי	6	Denoting Time	Prepositions and Prepositional Phrases	11	3942
+688	Towards	פְּנוֹת	7	Denoting Time	Prepositions and Prepositional Phrases	11	 
+689	after	אַחַר	8	Denoting Time	Prepositions and Prepositional Phrases	11	310
+690	Between	בֵּין	9	Denoting Time	Prepositions and Prepositional Phrases	11	995
+691	Since	מֵאָז	10	Denoting Time	Prepositions and Prepositional Phrases	11	 
+692	Within	בְּעוֹד	11	Denoting Time	Prepositions and Prepositional Phrases	11	 
+693	Before	מִטֶּרֶם	12	Denoting Time	Prepositions and Prepositional Phrases	11	 
+694	On account of, for the sake of	בַּעֲבוּר	1	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	5668
+695	In order to	לְבַעֲבוּר	2	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	 
+696	On account of	בִּגְלַל	3	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	1558
+697	Because of	יַעַן	4	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	1842
+698	For the sake of, therefore	לְמַעַן	5	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	4616
+699	Through, for the benefit of	בְּעַד	6	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	1157
+700	Therefore	עֵקֶב	7	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	6118
+701	On account of, therefore	עַל-עֵקֶב	8	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	 
+702	In front of, before	לְנֹכַח	9	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	 
+703	Away from, because	מִפְּנֵי	10	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	 
+704	On account of	עַל-אוֹדוֹת	11	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	 
+705	Regarding, because	עַל-דְּבַר	12	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	 
+706	For	בְּדֵי	13	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	 
+707	By	בְּ	14	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	 
+708	By	בְּיַד	15	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	 
+709	Under the control of	עַל-יַד	16	Denoting Cause, End, Instrumentality	Prepositions and Prepositional Phrases	12	 
+710	With	עִם	1	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	5973
+711	With	אֵת	2	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	853
+712	In proportion to	לְפִי	3	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	 
+713	As often as	בְּדֵי	4	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	 
+714	As often as	מִדֵּי	5	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	4074
+715	As much as	מִסַּת	6	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	4530
+716	In, in place of, with	בְּ	7	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	 
+717	Through, behind, for the benefit of	בְּעַד	8	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	1157
+718	Instead of, in place of	מְקוֹם	9	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	4725
+719	Under, for, in place of	תַּחַת	10	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	8478
+720	Beneath	מִתַּחַת	11	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	 
+721	Without	בְּאֵין	12	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	 
+722	Without	בְּלֹא	13	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	1080
+723	Without	בְּלִי	14	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	1097
+724	Except for	בְִּתִּי	15	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	 
+725	without	בְּאֶפֶס	16	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	 
+726	Except	זוּלַת זוּלָתִי	17	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	2108
+727	Apart from, beside	בִּלְעֲדֵי	18	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	1107
+728	Except	חוּץ מִן	19	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	2351
+729	Beside, apart from	לְבַד מִן	20	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	 
+730	Except for, beside	מִלְּבַד	21	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	 
+731	Except	לְבַד עַל	22	Denoting Connection, Relation, Privation	Prepositions and Prepositional Phrases	13	 
+732	Then	אָז	1	Adverbial	Particles	14	227
+733	Only, surely, however	אַך	2	Adverbial	Particles	14	389
+734	Then, now	אֵפוֹ	3	Adverbial	Particles	14	645
+735	Here	הֲלֹם	4	Adverbial	Particles	14	1988
+736	Behold, if	הֵן	5	Adverbial	Particles	14	2004
+737	Behold	הִנֵּה	6	Adverbial	Particles	14	2009
+738	Here, until now	הֵנָּה	7	Adverbial	Particles	14	2007
+739	Here, now	זֶה	8	Adverbial	Particles	14	2088
+740	as	כַּאֲשֶׁר	9	Adverbial	Particles	14	 
+741	Here, now, thus	כֹּה	10	Adverbial	Particles	14	3541
+742	Now, please	נָא	11	Adverbial	Particles	14	4994
+743	Here	פֹּה	12	Adverbial	Particles	14	6311
+744	there	שָׁם	13	Adverbial	Particles	14	8033
+745	Who, which, that	אֲשֶׁר	1	Relative	Particles	15	834
+746	if	אִם	1	Conditional	Particles	16	518
+747	When, if	כִּי	2	Conditional	Particles	16	3587
+748	Otherwise, unless, except	כִּי אִם	3	Conditional	Particles	16	3587
+749	where	אַי אַיֵּה	1	Interrogative	Particles	17	335
+750	how	אֵיך אֵיכָה	2	Interrogative	Particles	17	349
+751	Whither, where	אָן אָנָה	3	Interrogative	Particles	17	575
+752	where	אֵפֹה	4	Interrogative	Particles	17	644
+753	For what, why, wherefore	לָמָה	5	Interrogative	Particles	17	 
+754	Wherefore, why	מַדּוּעַ	6	Interrogative	Particles	17	4069
+755	What, how	מָה	7	Interrogative	Particles	17	4100
+756	Who, what	מִי	8	Interrogative	Particles	17	4310
+757	when	מָתַי	9	Interrogative	Particles	17	4970
+758	For, because	כִּי	1	Causal	Particles	18	3587
+759	There is no	אַיִן	1	Negative	Particles	19	369
+760	No, not	אַל	2	Negative	Particles	19	408
+761	No, not	לֹא	3	Negative	Particles	19	3808
+762	Lest, otherwise	פֶּן	4	Negative	Particles	19	6435
+763	Perhaps	אוּלַי	1	Affirmative	Particles	20	194
+764	There is, there are	יֵשׁ	2	Affirmative	Particles	20	3426
+765	Thus, certainly, yes	כֵּן	3	Affirmative	Particles	20	3651
+766	Again, still	עוֹד	4	Affirmative	Particles	20	5750
+767	Yea, indeed, surely	כִּי	1	Assertive	Particles	21	3587
+768	Also, even, the more so	אַף	1	Interjectional	Particles	22	637
+769	Or	אוֹ	1	Of Choice	Particles	23	176

@@ -6,10 +6,13 @@ The Bible (WLC) contains 426581 words building up a lexicon of 8674+6 distinct i
  
 ## To do (next steps)
 
-- Add syntactic trees for every verse
-- Better generate lexicon entries' descriptions (replace TBESH formatted to parsed)
+- Beautify syntactic structures' layout
+- Beautify lexicon entries' pages
 - Allow for export of the gloss translation (html/odt tables, Latex)
-- Enrich morphology features from the OHS's xml files
+- Integrate source marks (`_data/Doc-KJV`)
+- Integrate frequent lexicon lists (`_data/pedagogic`)
+
+
 
 ## Some lexicon stats
 
