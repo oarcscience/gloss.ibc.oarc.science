@@ -50,7 +50,7 @@ collist=["extendedStrongNumber","trans1","morphology","gloss","BSBsort","BSB"]
 for col in collist:
     glosstr0[col]=dfw.fillna("").groupby("WLCverse")[col].apply(list)
 glosstr0["zip"]=glosstr0.apply(lambda x: zip(*[x[col] for col in collist]),axis=1).apply(list)
-template1="""<span id="word"><ol class=word><li lang=he><a href="/w/{}" target="_blank">{}</a></li><li title="{}" lang=en_MORPH>{}<span style="font-variant:small-caps;font-size:114%;">{}</span></li><li lang=en_MORPH><sup style="color: lightgray;">{}</sup>{}</li></ol></span>"""
+template1="""<span id="word"><ol class=word><li lang=he><a href="https://strong.seveleu.com/w/{}" target="_blank">{}</a></li><li title="{}" lang=en_MORPH>{}<span style="font-variant:small-caps;font-size:114%;">{}</span></li><li lang=en_MORPH><sup style="color: lightgray;">{}</sup>{}</li></ol></span>"""
 glosstr0["generated"]=glosstr0["zip"].apply(lambda y: "".join([template1.format(strn[1:],beautify(trs1),hover(mor),gl,morph(mor),(lambda x: int(float(x)) if x!=" " else "")(bsbs),bsb) for strn,trs1,mor,gl,bsbs,bsb in  y ]))
 
 joinedt=pd.read_csv("_data/syntax/syntax.csv",index_col=[0,1,2])
@@ -95,7 +95,7 @@ for i  in range(df.shape[0]):
     if i%100==0:
         print('Generating verses: {:.0%}'.format(i/df.shape[0]),"\r",end="")    
    
-    with open("w/"+books[df.iloc[i,2]-1].replace(" ","")+"."+str(df.iloc[i,3])+"."+str(df.iloc[i,4])+".html","w+") as fout:
+    with open("v/"+books[df.iloc[i,2]-1].replace(" ","")+"."+str(df.iloc[i,3])+"."+str(df.iloc[i,4])+".html","w+") as fout:
         fout.write("""<!DOCTYPE html>
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -185,7 +185,7 @@ document.onkeydown = function(evt) {{
 
 #1,2,3,4,5,6,7,8,9,0,1,2,3,4,5,6,7,8,9,0,1,2,3,4,5 ))
 
-    with open("w/"+str(df.iloc[i,1])+".html","w+") as fout2:
+    with open("v/"+str(df.iloc[i,1])+".html","w+") as fout2:
         fout2.write("""<html><head><meta http-equiv="refresh" content="0; URL=/v/"""+books[df.iloc[i,2]-1].replace(" ","")+"."+str(df.iloc[i,3])+"."+str(df.iloc[i,4])+""".html"></head></html>""")
 
 print(" ".join(list(set("".join(list(dfwt))))))
