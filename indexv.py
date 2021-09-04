@@ -2,7 +2,7 @@
 
 
 import pandas as pd
-df=pd.read_csv("../_data/bible.csv",sep="\t")
+df=pd.read_csv("_data/bible.csv",sep="\t")
 
 
 verseprev=[0]
@@ -46,6 +46,6 @@ for i  in range(df.shape[0]-2,-1,-1):
     boooknext=[nextbook]+boooknext
     versenext=[nextverse]+versenext
 
-with open("../_data/indexv.csv","w+") as fout:
+with open("_data/indexv.csv","w+") as fout:
     fout.write("\n".join(["{}	{}	{}	{}	{}	{}".format(verseprev[i]+1,boookprev[i]+1,chaptprev[i]+1,versenext[i]+1,boooknext[i]+1,chaptnext[i]+1) for i in range(23213)]))
 
