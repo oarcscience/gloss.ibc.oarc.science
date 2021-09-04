@@ -94,23 +94,48 @@ print("Done.")
 ## End of syntax generation ###
 ###############################
 
-
-
 books=["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "Isaiah", "Jeremiah", "Ezekiel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi", "Psalms", "Proverbs", "Job", "Song of Songs", "Ruth", "Lamentations", "Ecclesiastes", "Esther", "Daniel", "Ezra", "Nehemiah", "1 Chronicles", "2 Chronicles"]
+
+
+###############################
+## Joint table with all info ##
+###############################
+
+joinedTable = pd.DataFrame()
+joinedTable["book"]       = df["book"].apply(lambda x: books[x-1])
+joinedTable["chapter"]    = df["chapter"]
+joinedTable["verse"]      = df["verse"]
+joinedTable["trtext"]     = df["trtext"]
+joinedTable["previous_book"]     = ixv["previous_book"]
+joinedTable["next_book"]     = ixv["next_book"]
+joinedTable["previous_chapter"]     = ixv["previous_chapter"]
+joinedTable["next_chapter"]     = ixv["next_chapter"]
+joinedTable["previous_verse"]     = ixv["previous_verse"]
+joinedTable["next_verse"]     = ixv["next_verse"]
+joinedTable["hebtext"]     = df["hebtext"]
+joinedTable["trchapter"]     = df["trchapter"]
+joinedTable["trverse"]     = df["trverse"]
+joinedTable["number"]     = df["number"]
+joinedTable["glossTranslation"]     = glosstr0["generated"]
+joinedTable["syntax"]     = groupedbyverse
+df=None
+ixv=None
+glosstr0=None
+groupedbyverse=None
 
 with open("verseTemplate.html", "r") as fin:
     verseTemplate = fin.read()
 
-for i  in range(df.shape[0]):
+for i  in range(joinedTable.shape[0]):
     if i%100==0:
-        print('Generating verses: {:.0%}'.format(i/df.shape[0]),"\r",end="")    
+        print('Generating verses: {:.0%}'.format(i/joinedTable.shape[0]),"\r",end="")    
    
    
    
-    currentFilename = books[df.iloc[i]["book"]-1].replace(" ","")+"."+str(df.iloc[i]["chapter"])+"."+str(df.iloc[i]["verse"])
-    currentContent  = verseTemplate.format(books[df.iloc[i]["book"]-1], df.iloc[i]["chapter"], df.iloc[i]["verse"], df.iloc[i]["trtext"], ixv.iloc[i]["previous_book"], books[df.iloc[i]["book"]-1], ixv.iloc[i]["next_book"], ixv.iloc[i]["previous_chapter"], df.iloc[i]["chapter"], ixv.iloc[i]["next_chapter"], ixv.iloc[i]["previous_verse"], df.iloc[i]["verse"], ixv.iloc[i]["next_verse"], df.iloc[i]["hebtext"], books[df.iloc[i]["book"]-1], df.iloc[i]["trchapter"], df.iloc[i]["trverse"], df.iloc[i]["number"], df.iloc[i]["trtext"].replace("LORD", """<span style="font-variant:small-caps;font-size:114%;">lord</span>"""), words[df.iloc[i]["number"]], ixv.iloc[i]["previous_verse"], ixv.iloc[i]["next_verse"], glosstr0.iloc[i]["generated"], ixv.iloc[i]["previous_verse"], ixv.iloc[i]["next_verse"], groupedbyverse.iloc[i], ixv.iloc[i]["previous_verse"], ixv.iloc[i]["next_verse"] ) 
-    currentRedirectionFilename = str(df.iloc[i]["number"])
-    currentRedirectionContent = """<html><head><meta http-equiv="refresh" content="0; URL=/v/"""+books[df.iloc[i]["book"]-1].replace(" ","")+"."+str(df.iloc[i]["chapter"])+"."+str(df.iloc[i]["verse"])+""".html"></head></html>"""
+    currentFilename = joinedTable.iloc[i]["book"].replace(" ","")+"."+str(joinedTable.iloc[i]["chapter"])+"."+str(joinedTable.iloc[i]["verse"])
+    currentContent  = verseTemplate.format(joinedTable.iloc[i]["book"], joinedTable.iloc[i]["chapter"], joinedTable.iloc[i]["verse"], joinedTable.iloc[i]["trtext"], joinedTable.iloc[i]["previous_book"], joinedTable.iloc[i]["book"], joinedTable.iloc[i]["next_book"], joinedTable.iloc[i]["previous_chapter"], joinedTable.iloc[i]["chapter"], joinedTable.iloc[i]["next_chapter"], joinedTable.iloc[i]["previous_verse"], joinedTable.iloc[i]["verse"], joinedTable.iloc[i]["next_verse"], joinedTable.iloc[i]["hebtext"], joinedTable.iloc[i]["book"], joinedTable.iloc[i]["trchapter"], joinedTable.iloc[i]["trverse"], joinedTable.iloc[i]["number"], joinedTable.iloc[i]["trtext"].replace("LORD", """<span style="font-variant:small-caps;font-size:114%;">lord</span>"""), words[joinedTable.iloc[i]["number"]], joinedTable.iloc[i]["previous_verse"], joinedTable.iloc[i]["next_verse"], joinedTable.iloc[i]["glossTranslation"], joinedTable.iloc[i]["previous_verse"], joinedTable.iloc[i]["next_verse"], joinedTable.iloc[i]["syntax"], joinedTable.iloc[i]["previous_verse"], joinedTable.iloc[i]["next_verse"] ) 
+    currentRedirectionFilename = str(joinedTable.iloc[i]["number"])
+    currentRedirectionContent = """<html><head><meta http-equiv="refresh" content="0; URL=/v/"""+joinedTable.iloc[i]["book"].replace(" ","")+"."+str(joinedTable.iloc[i]["chapter"])+"."+str(joinedTable.iloc[i]["verse"])+""".html"></head></html>"""
     with open("v/"+currentFilename+".html","w+") as fout:
         fout.write(currentContent)
 
