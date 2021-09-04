@@ -160,30 +160,17 @@ joinedTable["currentRedirectionContent"] = joinedTable[["book_no_spaces", "chapt
 ## File generation           ##
 ###############################
 
+def writeToFile(dfline):
+    with open(dfline["currentFilename"], 'w+') as fout1:
+        fout1.write(dfline["currentContent"])
+    with open(dfline["currentRedirectionFilename"], 'w+') as fout2:
+        fout2.write(dfline["currentRedirectionContent"])
+
+print("Generating files : ")
 
 
+joinedTable[["currentFilename", "currentContent", "currentRedirectionFilename", "currentRedirectionContent"]].apply(writeToFile, axis=1)
 
-for i  in range(joinedTable.shape[0]):
-    if i%100==0:
-        print('Generating verses: {:.0%}'.format(i/joinedTable.shape[0]),"\r",end="")    
-   
-   
-   
-    currentFilename = joinedTable.iloc[i]["currentFilename"]
-    currentContent  = joinedTable.iloc[i]["currentContent"] 
-    currentRedirectionFilename = joinedTable.iloc[i]["currentRedirectionFilename"]
-    currentRedirectionContent = joinedTable.iloc[i]["currentRedirectionContent"] 
-    with open(currentFilename,"w+") as fout:
-        fout.write(currentContent)
-
-
-#1,2,3,4,5,6,7,8,9,0,1,2,3,4,5,6,7,8,9,0,1,2,3,4,5 ))
-
-    with open(currentRedirectionFilename,"w+") as fout2:
-        fout2.write(currentRedirectionContent)
-
-#prints the alphabet of used symbols
-#print(" ".join(list(set("".join(list(dfwt))))))
-
+print("Done.")
 
 
