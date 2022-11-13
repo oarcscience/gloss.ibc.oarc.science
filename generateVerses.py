@@ -1,164 +1,123 @@
-def hover(x):
-    index=x.find(".")
-    if index==-1: return x
-    else: return x[:index]
+# -*-coding: utf-8 -*-
+## This script generates verses and redirections in the folder passed as a parameter
+## Parameters : (1) deploy folder (2) language subfolder (3) verse limit for debug
 
-def morph(x):
-    index=x.find(".")
-    if index==-1: return ""
-    else: return "+"+x[index+1:]
-
-
-def stransform(inputw):
-    if inputw.startswith("["):
-        return " ʔăḏōnāy"
-    elif len(inputw)>1 and inputw[0]==inputw[1]:
-        return "-"+inputw[0]+"-"+inputw[1:]
-    else:
-        return inputw
-
-def septransform(inputw):
-    if inputw!="":
-        return " "
-    else:
-        return inputw
-
-def beautify(phon):
-	if phon==" ":return "_"
-	return phon.replace("ḏ","d").replace("ḡ","g").replace("ṯ","t").replace("ḵ","x").replace("ʔ","ʾ").replace("ʕ","ʿ").replace("ₐ","a").replace("î","ī").replace("ê","ē").replace("ô","ō").replace("û","ū").replace("ᵒ","ŏ").replace("ᵉ","ĕ").replace("ᵃ","ă").replace("ᵊ","ᵉ").replace("ʸ","").replace("ˈ",'<sub id="s">́</sub>').replace("  "," ").replace(" -","-")
-
-
-def repl(inputw):
-    text=beautify(inputw)
-    return text
-
-##########################
-####  Start  here ########
-##########################
-
-
+import yaml
 import pandas as pd
-print('Loading verses...\r',end="")    
-df=pd.read_csv("_data/bible.csv",sep="\t")
-## df : hebtext	number	book	chapter	verse	trchapter	trverse	trtext	translit
-##      0       1       2       3       4       5           6       7       8
-print('Done.\r',end="")    
+import sys
 
-print('Loading index...\r',end="")    
-ixv=pd.read_csv("_data/indexv.csv",sep="\t",header=None)
-ixv.columns=["previous_verse","previous_book", "previous_chapter", "next_verse", "next_book", "next_chapter"]
-## ixv : index file containing navigation. Format
-## 1	1	1	2	1534	32
-## previous_verse previous_book previous_chapter next_verse next_book next_chapter
-## 0              1             2                3          4         5
-print('Done.\r',end="")    
+# Read config
+with open("_config.yml", "r") as stream:
+    try:
+        config = yaml.safe_load(stream)
+    except yaml.YAMLError as exc:
+        print(exc)
 
-print('Loading words...\r',end="")    
-dfw=pd.read_csv("_data/byword.csv",sep="\t").fillna(" ")
-print('stransforming words...\r',end="")    
-dfwt=dfw["trans1"].apply(stransform)
+deployfolder = sys.argv[1]
+lang = sys.argv[2]
+nrows = int(sys.argv[3]) ## Decimate table for faster deploy in development
 
-print('septransforming words...\r',end="")    
-dfw["wordcat"]=dfwt +dfw["separ"].apply(septransform)
-print('Groupbying words...\r',end="")    
-words=dfw.fillna("").groupby("WLCverse")["wordcat"].apply(list).apply("".join).apply(repl)
+books = config["booknames"][lang]
 
-print('Preparing gloss translations...\r',end="")    
-glosstr0=pd.DataFrame()
-collist=["extendedStrongNumber","trans1","morphology","gloss","BSBsort","BSB"]
-print('FillNa ...\r',end="")    
-for col in collist:
-    glosstr0[col]=dfw.fillna("").groupby("WLCverse")[col].apply(list)
-print('Apply list...\r',end="")    
-glosstr0["zip"]=glosstr0.apply(lambda x: zip(*[x[col] for col in collist]),axis=1).apply(list)
-template1="""<span id="word"><ol class=word><li lang=he><a href="https://strong.seveleu.com/w/{}" target="_blank">{}</a></li><li title="{}" lang=en_MORPH>{}<span style="font-variant:small-caps;font-size:114%;">{}</span></li><li lang=en_MORPH><sup style="color: lightgray;">{}</sup>{}</li></ol></span>"""
-print('Filling in the template...\r',end="")    
-glosstr0["generated"]=glosstr0["zip"].apply(lambda y: "".join([template1.format(strn[1:],beautify(trs1),hover(mor),gl,morph(mor),(lambda x: int(float(x)) if x!=" " else "")(bsbs),bsb) for strn,trs1,mor,gl,bsbs,bsb in  y ]))
+df = pd.read_csv("_data/bible_he.csv", sep="\t", nrows = nrows, usecols = ["hebtext", "number", "book", "chapter", "verse"], dtype = {"chapter": str, "verse": str, "number": str})
+df["trtext"] = pd.read_csv(f"_data/bible_{lang}.csv", sep="\t", nrows = nrows, usecols = ["trtext"])["trtext"]
+df["book"] = df["book"].apply(lambda x: books[x-1])
+df["book_no_spaces"] = df["book"].apply(lambda x: x.replace(" ",""))
 
-groupedbyverse=pd.read_csv("_data/syntax/aggregatedSyntax.csv")["aggregatedSyntax"]
+ixv = pd.read_csv("_data/indexv.csv", sep="\t", nrows = nrows) # navigation
+gloss_translation = pd.read_csv(f"_data/gloss_translation_{lang}.csv", nrows = nrows, usecols = ['zip']) # gloss translation
+gloss_translation["zip"] = gloss_translation["zip"].apply(eval)
 
-print("Done.")
-###############################
-## End of syntax generation ###
-###############################
+link_template = "//lex.ibc.oarc.science/{}/w".format(lang)
+gloss_template="""<span id="wd"><ol class="wd"><li lang="he"><a href="{link_template}/{strong}">{phonemes}</a></li><li lang="{lang}">{gloss}</li><li lang="{lang}"><span class="mA">{morpho}</span></li></ol></span>"""
 
-books=["Genesis", "Exodus", "Leviticus", "Numbers", "Deuteronomy", "Joshua", "Judges", "1 Samuel", "2 Samuel", "1 Kings", "2 Kings", "Isaiah", "Jeremiah", "Ezekiel", "Hosea", "Joel", "Amos", "Obadiah", "Jonah", "Micah", "Nahum", "Habakkuk", "Zephaniah", "Haggai", "Zechariah", "Malachi", "Psalms", "Proverbs", "Job", "Song of Songs", "Ruth", "Lamentations", "Ecclesiastes", "Esther", "Daniel", "Ezra", "Nehemiah", "1 Chronicles", "2 Chronicles"]
+gloss_translation["glossTranslation"] = gloss_translation["zip"].apply(lambda y: "".join([gloss_template.format(
+    link_template = link_template,
+    strong = strong[1:],
+    phonemes = phonemes,
+    morpho = morpho,
+    gloss = gloss,
+    lang = lang,
+    ) for strong, phonemes, morpho, gloss in  y ]))
 
 
-###############################
-## Joint table with all info ##
-###############################
+phonemes = pd.read_csv("_data/phonemes.csv", nrows = nrows, usecols = ['wordcat']).rename(columns={'wordcat': 'words'}) # gloss translation
 
-joinedTable = pd.DataFrame()
-joinedTable["book"]       = df["book"].apply(lambda x: books[x-1])
-joinedTable["chapter"]    = df["chapter"].apply(str)
-joinedTable["verse"]      = df["verse"].apply(str)
-joinedTable["trtext"]     = df["trtext"]
-joinedTable["previous_book"]     = ixv["previous_book"]
-joinedTable["next_book"]     = ixv["next_book"]
-joinedTable["previous_chapter"]     = ixv["previous_chapter"]
-joinedTable["next_chapter"]     = ixv["next_chapter"]
-joinedTable["previous_verse"]     = ixv["previous_verse"]
-joinedTable["next_verse"]     = ixv["next_verse"]
-joinedTable["hebtext"]     = df["hebtext"]
-joinedTable["trchapter"]     = df["trchapter"]
-joinedTable["trverse"]     = df["trverse"]
-joinedTable["number"]     = df["number"].apply(str)
+syntax = pd.read_csv(f"_data/syntax/syntax_{lang}.csv", nrows = nrows, usecols = ["clause"]).rename(columns={"clause": "syntax"}) #syntax
+syntax["syntax"] = syntax["syntax"].apply(eval)
 
-words.index = joinedTable["book"].index
-glosstr0["generated"].index = joinedTable["book"].index
-groupedbyverse.index        = joinedTable["book"].index
+from templateVerse import format_syntax, template_lines
+syntax["rendered"] = syntax["syntax"].apply(format_syntax)
 
-joinedTable["glossTranslation"]     = glosstr0["generated"]
-joinedTable["syntax"]               = groupedbyverse
-joinedTable["words"]                = words
-df=None
-ixv=None
-glosstr0=None
-groupedbyverse=None
+lines_to_dict = lambda syntax: { phrase["pnum"]: clause["curr"]  for clause in syntax for phrase in clause["phrase"]}
+syntax["drawlines"] = syntax["syntax"].apply(lines_to_dict) # extract verse syntax tree lines
+
+draw_lines_template = lambda dic: "\n".join(
+    [
+        template_lines.format(from_ = p, to = dic[p]) + "\n" + \
+        template_lines.format(from_ = "text"+p, to = p) \
+        for p in dic.keys()
+    ])
+
+syntax["drawlines"] = syntax["drawlines"].apply(draw_lines_template)
+
+## Combine all the info in one table
+df = pd.concat([df, ixv, gloss_translation, phonemes, syntax], axis = 1)
+
+filenameTemplate = f"{deployfolder}/{lang}/{{}}.{{}}.{{}}.html"
+df["currentFilename"] = df.apply(lambda x: filenameTemplate.format(x["book_no_spaces"], x["chapter"], x["verse"]) , axis=1)
 
 
+## Generate files from templates
+from templateVerse import templateVerse, templateRedirect
+from templateFooter import templateFooter
 
-joinedTable["book_no_spaces"]       = joinedTable["book"].apply(lambda x: x.replace(" ",""))
-joinedTable["trtext_prepared"]       = joinedTable["trtext"].apply(lambda x: x.replace("LORD", """<span style="font-variant:small-caps;font-size:114%;">lord</span>"""))
+### Generate and html for every verse
+df["currentContent"]  = df.apply(lambda x: templateVerse.format(
+    footer = templateFooter.format(config["navigreminder"][lang]),
+    lang = lang,
+    sitename = config["sitename"][lang],
+    sitesubname =  config["sitesubname"][lang],
+    book = x["book"],
+    chapter = x["chapter"],
+    glossTranslation = x["glossTranslation"],
+    hebtext = x["hebtext"],
+    next_book = x["next_book"],
+    next_chapter = x["next_chapter"],
+    next_verse = x["next_verse"],
+    number = x["number"],
+    previous_book = x["previous_book"],
+    previous_chapter = x["previous_chapter"],
+    previous_verse = x["previous_verse"],
+    syntax = x["rendered"],
+    drawlines = x["drawlines"],
+    trtext = x["trtext"],
+    trtext_prepared = x["trtext"].replace("LORD", '<span class="lord">lord</span>'),
+    verse = x["verse"],
+    words = x["words"],
+    backword = config["words"]["back"][lang],
+    forthword = config["words"]["forth"][lang],
+    gloss_header = config["words"]["gloss_header"][lang],
+    syntax_header = config["words"]["syntax_header"][lang]
+    ), axis=1)
 
-filenameTemplate = "v/{}.{}.{}.html"
-
-joinedTable["currentFilename"] = joinedTable[["book_no_spaces", "chapter", "verse"]].apply(lambda x: filenameTemplate.format(x["book_no_spaces"], x["chapter"], x["verse"]) , axis=1)
-
-with open("verseTemplate.html", "r") as fin:
-    verseTemplate = fin.read()
-
-joinedTable["currentContent"]  = joinedTable.apply(lambda x: verseTemplate.format(x["book"], x["chapter"], x["verse"], x["trtext"], x["previous_book"], x["book"], x["next_book"], x["previous_chapter"], x["chapter"], x["next_chapter"], x["previous_verse"], x["verse"], x["next_verse"], x["hebtext"], x["book"], x["trchapter"], x["trverse"], x["number"], x["trtext_prepared"], x["words"], x["previous_verse"], x["next_verse"], x["glossTranslation"], x["previous_verse"], x["next_verse"], x["syntax"], x["previous_verse"], x["next_verse"]), axis=1)
-
-redirectTemplate = """<html><head><meta http-equiv="refresh" content="0; URL=/v/{}.{}.{}.html"></head></html>"""
-
-redirectFilenameTemplate = "v/{}.html"
-
-joinedTable["currentRedirectionFilename"] = joinedTable["number"].apply(redirectFilenameTemplate.format)
-
-joinedTable["currentRedirectionContent"] = joinedTable[["book_no_spaces", "chapter", "verse"]].apply(lambda x: redirectTemplate.format(x["book_no_spaces"], x["chapter"], x["verse"]), axis=1)
-
-###############################
-## Joint table constructed   ##
-###############################
+### Generate redirect file for each verse
+redirectFilenameTemplate = f"{deployfolder}/{lang}/{{}}.html"
+df["currentRedirectionFilename"] = df["number"].apply(redirectFilenameTemplate.format)
+df["currentRedirectionContent"] = df.apply(lambda x: templateRedirect.format(
+    lang,
+    x["book_no_spaces"],
+    x["chapter"],
+    x["verse"]
+    ), axis=1)
 
 
-###############################
-## File generation           ##
-###############################
-
+## Generate files from df
 def writeToFile(dfline):
     with open(dfline["currentFilename"], 'w+') as fout1:
         fout1.write(dfline["currentContent"])
     with open(dfline["currentRedirectionFilename"], 'w+') as fout2:
         fout2.write(dfline["currentRedirectionContent"])
 
-print("Generating files : ")
-
-
-joinedTable[["currentFilename", "currentContent", "currentRedirectionFilename", "currentRedirectionContent"]].apply(writeToFile, axis=1)
-
-print("Done.")
-
-
+# Generate files
+df[["currentFilename", "currentContent", "currentRedirectionFilename", "currentRedirectionContent"]].apply(writeToFile, axis=1)

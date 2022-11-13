@@ -30,6 +30,18 @@
       font-size: 131%;
 }
 
+span#toc {
+  padding: 9px;
+  padding-left: 0px;
+  display:inline-block;
+}
+
+#s {
+  font-size:132%;
+  color:cadetblue;
+  font-style: italic;
+}
+
 /* This file contains all the constants for colors and font styles */
 /**
  * Syntax highlighting styles
@@ -728,31 +740,49 @@ ol.sentence {
 
 }
 
+ol.sentence li{
+  margin-top: unset;
+}
+
 ol.sentence li[lang=he]{
-   margin-top: unset;
     font-family: sans-serif;
     font-weight: bold
 }
 
-
-ol.sentence li[lang=en_MORPH]{
-   /*font-family: monospace;  */
-   margin-top: unset;    
-}
-
-ol.word { 
+ol.wd { 
  padding: .5em;
  margin-bottom: .5em;
  float:left;
  display: contents;   
 }
 
-#word {
+#wd {
     display: inline-block;
     vertical-align: top;
     margin-bottom: 2rem;
 }
 
+
+.mA {
+  font-size:59%;
+  font-family: 'Roboto';
+  color: #1d3030;
+}
+
+.mA i {
+  font-family: "EB Garamond";
+  font-size: 137%;
+  color: rgb(9, 0, 68);
+}
+
+.mB {
+  color: lightgray;
+}
+
+.lord {
+  font-variant:small-caps;
+  font-size:114%;
+}
 
 /*-------*/
 
@@ -885,3 +915,29 @@ hr.slender {
   content: "\e60e"; }
 
 /*-- End of Icomoon icon font section --*/
+
+
+.tree, .tree ul, .tree li {     list-style: none;    margin: 0;     padding: 0;     position: relative; }
+.tree { text-align: center;}
+.tree, .tree ul {    display: table;}
+.tree ul {width: unset;   display: flex;   justify-content: center;  }
+
+ul.tree {  width: 100%;}
+.tree li { display: table-cell; padding: 1.0em 0.0em 0.5em 0.0em; vertical-align: top; float:left; }
+.tree li:first-child:before {left: 50%;}
+.tree li:last-child:before {right: 50%;}
+
+.tree code, .tree span {  display: inline-block; margin: 0 .2em .0em;  }
+.tree > li {margin-top: 0;}
+.tree > li:before, .tree > li:after, .tree > li > code:before, .tree > li > span:before {outline: none;}
+
+.y {
+  line-height: 0.3rem;
+  font-size: 0.8rem;
+  font-variant: petite-caps;
+  font-family: sans-serif;
+}
+
+.grt { /*gradient linear title*/
+  background: linear-gradient(178deg, #ffffff60 10%, #ffd42a60 40%, #ff7f2a60 50%, #7296cc60 80%, white 90%);
+}
