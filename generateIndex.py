@@ -30,8 +30,8 @@ with open(f"{sys.argv[1]}/{lang}/index.html","w+") as fout:
         heading_part2 = config["words"]["heading_part2"][lang],
         heading_part3 = config["words"]["heading_part3"][lang],
         links1 = "".join(prepared_index_links[:5]),
-        links2 = "".join(prepared_index_links[5:21]),
-        links3 = "".join(prepared_index_links[21:]),
+        links2 = "".join(prepared_index_links[5:26]),
+        links3 = "".join(prepared_index_links[26:]),
         footer = templateFooter.format(""),
         lang = lang
         ) )
