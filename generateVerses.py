@@ -19,7 +19,7 @@ nrows = int(sys.argv[3]) ## Decimate table for faster deploy in development
 
 books = config["booknames"][lang]
 
-df = pd.read_csv("_data/bible_he.csv", sep="\t", nrows = nrows, usecols = ["hebtext", "number", "book", "chapter", "verse"], dtype = {"chapter": str, "verse": str, "number": str})
+df = pd.read_csv("_data/bible_he.csv", sep="\t", nrows = nrows, usecols = ["hebtext", "number", "book", "chapter", "verse", "mm_chapter", "audio_start", "audio_stop"], dtype = {"chapter": str, "verse": str, "number": str})
 df["trtext"] = pd.read_csv(f"_data/bible_{lang}.csv", sep="\t", nrows = nrows, usecols = ["trtext"])["trtext"]
 df["book"] = df["book"].apply(lambda x: books[x-1])
 df["book_no_spaces"] = df["book"].apply(lambda x: x.replace(" ",""))
@@ -95,6 +95,9 @@ df["currentContent"]  = df.apply(lambda x: templateVerse.format(
     trtext_prepared = x["trtext"].replace("LORD", '<span class="lord">lord</span>'),
     verse = x["verse"],
     words = x["words"],
+    mm_chapter = x["mm_chapter"],
+    audio_start = x["audio_start"],
+    audio_stop = x["audio_stop"],
     backword = config["words"]["back"][lang],
     forthword = config["words"]["forth"][lang],
     gloss_header = config["words"]["gloss_header"][lang],
